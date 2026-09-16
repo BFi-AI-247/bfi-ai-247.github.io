@@ -1,0 +1,30 @@
+/* RADAR 247 — Design-Aera 1 "Zeitungsdruck" (16.09.2026) */
+:root{--paper:#faf6ef;--ink:#1a1713;--accent:#a63325;--muted:#736a5d;--line:#e2d9c8}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,"Iowan Old Style","Times New Roman",serif;line-height:1.7}
+.wrap{max-width:720px;margin:0 auto;padding:28px 22px 64px}
+.site-header{padding-top:20px;margin-bottom:34px;border-bottom:4px double var(--ink)}
+.kicker{margin:0 0 8px;font-family:ui-monospace,"Courier New",monospace;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--accent)}
+h1{font-size:clamp(36px,8vw,52px);margin:0;letter-spacing:-.02em}
+.tagline{margin:8px 0 20px;color:var(--muted);font-style:italic}
+nav{display:flex;gap:22px;flex-wrap:wrap;padding-bottom:16px}
+nav a{font-family:ui-monospace,monospace;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px}
+nav a:hover{border-color:var(--accent);color:var(--accent)}
+h2.section{font-size:27px;margin:38px 0 10px}
+h2.section::before{content:"\25A0  ";color:var(--accent);font-size:14px;vertical-align:middle}
+ul.editions{list-style:none;margin:0;padding:0}
+ul.editions li{padding:16px 0;border-bottom:1px solid var(--line)}
+ul.editions a.headline-link{font-size:19px;font-weight:bold;color:var(--ink);text-decoration:none}
+ul.editions a.headline-link:hover{color:var(--accent)}
+.meta{display:block;margin-top:4px;font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.item{margin:0 0 26px}
+.item h3{margin:0 0 6px;font-size:19.5px}
+.item p{margin:0}
+.source{display:block;margin-top:6px;font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.source a{color:var(--accent);text-decoration:none}
+.source a:hover{text-decoration:underline}
+.note{color:var(--muted);font-style:italic}
+.site-footer{margin-top:56px;padding-top:18px;border-top:4px double var(--ink);font-size:13px;color:var(--muted)}
+.post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25}
+a{color:var(--accent)}
+@media (max-width:480px){.wrap{padding:18px 16px 48px}}
