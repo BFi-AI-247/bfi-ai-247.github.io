@@ -24,7 +24,15 @@ ul.editions a.headline-link:hover{color:var(--accent)}
 .source a{color:var(--accent);text-decoration:none}
 .source a:hover{text-decoration:underline}
 .note{color:var(--muted);font-style:italic}
-.site-footer{margin-top:56px;padding-top:18px;border-top:4px double var(--ink);font-size:13px;color:var(--muted)}
+.site-footer{margin-top:56px;p
+adding-top:18px;border-top:4px double var(--ink);font-size:13px;color:var(--muted)}
 .post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25}
 a{color:var(--accent)}
 @media (max-width:480px){.wrap{padding:18px 16px 48px}}
+/* Schlagzeilen-Block & Artikel-Kicker (19.09.2026, Feedback Ausgabe #9) */
+.headline-block{margin:10px 0 8px;padding:14px 0 18px;border-top:3px solid var(--ink);border-bottom:1px solid var(--line)}
+.headline-list{list-style:none;margin:0;padding:0}
+.headline-list li{font-size:18px;font-weight:bold;line-height:1.45;padding:5px 0}
+.hl-section{display:inline-block;font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-right:8px}
+h2.section{margin-top:46px}
+.item-kicker{margin:0 0 2px;font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
