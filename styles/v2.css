@@ -27,8 +27,9 @@ body{
 
 /* Kopfzeile */
 .site-header{
-  padding:26px 24px 20px;
+  padding:12px 18px 18px;
   margin-bottom:38px;
+  text-align:center;
   background:linear-gradient(180deg,rgba(61,218,215,.05),rgba(16,27,46,.55));
   border:1px solid var(--line);
   border-radius:14px
@@ -38,7 +39,7 @@ body{
   height:172px;
   width:auto;
   max-width:100%;
-  margin:0 auto 22px;
+  margin:0 auto 10px;
   opacity:.92
 }
 .header-info{
@@ -229,8 +230,8 @@ a{color:var(--accent)}
 
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
-  .site-header{padding:20px 16px 16px;border-radius:10px}
-  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 16px}
+  .site-header{padding:8px 12px 14px;border-radius:10px}
+  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 8px}
   .header-info{padding:12px 14px}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
