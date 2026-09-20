@@ -1,0 +1,194 @@
+/* RADAR 247 — Design-Aera 2 "Nachtradar" (20.09.2026) */
+:root{
+  --bg:#0a1220;
+  --bg-raised:#101b2e;
+  --ink:#e8eef7;
+  --muted:#8fa1b8;
+  --accent:#3ddad7;
+  --accent-soft:#1f6f78;
+  --line:#1d2c44;
+  --glow:rgba(61,218,215,.14)
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:
+    radial-gradient(1100px 500px at 85% -10%,var(--glow),transparent 60%),
+    radial-gradient(800px 420px at -10% 15%,rgba(31,111,120,.10),transparent 55%),
+    var(--bg);
+  color:var(--ink);
+  font-family:"Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
+  line-height:1.7;
+  min-height:100vh
+}
+.wrap{max-width:760px;margin:0 auto;padding:30px 22px 70px}
+
+/* Kopfzeile */
+.site-header{
+  padding:26px 24px 20px;
+  margin-bottom:38px;
+  background:linear-gradient(180deg,rgba(61,218,215,.05),rgba(16,27,46,.55));
+  border:1px solid var(--line);
+  border-radius:14px
+}
+.site-logo{
+  display:block;
+  height:38px;
+  width:auto;
+  margin:0 0 14px;
+  opacity:.92
+}
+.kicker{
+  margin:0 0 10px;
+  font-family:ui-monospace,"Cascadia Mono","Courier New",monospace;
+  font-size:11px;
+  letter-spacing:.24em;
+  text-transform:uppercase;
+  color:var(--accent)
+}
+h1{
+  font-size:clamp(34px,7.5vw,50px);
+  margin:0;
+  font-weight:800;
+  letter-spacing:-.01em;
+  line-height:1.1
+}
+h1::after{
+  content:"";
+  display:block;
+  width:64px;
+  height:3px;
+  margin-top:12px;
+  border-radius:2px;
+  background:linear-gradient(90deg,var(--accent),transparent)
+}
+.tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
+nav{display:flex;gap:10px;flex-wrap:wrap}
+nav a{
+  font-family:ui-monospace,monospace;
+  font-size:11.5px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--ink);
+  text-decoration:none;
+  padding:7px 14px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:var(--bg-raised);
+  transition:border-color .15s,color .15s
+}
+nav a:hover{border-color:var(--accent);color:var(--accent)}
+
+/* Abschnitte */
+h2.section{
+  font-size:15px;
+  font-family:ui-monospace,monospace;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--accent);
+  margin:44px 0 8px;
+  display:flex;
+  align-items:center;
+  gap:12px
+}
+h2.section::after{content:"";flex:1;height:1px;background:var(--line)}
+
+/* Ausgabenlisten */
+ul.editions{list-style:none;margin:0;padding:0}
+ul.editions li{
+  padding:18px 20px;
+  margin:12px 0;
+  background:var(--bg-raised);
+  border:1px solid var(--line);
+  border-left:3px solid var(--accent-soft);
+  border-radius:10px;
+  transition:border-color .15s,transform .15s
+}
+ul.editions li:hover{border-left-color:var(--accent);transform:translateX(3px)}
+ul.editions a.headline-link{
+  font-size:18.5px;
+  font-weight:650;
+  color:var(--ink);
+  text-decoration:none;
+  line-height:1.45
+}
+ul.editions a.headline-link:hover{color:var(--accent)}
+.meta{
+  display:block;
+  margin-top:7px;
+  font-family:ui-monospace,monospace;
+  font-size:10.5px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--muted)
+}
+
+/* Artikel-Struktur (kompatibel zu Ausgaben-Klassen) */
+.item{margin:0 0 28px}
+.item h3{margin:0 0 6px;font-size:19.5px}
+.item p{margin:0}
+.post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
+.item-kicker{
+  margin:0 0 2px;
+  font-family:ui-monospace,monospace;
+  font-size:10px;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:var(--accent)
+}
+.headline-block{
+  margin:10px 0 8px;
+  padding:16px 18px 20px;
+  background:rgba(61,218,215,.04);
+  border:1px solid var(--line);
+  border-radius:10px
+}
+.headline-list{list-style:none;margin:0;padding:0}
+.headline-list li{font-size:18px;font-weight:650;line-height:1.45;padding:5px 0}
+.hl-section{
+  display:inline-block;
+  font-family:ui-monospace,monospace;
+  font-size:10px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--accent);
+  margin-right:8px
+}
+.source{
+  display:block;
+  margin-top:6px;
+  font-family:ui-monospace,monospace;
+  font-size:11px;
+  letter-spacing:.08em;
+  text-transform:uppercase
+}
+.source a{color:var(--accent);text-decoration:none}
+.source a:hover{text-decoration:underline}
+
+.note{
+  color:var(--muted);
+  font-size:14px;
+  padding:14px 18px;
+  border:1px dashed var(--line);
+  border-radius:10px;
+  background:rgba(16,27,46,.4)
+}
+
+a{color:var(--accent)}
+
+.site-footer{
+  margin-top:60px;
+  padding-top:20px;
+  border-top:1px solid var(--line);
+  font-size:13px;
+  color:var(--muted)
+}
+
+@media (max-width:480px){
+  .wrap{padding:18px 14px 52px}
+  .site-header{padding:20px 16px 16px;border-radius:10px}
+  .site-logo{height:30px}
+  ul.editions li{padding:14px 14px}
+  ul.editions a.headline-link{font-size:17px}
+}
