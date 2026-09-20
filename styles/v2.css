@@ -8,7 +8,7 @@
   --accent-soft:#1f6f78;
   --line:#1d2c44;
   --glow:rgba(61,218,215,.14);
-  --logo-h:172px
+  --logo-h:300px
 }
 *{box-sizing:border-box}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
@@ -26,9 +26,9 @@ body{
 }
 .wrap{max-width:760px;margin:0 auto;padding:30px 22px 70px}
 
-/* Kopfzeile */
+/* Kopfzeile: Logo und Text zusammen in einer Box */
 .site-header{
-  padding:4px 6px 5px;
+  padding:28px 22px 24px;
   margin-bottom:38px;
   text-align:center;
   background:linear-gradient(180deg,rgba(61,218,215,.05),rgba(16,27,46,.55));
@@ -40,71 +40,17 @@ body{
   height:var(--logo-h);
   width:auto;
   max-width:100%;
+  margin:0 auto 18px;
   opacity:.92
 }
-.site-logo-wrapper{
-  max-width:100%;
-  margin:0 auto 4px;
-  padding:0;
-  border:1px solid var(--line);
-  border-radius:10px;
-  overflow:hidden;
-  background:linear-gradient(180deg,#2b3038,#171a1f);
-  text-align:center
-}
-.site-logo-wrapper .site-logo{
-  margin:calc(var(--logo-h) * -0.183) auto calc(var(--logo-h) * -0.268);
-  clip-path:inset(18.3% 21.125% 26.8% 21.125%)
-}
-.header-info{
-  padding:14px 18px;
-  border:1px solid var(--accent-soft);
-  border-radius:10px;
-  background:rgba(31,111,120,.12);
-  margin-bottom:20px;
-  text-align:center
-}
-.header-info .kicker{
-  margin:0 0 6px;
-  text-align:center;
-  border:none;
-  padding:0;
-  background:none
-}
-.header-info .tagline{
-  margin:0;
-  text-align:center
-}
-.header-info{
-  padding:16px 20px;
-  border:1px solid var(--accent-soft);
-  border-radius:10px;
-  backg
-
-round:rgba(31,111,120,.12);
-  margin-bottom:22px;
-  text-align:center
-}
-.header-info .kicker{
-  margin:
-0 0 6px;
-  text-align:center;
-  border:none;
-  padding:0;
-  background:none
-}
-.header-info .tagline{
-  margin:0;
-  text-align:center
-}
+.site-header .kicker{margin:0 0 6px;text-align:center}
+.site-header .tagline{margin:0 0 20px;text-align:center}
 .kicker{
   margin:0 0 10px;
   font-family:ui-monospace,"Cascadia Mono","Courier New",monospace;
   font-size:11px;
   letter-spacing:.24em;
-
-  
-text-transform:uppercase;
+  text-transform:uppercase;
   color:var(--accent)
 }
 h1{
@@ -123,9 +69,8 @@ h1::after{
   border-radius:2px;
   background:linear-gradient(90deg,var(--accent),transparent)
 }
-.tagline{margin:12px 0 22px;col
-or:var(--muted);font-size:15px}
-nav{display:flex;gap:10px;flex-wrap:wrap}
+.tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
+nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
 nav a{
   font-family:ui-monospace,monospace;
   font-size:10.5px;
@@ -172,15 +117,12 @@ ul.editions a.headline-link{
   font-weight:650;
   color:var(--ink);
   text-decoration:none;
-  lin
-e
--height:1.45
+  line-height:1.45
 }
 ul.editions a.headline-link:hover{color:var(--accent)}
 .meta{
   display:block;
-  margin-t
-op:7px;
+  margin-top:7px;
   font-family:ui-monospace,monospace;
   font-size:10.5px;
   letter-spacing:.12em;
@@ -191,14 +133,9 @@ op:7px;
 /* Artikel-Struktur (kompatibel zu Ausgaben-Klassen) */
 .item{margin:0 0 28px}
 .item h3{margin:0 0 6px;font-size:19.5px}
-.item p{mar
-gi
-n:0}
+.item p{margin:0}
 .post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
-.site-header>.kicker{
-  font-size:14px;
-  letter-spacing:.2em
-}
+.site-header>.kicker{font-size:14px;letter-spacing:.2em}
 .item-kicker{
   margin:0 0 2px;
   font-family:ui-monospace,monospace;
@@ -211,8 +148,7 @@ n:0}
   margin:10px 0 8px;
   padding:16px 18px 20px;
   background:rgba(61,218,215,.04);
-  border:1
-px solid var(--line);
+  border:1px solid var(--line);
   border-radius:10px
 }
 .headline-list{list-style:none;margin:0;padding:0}
@@ -256,7 +192,6 @@ a{color:var(--accent)}
   color:var(--muted)
 }
 
-
 .impressum-box{
   background:#f4f6f8;
   color:#1a1a2e;
@@ -268,14 +203,11 @@ a{color:var(--accent)}
 .impressum-box h2,.impressum-box h3,.impressum-box h4{
   color:#1a1a2e
 }
+
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
-  .site-header{padding:
-2p
-x 4px 4px;border-radius:10px}
-  :root{--logo-h:clamp(220px,58vw,320px)}
-  .site-logo{max-width:100%}
-  .header-info{padding:12px 14px}
+  .site-header{padding:20px 12px 18px;border-radius:10px}
+  :root{--logo-h:clamp(220px,64vw,320px)}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
