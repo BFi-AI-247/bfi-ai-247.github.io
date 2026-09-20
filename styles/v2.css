@@ -80,6 +80,7 @@ body{
   border:1px solid var(--accent-soft);
   border-radius:10px;
   backg
+
 round:rgba(31,111,120,.12);
   margin-bottom:22px;
   text-align:center
@@ -171,7 +172,8 @@ ul.editions a.headline-link{
   font-weight:650;
   color:var(--ink);
   text-decoration:none;
-  line
+  lin
+e
 -height:1.45
 }
 ul.editions a.headline-link:hover{color:var(--accent)}
@@ -193,6 +195,10 @@ op:7px;
 gi
 n:0}
 .post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
+.site-header>.kicker{
+  font-size:14px;
+  letter-spacing:.2em
+}
 .item-kicker{
   margin:0 0 2px;
   font-family:ui-monospace,monospace;
@@ -264,7 +270,8 @@ a{color:var(--accent)}
 }
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
-  .site-header{padding:2p
+  .site-header{padding:
+2p
 x 4px 4px;border-radius:10px}
   :root{--logo-h:clamp(220px,58vw,320px)}
   .site-logo{max-width:100%}
