@@ -79,7 +79,8 @@ body{
   padding:16px 20px;
   border:1px solid var(--accent-soft);
   border-radius:10px;
-  background:rgba(31,111,120,.12);
+  backg
+round:rgba(31,111,120,.12);
   margin-bottom:22px;
   text-align:center
 }
@@ -126,7 +127,7 @@ or:var(--muted);font-size:15px}
 nav{display:flex;gap:10px;flex-wrap:wrap}
 nav a{
   font-family:ui-monospace,monospace;
-  font-size:11.5px;
+  font-size:10.5px;
   letter-spacing:.12em;
   text-transform:uppercase;
   color:var(--ink);
@@ -170,7 +171,8 @@ ul.editions a.headline-link{
   font-weight:650;
   color:var(--ink);
   text-decoration:none;
-  line-height:1.45
+  line
+-height:1.45
 }
 ul.editions a.headline-link:hover{color:var(--accent)}
 .meta{
@@ -262,7 +264,8 @@ a{color:var(--accent)}
 }
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
-  .site-header{padding:2px 4px 4px;border-radius:10px}
+  .site-header{padding:2p
+x 4px 4px;border-radius:10px}
   :root{--logo-h:clamp(220px,58vw,320px)}
   .site-logo{max-width:100%}
   .header-info{padding:12px 14px}
