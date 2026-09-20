@@ -45,9 +45,10 @@ body{
 .site-logo-wrapper{
   max-width:100%;
   margin:0 auto 4px;
-  padding:8px 10px;
+  padding:0;
   border:1px solid var(--line);
   border-radius:10px;
+  overflow:hidden;
   background:linear-gradient(180deg,#2b3038,#171a1f);
   text-align:center
 }
@@ -83,7 +84,8 @@ body{
   text-align:center
 }
 .header-info .kicker{
-  margin:0 0 6px;
+  margin:
+0 0 6px;
   text-align:center;
   border:none;
   padding:0;
@@ -173,7 +175,8 @@ ul.editions a.headline-link{
 ul.editions a.headline-link:hover{color:var(--accent)}
 .meta{
   display:block;
-  margin-top:7px;
+  margin-t
+op:7px;
   font-family:ui-monospace,monospace;
   font-size:10.5px;
   letter-spacing:.12em;
