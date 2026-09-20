@@ -27,7 +27,7 @@ body{
 
 /* Kopfzeile */
 .site-header{
-  padding:12px 18px 18px;
+  padding:4px 6px 5px;
   margin-bottom:38px;
   text-align:center;
   background:linear-gradient(180deg,rgba(61,218,215,.05),rgba(16,27,46,.55));
@@ -39,7 +39,7 @@ body{
   height:172px;
   width:auto;
   max-width:100%;
-  margin:0 auto 10px;
+  margin:0 auto 3px;
   opacity:.92
 }
 .header-info{
@@ -85,6 +85,7 @@ body{
   font-family:ui-monospace,"Cascadia Mono","Courier New",monospace;
   font-size:11px;
   letter-spacing:.24em;
+
   text-transform:uppercase;
   color:var(--accent)
 }
@@ -169,7 +170,8 @@ ul.editions a.headline-link:hover{color:var(--accent)}
 /* Artikel-Struktur (kompatibel zu Ausgaben-Klassen) */
 .item{margin:0 0 28px}
 .item h3{margin:0 0 6px;font-size:19.5px}
-.item p{margin:0}
+.item p{mar
+gin:0}
 .post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
 .item-kicker{
   margin:0 0 2px;
@@ -230,8 +232,8 @@ a{color:var(--accent)}
 
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
-  .site-header{padding:8px 12px 14px;border-radius:10px}
-  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 8px}
+  .site-header{padding:2px 4px 4px;border-radius:10px}
+  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 2px}
   .header-info{padding:12px 14px}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
