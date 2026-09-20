@@ -7,7 +7,8 @@
   --accent:#3ddad7;
   --accent-soft:#1f6f78;
   --line:#1d2c44;
-  --glow:rgba(61,218,215,.14)
+  --glow:rgba(61,218,215,.14);
+  --logo-h:172px
 }
 *{box-sizing:border-box}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
@@ -36,10 +37,11 @@ body{
 }
 .site-logo{
   display:block;
-  height:172px;
+  height:var(--logo-h);
   width:auto;
   max-width:100%;
-  margin:0 auto 3px;
+  clip-path:inset(18.3% 21.125% 26.8% 21.125%);
+  margin:calc(var(--logo-h) * -0.183 + 2px) auto calc(var(--logo-h) * -0.268 + 6px);
   opacity:.92
 }
 .header-info{
@@ -86,7 +88,8 @@ body{
   font-size:11px;
   letter-spacing:.24em;
 
-  text-transform:uppercase;
+  
+text-transform:uppercase;
   color:var(--accent)
 }
 h1{
@@ -171,7 +174,8 @@ ul.editions a.headline-link:hover{color:var(--accent)}
 .item{margin:0 0 28px}
 .item h3{margin:0 0 6px;font-size:19.5px}
 .item p{mar
-gin:0}
+gi
+n:0}
 .post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
 .item-kicker{
   margin:0 0 2px;
@@ -233,7 +237,8 @@ a{color:var(--accent)}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:2px 4px 4px;border-radius:10px}
-  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 2px}
+  .site-logo{max-width:100%;margin:calc(var(--logo-h) * -0.183 + 2px) auto calc(var(--logo-h) * -0.268 + 4px)}
+  :root{--logo-h:clamp(220px,58vw,320px)}
   .header-info{padding:12px 14px}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
