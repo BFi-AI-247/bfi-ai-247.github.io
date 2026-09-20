@@ -35,10 +35,23 @@ body{
 }
 .site-logo{
   display:block;
-  height:46px;
+  height:56px;
   width:auto;
-  margin:0 0 14px;
+  margin:0;
   opacity:.92
+}
+.header-top{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:16px}
+.header-top .kicker{
+  flex:1;
+  min-width:180px;
+  max-width:340px;
+  margin:0;
+  padding:8px 14px;
+  border:1px solid var(--accent-soft);
+  border-radius:10px;
+  background:rgba(31,111,120,.15);
+  line-height:1.5;
+  letter-spacing:.14em
 }
 .kicker{
   margin:0 0 10px;
@@ -189,7 +202,9 @@ a{color:var(--accent)}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:20px 16px 16px;border-radius:10px}
-  .site-logo{height:clamp(52px,15vw,64px)}
+  .site-logo{height:clamp(64px,20vw,84px)}
+  .header-top{margin-bottom:12px}
+  .header-top .kicker{flex-basis:100%;max-width:none}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
