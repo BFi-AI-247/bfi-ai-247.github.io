@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 306" role="img" aria-label="Monogramm BFi">
+  <style>
+    :root {
+      --bg-oben:   #f6f7f8;
+      --bg-unten:  #e1e3e6;
+      --bfi-deckkraft: 0.78;
+      --fbi-farbe: #c9cbd0;
+      --bfi:       #23262b;
+      --bronze-a:  #dcb269;
+      --bronze-b:  #8c6a25;
+      --rahmen:    #1f242b;
+      --wm-stroke: #b7bac0;
+      --schatten:  #1f242b;
+      --schatten-deckkraft: 0.18;
+    }
+    .stop-bg-oben  { stop-color: var(--bg-oben); }
+    .stop-bg-unten { stop-color: var(--bg-unten); }
+    .stop-bronze-a { stop-color: var(--bronze-a); }
+    .stop-bronze-b { stop-color: var(--bronze-b); }
+    .bfi-fill      { fill: var(--bfi); opacity: var(--bfi-deckkraft); }
+    .fbi-wm        { fill: var(--fbi-farbe); stroke: var(--wm-stroke); }
+    .rahmen-aussen { stroke: var(--rahmen); stroke-opacity: 0.10; }
+    .rahmen-innen  { stroke: var(--rahmen); stroke-opacity: 0.05; }
+    .schatten      { fill: var(--schatten); opacity: var(--schatten-deckkraft); }
+  </style>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="85%">
+      <stop class="stop-bg-oben" offset="0%" />
+      <stop class="stop-bg-unten" offset="100%" />
+    </radialGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="1">
+      <stop class="stop-bronze-a" offset="0%" />
+      <stop class="stop-bronze-b" offset="100%" />
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" />
+    </filter>
+  </defs>
+  <rect width="400" height="306" rx="36" fill="url(#bg)" />
+  <rect class="rahmen-aussen" x="10" y="10" width="380" height="286" rx="28" fill="none" stroke-width="1.5" />
+  <rect class="rahmen-innen" x="19" y="19" width="362" height="268" rx="22" fill="none" stroke-width="1" />
+  <g text-anchor="middle" font-family="'Arial Black','Arial Bold',Arial,Helvetica,sans-serif" font-weight="900">
+    <text class="fbi-wm" x="200" y="182" font-size="140" letter-spacing="15" stroke-width="1.5">FBI</text>
+    <text class="schatten" x="207" y="232" font-size="165" filter="url(#soft)">BF&#x131;</text>
+    <text class="bfi-fill" x="200" y="225" font-size="165">BF&#x131;</text>
+  </g>
+  <circle cx="320" cy="119" r="13.5" fill="url(#bronze)" />
+  <rect x="92" y="49" width="216" height="6" rx="3" fill="url(#bronze)" />
+  <rect x="92" y="251" width="216" height="6" rx="3" fill="url(#bronze)" />
+</svg>
