@@ -35,8 +35,9 @@ body{
 }
 .site-logo{
   display:block;
-  height:56px;
+  height:98px;
   width:auto;
+  max-width:52%;
   margin:0;
   opacity:.92
 }
@@ -202,9 +203,9 @@ a{color:var(--accent)}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:20px 16px 16px;border-radius:10px}
-  .site-logo{height:clamp(64px,20vw,84px)}
-  .header-top{margin-bottom:12px}
-  .header-top .kicker{flex-basis:100%;max-width:none}
+  .site-logo{height:clamp(112px,30vw,147px);max-width:50%}
+  .header-top{gap:12px;margin-bottom:12px}
+  .header-top .kicker{font-size:9.5px;letter-spacing:.1em}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
