@@ -35,10 +35,10 @@ body{
 }
 .site-logo{
   display:block;
-  height:98px;
+  height:172px;
   width:auto;
-  max-width:52%;
-  margin:0;
+  max-width:100%;
+  margin:0 auto 22px;
   opacity:.92
 }
 .header-info{
@@ -47,6 +47,25 @@ body{
   border-radius:10px;
   background:rgba(31,111,120,.12);
   margin-bottom:20px;
+  text-align:center
+}
+.header-info .kicker{
+  margin:0 0 6px;
+  text-align:center;
+  border:none;
+  padding:0;
+  background:none
+}
+.header-info .tagline{
+  margin:0;
+  text-align:center
+}
+.header-info{
+  padding:16px 20px;
+  border:1px solid var(--accent-soft);
+  border-radius:10px;
+  background:rgba(31,111,120,.12);
+  margin-bottom:22px;
   text-align:center
 }
 .header-info .kicker{
@@ -84,7 +103,8 @@ h1::after{
   border-radius:2px;
   background:linear-gradient(90deg,var(--accent),transparent)
 }
-.tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
+.tagline{margin:12px 0 22px;col
+or:var(--muted);font-size:15px}
 nav{display:flex;gap:10px;flex-wrap:wrap}
 nav a{
   font-family:ui-monospace,monospace;
@@ -162,7 +182,8 @@ ul.editions a.headline-link:hover{color:var(--accent)}
   margin:10px 0 8px;
   padding:16px 18px 20px;
   background:rgba(61,218,215,.04);
-  border:1px solid var(--line);
+  border:1
+px solid var(--line);
   border-radius:10px
 }
 .headline-list{list-style:none;margin:0;padding:0}
@@ -209,8 +230,8 @@ a{color:var(--accent)}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:20px 16px 16px;border-radius:10px}
-  .site-logo{height:clamp(196px,52vw,257px);max-width:100%;margin-bottom:14px}
-  .header-info{padding:10px 14px}
+  .site-logo{height:clamp(220px,58vw,320px);max-width:100%;margin:0 auto 16px}
+  .header-info{padding:12px 14px}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
