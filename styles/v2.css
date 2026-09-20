@@ -248,6 +248,18 @@ a{color:var(--accent)}
   color:var(--muted)
 }
 
+
+.impressum-box{
+  background:#f4f6f8;
+  color:#1a1a2e;
+  padding:20px 24px;
+  border-radius:10px;
+  border:1px solid #c5cdd5
+}
+.impressum-box a{color:#1a4ba8}
+.impressum-box h2,.impressum-box h3,.impressum-box h4{
+  color:#1a1a2e
+}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:2px 4px 4px;border-radius:10px}
