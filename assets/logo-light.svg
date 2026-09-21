@@ -18,12 +18,12 @@
   <g fill="none" stroke="#23262b" stroke-opacity="0.3">
     <circle cx="200" cy="140" r="56" stroke-width="2"/>
   </g>
-  <path d="M200,140 L141,81 A84,84 0 0,0 141,199 Z" fill="url(#sweep)"/>
-  <line x1="200" y1="140" x2="141" y2="81" stroke="url(#bronze)" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="200" cy="140" r="6" fill="url(#bronze)"/>
-  <circle cx="176" cy="116" r="4.5" fill="#23262b" opacity="0.55"/>
   <g font-family="'Arial Black','Arial Bold',Arial,sans-serif" font-weight="900" text-anchor="middle">
     <text x="200" y="155" font-size="42" letter-spacing="4" fill="#23262b" opacity="0.85">RADAR</text>
     <text x="200" y="184" font-size="31" fill="#8c6a25">247</text>
   </g>
+  <path d="M200,140 L141,81 A84,84 0 0,0 141,199 Z" fill="url(#sweep)"/>
+  <line x1="200" y1="140" x2="141" y2="81" stroke="url(#bronze)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="200" cy="140" r="6" fill="url(#bronze)"/>
+  <circle cx="176" cy="116" r="4.5" fill="#23262b" opacity="0.55"/>
 </svg>
