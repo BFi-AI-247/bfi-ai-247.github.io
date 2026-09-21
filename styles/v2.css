@@ -72,7 +72,8 @@ h1::after{
 .tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
 nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
 nav a{
-  font-family:ui-monospace,monospace;
+  font-family:ui-monospace,mo
+nospace;
   font-size:10.5px;
   letter-spacing:.12em;
   text-transform:uppercase;
@@ -151,7 +152,8 @@ ul.editions a.headline-link:hover{color:var(--accent)}
   border:1px solid var(--line);
   border-radius:10px
 }
-.headline-list{list-style:none;margin:0;padding:0}
+.headlin
+e-list{list-style:none;margin:0;padding:0}
 .headline-list li{font-size:18px;font-weight:650;line-height:1.45;padding:5px 0}
 .hl-section{
   display:inline-block;
@@ -207,7 +209,7 @@ a{color:var(--accent)}
 @media (max-width:480px){
   .wrap{padding:18px 14px 52px}
   .site-header{padding:20px 12px 18px;border-radius:10px}
-  :root{--logo-h:clamp(220px,64vw,320px)}
+  :root{--logo-h:clamp(143px,41.5vw,208px)}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
