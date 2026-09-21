@@ -213,3 +213,8 @@ a{color:var(--accent)}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
 }
+
+/* Radar-Divider: Beitrags-Trenner im Projekt-Log (21.09.2026) */
+article{margin:0 0 34px}
+.log-divider{position:relative;height:1px;background:linear-gradient(90deg,transparent,var(--line) 18%,var(--line) 82%,transparent);margin:34px 0}
+.log-divider::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(45deg);width:7px;height:7px;background:var(--accent);border-radius:1px;box-shadow:0 0 8px var(--glow)}
