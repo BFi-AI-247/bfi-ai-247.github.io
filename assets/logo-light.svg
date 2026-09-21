@@ -20,7 +20,7 @@
   </g>
   <g font-family="'Arial Black','Arial Bold',Arial,sans-serif" font-weight="900" text-anchor="middle">
     <text x="200" y="155" font-size="42" letter-spacing="4" fill="#23262b" opacity="0.85">RADAR</text>
-    <text x="200" y="184" font-size="31" fill="#8c6a25">247</text>
+    <text x="200" y="184" font-size="31" fill="#8c6a25">724</text>
   </g>
   <path d="M200,140 L141,81 A84,84 0 0,0 141,199 Z" fill="url(#sweep)"/>
   <line x1="200" y1="140" x2="141" y2="81" stroke="url(#bronze)" stroke-width="4" stroke-linecap="round"/>
