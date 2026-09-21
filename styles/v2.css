@@ -43,7 +43,7 @@ body{
   margin:0 auto 18px;
   opacity:.92
 }
-.site-header .kicker{margin:0 0 6px;text-align:center}
+.site-header .kicker{margin:0 0 6px;text-align:center;font-size:14px;letter-spacing:.2em}
 .site-header .tagline{margin:0 0 20px;text-align:center}
 .kicker{
   margin:0 0 10px;
