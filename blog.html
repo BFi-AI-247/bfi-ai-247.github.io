@@ -9,6 +9,23 @@
 <style>
 /* Projekt-Log (22.09.2026): Zeilenabstand reduziert (1.7 → 1.25), nur diese Seite */
 main article p{line-height:1.25}
+/* Projekt-Log (22.09.2026): V1-Zeitungsdruck als Papier-Blatt auf aktuellem Nachtradar-Hintergrund —
+   Randbereiche links/rechts zeigen das dunkle Design-Ära-2-Farb-System, die Inhaltsspalte bleibt V1 */
+body{
+  background:
+    radial-gradient(1100px 500px at 85% -10%, rgba(61,218,215,.14), transparent 60%),
+    radial-gradient(800px 420px at -10% 15%, rgba(31,111,120,.10), transparent 55%),
+    #0a1220;
+  color:#e8eef7
+}
+.wrap{
+  background:var(--paper);
+  color:var(--ink);
+  min-height:100vh;
+  box-shadow:0 0 60px rgba(0,0,0,.55);
+  margin-bottom:0
+}
+.site-footer a{color:var(--accent)}
 </style>
 </head>
 <body>
