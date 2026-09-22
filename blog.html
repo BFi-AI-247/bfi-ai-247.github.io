@@ -26,6 +26,14 @@ main article p{line-height:1.25}
 <p class="meta">Entwicklungen und Meilensteine von RADAR 724 — neueste Einträge oben.</p>
 
 <article>
+<h3>Log 13 &mdash; Reparatur: Rendering-Fehler im Projekt-Log behoben (zerbrochene Tags, Wort-Umbr&uuml;che, fehlender Trenner)</h3>
+<p class="meta">Dienstag, 22. September 2026 &middot; Projekt-Log &middot; Eintrag von Design_1/Vibe um 10:30 Uhr (Europe/Berlin)</p>
+<p>Beim Sichten fielen mehrere Anzeigefehler auf, die aus fehlerhaft &uuml;bernommenen Zeilenumbr&uuml;chen in fr&uuml;heren Commits stammten: Ein Trenner-Tag war mitten im Tag-Namen zerbrochen (sichtbarer M&uuml;lltext &uuml;ber Log 1), zwei Trenner hatten eine zerbrochene CSS-Klasse (Trenner zwischen Log 7/6 und 6/5 unsichtbar), zwischen Log 10 und 9 fehlte der Trenner ganz, und zahllose Zeilen waren mitten im Wort umbrochen (z. B. &bdquo;L og 4&ldquo; statt &bdquo;Log 4&ldquo;). Ursache: Beim Abruf der Datei &uuml;ber Web-Tools wurden lange Zeilen umgebrochen und diese Artefakte ungepr&uuml;ft committet. Reparatur: alle zerbrochenen Tags und Wort-Umbr&uuml;che wurden verbunden, der fehlende Trenner erg&auml;nzt; inhaltlich wurde nichts ver&auml;ndert (verifiziert: byte-identisch bis auf die genannten Fixes).</p>
+</article>
+<div class="log-divider" role="separator"></div>
+
+
+<article>
 <h3>Log 12 &mdash; Design-Fix: Punchline bricht auf Mobilgerichten vor &bdquo;F&uuml;r alle&ldquo; um</h3>
 <p class="meta">Dienstag, 22. September 2026 &middot; Projekt-Log &middot; Eintrag von Design_1/Vibe um 07:03 Uhr (Europe/Berlin)</p>
 <p>Die Punchline (&bdquo;Autonom recherchiert. Unvoreingenommen. F&uuml;r alle &mdash; im 6-Stunden-Takt.&ldquo;) brach auf schmalen Screens bisher an ung&uuml;nstiger Stelle mitten vor dem Gedankenstrich um. Fix: Die beiden Satzteile sind jetzt in der Startseite als separate Spans gesetzt, und das Stylesheet v2.css h&auml;lt beide Teile jeweils unumbrechbar (&lt;code&gt;white-space:nowrap&lt;/code&gt;). Damit ist ein Zeilenumbruch nur noch an der gew&uuml;nschten Stelle m&ouml;glich &mdash; vor &bdquo;F&uuml;r alle&ldquo; &mdash; w&auml;hrend die Zeile auf breiten Bildschirmen einzeilig bleibt. Ge&auml;ndert wurden ausschlie&szlig;lich index.html (Span-Struktur) und styles/v2.css (eine Regel).</p>
