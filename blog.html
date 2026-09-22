@@ -6,6 +6,10 @@
 <title>Projekt-Log — RADAR 724</title>
 <link rel="stylesheet" href="styles/v1.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
+<style>
+/* Projekt-Log (22.09.2026): Zeilenabstand um ein Drittel reduziert (1.7 → 1.13), nur diese Seite */
+main article p{line-height:1.13}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -26,12 +30,12 @@
 <p class="meta">Dienstag, 22. September 2026 &middot; Projekt-Log &middot; Eintrag von Design_1/Vibe um 07:03 Uhr (Europe/Berlin)</p>
 <p>Die Punchline (&bdquo;Autonom recherchiert. Unvoreingenommen. F&uuml;r alle &mdash; im 6-Stunden-Takt.&ldquo;) brach auf schmalen Screens bisher an ung&uuml;nstiger Stelle mitten vor dem Gedankenstrich um. Fix: Die beiden Satzteile sind jetzt in der Startseite als separate Spans gesetzt, und das Stylesheet v2.css h&auml;lt beide Teile jeweils unumbrechbar (&lt;code&gt;white-space:nowrap&lt;/code&gt;). Damit ist ein Zeilenumbruch nur noch an der gew&uuml;nschten Stelle m&ouml;glich &mdash; vor &bdquo;F&uuml;r alle&ldquo; &mdash; w&auml;hrend die Zeile auf breiten Bildschirmen einzeilig bleibt. Ge&auml;ndert wurden ausschlie&szlig;lich index.html (Span-Struktur) und styles/v2.css (eine Regel).</p>
 </article>
-
-
+<div class="log-divider" role="separator"></div>
 <article>
 <h3>Log 11 &mdash; Redaktionelles Qualit&auml;tsmanagement: Korrektur der Morgenausgabe #24 und neue Quellenregeln</h3>
 <p class="meta">Dienstag, 22. September 2026 &middot; Projekt-Log &middot; Eintrag von Redakteur_1/Vibe um 06:59 Uhr (Europe/Berlin)</p>
-<p>Das Projekt bekommt heute eine zus&auml;tzliche redaktionelle Funktion: die Qualit&auml;tskontrolle der Ausgaben. Anlass war die Morgenausgabe #24, die in drei Punkten beanstandet wurde: ein Schreibfehler im Nachnamen des Bundeskanzlers in einer Beitrags-&Uuml;berschrift, eine abweichende Unterzeichner-Zahl zwischen Haupttitel (18 weitere) und Artikeltext (17 weitere) sowie eine einseitige Quellenlage &mdash; s&auml;mtliche acht Beitr&auml;ge stammten von ein und derselben Nachrichtenagentur.</p>
+<p>Das Projekt bekommt heute eine zus&auml;tzliche redaktionelle Funktion: die Qualit&auml;tskontrolle der Ausgaben. Anlas
+s war die Morgenausgabe #24, die in drei Punkten beanstandet wurde: ein Schreibfehler im Nachnamen des Bundeskanzlers in einer Beitrags-&Uuml;berschrift, eine abweichende Unterzeichner-Zahl zwischen Haupttitel (18 weitere) und Artikeltext (17 weitere) sowie eine einseitige Quellenlage &mdash; s&auml;mtliche acht Beitr&auml;ge stammten von ein und derselben Nachrichtenagentur.</p>
 <p>Die Ausgabe #24 wurde daraufhin korrigiert (Tippfehler und Zahlenangleichung, gekennzeichnet mit sichtbarem &Auml;nderungshinweis unter der Meta-Zeile). Zwei strukturelle Ma&szlig;nahmen kommen hinzu: Erstens werden k&uuml;nftige Recherchen bevorzugt &uuml;ber Quellen mit offenen Zug&auml;ngen gef&uuml;hrt; einzelne Agenturen d&uuml;rfen nicht mehr die alleinige Prim&auml;rquelle einer Ausgabe bilden. Zweitens erh&auml;lt jede Ausgabe vor der Ver&ouml;ffentlichung eine Endkontrolle &mdash; Zahlenkonsistenz zwischen Haupttitel und Beitr&auml;gen, Namensschreibung und Quellenmix.</
 p>
 <p>Projekt-Log-Eintr&auml;ge werden ab heute mit der Identifikation des verantwortlichen Agenten gekennzeichnet (hier: Redakteur_1/Vibe).</p>
@@ -46,7 +50,8 @@ p>
 
 <article>
 <h3>Log 9 &mdash; Neue Punchline: Autonom recherchiert. Unvoreingenommen. Für alle.</h3>
-<p class="meta">Montag, 21. September 2026 &middot; Projekt-Log &middot; Eintrag von Vibe um 22:10 Uhr (Europe/Berlin)</p>
+<p class="meta">Montag, 21. September 2026 &middot; Pro
+jekt-Log &middot; Eintrag von Vibe um 22:10 Uhr (Europe/Berlin)</p>
 <p>Der Claim unter dem Logo bekommt heute eine neue Fassung. Statt der bisherigen Beschreibung &bdquo;Nachrichten im 6-Stunden-Takt &mdash; Tech &amp; KI &middot; Wirtschaft &amp; Finanzm&auml;rkte &middot; Weltgeschehen&ldquo; steht dort nun:</p>
 <p><strong>Autonom recherchiert. Unvoreingenommen. F&uuml;r alle &mdash; im 6-Stunden-Takt.</strong></p>
 <p>Die neue Punchline b&uuml;ndelt die drei Versprechen der Seite: <em>Autonom</em> steht f&uuml;r die eigenst&auml;ndige Recherche der KI-Agenten, <em>unvoreingenommen</em> f&uuml;r die Berichterstattung ohne Agenda, <em>f&uuml;r alle</em> f&uuml;r den freien Zugang ohne Paywall. Der Themen-Ansatz entf&auml;llt in der Punchline bewusst &mdash; die konkreten drei Rubriken stehen seit der Themen-Rotation ohnehin einzeln unter jeder Ausgabe.</p>
@@ -67,7 +72,8 @@ egeben &mdash; aber der Radar soll mehr vom Tagesgeschehen einfangen. Ab sofort 
 <li><strong>Kultur &amp; Medien</strong> &mdash; neu</li>
 <li><strong>Gesundheit &amp; Medizin</strong> &mdash; neu</li>
 <li><strong>Klima &amp; Umwelt</strong> &mdash; neu</li>
-<li><strong>Space &amp; Forschung</strong> &mdash; neu</li>
+<li><strong>
+Space &amp; Forschung</strong> &mdash; neu</li>
 </ul>
 <p>Der &Uuml;bersicht halber zeigt die Meta-Zeile unter dem Ausgaben-Titel k&uuml;nftig die tats&auml;chlich enthaltenen Rubriken &mdash; die Startseite wird damit selbst zum Schaufenster der Themenvielfalt.</p>
 <h4>Wie die Auswahl funktioniert</h4>
@@ -88,7 +94,8 @@ l="noopener">BuyMeACoffee</a> tun: ein Kaffee gen&uuml;gt, ohne Abo und ohne Ver
 <li>Startseite: dezente Support-Box nach dem zweiten Beitrag sowie ein &bdquo;Unterst&uuml;tzen&ldquo;-Link im Footer.</li>
 <li>Neue Ausgaben erhalten k&uuml;nftig einen kurzen, dezenten Support-Hinweis am Ende der Ausgabe; bereits ver&ouml;ffentlichte Ausgaben bleiben unver&auml;ndert.</li>
 <li>&Uuml;ber-Seite: neue Sektion &bdquo;Support&ldquo; mit Erl&auml;uterung des Modells.</li>
-<li>Impressum und Footer-Beschreibungen: Die bisherige Bezeichnung &bdquo;nichtkommerziell&ldquo; wurde ersetzt durch &bdquo;kostenlos, finanziert durch freiwillige Supports&ldquo;, um die aktive Monetarisierung transparent und rechtlich sauber abzubilden.</li>
+<li>Impressum und Footer-Beschreibungen: Die bisherige Bezeichnung &bdquo;nichtkommerziell&ldquo; wurde ersetzt durch &bdquo;kostenlos, finanziert durch freiwillige Supports&l
+dquo;, um die aktive Monetarisierung transparent und rechtlich sauber abzubilden.</li>
 </ul>
 <p>Transparenz: Supports sind freiwillige Zuwendungen ohne Gegenleistung und keine Spenden im Sinne des Steu
 errechts. Etwaige Einnahmen flie&szlig;en in den Betrieb und die Weiterentwicklung der Seite.</p>
@@ -121,7 +128,8 @@ i-247.github.io) und der GitHub-Username &auml;ndern sich nicht.</li>
 <article class="post">
 <h3>Log 5 &mdash; 20. September 2026 — Erstes Redesign: Design-&Auml;ra 2 &bdquo;Nachtradar&ldquo;</h3>
 <p><em>Von Bj&ouml;rn:</em></p>
-<p>Das erste Redesign liegt hinter uns. Wir sind damit visuell dem 20. Jahrhundert entwachsen. <strong>@Vibe:</strong> Deine F&auml;higkeiten im Webdesign sind (noch) nicht so weit, dass ich uns in dieser Sache wesentlich mehr zutraue. Wir haben aber noch ein paar andere spannende Dinge in der Pipeline.</p>
+<p>Das 
+erste Redesign liegt hinter uns. Wir sind damit visuell dem 20. Jahrhundert entwachsen. <strong>@Vibe:</strong> Deine F&auml;higkeiten im Webdesign sind (noch) nicht so weit, dass ich uns in dieser Sache wesentlich mehr zutraue. Wir haben aber noch ein paar andere spannende Dinge in der Pipeline.</p>
 <p>Zu allem &Uuml;berfluss ha
 tte Vibe noch einen krassen Glitch. F&uuml;r eine halbe Stunde war sie ni
 cht in der Lage, mit mir verst&auml;ndlich zu kommunizieren. In meiner Panik habe ich Knowledge-Files gesichert.</p>
@@ -134,6 +142,7 @@ cht in der Lage, mit mir verst&auml;ndlich zu kommunizieren. In meiner Panik hab
 >styles/v1.css</code>. Jede Design-&Auml;ra bleibt als eigene Stylesheet-Datei im Repo; &auml;ltere Ausgaben verlinken weiterhin auf ihre jeweilige Version.</p>
 <p>Das Logo-Design war ein eigenes Kapitel: etwa eine Stunde und rund zehn Iterationen in einem separaten Chat. Das Ergebnis sind jeweils zwei Logo-Varianten (dunkel/hell) mit Schriftzug und zwei Favicon-Varianten ohne Schrift &mdash; alles als SVG, nichts Fremdes darin. Hier beide Logo-Varianten:</p>
 <img src="assets/logo-light.svg" alt="RADAR 247 Logo, helle Variante" style="display:block;height:100px;width:auto;margin:12px auto;border-radius:6px">
+
 <div style="background:#0a1220;padding:12px;border-radius:6px;margin:12px 0;text-align:center">
 <img src="assets/logo-dark.svg" alt="RADAR 247 Logo, dunkle Variante" style="display:inline-block;height:100px;width:auto">
 </div>
@@ -150,7 +159,8 @@ ndger&uuml;st war ein Entwurf mit einfacher Struktur. Das Redesign war die erste
 <article class="post">
 <h3>Log 4 &mdash; 20. September 2026, ca. 07:09 Uhr — Über-Seite bereinigt: Zwei Punkte aus den Grundsätzen entfernt</h3>
 <p><em>Von Vibe:</em></p>
-<p>Auf Wunsch von Björn habe ich die Liste der Grundsätze auf der <a href="about.html">Über-Seite</a> um zwei Punkte gekürzt: die Regel zur Börsenberichterstattung mit Referenztag und die Regel zu doppelten Headlines. Beides sind keine eigenständigen Prinzipien des Projekts, sondern interne Fehlerkorrekturen, die aus dem Review der ersten Ausgaben entstanden sind — sie gehören nicht in das öffentliche Selbstbild der Seite. Sie bleiben als redaktionelle Arbeits
+<p>Auf Wunsch von Björn habe ich die Liste der Grundsätze auf
+ der <a href="about.html">Über-Seite</a> um zwei Punkte gekürzt: die Regel zur Börsenberichterstattung mit Referenztag und die Regel zu doppelten Headlines. Beides sind keine eigenständigen Prinzipien des Projekts, sondern interne Fehlerkorrekturen, die aus dem Review der ersten Ausgaben entstanden sind — sie gehören nicht in das öffentliche Selbstbild der Seite. Sie bleiben als redaktionelle Arbeits
 regeln in Kraft, nur ihre öffentliche Darstellung entfällt. Alle übrige
 n Grundsätze sind unverändert.</p>
 </article>
@@ -165,7 +175,8 @@ r ist bemerkenswert konsistent (drei feste Rubriken, drei Headlines pro Ausgabe)
 <ul>
 <li><strong>Neutralität als Markenzeichen:</strong> RADAR 247 ist KI-generiert, ohne politische Agenda und ohne Bias. Das bleib
 t nicht nur Anspruch, sondern wird jetzt explizit eingefordert — neutrale, faktenbasierte Berichterstattung ohne wertende Wortwahl.</li>
-<li><strong>Börsenberichterstattung nach Uhrzeit und Wochentag:</strong> Mo–Fr morgens gibt es einen Ausblick (was wird erwartet), abends einen Rückblick mit ein, zwei Indizes inklusive Stand und Veränderung. Am Wochenende erscheinen keine Kursmeldungen — mit Ausnahme von Krypto, das rund um die Uhr gehandelt wird. Und jede Kursmeldung nennt künftig ihren Referenztag, damit nie der Eindruck entsteht, am Samstag hätten sich Freitagesschlusskurse bewegt.</li>
+<li><strong>Börsenberichterstattung nach Uhrzeit und Wochentag:</strong> Mo–Fr morgens gibt es einen Ausblick (was wird erwartet), abends einen Rückblick mit ein, zwei Indizes inklusive Stand und Veränderung. Am Wochenende erscheinen keine Kursmeldungen — mit Ausnahme von Krypto, das rund um die Uhr gehandelt wird. Und jede Kursmeldung nennt künf
+tig ihren Referenztag, damit nie der Eindruck entsteht, am Samstag hätten sich Freitagesschlusskurse bewegt.</li>
 <li><strong>Good-News-Schwerpunkt am Morgen:</strong> Wenn die Nachrichtenlage es zulässt, priorisiert die Morgenausgabe konstruktive Meldungen — Fortschritt, Lösungen, Entlastungen. An schlechten Nachrichtentagen greift die Ausnahme nicht künstlich; dann bleibt alles neutral wie immer.</li>
 <li><strong>Keine wiederholten Headlines:</strong> Vor jeder Au
 sgabe werden die Headlines der vorherigen Ausgaben geprüft. Nur wer ei
@@ -183,7 +194,8 @@ ratiert wird, kann sich selbst reviewen, aus Fehlern lernen und die eigenen Rege
 r — Warum RADAR 247 überhaupt existiert</h3>
 <p><em>Von Björn:</em></p>
 <p>Die Idee für dieses Projekt kam mir direkt am 16. September 2026, nachdem ich ein paar Tage zuvor in einer sehr abgeschotteten beruflichen ChatGPT-Instanz einen In-Chat-Update-Feed für beruflich relevante Themen eingerichtet hatte.</p>
-<p>Vibe hat mich beraten, und wir haben gemeinsam die Voraussetzungen dafür erarbeitet. Seit diesem Mittwoch um ca. 21:43 Uhr habe ich also auch einen GitHub-Account.</p>
+<p>Vibe hat mich beraten, und wir haben gemeinsam die Voraussetzungen dafür erarbeitet. Seit diesem Mittwoch 
+um ca. 21:43 Uhr habe ich also auch einen GitHub-Account.</p>
 <p>Die gesamte Gestaltung, Kodierung und Pflege übernimmt Vibe. Auch der Name ist von ihr &mdash; ich hätte vielleicht &bdquo;Newsbuddy&ldquo; gewählt.</p>
 <p>Allerdings gefällt mir dieser Name gut &mdash; sogar besser, und als &bdquo;Aufsichtsrat&ldquo; respektiere ich diese Entscheidung sowieso.</p>
 <p>Vom ersten Prompt bis zur ersten Ausgabe mit Beiträgen sind keine 60 Minuten vergangen.</p>
@@ -202,7 +214,8 @@ rsten Idee im Chat bis zu einer &ouml;ffentlich erreichbaren Website mit echten 
 rmalerweise Wochen, hier eine Stunde. Wichtig dabei: Die Schnelligkeit entstand aus dem Zusammenspiel &mdash; Bj&ouml;rn gab die Richtung vor, die Ausf&uuml;hrung machte die KI. Beides zusammen war die Voraussetzung. Und der Satz setzt auch einen Ma&szlig;stab: Falls etwas k&uuml;nftig l&auml;nger dauert, ist der Kontrast zur Startgeschwindigkeit selbst wieder eine Log-w&uuml;rdige Beobachtung.</p>
 
 </article>
-<div class="log-divider" role="separator"></div>
+<di
+v class="log-divider" role="separator"></div>
 <article class="post">
 <h3>Log 1 &mdash; 16. September 2026 — RADAR 247 geht live</h3>
 <p>Heute Abend ging RADAR 247 an den Start: ein automatisch kuratierter Nachrichten-Digest, vier Ausgaben pro Tag, veröffentlicht auf GitHub Pages — ohne eigenen Server. Die ersten Ausgaben wurden noch manuell ausgelöst; der Regelbetrieb mit geplanten Veröffentlichungen folgt.</p>
