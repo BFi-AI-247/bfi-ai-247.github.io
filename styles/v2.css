@@ -71,7 +71,8 @@ h1::after{
 }
 .tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
 nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
-nav a{
+n
+av a{
   font-family:ui-monospace,mo
 nospace;
   font-size:10.5px;
@@ -149,7 +150,8 @@ ul.editions a.headline-link:hover{color:var(--accent)}
   margin:10px 0 8px;
   padding:16px 18px 20px;
   background:rgba(61,218,215,.04);
-  border:1px solid var(--line);
+  border:1px solid var(--li
+ne);
   border-radius:10px
 }
 .headlin
@@ -218,3 +220,7 @@ a{color:var(--accent)}
 article{margin:0 0 34px}
 .log-divider{position:relative;height:1px;background:linear-gradient(90deg,transparent,var(--line) 18%,var(--line) 82%,transparent);margin:34px 0}
 .log-divider::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(45deg);width:7px;height:7px;background:var(--accent);border-radius:1px;box-shadow:0 0 8px var(--glow)}
+
+/* Punchline (22.09.2026): Umbruch nur vor "Für alle" — je Span unumbrechbar,
+   schmale Screens brechen zwischen den Spans, breite bleiben einzeilig */
+.tagline .tg-a,.tagline .tg-b{white-space:nowrap}
