@@ -1,0 +1,94 @@
+/* ============================================================
+   WIESENZEITUNG GIFHORN — Design-Ära 1 „heimisch & gedruckt"
+   wzgV1.css · Design_R3 · 23./24.09.2026 · BETREIBER-FREIGEGEBEN
+   Vorgabe: warmes Papier, Schriftbraun, Wiesengrün (Rubriken/
+   Links/Linien), Beige Markt-Box, Dunkelblau NUR Blaulicht.
+   Eigene Gestaltung, Systemfonts, keine fremden Assets.
+   ============================================================ */
+:root{
+  --papier:#faf5ea;          /* warmes Papier-Off-White */
+  --papier-tief:#f3ecdc;     /* Flächen zweiter Stufe */
+  --tinte:#2b241c;           /* fast-schwarzes Schriftbraun */
+  --tinte-sanft:#4d4234;     /* Sekundärtext */
+  --wiese:#4e6b3a;           /* gedecktes Wiesengrün */
+  --wiese-tief:#3d552c;
+  --beige:#ecdfc0;           /* sonniges Beige: Markt-Box */
+  --beige-rand:#d9c69d;
+  --blaulicht:#2c4a6e;       /* dezentes Dunkelblau, NUR Blaulicht */
+  --linie:#e4dbc8;
+  --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+  --sans:Verdana,"Segoe UI",system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--papier);color:var(--tinte);font-family:var(--sans);font-size:17px;line-height:1.6}
+.wrap{max-width:680px;margin:0 auto;padding:26px 20px 60px}
+
+/* ——— Grundgerüst-Seiten (index/archive/about/impressum im Aufbau) ——— */
+.site-header{text-align:center;border-top:5px double var(--tinte);border-bottom:1px solid var(--linie);padding:14px 0;margin-bottom:26px}
+.site-header h1{font-family:var(--serif);font-weight:700;font-size:clamp(26px,6vw,34px);letter-spacing:.04em;text-transform:uppercase;margin:0;color:var(--tinte)}
+.tagline{font-family:var(--serif);font-style:italic;font-size:14px;color:var(--tinte-sanft);margin:8px 0 10px}
+nav{display:flex;gap:18px;justify-content:center;flex-wrap:wrap}
+nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px}
+nav a:hover{color:var(--wiese);border-color:var(--wiese)}
+footer{margin-top:44px;border-top:5px double var(--tinte);padding-top:14px;font-size:13px;color:var(--tinte-sanft);text-align:center}
+footer a{color:var(--wiese)}
+
+/* ——— Rubrik-Titel: kleine Versalien + grüne Linie ——— */
+h2.section{display:flex;align-items:center;gap:10px;font-family:var(--sans);font-size:12.5px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--wiese);margin:34px 0 4px}
+h2.section::after{content:"";flex:1;height:2px;background:linear-gradient(90deg,var(--wiese),transparent)}
+h3{font-family:var(--serif);font-size:20px;line-height:1.35}
+.meta{font-size:12px;letter-spacing:.06em;color:var(--tinte-sanft)}
+a{color:var(--wiese)}
+
+/* ——— Ausgaben-Struktur (Morgenausgabe) ——— */
+/* Masthead */
+.masthead{text-align:center;padding:10px 0 0;border-top:5px double var(--tinte);border-bottom:1px solid var(--linie);padding-bottom:14px}
+.masthead .wortmarke{font-family:var(--serif);font-weight:700;font-size:clamp(26px,7vw,34px);letter-spacing:.04em;margin:0;color:var(--tinte)}
+.masthead .wortmarke .gz{color:var(--wiese)}
+.ki-badge{display:inline-block;font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--wiese);border:1px solid var(--wiese);border-radius:2px;padding:2px 10px;margin:6px 0 2px}
+.kopfzeile{font-family:var(--serif);font-style:italic;font-size:13.5px;color:var(--tinte-sanft);margin-top:4px}
+
+/* 1) Wetterleiste */
+.wetterleiste{display:flex;flex-wrap:wrap;gap:6px 22px;justify-content:space-between;align-items:center;border-bottom:1px solid var(--linie);padding:10px 2px;font-size:14px;color:var(--tinte-sanft)}
+.wetterleiste strong{font-family:var(--serif);color:var(--tinte)}
+
+/* 2) Meldung des Tages */
+.tagesmeldung{border:1px solid var(--wiese);border-left:5px solid var(--wiese);background:var(--papier-tief);padding:18px 20px;margin:22px 0}
+.tagesmeldung h2{display:block;font-family:var(--serif);font-size:21px;margin:0 0 8px;color:var(--wiese-tief);letter-spacing:normal;text-transform:none}
+.tagesmeldung p{margin:0}
+.tagesmeldung .warum{font-style:italic;font-size:15px;color:var(--tinte-sanft);margin-top:10px;padding-top:10px;border-top:1px dotted var(--linie)}
+
+/* 3) Markt-Baustein (Beige) */
+.markt{background:var(--beige);border:1px solid var(--beige-rand);border-radius:4px;padding:12px 16px;margin:22px 0}
+.markt .markt-titel{font-family:var(--serif);font-weight:700;font-size:14px;letter-spacing:.06em;text-transform:uppercase;color:var(--tinte);margin:0 0 6px}
+.markt .kurse{display:flex;flex-wrap:wrap;gap:6px 26px;font-size:15px}
+.markt .kurs b{font-family:var(--serif)}
+.markt .up{color:var(--wiese-tief)}
+.markt .down{color:#8a3b2e}
+
+/* 4) BuyMeACoffee-Hinweis */
+.support{font-size:14px;color:var(--tinte-sanft);text-align:center;border-top:1px solid var(--linie);border-bottom:1px solid var(--linie);padding:9px 4px;margin:20px 0}
+.support a{color:var(--wiese)}
+
+/* Meldungen */
+.meldung{padding:14px 0;border-bottom:1px dotted var(--linie)}
+.meldung:last-child{border-bottom:none}
+.meldung h3{font-family:var(--serif);font-size:19px;margin:0 0 6px;line-height:1.35}
+.meldung p{margin:0 0 8px}
+.orts-chip{display:inline-block;font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--papier);background:var(--wiese);border-radius:2px;padding:2px 7px;margin-right:6px;vertical-align:2px}
+.meldung.blaulicht .orts-chip{background:var(--blaulicht)}
+
+/* RADAR-Stil: klarer Quellen-Verweis je Meldung */
+.source.credit{display:block;margin-top:6px;font-size:11.5px;letter-spacing:.05em;color:var(--tinte-sanft);border-top:1px dotted var(--linie);padding-top:5px}
+.source.credit a{color:var(--wiese);font-weight:700;text-decoration:none}
+.source.credit a:hover{text-decoration:underline}
+
+/*Änderungs-Einzeiler (analog RADAR 724) */
+.change-notice{color:var(--wiese);font-size:10.5px}
+.change-notice a{color:var(--wiese);text-decoration:underline}
+
+/* Responsiv */
+@media(max-width:480px){
+  .masthead .wortmarke{font-size:27px}
+  .markt .kurse{gap:4px 16px;font-size:14px}
+}
