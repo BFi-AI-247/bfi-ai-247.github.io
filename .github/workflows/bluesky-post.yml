@@ -5,6 +5,13 @@ on:
     branches: [main]
     paths:
       - 'posts/**'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry-Run: Auth-Test + Log, KEIN echter Post'
+        type: boolean
+        required: false
+        default: true
 
 permissions:
   contents: write
@@ -23,6 +30,7 @@ jobs:
           fetch-depth: 5
 
       - name: Korrektur-Commits ueberspringen
+        if: github.event_name == 'push'
         id: guard
         env:
           COMMIT_MSG: ${{ github.event.head_commit.message }}
@@ -35,7 +43,7 @@ jobs:
           fi
 
       - name: Neue posts-Dateien bestimmen (nur hinzugefuegte)
-        if: steps.guard.outputs.skip == 'false'
+        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false'
         id: files
         run: |
           mkdir -p social
@@ -59,8 +67,8 @@ jobs:
             echo "Keine neuen (ungeposteten) Ausgaben."
           fi
 
-      - name: Nach Bluesky posten
-        if: steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true'
+      - name: Nach Bluesky posten (neue Ausgaben)
+        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true'
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
@@ -111,14 +119,14 @@ jobs:
                   pos = enc.find(link.encode())
                   if pos >= 0:
                       facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
-                                     "features": [{"\$type": "app.bsky.richtext.facet#link", "uri": link}]})
+                                     "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
                   for tag in re.finditer(r"#(KI|News)", text):
-                      b0 = enc[:tag.start()].decode("utf-8").encode("utf-8").__len__()
-                      b1 = enc[:tag.end()].decode("utf-8").encode("utf-8").__len__()
+                      b0 = len(text[:tag.start()].encode("utf-8"))
+                      b1 = len(text[:tag.end()].encode("utf-8"))
                       facets.append({"index": {"byteStart": b0, "byteEnd": b1},
-                                     "features": [{"\$type": "app.bsky.richtext.facet#tag", "tag": tag.group(0)}]})
+                                     "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": tag.group(0)}]})
                   payload = {"repo": did, "collection": "app.bsky.feed.post",
-                             "record": {"\$type": "app.bsky.feed.post", "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                             "record": {"$type": "app.bsky.feed.post", "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                                         "text": text, "facets": facets,
                                         "langs": ["de"]}}
                   ok = False
@@ -148,7 +156,7 @@ jobs:
           PYEOF
 
       - name: State-Datei committen
-        if: steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && success()
+        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -159,3 +167,78 @@ jobs:
       - name: Aufraeumen
         if: always()
         run: rm -f social/_new.txt || true
+
+      - name: Manueller Test (workflow_dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, re, sys, time, urllib.request
+
+          username = os.environ["BLUESKY_USERNAME"]
+          password = os.environ["BLUESKY_APP_PASSWORD"]
+          dry_run = os.environ.get("DRY_RUN", "true") != "false"
+          host = "https://bsky.social"
+
+          if not username or not password:
+              print("FEHLER: Secrets BLUESKY_USERNAME / BLUESKY_APP_PASSWORD sind nicht gesetzt (Repo-Settings → Secrets and variables → Actions).", file=sys.stderr)
+              sys.exit(1)
+
+          def api(endpoint, payload, headers=None):
+              req = urllib.request.Request(host + endpoint, data=json.dumps(payload).encode(),
+                                           headers={"Content-Type": "application/json", **(headers or {})})
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read())
+
+          # 1) Auth-Test mit echten Credentials
+          session = api("/xrpc/com.atproto.server.createSession", {"identifier": username, "password": password})
+          auth = {"Authorization": "Bearer " + session["accessJwt"]}
+          did = session["did"]
+          print("AUTH-TEST ERFOLGREICH: Session fuer", username, "erstellt.", flush=True)
+
+          # 2) Test-Post OHNE Ausgabennummer (kollidiert nicht mit Anti-Duplikat/State-Logik)
+          link = "https://radar724.de"
+          text = "Hello, Welt! RADAR 724 ist jetzt auf Bluesky. " + link + " #KI #News"
+          facets = []
+          enc = text.encode("utf-8")
+          pos = enc.find(link.encode())
+          if pos >= 0:
+              facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
+                             "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
+          for tag in re.finditer(r"#(KI|News)", text):
+              b0 = len(text[:tag.start()].encode("utf-8"))
+              b1 = len(text[:tag.end()].encode("utf-8"))
+              facets.append({"index": {"byteStart": b0, "byteEnd": b1},
+                             "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": tag.group(0)}]})
+          payload = {"repo": did, "collection": "app.bsky.feed.post",
+                     "record": {"$type": "app.bsky.feed.post",
+                                "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                                "text": text, "facets": facets, "langs": ["de"]}}
+
+          # 3) Architekten-Entscheidung: manueller Test-Post bleibt BEWUSST ausserhalb
+          #    der State-Datei social/bluesky-state.txt (nur Action-Log) — blockiert
+          #    kuenftige Ausgaben-Posts nicht, dupliziert auch nichts.
+          if dry_run:
+              print("DRY-RUN — KEIN Post. Folgender Text wuerde gepostet werden:", flush=True)
+              print(text, flush=True)
+              print("State-Datei bleibt unveraendert (manueller Test ausserhalb der Ausgaben-Anti-Duplikat-Logik).", flush=True)
+          else:
+              ok = False
+              for attempt in range(1, 4):
+                  try:
+                      api("/xrpc/com.atproto.repo.createRecord", payload, auth)
+                      ok = True
+                      break
+                  except Exception as e:
+                      print(f"Versuch {attempt} fehlgeschlagen: {e}", flush=True)
+                      if attempt < 3:
+                          time.sleep(30 * attempt)
+              if ok:
+                  print("TEST-POST GEPOSTET (Hello-World, keine Ausgabennummer, kein State-Eintrag).", flush=True)
+              else:
+                  print("Alle 3 Versuche fehlgeschlagen.", file=sys.stderr)
+                  sys.exit(1)
+          PYEOF
