@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #NNN — WOCHENTAG, TT.MM.JJJJ — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #NNN</p>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<!-- Reihenfolge der Meta-Zeilen oben (Pflicht): 1. erstellt, 2. Geändert (nur falls zutreffend, als EINZEILER mit Verweis), 3. Rubriken -->
+<p class="meta">WOCHENTAG, TT. MONAT JJJJ &middot; SLOTAUSGABE &middot; erstellt um HH:MM Uhr (Europe/Berlin)</p>
+<!-- NUR bei nachträglicher Änderung, sonst weglassen. Immer EINZEILER; die lange Erläuterung steht unten im Abschnitt "Nachträgliche Änderungen" -->
+<p class="meta change-notice">Geändert am TT.MM.JJJJ, HH:MM Uhr &mdash; <a href="#aenderungen">Details unten</a></p>
+<p class="meta">Rubriken: RUBRIK 1 / RUBRIK 2 / RUBRIK 3</p>
+<h1 class="post-title">H1-TITEL: Bündelung der Top-Headlines der Ausgabe</h1>
+
+<!-- Pro Rubrik ein section-Block; je Rubrik 2–4 Items (siehe themen.md) -->
+<h2 class="section">RUBRIK 1</h2>
+<div class="item">
+<h3>HEADLINE DES BEITRAGS</h3>
+<p>FLIESSTEXT DES BEITRAGS. (Datenstand: WOCHENTAG, TT.MM.JJJJ.)</p>
+<span class="source credit">Grundlage dieses Beitrags: <a href="QUELLE-URL" rel="noopener">Original lesen</a> — QUELLENANGABE.</span>
+</div>
+<!-- Support-Zeile (Pflicht): GENAU EINMAL, fest an Position 2 — direkt nach dem ERSTEN Beitrag der Ausgabe -->
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+<!-- weitere Items/Rubriken folgen hier in gleicher Struktur -->
+
+<!-- NUR falls nachträglich geändert: langer Änderungsblock steht HIER unten, mit derselben Sprungmarke wie im Einzeiler oben -->
+<div id="aenderungen">
+<h2 class="section">Nachträgliche Änderungen</h2>
+<p class="meta">Geändert am WOCHENTAG, TT.MM.JJJJ um HH:MM Uhr (Europe/Berlin): VOLLSTÄNDIGE BESCHREIBUNG DER ÄNDERUNG.</p>
+</div>
+
+<!-- Abschlussnote (Pflicht): kurze Fassung, exakt dieser Wortlaut, nach dem letzten Beitrag -->
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #NNN &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
