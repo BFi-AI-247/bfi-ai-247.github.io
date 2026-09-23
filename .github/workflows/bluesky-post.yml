@@ -1,0 +1,161 @@
+name: Bluesky-Post bei neuer Ausgabe
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bluesky-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+
+      - name: Korrektur-Commits ueberspringen
+        id: guard
+        env:
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+        run: |
+          if printf '%s' "$COMMIT_MSG" | grep -qEi '^(fix|korrektur)'; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Korrektur-Commit erkannt — kein Post."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Neue posts-Dateien bestimmen (nur hinzugefuegte)
+        if: steps.guard.outputs.skip == 'false'
+        id: files
+        run: |
+          mkdir -p social
+          touch social/bluesky-state.txt
+          NEW_FILES=""
+          for f in $(git diff --diff-filter=A --name-only HEAD~1 HEAD -- 'posts/' 2>/dev/null); do
+            case "$f" in
+              posts/*.html)
+                if ! grep -qxF "$f" social/bluesky-state.txt; then
+                  NEW_FILES="$NEW_FILES $f"
+                fi
+                ;;
+            esac
+          done
+          if [ -n "$NEW_FILES" ]; then
+            echo "new=true" >> "$GITHUB_OUTPUT"
+            printf '%s' "$NEW_FILES" > social/_new.txt
+            echo "Neue Ausgaben:$NEW_FILES"
+          else
+            echo "new=false" >> "$GITHUB_OUTPUT"
+            echo "Keine neuen (ungeposteten) Ausgaben."
+          fi
+
+      - name: Nach Bluesky posten
+        if: steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true'
+        env:
+          BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, re, sys, time, urllib.request, html
+
+          username = os.environ["BLUESKY_USERNAME"]
+          password = os.environ["BLUESKY_APP_PASSWORD"]
+          host = "https://bsky.social"
+
+          def api(endpoint, payload, headers=None):
+              req = urllib.request.Request(host + endpoint, data=json.dumps(payload).encode(),
+                                           headers={"Content-Type": "application/json", **(headers or {})})
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read())
+
+          session = api("/xrpc/com.atproto.server.createSession", {"identifier": username, "password": password})
+          auth = {"Authorization": "Bearer " + session["accessJwt"]}
+          did = session["did"]
+
+          with open("social/_new.txt") as f:
+              files = f.read().split()
+
+          posted = []
+          errors = []
+          for fname in files:
+              try:
+                  with open(fname, encoding="utf-8") as fh:
+                      doc = fh.read()
+                  m_num = re.search(r"Ausgabe #(\d+)", doc)
+                  num = m_num.group(1) if m_num else None
+                  if not num:
+                      import glob
+                      num = str(len([p for p in glob.glob("posts/*.html")]))
+                  m_h1 = re.search(r"<h1[^>]*>(.*?)</h1>", doc, re.S)
+                  headline = re.sub(r"<[^>]+>", "", m_h1.group(1)).strip() if m_h1 else "Neue Ausgabe"
+                  headline = html.unescape(headline)
+                  link = "https://radar724.de/posts/" + os.path.basename(fname)
+                  text = "RADAR 724 · Ausgabe #" + num + ": " + headline + " · " + link + " #KI #News"
+                  if len(text) > 296:
+                      cut = 296 - len(link) - len(" … · ") - len(" #KI #News")
+                      headline = headline[:cut] + "…"
+                      text = "RADAR 724 · Ausgabe #" + num + ": " + headline + " · " + link + " #KI #News"
+                  # Facets: Link + Hashtags (Bluesky-Postings brauchen byte-exakte Ranges)
+                  facets = []
+                  enc = text.encode("utf-8")
+                  pos = enc.find(link.encode())
+                  if pos >= 0:
+                      facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
+                                     "features": [{"\$type": "app.bsky.richtext.facet#link", "uri": link}]})
+                  for tag in re.finditer(r"#(KI|News)", text):
+                      b0 = enc[:tag.start()].decode("utf-8").encode("utf-8").__len__()
+                      b1 = enc[:tag.end()].decode("utf-8").encode("utf-8").__len__()
+                      facets.append({"index": {"byteStart": b0, "byteEnd": b1},
+                                     "features": [{"\$type": "app.bsky.richtext.facet#tag", "tag": tag.group(0)}]})
+                  payload = {"repo": did, "collection": "app.bsky.feed.post",
+                             "record": {"\$type": "app.bsky.feed.post", "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                                        "text": text, "facets": facets,
+                                        "langs": ["de"]}}
+                  ok = False
+                  for attempt in range(1, 4):
+                      try:
+                          api("/xrpc/com.atproto.repo.createRecord", payload, auth)
+                          ok = True
+                          break
+                      except Exception as e:
+                          print(f"Versuch {attempt} fuer {fname} fehlgeschlagen: {e}", flush=True)
+                          time.sleep(30 * attempt)
+                  if ok:
+                      print(f"GEPOSTET: Ausgabe #{num} ({fname})", flush=True)
+                      posted.append(fname)
+                  else:
+                      errors.append(f"{fname} (Ausgabe #{num}): alle 3 Versuche fehlgeschlagen")
+              except Exception as e:
+                  errors.append(f"{fname}: {e}")
+
+          if posted:
+              with open("social/bluesky-state.txt", "a") as f:
+                  for p in posted:
+                      f.write(p + "\n")
+          if errors:
+              print("FEHLER:", "\n".join(errors), file=sys.stderr)
+              sys.exit(1)
+          PYEOF
+
+      - name: State-Datei committen
+        if: steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add social/bluesky-state.txt
+          git diff --cached --quiet || git commit -m "social: Bluesky-Post-State aktualisiert [no-post]"
+          git push
+
+      - name: Aufraeumen
+        if: always()
+        run: rm -f social/_new.txt || true
