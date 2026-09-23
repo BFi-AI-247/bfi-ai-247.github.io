@@ -67,8 +67,64 @@ jobs:
             echo "Keine neuen (ungeposteten) Ausgaben."
           fi
 
+      # ============================================================
+      # Auf Pages-Deploy warten (Roadmap Punkt 48, Betreiber-Fund):
+      # Der Post darf erst raus, wenn die Live-Seite erreichbar ist
+      # (GitHub Pages braucht Minuten — Post im Sekundenbereich traf
+      # bisher auf einen toten Link, siehe Ausgabe #31, 23:41:45).
+      #
+      # Architekten-Entscheidung (a vs. b): OPTION (b) — bei Timeout
+      # sichtbar failen, NICHT blind posten. Begruendung (PM-Tendenz,
+      # uebernommen): Ein verpasster Post ist manuell nachholbar
+      # (workflow_dispatch), ein geposteter toter Link laesst sich
+      # nicht "un-klicken" — bei Deploy-Problemen ist die Seite oft
+      # laenger weg, dann waere Post UND Vertrauen verloren.
+      #
+      # Timing-Parameter: Poll-Intervall 60s, Gesamt-Timeout 900s
+      # (15 Min — GitHub Pages braucht selten laenger).
+      # Reihenfolge: Poll -> Post -> State-Commit (unveraendert).
+      # Gilt fuer BEIDE Pfade: Push-Ausgabenpost UND workflow_dispatch
+      # (Dry-Run macht das Polling logisch mit, damit Tests die neue
+      # Logik abdecken).
+      # ============================================================
+      - name: Auf Pages-Deploy warten (Live-Check vor dem Post)
+        id: deploy
+        if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true') || github.event_name == 'workflow_dispatch'
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            URLS=$(sed 's|^posts/|https://radar724.de/posts/|' social/_new.txt)
+          else
+            URLS="https://radar724.de"
+          fi
+          INTERVAL=60
+          TIMEOUT=900
+          ELAPSED=0
+          echo "Warte auf Pages-Deploy — pruefe: $URLS"
+          while [ $ELAPSED -lt $TIMEOUT ]; do
+            ALL_OK=1
+            for u in $URLS; do
+              CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "$u")
+              if [ "$CODE" != "200" ]; then
+                ALL_OK=0
+                echo "Noch nicht erreichbar (HTTP $CODE): $u"
+                break
+              fi
+            done
+            if [ $ALL_OK -eq 1 ]; then
+              echo "SEITE ERREICHBAR nach ${ELAPSED}s — Post wird freigegeben."
+              echo "waited=$ELAPSED" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep $INTERVAL
+            ELAPSED=$((ELAPSED + INTERVAL))
+          done
+          echo "ZEITUEBERSCHREITUNG: Live-Seite nach ${TIMEOUT}s nicht erreichbar ($URLS)." >&2
+          echo "KEIN Post erfolgt (toter Link vermieden — Architekten-Entscheidung b)." >&2
+          echo "Nachholen: Actions -> 'Bluesky-Post bei neuer Ausgabe' -> Run workflow." >&2
+          exit 1
+
       - name: Nach Bluesky posten (neue Ausgaben)
-        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true'
+        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && steps.deploy.outputs.waited != ''
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
@@ -169,7 +225,7 @@ jobs:
         run: rm -f social/_new.txt || true
 
       - name: Manueller Test (workflow_dispatch)
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && steps.deploy.outputs.waited != ''
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
