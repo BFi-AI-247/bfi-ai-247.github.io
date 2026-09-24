@@ -17,6 +17,11 @@
 .source.credit a{font-weight:700}
 .source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
 .source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline neben der Primärquellen-Zeile; Tooltip erklärt die Bedeutung (A/B). */
+.blink{display:inline-block;width:10px;height:10px;margin-left:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
 </style>
 </head>
 <body>
@@ -42,9 +47,17 @@
 <div class="item">
 <h3>HEADLINE DES BEITRAGS</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="QUELLE-URL" rel="noopener">Original lesen</a> — QUELLENANGABE.</span>
+<!-- GRÜNER BLINK (Roadmap P.60): NUR setzen bei Bedingung A (≥2 unabhängige Zweitquellen) oder
+     Bedingung B (Absolute Primärquelle) — Prüffrage je Beitrag in der Slot-Endkontrolle, siehe
+     veroeffentlichung.md "Grüner Blink". Im Zweifel KEIN Blink. Tooltip-Text exakt so lassen.
+     Statisches SVG, keine Animation; positioniert UNMITTELBAR NACH der credit-Zeile im Fluss. -->
+<span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>
 <p>FLIESSTEXT DES BEITRAGS. (Datenstand: WOCHENTAG, TT.MM.JJJJ.)</p>
-<!-- NUR bei heiklen Themen (2-Quellen-Regel): Zweitquellen unten, pro Quelle eine Zeile -->
-<span class="source secondary">Bestätigt durch: <a href="ZWEITQUELLE-URL" rel="noopener">Original lesen</a> — ZWEITQUELLENANGABE.</span>
+<!-- ZWEITQUELLEN (Verifikationspflicht, Endkontrolle Punkt 8): eine Zeile unter dem Fließtext,
+     KLasse "source secondary". Formulierung seit 24.09.2026 (Roadmap P.60): "Auch berichtet
+     durch:" mit Link DIREKT auf den Medianamen (kein "Original lesen" — das bleibt der
+     Primärquelle vorbehalten). Max. 2 Zweitquellen (Darstellungs-Obergrenze), Trenner "—". -->
+<span class="source secondary">Auch berichtet durch: <a href="ZWEITQUELLE-1-URL" rel="noopener">MEDIUM 1</a> — <a href="ZWEITQUELLE-2-URL" rel="noopener">MEDIUM 2</a>.</span>
 </div>
 <!-- Support-Zeile (Pflicht): GENAU EINMAL, fest an Position 2 — direkt nach dem ERSTEN Beitrag der Ausgabe -->
 <p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
@@ -53,7 +66,7 @@
 <!-- NUR falls nachträglich geändert: langer Änderungsblock steht HIER unten, mit derselben Sprungmarke wie im Einzeiler oben -->
 <div id="aenderungen">
 <h2 class="section">Nachträgliche Änderungen</h2>
-<p class="meta">Geändert am WOCHENTAG, TT.MM.JJJJ um HH:MM Uhr (Europe/Berlin): VOLLSTÄNDIGE BESCHREIBUNG DER ÄNDERUNG.</p>
+<p class="meta">Geändert am WOCHENTAG, TT. MONAT JJJJ um HH:MM Uhr (Europe/Berlin): VOLLSTÄNDIGE BESCHREIBUNG DER ÄNDERUNG.</p>
 </div>
 
 <!-- Abschlussnote (Pflicht): kurze Fassung, exakt dieser Wortlaut, nach dem letzten Beitrag -->
