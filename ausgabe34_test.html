@@ -31,13 +31,16 @@
 #goodnews .item h3{margin-top:2px}
 #goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
 #goodnews h2{color
+
 :var(--accent)}
 
 /* Infobox "Auf einen Blick" (Design_R3, 24.09.2026): zeitungsartige Datenbox
    zwischen Top News und Good News — Wetter (Frankfurt), Börsen, Ölpreis. */
 .glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
 .glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
-.glance-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 18px}
+.glance-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 18px}
+.glance-item.wide{grid-column:1 / -1;font-size:12.5px}
+.glance-item.wide b{display:inline;margin-right:6px}
 .glance-item{font-size:13px;line-height:1.45}
 .glance-item b{display:block;font-size:10.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;opacity:.65}
 .glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
@@ -65,7 +68,8 @@
 <h1 class="post-title">Geheimdienstreform: Erste Bundestagsdebatte über „echte Geheimdienste” — Opposition warnt vor Grundrechtsbruch</h1>
 
 <!-- ============================================================
-     1. TOP NEWS — stärkste Meldung der Ausgabe, nur hier, mit Rubrik-Label
+     1. TOP NEWS — stärkste Meld
+ung der Ausgabe, nur hier, mit Rubrik-Label
      ============================================================ -->
 <h2 class="section" id="topnews">TOP NEWS</h2>
 <div class="item">
@@ -74,7 +78,7 @@
 <span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html" rel="noopener">Original lesen</a> — tagesschau.</span>
 <p>Erstmals hat der Bundestag über die Pläne der schwarz-roten Koalition für eine Reform der Nachrichtendienste debattiert. Bundesinnenminister Alexander Dobrindt (CSU) wiederholte im
  Plenum das Ziel des Kanzlers, Deutschland solle „echte Geheimdienste” bekommen: Der BND soll unabhängiger von US-Diensten werden und operative Fähigkeiten erhalten — künftig auch Sabotage im Ausland und das Eindringen in Privatwohnungen dürfen. Die Opposition lehnt die Pläne deutlich ab: Linke und Teile der Grünen warnen vor einem Bruch mit Lehren aus der Geschichte, von einem Umbau des Inlandsgeheimdienstes zu einer „Stasi 2.0” ist die Rede; Ärzteverbände sind besorgt. Nach dem Willen der Regierung soll die Reform zum Jahreswechsel in Kraft treten — dafür muss neben dem Bundestag auch der Bundesrat zustimmen. (Datenstand: 24.09.2026.)</p>
-<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.swr.de/swraktuell-radio/haken-ausspaehen-sollten-bnd-und-verfassungsschutz-mehr-befugnisse-bekommen-100.html" rel="noopener">SWR</a> — <a href="https://netzpolitik.org/2026/bundestagsdebatte-zur-geheimdienstreform-zwischen-schreddern-und-nachbessern/" rel="noopener">netzpolitik.org</a>.</span>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.swr.de/swraktuell-radio/haken-ausspaehen-sollten-bnd-und-verfassungsschutz-mehr-befugnisse-bekommen-100.html" rel="noopener">SWR</a> — <a href="https://netzpolitik.org/2026/bundestagsdebatte-zur-geheimdienstreform-zwischen-schreddern-und-nachbessern/"  rel="noopener">netzpolitik.org</a>.</span>
 </div>
 
 <!-- ============================================================
@@ -88,12 +92,17 @@
 <div class="glance" id="aufeinenblick">
 <h2>Auf einen Blick</h2>
 <div class="glance-grid">
-<div class="glance-item"><b>Wetter Frankfurt</b>Abends sonnig bei 12–17 °C, morgens stark bewölkt (12–16 °C), mittags 18–20 °C bei mehr Sonne als Wolken; im Land unbeständig und windig (Höhentief „Christina").</div>
+<div class="glance-item"><b>Wetter Frankfurt</b>Abends sonnig bei 12–17 °C, morgens stark bewölkt, mittags 18–20 °C bei mehr Sonne als Wolken; im Land unbeständig und windig (Höhentief „Christina"). Sonne: auf ca. 07:10, unter ca. 19:15 Uhr — nach der Tag-und-Nacht-Gleiche sind Tag und Nacht fast gleich lang.</div>
 <div class="glance-item"><b>DAX</b>25.267 Punkte (&minus;0,6 %) — Ölpreise und Renditen belasten; Infineon, Rheinmetall und Scout24 unter Druck, Beiersdorf +3 %.</div>
 <div class="glance-item"><b>S&amp;P 500</b>7.706 Punkte (&minus;0,75 %, US-Schluss Vortag) — steigende Treasury-Renditen und Zinssorgen; Nasdaq &minus;1,13 %.</div>
-<div class="glance-item"><b>Öl (Brent)</b>107,80 US-Dollar — Futures steigen nach gescheiterten US-Iran-Gesprächen weiter, Blick Richtung 100-Dollar-Marke von oben.</div>
+<div class="glance-item"><b>Öl (Brent)</b>107,80 US-Dollar — Futures steigen nach gescheiterten US-Iran-Gesprächen weiter.</div>
+<div class="glance-item"><b>EUR / USD</b>1,1428 — der Euro ist unter den 50-Tage-Durchschnitt gerutscht.</div>
+<div class="glance-item"><b>Gold</b>4.377 US-Dollar je Unze — Edelmetall bleibt gefragt, aber deutlich unter dem Allzeithoch von Januar (5.598 USD).</div>
+<div class="glance-item"><b>Bitcoin</b>73.388 Euro (&asymp; 84.012 USD, +10,6 % in 7 Tagen) — fast 1,7 Mrd. US-Dollar sind binnen 48 Stunden in Bitcoin-ETFs geflossen.</div>
+<div class="glance-item wide"><b>Tag des Tages</b>Nationaler Interpunktionstag (seit 2004) — ein Tag zu Ehren des korrekten Setzens von Komma, Punkt &amp; Co.; für eine Redaktion fast schon ein Feiertag. Außerdem: Internationaler Tag des Karawaners.</div>
+<div class="glance-item wide"><b>Kalender</b>Zeitwechsel auf Winterzeit: Sonntag, 25. Oktober — noch 31 Tage. Termine (optional, redaktionell gesetzt): z. B. Bundesrat, EZB, Konjunkturzahlen.</div>
 </div>
-<span class="glance-src">Datenstand 24.09.2026, ca. 21 Uhr · Wetter: wetter.com · Kurse: dts/ad-hoc-news, CNBC · Öl: dts, XTB</span>
+<span class="glance-src">Datenstand 24.09.2026, ca. 21 Uhr · Wetter/Sonne: wetter.com, timeanddate.de (Sonnenzeiten ca.-Werte im Test) · Kurse: dts/ad-hoc-news, CNBC, kagels-trading, BTC-ECHO · Tag des Tages: heutetag.com</span>
 </div>
 
 <h2 class="section" id="goodnews">GOOD NEWS</h2>
@@ -101,7 +110,8 @@
 <span class="rubrik-ref">Rubrik: Wirtschaft</span>
 <h3>Konjunktur-Ausblick aufgehellt: Institute erwarten 1,3 Prozent Wachstum für 2026</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html" rel="noopener">Original lesen</a> — tagesschau.</span>
-<p>Eine erfreuliche Nachricht von der Konjunkturseite: Die führen
+<p>Eine erfreu
+liche Nachricht von der Konjunkturseite: Die führen
 den Wirtschaftsforschungsinstitute haben ihre Herbstprognose deutlich angehoben — für 2026 rechnen sie nun mit einem Wachstum von 1,3 Prozent, für 2027 mit 1,1 Prozent. Im Frühjahr hatten sie wegen der Auswirkungen des Iran-Kriegs noch nur mit 0,6 Prozent gerechnet. Treiber sind vor allem die hohen Ausgaben für Verteidigung und Rüstung. Auch der ifo-Index brachte gute Nachrichten. Für Anleger hat der Aufschwung allerdings einen Haken: Robustes Wachstum und Preisdruck halten die Zinsen hoch — „gute Konjunkturdaten werden in diesem Umfeld zunehmend zu einer Belastung für den breiten Aktienmarkt”, erklärte ein Chefvolkswirt. (Datenstand: 24.09.2026.)</p>
 <span class="source secondary">Auch berichtet durch: <a href="https://www.news.de/panorama/860022626/24-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-24-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" rel="noopener">news.de</a>.</span>
 </div>
@@ -134,7 +144,8 @@ los: Höhere Ölpreise und steigende Bond-Renditen haben den deutschen Leitindex
 <div class="item">
 <h3>Erneuerbare liefern: In vielen Monaten schon mehr als die Hälfte des deutschen Stroms</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zeit.de/wirtschaft/energiemonitor-strompreis-gaspreis-erneuerbare-energien-ausbau" rel="noopener">Original lesen</a> — ZEIT ONLINE.</span>
-<p>Der Ausbau der erneuerbaren Energien in Deutschland kommt voran: Wind und Sonne liefern in vielen Monaten mehr als die Hälfte des erzeugten Stroms, die Kohlekraft hat an Bedeutung verloren. Bis 2035 soll das Stromnetz komplett kliman
+<p>Der Ausbau der erneuerbaren Energien in Deutschland kommt voran: Wind und Sonne liefern in vielen Monaten mehr als die Hälfte des erzeugten Stroms, die Kohlekraft hat an Bedeutung 
+verloren. Bis 2035 soll das Stromnetz komplett kliman
 eutral funktionieren. Gleichzeitig warnen Experten: Selbst wenn Deutschland seine Ausbauziele erfüllt, reicht das nach ihrer Einschätzung nicht für die Verpflichtungen aus dem Pariser Klimaabkommen. Der Bau großer Batterieparks wird daher immer wichtiger. (Datenstand: 24.09.2026.)</p>
 </div>
 
