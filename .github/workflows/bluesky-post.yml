@@ -158,6 +158,13 @@ jobs:
       # erreichbar" zu gelten und neu zu pollen. Jetzt: curl-Fehler
       # wird als HTTP 000 gewertet → normaler Poll-Loop mit Retry.
       #
+      # Fix 5 (Run 10, HTTP 000 durchgehend): Runner-Netz-Fehler
+      # (DNS) transient, aber mehrere Minuten stabil. curl probiert
+      # jetzt intern bis zu 5x mit 10s Pause (deckt DNS-Hickser
+      # innerhalb eines Poll-Zyklus ab); erst wenn auch das
+      # fehlschlaegt, zaehlt der Versuch als 000 und der 60s-Poll
+      # wartet den naechsten Zyklus ab.
+      #
       # Timing-Parameter: Poll-Intervall 60s, Gesamt-Timeout 900s
       # (15 Min — GitHub Pages braucht selten laenger).
       # Reihenfolge: Poll -> Post -> State-Commit (unveraendert).
@@ -181,7 +188,7 @@ jobs:
           while [ $ELAPSED -lt $TIMEOUT ]; do
             ALL_OK=1
             for u in $URLS; do
-              CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "$u" || echo 000)
+              CODE=$(curl -s -o /dev/null -w '%{http_code}' --retry 5 --retry-delay 10 --retry-all-errors --max-time 20 "$u" || echo 000)
               if [ "$CODE" != "200" ]; then
                 ALL_OK=0
                 echo "Noch nicht erreichbar (HTTP $CODE): $u"
