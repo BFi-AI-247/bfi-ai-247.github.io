@@ -1,0 +1,41 @@
+name: Bluesky Robo-Test (Hello World)
+
+# Einmaliger Job-Test (Betreiber-Wunsch 24.09.2026): Auth-Test gegen die
+# Bluesky-API mit den Repo-Secrets — KEIN Post, keine State-Aenderung.
+# Cron ist auf den 24.09. gepinnt (jaehrliche Wiederholung = praktisch
+# einmalig). Nach erfolgreicher Auswertung: Workflow-Trigger entfernen
+# oder Workflow deaktivieren (UI: .../actions -> Bluesky Robo-Test -> Disable).
+on:
+  schedule:
+    - cron: '45 21 24 9 *'  # 23:45 Berlin am 24.09. (21:45 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  robo-hello-world:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Robo-Hello-World (Auth-Test, kein Post)
+        env:
+          BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, sys, urllib.request
+
+          username = os.environ["BLUESKY_USERNAME"]
+          password = os.environ["BLUESKY_APP_PASSWORD"]
+          if not username or not password:
+              print("FEHLER: Secrets BLUESKY_USERNAME / BLUESKY_APP_PASSWORD fehlen.", file=sys.stderr)
+              sys.exit(1)
+
+          req = urllib.request.Request(
+              "https://bsky.social/xrpc/com.atproto.server.createSession",
+              data=json.dumps({"identifier": username, "password": password}).encode(),
+              headers={"Content-Type": "application/json"})
+          with urllib.request.urlopen(req) as r:
+              session = json.loads(r.read())
+          print("ROBO-HELLO-WORLD OK: Session fuer", username, "erstellt — Secrets und Netzweg stehen.")
+          PYEOF
