@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[ENTWURF v3.10] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
+<title>[ENTWURF v3.11] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
 <link rel="stylesheet" href="assets/wzgV1.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
 <style>
 /* ============================================================
-   ENTWURF v3.10 (24.09.2026, Design_R3, Betreiber-Feedback Runde 11,
+   ENTWURF v3.11 (24.09.2026, Design_R3, Betreiber-Feedback Runde 12,
    Roadmap Punkt 56) — NICHT FREIGEGEBEN, kein Live-Stand.
    wzgV1.css bleibt unangetastet; neue Klassen sind Entwurfs-
    Erweiterungen und wandern bei Freigabe versionierbar ins Live-Design.
@@ -18,19 +18,17 @@
 .kopf{padding:14px 0 0;border-top:5px double var(--tinte);text-align:center}
 .wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(30px,7vw,37px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
 
-/* GIFHORN als EIN SVG: unverändert aus v3.9 */
+/* GIFHORN als EIN SVG: unverändert aus v3.10 (Buchstaben 30px) */
 .wm-gifhorn{display:inline-block;vertical-align:middle;line-height:1;margin-top:0}
 .wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:30px;fill:var(--wiese);letter-spacing:.04em}
 .kopf-badge-row{margin:4px 0 0;text-align:center}
 
 /* Nav-Zeile mit überarbeitetem Favicon-Kasten:
-   Der Kasten (33px) trägt den Rahmen; das SVG wird darin auf 140 %
-   vergrößert und zentriert beschnitten — die interne Randzone des
-   favicon-light.svg wird abgeschnitten, das sichtbare RADAR-Zeichen
-   liegt bündig am Rahmen. */
+   Stärkerer Zoom-Crop (165%), um die großzügige interne Randzone des
+   favicon-light.svg zu beschneiden — sichtbares Zeichen liegt am Rahmen. */
 .nav-zeile{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:12px}
 .radar-mark{flex:0 0 auto;width:33px;height:33px;display:inline-block;border:1.5px solid rgba(43,36,28,.45);border-radius:4px;overflow:hidden;line-height:0;text-decoration:none;margin-top:-9px;background:transparent}
-.radar-mark img{width:140%;height:140%;max-width:none;transform:translateX(-14.3%);opacity:.92;display:block}
+.radar-mark img{width:165%;height:165%;max-width:none;transform:translateX(-18.2%);opacity:.92;display:block}
 .radar-mark:hover img{opacity:1}
 .nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
 .nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
@@ -45,29 +43,38 @@
 <body>
 <div class="wrap">
 
-<p class="entwurf-note">&#9888; Entwurf v3.10 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 11) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
+<p class="entwurf-note">&#9888; Entwurf v3.11 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 12) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
 
 <!-- ================================================================
-     NEUER KOPF (v3.10):
-     - WIESENZEITUNG 30/37px, GIFHORN dicht darunter (unverändert v3.9)
-     - Favicon-Kasten überarbeitet: 33px-Box mit dezentem Rahmen,
-       SVG-Inhalt auf 140% gezoomt und beschnitten → RADAR-Zeichen
-       liegt bündig am Rahmen (interne SVG-Randzone entfällt)
+     NEUER KOPF (v3.11):
+     - Mühle: FÜNF symmetrische Flügel (Stern um die Achse, 72°-Raster):
+       2 obere (leicht V-förmig), 2 seitliche, 1 nach unten — klassische
+       Holländermühlen-Flügelrose; Fuß bleibt bündig auf der Grundlinie
+     - Favicon: Zoom-Crop 165% (Randzone des SVG wird stärker beschnitten)
      ================================================================ -->
 <header class="kopf">
   <p class="wm-zeile1">WIESENZEITUNG</p>
-  <svg class="wm-gifhorn" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="GIFHORN — das I ersetzt durch die stilisierte Gifhorner Mühle">
+  <svg class="wm-gifhorn" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="GIFHORN — das I ersetzt durch die stilisierte Gifhorner Mühle mit fünf Flügeln">
     <text x="0" y="34">G</text>
+    <!-- Mühle v3.11: fünf Flügel im 72°-Stern um die Achse (32,33.5).
+         Flügel als Rauten von der Achse nach außen, Länge ~13 (in 64er-Einheiten):
+         Winkel (Grad, 0=oben): 18° und 162° (obere V-Form), 234°, 306° (seitlich),
+         90° unten. Achse: (32,33.5). Fuß auf Baseline y=34 via bekannte Transformation. -->
     <g transform="translate(14.5,34) scale(0.5625,0.7031) translate(0,-52)" stroke="#4e6b3a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <!-- Rumpf, Galerie, Kappe: unverändert -->
       <path d="M23.375 52 C23.375 41 27 35.5 32 35.5 C37 35.5 40.625 41 40.625 52 Z"/>
       <path d="M23.375 46.5 L40.625 46.5"/>
       <path d="M23.375 46.5 L23.375 52 M40.625 46.5 L40.625 52 M32 46.5 L32 52"/>
       <path d="M26.5 34 C26.5 29 29 26.5 32 26.5 C35 26.5 37.5 29 37.5 34"/>
       <circle cx="32" cy="33.5" r="1.8" fill="#4e6b3a" stroke="none"/>
+      <!-- Fünf Flügel im 72°-Stern (jeweils Rautenform von der Achse nach außen):
+           berechnet: Spitze = Achse + 13 * (sin, -cos) für Winkel 18/90/162/234/306° -->
       <g stroke-width="2.6">
-        <path d="M32 31 L30.4 15.5 L33.6 15.5 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
-        <path d="M31.8 32.5 L18.5 25 L20.1 22.4 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
-        <path d="M32.2 32.5 L45.5 25 L43.9 22.4 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
+        <path d="M32 33.5 L19.55 29.53 L21.34 27.69 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
+        <path d="M32 33.5 L42.66 27.69 L44.45 29.53 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
+        <path d="M32 33.5 L19.55 37.47 L21.34 39.31 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
+        <path d="M32 33.5 L42.66 39.31 L44.45 37.47 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
+        <path d="M32 33.5 L30.98 46.5 L33.02 46.5 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
       </g>
     </g>
     <text x="42" y="34">FHORN</text>
@@ -94,19 +101,18 @@
 <p class="meta">Ein Ableger von <a href="../index.html">RADAR 724</a>.</p>
 
 <div class="entwurf-box">
-<h3>Revision v3.10 — Favicon &uuml;berarbeitet (Zoom-in-Crop)</h3>
+<h3>Revision v3.11 — F&uuml;nf Fl&uuml;gel, st&auml;rkerer Favicon-Crop</h3>
 <ul style="font-size:14.5px">
-<li><b>Diagnose best&auml;tigt:</b> Das favicon-light.svg hat eine interne Randzone (wie auch das gro&szlig;e RADAR-Logo) — deshalb erschien das sichtbare Zeichen selbst mit anliegendem CSS-Rahmen nicht b&uuml;ndig.</li>
-<li><b>L&ouml;sung im Entwurf:</b> Der Kasten ist jetzt eine feste 33-px-Box mit Rahmen; das SVG wird darin auf <b>140&nbsp;% vergr&ouml;&szlig;ert und beschnitten</b> (overflow:hidden) — die interne Randzone f&auml;llt weg, das RADAR-Zeichen f&uuml;llt den Kasten bis zum Rahmen.</li>
-<li><b>Alternative f&uuml;r die Live-Umstellung:</b> Eigentlich sauberer w&auml;re ein eng geschnittenes SVG als eigenes Asset (z.&nbsp;B. <span style="font-family:var(--sans);font-size:12px">assets/radar-mark-tight.svg</span>, viewBox auf das Zeichen geschnitten) — kein Zoom-Nebenprodukt (Leichtkanten bei Skalierung). Empfehlung Design_R3: bei Freigabe das Tight-SVG nachliefern; der Zoom-Crop ist der verl&auml;ssliche Entwurfs-Workaround.</li>
-<li>Wortmarke, M&uuml;hle, Badge, Nav unver&auml;ndert aus v3.9.</li>
+<li><b>M&uuml;hle: f&uuml;nf symmetrische Fl&uuml;gel</b> als Stern im 72&deg;-Raster um die Achse: zwei obere (leichte V-Form), zwei seitliche, <b>zwei nach unten</b> (seitlich-unten + unten, wie gew&uuml;nscht) — die klassische Fl&uuml;gelrose der Galerieholl&auml;nder. Fu&szlig; bleibt b&uuml;ndig auf der Grundlinie.</li>
+<li><b>Favicon-Rahmen:</b> Zoom-Crop von 140&nbsp;% auf <b>165&nbsp;%</b> erh&ouml;ht — die gro&szlig;z&uuml;gige interne Randzone des favicon-light.svg wird jetzt deutlich st&auml;rker beschnitten, das Zeichen f&uuml;llt die 33-px-Box bis zum Rahmen.</li>
+<li>Wortmarke, GIFHORN-Buchstaben, Badge, Nav unver&auml;ndert.</li>
 </ul>
 </div>
 
 </main>
 <footer>
 <p><a href="impressum.html">Impressum</a> · <a href="about.html">Über diese Seite</a> · Ein Projekt von <a href="../index.html">RADAR 724</a></p>
-<p class="meta" style="margin-top:6px">Entwurf v3.10: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
+<p class="meta" style="margin-top:6px">Entwurf v3.11: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
 </footer>
 </div>
 </body>
