@@ -166,6 +166,8 @@ jobs:
       # Netz komplett. Erfolg, wenn Status "built" UND (Push: Build-
       # Commit == Run-SHA; Dispatch: Status reicht). HTTP-Check nur
       # noch als Zweitmeinung (falls API mal nicht antwortet).
+      # Fix 10 (Run 21, Abendausgabe #34): Build-Status "superseded"
+      # (durch schnelle Folge-Pushes ersetzt) gilt ebenfalls als deployed.
       # Fix 9 (Run 20, Mittags-Ausgabe #33): SHA-Abgleich gegen
       # den LATEST-Build bricht bei parallelen Pushes — Nachfolge-
       # Commits uebernehmen "latest" in Minuten. Jetzt: Build-LISTE,
@@ -211,8 +213,12 @@ jobs:
             MY_STATUS=$(printf '%s' "$MY_BUILD" | jq -r '.status // empty' 2>/dev/null || true)
             LATEST_STATUS=$(printf '%s' "$API_JSON" | jq -r 'sort_by(.created_at) | last | .status // empty' 2>/dev/null || true)
             echo "Pages-API: Build fuer Run-SHA ${GITHUB_SHA:0:10}: '${MY_STATUS:-kein Eintrag}'; latest Build: '${LATEST_STATUS:-unbekannt}'"
-            if [ "$MY_STATUS" = "built" ]; then
-              echo "Pages-API bestätigt Deploy (built, Run-SHA-Build) — Post wird freigegeben."
+            # Fix 10 (Run 21, Abendausgabe #34): Schnelle Folge-Pushes
+            # (index/archive/feed) superseden den Run-SHA-Build, bevor er
+            # "built" erreicht — der Inhalt ist aber im Folge-Build live.
+            # Superseded gilt daher ebenfalls als deployed.
+            if [ "$MY_STATUS" = "built" ] || [ "$MY_STATUS" = "superseded" ]; then
+              echo "Pages-API bestätigt Deploy (Status: $MY_STATUS, Run-SHA-Build) — Post wird freigegeben."
               echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
               exit 0
             fi
