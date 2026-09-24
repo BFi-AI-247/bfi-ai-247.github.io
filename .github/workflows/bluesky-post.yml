@@ -339,11 +339,17 @@ les.outputs.new == 'true' && steps.deploy.outputs.waited != ''
                   else:
                       prefix = "RADAR 724"
                       link = "https://radar724.de/posts/" + os.path.basename(fname)
-                  text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + " #KI #News"
+                  # Fix 13 (25.09.2026, Betreiber-Wunsch): WZG-Posts mit #Gifhorn statt
+                  # #KI (Lokalbezug schlaegt Generik beim Lokalkanal).
+                  if prefix == "WZG":
+                      tags = " #Gifhorn #News"
+                  else:
+                      tags = " #KI #News"
+                  text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
                   if len(text) > 296:
-                      cut = 296 - len(link) - len(" … · ") - len(" #KI #News")
+                      cut = 296 - len(link) - len(" … · ") - len(tags)
                       headline = headline[:cut] + "…"
-                      text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + " #KI #News"
+                      text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
                   # Facets: Link + Hashtags (Bluesky-Postings brauchen byte-exakte Ranges)
                   facets = []
                   enc = text.encode("utf-8")
@@ -351,7 +357,7 @@ les.outputs.new == 'true' && steps.deploy.outputs.waited != ''
                   if pos >= 0:
                       facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
                                      "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
-                  for tag in re.finditer(r"#(KI|News)", text):
+                  for tag in re.finditer(r"#(KI|News|Gifhorn)", text):
                       b0 = len(text[:tag.start()].encode("utf-8"))
                       b1 = len(text[:tag.end()].encode("utf-8"))
                       facets.append({"index": {"byteStart": b0, "byteEnd": b1},
