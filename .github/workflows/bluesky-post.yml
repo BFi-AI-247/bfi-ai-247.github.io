@@ -58,12 +58,11 @@ jobs:
       # (neuer Branch, Force-Push, flacher Checkout).
       # workflow_dispatch mit post_file: gezieltes Nachholen einer
       # verpassten Ausgabe — mit State-Pruefung (Anti-Duplikat).
-      # Fix 3 (Run 7+8 fehlgeschlagen trotz korrekter Eingabe):
-      # Robuste Aufloesung — der Datum-Schluessel (JJJJ-MM-DD-slot)
-      # wird per grep aus der EINGABE extrahiert, egal ob Pfad, volle
-      # URL, "post_file ="-Reste, Whitespace oder unsichtbare Zeichen
-      # drumherum stehen. Zusaetzlich Diagnose-Ausgabe: was ankam
-      # und wozu es aufgeloest wurde.
+      # Fix 3 (Run 7+8): Robuste Aufloesung — der Datum-Schluessel
+      # (JJJJ-MM-DD-slot) wird per grep aus der EINGABE extrahiert,
+      # egal ob Pfad, volle URL, "post_file ="-Reste, Whitespace oder
+      # unsichtbare Zeichen drumherum stehen. Zusaetzlich
+      # Diagnose-Ausgabe: was ankam und wozu es aufgeloest wurde.
       # ============================================================
       - name: Neue posts-Dateien bestimmen (nur hinzugefuegte)
         if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false') || (github.event_name == 'workflow_dispatch' && inputs.post_file != '')
@@ -152,6 +151,13 @@ jobs:
       # laesst sich nicht "un-klicken" — bei Deploy-Problemen ist die
       # Seite oft laenger weg, dann waere Post UND Vertrauen verloren.
       #
+      # Fix 4 (Run 9, Exit-Code 6): GitHub Actions laeuft mit bash -e.
+      # Schlug curl auf Transport-Ebene fehl (z. B. transienter
+      # DNS-Fehler des Runners, Exit 6 "Could not resolve host"),
+      # starb der GESAMTE Schritt sofort, statt als "noch nicht
+      # erreichbar" zu gelten und neu zu pollen. Jetzt: curl-Fehler
+      # wird als HTTP 000 gewertet → normaler Poll-Loop mit Retry.
+      #
       # Timing-Parameter: Poll-Intervall 60s, Gesamt-Timeout 900s
       # (15 Min — GitHub Pages braucht selten laenger).
       # Reihenfolge: Poll -> Post -> State-Commit (unveraendert).
@@ -175,7 +181,7 @@ jobs:
           while [ $ELAPSED -lt $TIMEOUT ]; do
             ALL_OK=1
             for u in $URLS; do
-              CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "$u")
+              CODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "$u" || echo 000)
               if [ "$CODE" != "200" ]; then
                 ALL_OK=0
                 echo "Noch nicht erreichbar (HTTP $CODE): $u"
