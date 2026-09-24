@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[TESTANSICHT] Ausgabe #34 — Quellen-Design mit Grünem Blink — RADAR 724</title>
+<link rel="stylesheet" href="styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Roadmap P.60, Design_R3): statisches Signal-SVG, 10px, inline neben der credit-Zeile */
+.blink{display:inline-block;width:10px;height:10px;margin-left:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Nur Testansicht: Kennzeichnung */
+.test-note{border:1px dashed var(--accent);border-radius:4px;padding:10px 14px;font-size:13px;margin:10px 0 18px}
+.test-note b{letter-spacing:.06em}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Testansicht (keine echte Ausgabe)</p>
+<nav>
+<a href="index.html">&laquo; Übersicht</a>
+<a href="archive.html">Archiv</a>
+<a href="about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="test-note"><b>TESTANSICHT (Design_R3, 24.09.2026):</b> Grüner Blink (Roadmap P.60) + neue Zweitquellen-Formulierung „Auch berichtet durch:" (P.61) — gültig ab Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
+
+<p class="meta">Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um XX:XX Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Tech &amp; KI / Wirtschaft / Klima &amp; Umwelt</p>
+<h1 class="post-title">TESTANSICHT AUSGABE #34 — Blink &amp; Zweitquellen-Formulierung</h1>
+
+<h2 class="section">TECH &amp; KI</h2>
+<div class="item">
+<h3>Beispiel 1 — Beitrag MIT Blink über Bedingung A (zwei Zweitquellen)</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>
+<p>Fließtext des Beitrags. Die Primärquelle steht unter der Überschrift, der grüne Blink direkt daneben — statisch, mit Tooltip. Darunter die Zweitquellen in der neuen Formulierung: Links auf den Medianamen, Trenner „—".</p>
+<span class="source secondary">Auch berichtet durch: <a href="#" rel="noopener">tagesschau</a> — <a href="#" rel="noopener">heise online</a>.</span>
+</div>
+
+<div class="item">
+<h3>Beispiel 2 — Beitrag MIT Blink über Bedingung B (Absolute Primärquelle, z.&nbsp;B. ESA)</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — ESA.</span>
+<span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>
+<p>Bei einer Absoluten Primärquelle (Bedingung B) steht der Blink direkt — ohne Zweitquellen-Zeile darunter. Die Primärquelle ist Urheber des Sachverhalts selbst.</p>
+</div>
+
+<div class="item">
+<h3>Beispiel 3 — Beitrag OHNE Blink (nur eine Zweitquelle — Verifikationspflicht erfüllt, kein Anspruch auf Blink)</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Kein Blink: Weder zwei unabhängige Zweitquellen noch eine Absolute Primärquelle. Die Meldung läuft regulär — der Blink ist optional, kein Zweitquellen-Zwang.</p>
+<span class="source secondary">Auch berichtet durch: <a href="#" rel="noopener">Beispiel-Zweitquelle</a>.</span>
+</div>
+
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Testansicht &middot; <a href="index.html">Übersicht</a> &middot; <a href="archive.html">Archiv</a> &middot; <a href="about.html">Über diese Seite</a></p>
+</footer>
+</div>
+</body>
+</html>
