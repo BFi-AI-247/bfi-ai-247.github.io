@@ -27,17 +27,20 @@
    1. TOP NEWS — stärkste Meldung der Ausgabe, NUR hier (nicht nochmal
       in einer Rubrik), mit Rubrik-Verweis als Label
    2. GOOD NEWS — positiv besetzte Meldung, ERWÜNSCHT aber OPTIONAL
-      (keine erzwungene Good News; Block entfällt komplett, wenn leer)
+      (keine erzwungene Good News; Block entfällt komplett, wenn leer);
+      nennt ebenfalls ihre Rubrik als Label (rubrik-ref)
    3. BuyMeACoffee (support-slim, GENAU EINMAL — neue feste Position)
    4. Die drei Rubriken wie gehabt (ohne die Top-News-Meldung)
    ============================================================ */
 
-/* Top News: normale Section-Optik, Item mit Rubrik-Label */
+/* Rubrik-Label über der Headline (Top News UND Good News) */
 .rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
 #topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
 
-/* Good News: dezenter positiver Akzent — Rahmen-Links in Akzentfarbe,
-   keine Sonder-Optik, die die neutrale Berichterstattung überlagert */
+/* Good News: dezenter positiver Akzent — Farbstreifen links, Akzentfarbe
+   in der Rubriken-Überschrift; keine Sonder-Optik, die die neutrale
+   Berichterstattung überlagert */
 #goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
 #goodnews h2{color:var(--accent)}
 
@@ -57,7 +60,7 @@
 </nav>
 </header>
 <main>
-<p class="test-note"><b>DESIGN-VORSCHLAG (Design_R3, 24.09.2026):</b> Neue Ausgaben-Struktur — Top News (stärkste Meldung, nur oben, mit Rubrik-Verweis) → Good News (optional, positiv besetzt) → BuyMeACoffee → Rubriken. Basis: Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
+<p class="test-note"><b>DESIGN-VORSCHLAG (Design_R3, 24.09.2026):</b> Neue Ausgaben-Struktur — Top News (stärkste Meldung, nur oben, mit Rubrik-Verweis) → Good News (optional, positiv besetzt, ebenfalls mit Rubrik-Verweis) → BuyMeACoffee → Rubriken. Basis: Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
 
 <p class="meta">Beispiel: Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um XX:XX Uhr (Europe/Berlin)</p>
 <p class="meta">Rubriken: Wirtschaft / Tech &amp; KI / Klima &amp; Umwelt</p>
@@ -82,12 +85,15 @@
      Keine erzwungene Good News — wenn keine ehrlich positive Nachricht
      dabei ist, entfällt dieser Block KOMPLETT (kein Platzhalter, keine
      Aufblähung). Dann rückt die Support-Zeile direkt hinter Top News.
+     Auch die Good News nennt ihre Rubrik als Label (rubrik-ref) —
+     gleiche Konvention wie bei Top News.
      ============================================================ -->
 <h2 class="section" id="goodnews">GOOD NEWS</h2>
 <div class="item">
+<span class="rubrik-ref">Rubrik: Tech &amp; KI</span>
 <h3>BEISPIEL: Eine positiv besetzte Nachricht des Tages</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
-<p>Fließtext der Good News — eine ehrlich positive Nachricht (Erfolg, Fortschritt, Eröffnung, versöhnlicher Ausgang). Der dezente Akzent (Farbstreifen links, Akzentfarbe in der Rubriken-Überschrift) signalisiert die Positiv-Zone, ohne die neutrale Berichterstattung zu überlagern. Keine Good-News-Pflicht: bei stiller Lage entfällt der Block ersatzlos.</p>
+<p>Fließtext der Good News — eine ehrlich positive Nachricht (Erfolg, Fortschritt, Eröffnung, versöhnlicher Ausgang). Der dezente Akzent (Farbstreifen links, Akzentfarbe in der Rubriken-Überschrift) signalisiert die Positiv-Zone, ohne die neutrale Berichterstattung zu überlagern. Auch hier nennt das Label die Herkunfts-Rubrik. Keine Good-News-Pflicht: bei stiller Lage entfällt der Block ersatzlos.</p>
 <span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="#" rel="noopener">heise online</a> — <a href="#" rel="noopener">tagesschau</a>.</span>
 </div>
 
