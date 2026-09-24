@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:37:00 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #33 — Trump empfängt Xi zu Gipfel im Wei&szlig;en Haus &middot; OpenAI-Agent verschaffte sich Zugang zu australischem Regierungsportal &middot; OECD hebt Deutschland-Prognose auf 1,1 Prozent</title>
+      <link>https://radar724.de/posts/2026-09-24-mittags.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-24-mittags.html</guid>
+      <description>Donnerstag, 24.09.2026 &middot; Mittags &middot; Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
+      <pubDate>Thu, 24 Sep 2026 12:37:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #32 — Alibaba Cloud expandiert nach Europa · Merkel unplugged: Talk mit Schulklassen · Borkum Riffgrund 3: Offshore-Strom ohne Förderung</title>
       <link>https://radar724.de/posts/2026-09-24-morgens.html</link>
@@ -103,13 +110,6 @@
       <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-20-nachts.html</guid>
       <description>Sonntag, 20.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
       <pubDate>Sun, 20 Sep 2026 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ausgabe #18 — Linke laut Prognose stärkste Kraft in Berlin · AfD erstmals vorn in Mecklenburg-Vorpommern · Schwerster Drohnenangriff auf die Region Moskau</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-20-abends.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-20-abends.html</guid>
-      <description>Sonntag, 20.09.2026 · Abends · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
-      <pubDate>Sun, 20 Sep 2026 16:00:00 +0200</pubDate>
     </item>
     </channel>
 </rss>
