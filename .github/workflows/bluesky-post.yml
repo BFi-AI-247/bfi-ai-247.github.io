@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write
+  pages: read
 
 concurrency:
   group: bluesky-post
@@ -154,17 +155,23 @@ jobs:
       # Fix 4 (Run 9, Exit-Code 6): bash -e tötete den Schritt bei
       # curl-Transportfehlern sofort — jetzt HTTP 000 + Poll-Loop.
       # Fix 5 (Run 10): curl --retry 5 innerhalb eines Poll-Zyklus.
-      # Fix 6 (Run 11, 000 auf zwei Runnern): Die Runner loesen
-      # radar724.de systematisch nicht auf (DNS), obwohl die Domain
-      # extern einwandfrei funktioniert. Fallback: Bei Transportfehler
-      # (000) wird das Pages-Ziel unter bfi-ai-247.github.io geprueft —
-      # liefert es 200, ist der Deploy nachweislich LIVE und der
-      # Runner hat nur ein DNS-Problem (das echte Leser nicht haben);
-      # der Post wird freigegeben. Zusaetzlich curl -4 (IPv4 erzwingen,
-      # um IPv6-Aufloesungsprobleme auszuschliessen).
+      # Fix 6 (Run 11/12, 000 auf drei Runnern): Runner lösen
+      # radar724.de UND bfi-ai-247.github.io nicht auf (DNS-Problem
+      # der Runner, nicht der Domain). HTTP-Checks am Runner sind
+      # damit als primaeres Kriterium unbrauchbar.
+      #
+      # Fix 7 (Run 12, Timeout nach 15 Zyklen): Deploy-Check PRIMAER
+      # ueber die GitHub Pages-API (/pages/builds/latest, mit
+      # GITHUB_TOKEN, permission pages: read) — umgeht das Runner-
+      # Netz komplett. Erfolg, wenn Status "built" UND (Push: Build-
+      # Commit == Run-SHA; Dispatch: Status reicht). HTTP-Check nur
+      # noch als Zweitmeinung (falls API mal nicht antwortet).
+      # Zusaetzlich: Timeout jetzt Wallclock ($SECONDS) statt
+      # ELAPSED-Zaehler, der nur Schlafzeit zaehlte und den Poll
+      # real ~30 statt 15 Minuten laufen liess.
       #
       # Timing-Parameter: Poll-Intervall 60s, Gesamt-Timeout 900s
-      # (15 Min — GitHub Pages braucht selten laenger).
+      # Wallclock (15 Min — GitHub Pages braucht selten laenger).
       # Reihenfolge: Poll -> Post -> State-Commit (unveraendert).
       # Gilt fuer ALLE Pfade: Push-Ausgabenpost, Nachholen (post_file)
       # UND workflow_dispatch-Testpost.
@@ -172,6 +179,8 @@ jobs:
       - name: Auf Pages-Deploy warten (Live-Check vor dem Post)
         id: deploy
         if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true') || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -f social/_new.txt ]; then
             URLS=$(sed 's|^posts/|https://radar724.de/posts/|' social/_new.txt)
@@ -180,12 +189,34 @@ jobs:
           fi
           INTERVAL=60
           TIMEOUT=900
-          ELAPSED=0
-          echo "Warte auf Pages-Deploy — pruefe: $URLS"
-          while [ $ELAPSED -lt $TIMEOUT ]; do
+          echo "Warte auf Pages-Deploy — primaer Pages-API, sekundaer HTTP: $URLS"
+          while [ $SECONDS -lt $TIMEOUT ]; do
+            # --- Weg 1: Pages-API (umgeht Runner-DNS-Probleme) ---
+            API_JSON=$(curl -s --retry 3 --retry-delay 5 --retry-all-errors --max-time 20 \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/BFi-AI-247/bfi-ai-247.github.io/pages/builds/latest" || echo '{}')
+            read -r API_STATUS API_COMMIT <<< "$(printf '%s' "$API_JSON" | python3 -c 'import sys,json
+try:
+    d = json.load(sys.stdin)
+    print(d.get("status",""), d.get("commit",""))
+except Exception:
+    print("", "")')" 2>/dev/null || true
+            API_COMMIT=$(printf '%s' "$API_COMMIT" | tr -cd "0-9a-f")
+            echo "Pages-API: Status='${API_STATUS:-unbekannt}' Commit='${API_COMMIT:0:10}' (Run-SHA: ${GITHUB_SHA:0:10})"
+            if [ "$API_STATUS" = "built" ]; then
+              if [ "$GITHUB_EVENT_NAME" != "push" ] || [ "$API_COMMIT" = "$GITHUB_SHA" ]; then
+                echo "Pages-API bestätigt Deploy (built) — Post wird freigegeben."
+                echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
+                exit 0
+              else
+                echo "Neuester Build gehoert zu anderem Commit — warte weiter."
+              fi
+            fi
+            # --- Weg 2: HTTP-Zweitmeinung (falls API nicht verfuegbar) ---
             ALL_OK=1
             for u in $URLS; do
-              CODE=$(curl -4 -s -o /dev/null -w '%{http_code}' --retry 5 --retry-delay 10 --retry-all-errors --max-time 20 "$u" || echo 000)
+              CODE=$(curl -4 -s -o /dev/null -w '%{http_code}' --retry 2 --retry-delay 5 --retry-all-errors --max-time 20 "$u" || echo 000)
               if [ "$CODE" != "200" ]; then
                 FB=$(printf '%s' "$u" | sed 's|https://radar724.de|https://bfi-ai-247.github.io|')
                 FBCODE=$(curl -4 -s -o /dev/null -w '%{http_code}' --retry 2 --retry-delay 5 --retry-all-errors --max-time 20 "$FB" || echo 000)
@@ -193,20 +224,19 @@ jobs:
                   echo "Custom Domain am Runner nicht auflösbar (HTTP $CODE), Pages-Deploy aber LIVE unter $FB (HTTP 200) — Deploy gilt als erreichbar."
                 else
                   ALL_OK=0
-                  echo "Noch nicht erreichbar (HTTP $CODE, Fallback $FBCODE): $u"
+                  echo "HTTP-Check: noch nicht erreichbar (HTTP $CODE, Fallback $FBCODE): $u"
                   break
                 fi
               fi
             done
             if [ $ALL_OK -eq 1 ]; then
-              echo "SEITE ERREICHBAR nach ${ELAPSED}s — Post wird freigegeben."
-              echo "waited=$ELAPSED" >> "$GITHUB_OUTPUT"
+              echo "SEITE ERREICHBAR nach ${SECONDS}s — Post wird freigegeben."
+              echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             sleep $INTERVAL
-            ELAPSED=$((ELAPSED + INTERVAL))
           done
-          echo "ZEITUEBERSCHREITUNG: Live-Seite nach ${TIMEOUT}s nicht erreichbar ($URLS)." >&2
+          echo "ZEITUEBERSCHREITUNG: Pages-API lieferte kein built und HTTP-Checks schlugen nach ${TIMEOUT}s fehl ($URLS)." >&2
           echo "KEIN Post erfolgt (toter Link vermieden — Architekten-Entscheidung b)." >&2
           echo "Nachholen: Actions -> 'Bluesky-Post bei neuer Ausgabe' -> Run workflow -> post_file ausfuellen." >&2
           exit 1
