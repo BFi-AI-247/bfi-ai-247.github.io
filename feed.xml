@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 18:39:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:48:00 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #35 — Update: Trump empfängt Xi mit Staatszeremonie im Weißen Haus · Muse Charm: Metas KI-Gadget für die Hosentasche · Weinstein erneut verurteilt — 15 Jahre Haft</title>
+      <link>https://radar724.de/posts/2026-09-24-nachts.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-24-nachts.html</guid>
+      <description>Donnerstag, 24.09.2026 · Nachts · Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien</description>
+      <pubDate>Thu, 24 Sep 2026 23:48:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #34 — Ifo-Geschäftsklima auf Höchststand seit Mai 2023 · US-Richter stoppt Medien-Hausverbot im Weißen Haus · KI-Modell entdeckt neues Enzymsystem</title>
       <link>https://radar724.de/posts/2026-09-24-abends.html</link>
@@ -104,12 +111,5 @@
       <description>Montag, 21.09.2026 · Mittags · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
       <pubDate>Mon, 21 Sep 2026 10:00:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #20 — USA schlagen KI-Warnsystem im China-Dialog vor · Autobranche vor bundesweitem Protesttag · Selenskyj kündigt Trump-Treffen an</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-21-morgens.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-21-morgens.html</guid>
-      <description>Montag, 21.09.2026 · Morgens · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
-      <pubDate>Mon, 21 Sep 2026 04:00:00 +0200</pubDate>
-    </item>
-        </channel>
+            </channel>
 </rss>
