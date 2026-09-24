@@ -1,0 +1,31 @@
+/* ============================================================
+   wzgV1-zusatz.css — Kopf-Design Wortmarke (Design_R3, Freigabe
+   Björn_0 24.09.2026, Roadmap Punkt 56, Kandidat v3.14)
+   Ergänzung zur Design-Ära 1: wzgV1.css bleibt unangetastet.
+   Geladen von index.html und allen WZG-Ausgaben ab Ausgabe #2.
+   ============================================================ */
+
+/* Kopf: komplett zentriert */
+.kopf{padding:14px 0 0;border-top:5px double var(--tinte);text-align:center}
+
+/* Wortmarke Zeile 1: WIESENZEITUNG (klar über GIFHORN) */
+.wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(32px,7.4vw,39px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
+
+/* GIFHORN als EIN SVG (das I ersetzt die stilisierte Gifhorner Mühle):
+   Buchstaben 30px Wiesengrün; Mühle Fußbreite ±7,33 E., Höhe-Skalierung
+   0.8086, Fuß exakt auf Buchstaben-Grundlinie (y=34) — SVG-Block 1:1 aus
+   der Live-index.html bzw. der Format-Vorlage übernehmen. */
+.wm-gifhorn{display:inline-block;vertical-align:middle;line-height:1;margin-top:0}
+.wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:30px;fill:var(--wiese);letter-spacing:.04em}
+
+/* ki-badge-Zeile unter dem Wortblock */
+.kopf-badge-row{margin:4px 0 0;text-align:center}
+
+/* Nav-Zeile: Start/Archiv/Über zentriert, RADAR-Mark ganz rechts */
+.nav-zeile{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:12px}
+.radar-mark{flex:0 0 auto;display:inline-block;line-height:0;text-decoration:none;margin-top:-4.9px}
+.radar-mark svg{display:block}
+.radar-mark:hover svg{opacity:1}
+.nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
+.nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
+.nav-zeile nav a:hover{color:var(--wiese);border-color:var(--wiese)}
