@@ -166,6 +166,10 @@ jobs:
       # Netz komplett. Erfolg, wenn Status "built" UND (Push: Build-
       # Commit == Run-SHA; Dispatch: Status reicht). HTTP-Check nur
       # noch als Zweitmeinung (falls API mal nicht antwortet).
+      # Fix 9 (Run 20, Mittags-Ausgabe #33): SHA-Abgleich gegen
+      # den LATEST-Build bricht bei parallelen Pushes — Nachfolge-
+      # Commits uebernehmen "latest" in Minuten. Jetzt: Build-LISTE,
+      # Erfolg wenn ein Build mit commit == Run-SHA "built" ist.
       # Fix 8 (Run 18, Startup-Failure): Fix 7 hatte im run-Block
       # un-eingeruckte Python-Zeilen (YAML-Block-Scalar kaputt,
       # Workflow lief nicht mal an). Jetzt: JSON-Parsing via jq
@@ -196,22 +200,26 @@ jobs:
           echo "Warte auf Pages-Deploy — primaer Pages-API, sekundaer HTTP: $URLS"
           while [ $SECONDS -lt $TIMEOUT ]; do
             # --- Weg 1: Pages-API (umgeht Runner-DNS-Probleme) ---
+            # Fix 9: Build-LISTE statt /latest — parallele Pushes
+            # (index/archive/feed/WZG) ueberholen "latest" sonst in
+            # Minuten; der Run-SHA-Build ist dann nie mehr "latest".
             API_JSON=$(curl -s --retry 3 --retry-delay 5 --retry-all-errors --max-time 20 \
               -H "Authorization: Bearer $GH_TOKEN" \
               -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/BFi-AI-247/bfi-ai-247.github.io/pages/builds/latest" || echo '{}')
-            API_STATUS=$(printf '%s' "$API_JSON" | jq -r '.status // empty' 2>/dev/null || true)
-            API_COMMIT=$(printf '%s' "$API_JSON" | jq -r '.commit // empty' 2>/dev/null | tr -cd '0-9a-f')
-            API_COMMIT=$(printf '%s' "$API_COMMIT" | tr -cd "0-9a-f")
-            echo "Pages-API: Status='${API_STATUS:-unbekannt}' Commit='${API_COMMIT:0:10}' (Run-SHA: ${GITHUB_SHA:0:10})"
-            if [ "$API_STATUS" = "built" ]; then
-              if [ "$GITHUB_EVENT_NAME" != "push" ] || [ "$API_COMMIT" = "$GITHUB_SHA" ]; then
-                echo "Pages-API bestätigt Deploy (built) — Post wird freigegeben."
-                echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
-                exit 0
-              else
-                echo "Neuester Build gehoert zu anderem Commit — warte weiter."
-              fi
+              "https://api.github.com/repos/BFi-AI-247/bfi-ai-247.github.io/pages/builds?per_page=100" || echo '[]')
+            MY_BUILD=$(printf '%s' "$API_JSON" | jq -r --arg sha "$GITHUB_SHA" '[.[] | select(.commit == $sha)] | sort_by(.created_at) | last // empty' 2>/dev/null || true)
+            MY_STATUS=$(printf '%s' "$MY_BUILD" | jq -r '.status // empty' 2>/dev/null || true)
+            LATEST_STATUS=$(printf '%s' "$API_JSON" | jq -r 'sort_by(.created_at) | last | .status // empty' 2>/dev/null || true)
+            echo "Pages-API: Build fuer Run-SHA ${GITHUB_SHA:0:10}: '${MY_STATUS:-kein Eintrag}'; latest Build: '${LATEST_STATUS:-unbekannt}'"
+            if [ "$MY_STATUS" = "built" ]; then
+              echo "Pages-API bestätigt Deploy (built, Run-SHA-Build) — Post wird freigegeben."
+              echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if [ "$GITHUB_EVENT_NAME" != "push" ] && [ "$LATEST_STATUS" = "built" ]; then
+              echo "Dispatch: Kein eigener Build-Eintrag, latest Build aber built — Post wird freigegeben."
+              echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
+              exit 0
             fi
             # --- Weg 2: HTTP-Zweitmeinung (falls API nicht verfuegbar) ---
             ALL_OK=1
