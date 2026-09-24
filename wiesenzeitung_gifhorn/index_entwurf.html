@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[ENTWURF v3.4] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
+<title>[ENTWURF v3.5] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
 <link rel="stylesheet" href="assets/wzgV1.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
 <style>
 /* ============================================================
-   ENTWURF v3.4 (24.09.2026, Design_R3, Betreiber-Feedback Runde 5,
+   ENTWURF v3.5 (24.09.2026, Design_R3, Betreiber-Feedback Runde 6,
    Roadmap Punkt 56) — NICHT FREIGEGEBEN, kein Live-Stand.
    wzgV1.css bleibt unangetastet; neue Klassen sind Entwurfs-
    Erweiterungen und wandern bei Freigabe versionierbar ins Live-Design.
@@ -16,13 +16,13 @@
 
 /* Kopf: komplett zentriert */
 .kopf{padding:14px 0 0;border-top:5px double var(--tinte);text-align:center}
-.wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(28px,6.5vw,35px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
+.wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(26px,6vw,33px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
 
-/* GIFHORN als EIN SVG: Buchstaben G + FHORN als SVG-Text,
-   Mühle ersetzt das I — alle Elemente teilen die exakte SVG-Baseline (y=34),
-   Grundlinien-Bündigkeit ist damit mathematisch exakt, nicht CSS-Gefühlsache. */
+/* GIFHORN als EIN SVG (v3.5): Buchstaben 2 Punkte kleiner (32px),
+   Mühle unverändert — Positionen auf Basis der Schriftbreiten berechnet:
+   G-Advance ≈28px + Buchstaben-Abstand, Mühle im I-Slot, FHORN direkt danach. */
 .wm-gifhorn{display:inline-block;vertical-align:middle;line-height:1;margin-top:2px}
-.wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:34px;fill:var(--wiese);letter-spacing:.04em}
+.wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:32px;fill:var(--wiese);letter-spacing:.04em}
 .kopf-badge-row{margin:4px 0 0;text-align:center}
 
 /* Nav-Zeile: helles RADAR-Favicon links auf Schrift-Höhe (33px) */
@@ -43,26 +43,26 @@
 <body>
 <div class="wrap">
 
-<p class="entwurf-note">&#9888; Entwurf v3.4 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 5) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
+<p class="entwurf-note">&#9888; Entwurf v3.5 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 6) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
 
 <!-- ================================================================
-     NEUER KOPF (v3.4):
-     - WIESENZEITUNG zentriert (HTML-Text, unverändert)
-     - GIFHORN als EIN SVG: G + Mühle (statt I) + FHORN —
-       Mühle und Buchstaben teilen die exakte SVG-Grundlinie y=34:
-       Mühlen-Fuß (y=52 im 64er-Raum) wird auf y=34 transformiert,
-       Buchstaben-Text-Baseline ebenfalls y=34 → unten bündig, garantiert.
+     NEUER KOPF (v3.5):
+     - WIESENZEITUNG zentriert (26/33px, −2 Punkte)
+     - GIFHORN als EIN SVG: Buchstaben 32px (−2 Punkte), Mühle
+       behält ihre Größe; Mühle im I-Slot MIT BUCHSTABEN-FLUSS:
+       G endet bei ≈28px, Mühle schließt sich im normalen
+       Zeichenabstand an, FHORN folgt auf normalen Abstand.
+       Baseline aller Elemente: y=34 (Mühlen-Fuß exakt auf Grundlinie).
      - ki-badge zentriert, eng am Kopf (4px)
      - Nav-Zeile: RADAR-Favicon links auf Schrift-Höhe (33px), verlinkt
      ================================================================ -->
 <header class="kopf">
   <p class="wm-zeile1">WIESENZEITUNG</p>
-  <svg class="wm-gifhorn" width="212" height="40" viewBox="0 0 212 40" role="img" aria-label="GIFHORN — das I ersetzt durch die stilisierte Gifhorner Mühle">
-    <!-- Mühle im 64er-Koordinatenraum, auf Baseline transformiert:
-         translate(34,34) scale(0.5625) translate(0,-52)
-         → Mühlen-Fuß (y=52) landet exakt auf der Text-Baseline (y=34),
-         Flügelspitzen (y≈15.5) bei ≈13 — alles im viewBox. -->
-    <g transform="translate(34,34) scale(0.5625) translate(0,-52)" stroke="#4e6b3a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <svg class="wm-gifhorn" width="172" height="40" viewBox="0 0 172 40" role="img" aria-label="GIFHORN — das I ersetzt durch die stilisierte Gifhorner Mühle">
+    <text x="0" y="34">G</text>
+    <!-- Mühle im I-Slot: Zentrum bei x≈35 (G-Advance 28 + halbe Mühlenbreite 7),
+         Fuß auf Baseline y=34 — Transformation: translate(17,34) scale(0.5625) translate(0,-52) -->
+    <g transform="translate(17,34) scale(0.5625) translate(0,-52)" stroke="#4e6b3a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
       <path d="M23 52 C23 41 27 35.5 32 35.5 C37 35.5 41 41 41 52 Z"/>
       <path d="M20.5 46.5 L43.5 46.5"/>
       <path d="M23 46.5 L23 52 M41 46.5 L41 52 M32 46.5 L32 52"/>
@@ -74,8 +74,7 @@
         <path d="M32.2 32.5 L45.5 25 L43.9 22.4 Z" fill="#4e6b3a" fill-opacity=".16" stroke="#4e6b3a"/>
       </g>
     </g>
-    <text x="0" y="34">G</text>
-    <text x="66" y="34">FHORN</text>
+    <text x="45" y="34">FHORN</text>
   </svg>
   <p class="kopf-badge-row"><span class="ki-badge">KI-generiert</span></p>
 </header>
@@ -99,23 +98,22 @@
 <p class="meta">Ein Ableger von <a href="../index.html">RADAR 724</a>.</p>
 
 <!-- ================================================================
-     ENTSCHEIDUNGEN DIESER REVISION (v3.4)
+     ENTSCHEIDUNGEN DIESER REVISION (v3.5)
      ================================================================ -->
 <div class="entwurf-box">
-<h3>Revision v3.4 — GIFHORN als ein SVG mit I-M&uuml;hle</h3>
+<h3>Revision v3.5 — Buchstabenfluss korrigiert</h3>
 <ul style="font-size:14.5px">
-<li><b>Gesamtes GIFHORN als ein SVG:</b> Buchstaben G und FHORN als SVG-Text (Serif, Wiesengr&uuml;n, 34&nbsp;px), die M&uuml;hle ersetzt das I — alles in einem Koordinatensystem.</li>
-<li><b>Exakte Grundlinien-B&uuml;ndigkeit:</b> M&uuml;hlen-Fu&szlig; und Text-Baseline liegen beide auf y=34 — die B&uuml;ndigkeit ist jetzt mathematisch garantiert statt per CSS-Feintuning (translateY/vertical-align), unabh&auml;ngig vom Browser-Font-Rendering.</li>
-<li><b>Positionierung:</b> G bei x=0, M&uuml;hle zentriert bei x=34 (Breite ≈15 nach Skalierung), FHORN ab x=66 — gro&szlig;z&uuml;gige Abst&auml;nde, keine Kollision unabh&auml;ngig von der konkreten Serifenschrift.</li>
-<li>ki-badge weiter auf 4&nbsp;px Abstand, Wortmarke Zeile 1 unver&auml;ndert, Nav-Zeile unver&auml;ndert.</li>
+<li><b>Ursache des Flussbruchs (v3.4):</b> Die Mühle stand bei festem x=34, aber das breite „G" endet erst bei ≈28&nbsp;px — dadurch riss eine unnat&uuml;rlich gro&szlig;e Lücke zwischen G und M&uuml;hle, ehe FHORN (x=66) mit weiterem Luftabstand folgte. Die M&uuml;hle lag „neben" dem Wort statt „in" ihm.</li>
+<li><b>Fix:</b> M&uuml;hlen-Zentrum jetzt bei x≈35 (G-Ende + normaler Zeichenabstand), FHORN folgt bei x=45 direkt nach der M&uuml;hle — die L&uuml;cken entsprechen jetzt dem normalen Zeichenabstand der Wortmarke.</li>
+<li><b>Buchstaben 2 Punkte kleiner:</b> GIFHORN-Schrift 34&nbsp;&rarr;&nbsp;32&nbsp;px; WIESENZEITUNG 28/35&nbsp;&rarr;&nbsp;26/33&nbsp;px (Zeile 1 proportional mitgenommen).</li>
+<li><b>M&uuml;hle beh&auml;lt ihre Gr&ouml;&szlig;e</b> (Skalierung 0,5625, H&ouml;he ≈20,5&nbsp;px) — wirkt durch die kleineren Buchstaben jetzt pr&auml;senter im Fluss, ohne die Grundlinie zu verlassen (Fu&szlig; weiterhin exakt auf y=34).</li>
 </ul>
-<p style="font-size:14.5px;margin-bottom:0">Falls die Laufweite der Serifenschrift von den SVG-Platzierungen abweicht, k&ouml;nnen die x-Werte einzeln nachjustiert werden — ohne die Baseline-Logik zu ber&uuml;hren.</p>
 </div>
 
 </main>
 <footer>
 <p><a href="impressum.html">Impressum</a> · <a href="about.html">Über diese Seite</a> · Ein Projekt von <a href="../index.html">RADAR 724</a></p>
-<p class="meta" style="margin-top:6px">Entwurf v3.4: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
+<p class="meta" style="margin-top:6px">Entwurf v3.5: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
 </footer>
 </div>
 </body>
