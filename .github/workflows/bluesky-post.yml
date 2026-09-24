@@ -12,6 +12,11 @@ on:
         type: boolean
         required: false
         default: true
+      post_file:
+        description: 'Nachholen: verpasste Ausgabe posten (z. B. posts/2026-09-24-morgens.html). Leer = nur Testpost.'
+        type: string
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -27,7 +32,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 5
+          fetch-depth: 0
 
       - name: Korrektur-Commits ueberspringen
         if: github.event_name == 'push'
@@ -42,22 +47,67 @@ jobs:
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
+      # ============================================================
+      # Datei-Erkennung (Fix 24.09.2026, Ausgabe-#32-Vorfall):
+      # Vorher: git diff HEAD~1 HEAD — bei einem Push mit MEHREREN
+      # Commits (Ausgabe, index, feed) zeigt HEAD~1 auf den vorletzten
+      # Commit DES PUSH, nicht auf den Zustand vor dem Push. Das Diff
+      # war dann leer (Ausgabe #32, 24.09.2026, Run 10 s, kein Post).
+      # Jetzt: github.event.before .. github.sha (Zustand vor dem
+      # Push), Fallback HEAD~1 falls before fehlt/nicht erreichbar
+      # (neuer Branch, Force-Push, flacher Checkout).
+      # workflow_dispatch mit post_file: gezieltes Nachholen einer
+      # verpassten Ausgabe — mit State-Pruefung (Anti-Duplikat).
+      # ============================================================
       - name: Neue posts-Dateien bestimmen (nur hinzugefuegte)
-        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false'
+        if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false') || (github.event_name == 'workflow_dispatch' && inputs.post_file != '')
         id: files
+        env:
+          BEFORE: ${{ github.event.before }}
+          POST_FILE: ${{ inputs.post_file }}
         run: |
           mkdir -p social
           touch social/bluesky-state.txt
           NEW_FILES=""
-          for f in $(git diff --diff-filter=A --name-only HEAD~1 HEAD -- 'posts/' 2>/dev/null); do
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            DIFF_BASE="$BEFORE"
+            if [ -z "$DIFF_BASE" ] || [ "$DIFF_BASE" = "0000000000000000000000000000000000000000" ]; then
+              DIFF_BASE="HEAD~1"
+              echo "Kein event.before — Fallback HEAD~1."
+            fi
+            if ! git cat-file -e "$DIFF_BASE" 2>/dev/null; then
+              DIFF_BASE="HEAD~1"
+              echo "event.before nicht im Checkout — Fallback HEAD~1."
+            fi
+            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/'); do
+              case "$f" in
+                posts/*.html)
+                  if ! grep -qxF "$f" social/bluesky-state.txt; then
+                    NEW_FILES="$NEW_FILES $f"
+                  fi
+                  ;;
+              esac
+            done
+          else
+            f="$POST_FILE"
             case "$f" in
               posts/*.html)
-                if ! grep -qxF "$f" social/bluesky-state.txt; then
-                  NEW_FILES="$NEW_FILES $f"
+                if [ ! -f "$f" ]; then
+                  echo "ABBRUCH: Datei $f existiert nicht im Repo." >&2
+                  exit 1
                 fi
+                if grep -qxF "$f" social/bluesky-state.txt; then
+                  echo "ABBRUCH: $f wurde laut State-Datei bereits gepostet." >&2
+                  exit 1
+                fi
+                NEW_FILES=" $f"
+                ;;
+              *)
+                echo "ABBRUCH: post_file muss mit posts/ beginnen und auf .html enden." >&2
+                exit 1
                 ;;
             esac
-          done
+          fi
           if [ -n "$NEW_FILES" ]; then
             echo "new=true" >> "$GITHUB_OUTPUT"
             printf '%s' "$NEW_FILES" > social/_new.txt
@@ -76,22 +126,22 @@ jobs:
       # Architekten-Entscheidung (a vs. b): OPTION (b) — bei Timeout
       # sichtbar failen, NICHT blind posten. Begruendung (PM-Tendenz,
       # uebernommen): Ein verpasster Post ist manuell nachholbar
-      # (workflow_dispatch), ein geposteter toter Link laesst sich
-      # nicht "un-klicken" — bei Deploy-Problemen ist die Seite oft
-      # laenger weg, dann waere Post UND Vertrauen verloren.
+      # (workflow_dispatch mit post_file), ein geposteter toter Link
+      # laesst sich nicht "un-klicken" — bei Deploy-Problemen ist die
+      # Seite oft laenger weg, dann waere Post UND Vertrauen verloren.
       #
       # Timing-Parameter: Poll-Intervall 60s, Gesamt-Timeout 900s
       # (15 Min — GitHub Pages braucht selten laenger).
       # Reihenfolge: Poll -> Post -> State-Commit (unveraendert).
-      # Gilt fuer BEIDE Pfade: Push-Ausgabenpost UND workflow_dispatch
-      # (Dry-Run macht das Polling logisch mit, damit Tests die neue
-      # Logik abdecken).
+      # Gilt fuer ALLE Pfade: Push-Ausgabenpost, Nachholen (post_file)
+      # UND workflow_dispatch-Testpost (Polling logisch mit, damit
+      # Tests die Logik abdecken).
       # ============================================================
       - name: Auf Pages-Deploy warten (Live-Check vor dem Post)
         id: deploy
         if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true') || github.event_name == 'workflow_dispatch'
         run: |
-          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+          if [ -f social/_new.txt ]; then
             URLS=$(sed 's|^posts/|https://radar724.de/posts/|' social/_new.txt)
           else
             URLS="https://radar724.de"
@@ -120,11 +170,11 @@ jobs:
           done
           echo "ZEITUEBERSCHREITUNG: Live-Seite nach ${TIMEOUT}s nicht erreichbar ($URLS)." >&2
           echo "KEIN Post erfolgt (toter Link vermieden — Architekten-Entscheidung b)." >&2
-          echo "Nachholen: Actions -> 'Bluesky-Post bei neuer Ausgabe' -> Run workflow." >&2
+          echo "Nachholen: Actions -> 'Bluesky-Post bei neuer Ausgabe' -> Run workflow -> post_file ausfuellen." >&2
           exit 1
 
       - name: Nach Bluesky posten (neue Ausgaben)
-        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && steps.deploy.outputs.waited != ''
+        if: steps.files.outputs.new == 'true' && steps.deploy.outputs.waited != ''
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
@@ -212,7 +262,7 @@ jobs:
           PYEOF
 
       - name: State-Datei committen
-        if: github.event_name == 'push' && steps.guard.outputs.skip == 'false' && steps.files.outputs.new == 'true' && success()
+        if: steps.files.outputs.new == 'true' && steps.deploy.outputs.waited != '' && success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -225,7 +275,7 @@ jobs:
         run: rm -f social/_new.txt || true
 
       - name: Manueller Test (workflow_dispatch)
-        if: github.event_name == 'workflow_dispatch' && steps.deploy.outputs.waited != ''
+        if: github.event_name == 'workflow_dispatch' && inputs.post_file == '' && steps.deploy.outputs.waited != ''
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
