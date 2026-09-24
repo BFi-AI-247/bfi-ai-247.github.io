@@ -58,6 +58,9 @@ jobs:
       # (neuer Branch, Force-Push, flacher Checkout).
       # workflow_dispatch mit post_file: gezieltes Nachholen einer
       # verpassten Ausgabe — mit State-Pruefung (Anti-Duplikat).
+      # Eingabe-Normalisierung (Fix 2, Run 7): Whitespace,
+      # "post_file ="-Reste, volle radar724.de-URLs und blosse
+      # Dateinamen werden akzeptiert.
       # ============================================================
       - name: Neue posts-Dateien bestimmen (nur hinzugefuegte)
         if: (github.event_name == 'push' && steps.guard.outputs.skip == 'false') || (github.event_name == 'workflow_dispatch' && inputs.post_file != '')
@@ -90,6 +93,15 @@ jobs:
             done
           else
             f="$POST_FILE"
+            f=$(printf '%s' "$f" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/^post_file[[:space:]]*=[[:space:]]*//')
+            case "$f" in
+              https://radar724.de/posts/*.html) f="posts/${f#https://radar724.de/posts/}" ;;
+            esac
+            case "$f" in
+              posts/*) ;;
+              *.html) if [ -f "posts/$f" ]; then f="posts/$f"; fi ;;
+            esac
+            echo "Nachholen angefragt fuer: $f"
             case "$f" in
               posts/*.html)
                 if [ ! -f "$f" ]; then
@@ -103,7 +115,7 @@ jobs:
                 NEW_FILES=" $f"
                 ;;
               *)
-                echo "ABBRUCH: post_file muss mit posts/ beginnen und auf .html enden." >&2
+                echo "ABBRUCH: post_file muss eine posts-Datei sein, z. B. posts/2026-09-24-morgens.html." >&2
                 exit 1
                 ;;
             esac
