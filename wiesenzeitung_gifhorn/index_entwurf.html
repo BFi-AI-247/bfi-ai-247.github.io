@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[ENTWURF v3.9] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
+<title>[ENTWURF v3.10] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
 <link rel="stylesheet" href="assets/wzgV1.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
 <style>
 /* ============================================================
-   ENTWURF v3.9 (24.09.2026, Design_R3, Betreiber-Feedback Runde 10,
+   ENTWURF v3.9 (24.09.2026, Design_R3, Betreiber-Feedback Runde 11,
    Roadmap Punkt 56) — NICHT FREIGEGEBEN, kein Live-Stand.
    wzgV1.css bleibt unangetastet; neue Klassen sind Entwurfs-
    Erweiterungen und wandern bei Freigabe versionierbar ins Live-Design.
@@ -28,7 +28,8 @@
    SVG-interne Randzone wird durch 100%-Skalierung + Überlappungs-Trick eliminiert) */
 .nav-zeile{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:12px}
 .radar-mark{flex:0 0 auto;display:inline-flex;align-items:center;line-height:1;border:none;text-decoration:none;height:15px}
-.radar-mark img{width:33px;height:33px;display:block;opacity:.92;margin-top:-9px;border:1.5px solid rgba(43,36,28,.45);border-radius:4px;box-sizing:border-box;padding:0;background:transparent}
+.radar-mark img{width:33px;height:33px;display:block;opacity:.92;margin-top:-9px;border:1.5px solid rgba(43,36,28,.45);border-radius:4px;box-sizing:border-box;padding
+:0;background:transparent}
 .radar-mark:hover img{opacity:1}
 .nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
 .nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
@@ -43,7 +44,7 @@
 <body>
 <div class="wrap">
 
-<p class="entwurf-note">&#9888; Entwurf v3.9 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 10) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
+<p class="entwurf-note">&#9888; Entwurf v3.10 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 10) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
 
 <!-- ================================================================
      NEUER KOPF (v3.9):
@@ -59,7 +60,8 @@
     <g transform="translate(14.5,34) scale(0.5625,0.7031) translate(0,-52)" stroke="#4e6b3a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
       <path d="M23.375 52 C23.375 41 27 35.5 32 35.5 C37 35.5 40.625 41 40.625 52 Z"/>
       <path d="M23.375 46.5 L40.625 46.5"/>
-      <path d="M23.375 46.5 L23.375 52 M40.625 46.5 L40.625 52 M32 46.5 L32 52"/>
+      <path d="M23.3
+75 46.5 L23.375 52 M40.625 46.5 L40.625 52 M32 46.5 L32 52"/>
       <path d="M26.5 34 C26.5 29 29 26.5 32 26.5 C35 26.5 37.5 29 37.5 34"/>
       <circle cx="32" cy="33.5" r="1.8" fill="#4e6b3a" stroke="none"/>
       <g stroke-width="2.6">
@@ -75,7 +77,7 @@
 
 <div class="nav-zeile">
   <a class="radar-mark" href="https://radar724.de" title="RADAR 724 — das Mutterprojekt" rel="noopener">
-    <img src="../assets/favicon-light.svg" alt="RADAR 724 — Logo des Mutterprojekts">
+    <img src="../assets/favicon-light-tight.svg" alt="RADAR 724 — Logo des Mutterprojekts">
   </a>
   <nav>
   <a href="index.html">Start</a>
@@ -92,11 +94,11 @@
 <p class="meta">Ein Ableger von <a href="../index.html">RADAR 724</a>.</p>
 
 <div class="entwurf-box">
-<h3>Revision v3.9 — Hierarchie unmissverst&auml;ndlich, Abst&auml;nde enger</h3>
+<h3>Revision v3.10 — Hierarchie unmissverst&auml;ndlich, Abst&auml;nde enger</h3>
 <ul style="font-size:14.5px">
 <li><b>WIESENZEITUNG deutlich gr&ouml;&szlig;er:</b> 28/35&nbsp;&rarr;&nbsp;30/37&nbsp;px — jetzt auch optisch klar &uuml;ber GIFHORN (30&nbsp;px) in jedem Rendering-Zustand.</li>
 <li><b>GIFHORN dichter an WIESENZEITUNG:</b> Zwischenraum (margin-top 2&nbsp;px &rarr; 0) eliminiert — die Zeilen bilden jetzt einen kompakten Wortblock.</li>
-<li><b>Favicon-Rahmen:</b> unver&auml;ndert direkt anliegend (padding 0, 1,5&nbsp;px Tinte mit 45&nbsp;% Deckkraft). Hinweis: Falls im Browser noch ein wei&szlig;er Saum sichtbar bleibt, stammt er aus der internen Randzone des favicon-light.svg selbst — dann w&uuml;rde ich bei der Live-Umstellung eine randlose SVG-Variante (viewBox eng geschnitten) als eigenes Asset nachliefern.</li>
+<li><b>Favicon &uuml;berarbeitet:</b> neue, eng geschnittene Variante <i>favicon-light-tight.svg</i> (viewBox direkt auf die Icon-Bounding-Box — die ~10&nbsp;% interne Randzone des Originals ist entfernt). Der Rahmen (1,5&nbsp;px Tinte, 45&nbsp;% Deckkraft) liegt damit tats&auml;chlich am sichtbaren Icon an. Original-Asset unangetastet.</li>
 <li>M&uuml;hle + GIFHORN-Geometrie unver&auml;ndert (Betreiber: „gut").</li>
 </ul>
 </div>
@@ -104,7 +106,7 @@
 </main>
 <footer>
 <p><a href="impressum.html">Impressum</a> · <a href="about.html">Über diese Seite</a> · Ein Projekt von <a href="../index.html">RADAR 724</a></p>
-<p class="meta" style="margin-top:6px">Entwurf v3.9: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
+<p class="meta" style="margin-top:6px">Entwurf v3.10: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
 </footer>
 </div>
 </body>
