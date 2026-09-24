@@ -3,61 +3,56 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[ENTWURF v2] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
+<title>[ENTWURF v3] Wiesenzeitung Gifhorn — Kopf-Design Logo-Kombination</title>
 <link rel="stylesheet" href="assets/wzgV1.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
 <style>
 /* ============================================================
-   ENTWURF v2 (24.09.2026, Design_R3, Betreiber-Feedback Layout-Revision,
+   ENTWURF v3 (24.09.2026, Design_R3, Betreiber-Feedback Runde 2,
    Roadmap Punkt 56) — NICHT FREIGEGEBEN, kein Live-Stand.
    wzgV1.css bleibt unangetastet; neue Klassen sind Entwurfs-
    Erweiterungen und wandern bei Freigabe versionierbar ins Live-Design.
    ============================================================ */
 
-/* Kopf: zweizeilige Wortmarke links, grüne Mühle rechts daneben (über beide Zeilen) */
-.kopf-logo{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 0 2px;border-top:5px double var(--tinte)}
-.wortmarke-block{margin:0}
+/* Kopf: komplett zentriert */
+.kopf{padding:14px 0 0;border-top:5px double var(--tinte);text-align:center}
 .wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(26px,6vw,33px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
+.wm-zeile2-row{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:2px}
 .wm-zeile2{font-family:var(--serif);font-weight:700;font-size:clamp(26px,6vw,33px);letter-spacing:.04em;margin:0;color:var(--wiese);line-height:1.05}
-.muehle{flex:0 0 auto;line-height:0}
+.muehle{flex:0 0 auto;line-height:0;display:inline-block;vertical-align:middle}
+.kopf-badge-row{margin:10px 0 0;text-align:center}
 
-/* Nav-Zeile: helles RADAR-Favicon links, danach Start/Archiv/Über */
-.nav-zeile{display:flex;align-items:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:2px}
-.radar-mark{flex:0 0 auto;display:inline-block;line-height:0;border:none;text-decoration:none}
-.radar-mark img{width:22px;height:22px;display:block;opacity:.92}
+/* Nav-Zeile: helles RADAR-Favicon links auf Schrift-Höhe, 50% größer (22→33px) */
+.nav-zeile{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:12px}
+.radar-mark{flex:0 0 auto;display:inline-flex;align-items:center;line-height:1;border:none;text-decoration:none;height:15px}
+.radar-mark img{width:33px;height:33px;display:block;opacity:.92;margin-top:-9px}
 .radar-mark:hover img{opacity:1}
-.nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap}
-.nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px}
+.nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
+.nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
 .nav-zeile nav a:hover{color:var(--wiese);border-color:var(--wiese)}
 
-/* ki-badge (aus wzgV1.css — derselbe Badge wie in den WZG-Ausgaben) sitzt unter dem Kopf */
-.kopf-badge-row{margin:10px 0 0}
-
 /* Entwurfs-Hinweis-Boxen unten */
-.entwurf-box{background:var(--papier-tief);border:1px dashed var(--wiese);border-radius:4px;padding:14px 18px;margin:18px 0}
+.entwurf-box{background:var(--papier-tief);border:1px dashed var(--wiese);border-radius:4px;padding:14px 18px;margin:18px 0;text-align:left}
 .entwurf-box h3{margin-top:0;font-family:var(--serif)}
-.entwurf-note{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--wiese);font-weight:700}
+.entwurf-note{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--wiese);font-weight:700;text-align:left}
 </style>
 </head>
 <body>
 <div class="wrap">
 
-<p class="entwurf-note">&#9888; Entwurf v2 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout nach Betreiber-Feedback) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
+<p class="entwurf-note">&#9888; Entwurf v3 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 2) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
 
 <!-- ================================================================
-     NEUER KOPF (v2, Betreiber-Layout):
-     - Wortmarke zweizeilig/linksbündig: WIESENZEITUNG / GIFHORN (grün)
-     - Rechts der zwei Zeilen: grüne Mühle über zwei Zeilen
-     - Darunter: der grüne KI-Badge aus den WZG-Ausgaben (ki-badge)
-     - Nav-Zeile: helles RADAR-Favicon links (Hyperlink radar724.de),
-       dann Start / Archiv / Über diese Seite
+     NEUER KOPF (v3, Betreiber-Layout):
+     - WIESENZEITUNG (zentriert, eigene Zeile)
+     - GIFHORN (grün) + Mühle (58px, unverändert groß) — zentriert, gemeinsame Zeile
+     - ki-badge zentriert darunter
+     - Nav-Zeile: RADAR-Favicon links, vertikal auf Schrift-Höhe, Kantenlänge +50% (33px)
      ================================================================ -->
-<header>
-  <div class="kopf-logo">
-    <div class="wortmarke-block">
-      <p class="wm-zeile1">WIESENZEITUNG</p>
-      <p class="wm-zeile2">GIFHORN</p>
-    </div>
+<header class="kopf">
+  <p class="wm-zeile1">WIESENZEITUNG</p>
+  <div class="wm-zeile2-row">
+    <p class="wm-zeile2">GIFHORN</p>
     <span class="muehle" title="Stilisierte Gifhorner Mühle">
       <svg width="58" height="58" viewBox="0 0 64 64" role="img" aria-label="Stilisierte Gifhorner Windmühle (grün)">
         <g fill="none" stroke="#4e6b3a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
@@ -97,23 +92,23 @@
 <p class="meta">Ein Ableger von <a href="../index.html">RADAR 724</a>.</p>
 
 <!-- ================================================================
-     ENTSCHEIDUNGEN DIESER REVISION (v2)
+     ENTSCHEIDUNGEN DIESER REVISION (v3)
      ================================================================ -->
 <div class="entwurf-box">
-<h3>Revision v2 — Betreiber-Layout umgesetzt</h3>
+<h3>Revision v3 — Betreiber-Layout Runde 2 umgesetzt</h3>
 <ul style="font-size:14.5px">
-<li><b>Wortmarke zweizeilig, linksb&uuml;ndig:</b> „WIESENZEITUNG" / „GIFHORN" — zweite Zeile in Wiesengr&uuml;n (Identit&auml;tsfarbe aus dem Namen).</li>
-<li><b>M&uuml;hle in gr&uuml;n</b> (Variante A): rechts der zwei Zeilen, H&ouml;he &uuml;ber beide Zeilen (58&nbsp;px) — die Farbfrage aus v1 ist damit entschieden.</li>
-<li><b>KI-Badge unter dem Kopf:</b> derselbe gr&uuml;ne Badge wie in den WZG-Ausgaben (Klasse <span class="ki-badge" style="font-size:10px">KI-generiert</span> aus wzgV1.css) — Konsistenz Hauptseite/Ausgaben.</li>
-<li><b>Helles RADAR-Favicon links in der Nav-Zeile</b> (Start / Archiv / &Uuml;ber diese Seite), mit Hyperlink auf <a href="https://radar724.de" rel="noopener">radar724.de</a> — das Mutterprojekt dezent in der Navigationsleiste verankert.</li>
+<li><b>WIESENZEITUNG zentriert</b> — eigene Zeile, Schriftbraun.</li>
+<li><b>GIFHORN (gr&uuml;n) + M&uuml;hle in der n&auml;chsten Zeile, zentriert</b> — gemeinsame Zeile, M&uuml;hle unverändert 58&nbsp;px (optisch mittig zur Schrift, nicht auf Schrift-Kernhöhe geschrumpft).</li>
+<li><b>ki-badge zentriert</b> unter dem Kopf.</li>
+<li><b>RADAR-Favicon in der Nav-Zeile vertikal auf Schrift-H&ouml;he</b> gebracht und <b>Kantenl&auml;nge +50&nbsp;%</b> (22&nbsp;px &rarr; 33&nbsp;px); verlinkt auf radar724.de.</li>
 </ul>
-<p style="font-size:14.5px;margin-bottom:0"><b>Nicht mehr enthalten (v1):</b> kicker-Zeile &uuml;ber der Wortmarke (vom Badge abgel&ouml;st), RADAR-Mark im Kopf (jetzt in der Nav-Zeile), Tinten-Variante der M&uuml;hle (zugunsten der gr&uuml;nen Variante verworfen).</p>
+<p style="font-size:14.5px;margin-bottom:0">Der Footer der Live-Seite („Ein Projekt von RADAR 724") bleibt unver&auml;ndert.</p>
 </div>
 
 </main>
 <footer>
 <p><a href="impressum.html">Impressum</a> · <a href="about.html">Über diese Seite</a> · Ein Projekt von <a href="../index.html">RADAR 724</a></p>
-<p class="meta" style="margin-top:6px">Entwurf v2: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
+<p class="meta" style="margin-top:6px">Entwurf v3: Design_R3, 24.09.2026 · Live-Seite: <a href="index.html">index.html</a> (unverändert)</p>
 </footer>
 </div>
 </body>
