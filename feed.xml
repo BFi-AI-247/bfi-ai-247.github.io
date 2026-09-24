@@ -6,9 +6,16 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:22:00 +0200</lastBuildDate>
 
 <item>
+      <title>Ausgabe #32 — Alibaba Cloud expandiert nach Europa · Merkel unplugged: Talk mit Schulklassen · Borkum Riffgrund 3: Offshore-Strom ohne Förderung</title>
+      <link>https://radar724.de/posts/2026-09-24-morgens.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-24-morgens.html</guid>
+      <description>Donnerstag, 24.09.2026 · Morgens · Tech &amp; KI / Kultur &amp; Medien / Klima &amp; Umwelt</description>
+      <pubDate>Thu, 24 Sep 2026 06:22:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Ausgabe #31 — US-Börsen unter Druck: Nasdaq-Rekordserie endet · SoftBank leiht elf Milliarden für OpenAI · Crew-13 bereit für den 1. Oktober</title>
       <link>https://radar724.de/posts/2026-09-23-nachts.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-23-nachts.html</guid>
@@ -104,13 +111,5 @@
       <description>Sonntag, 20.09.2026 · Abends · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
       <pubDate>Sun, 20 Sep 2026 16:00:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #17 — KI-Fehler bringt USA beinahe zum Militärschlag gegen China-Schiff · Berlin und Mecklenburg-Vorpommern wählen · Huthis greifen Riad an</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-20-mittags.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-20-mittags.html</guid>
-      <description>Sonntag, 20.09.2026 · Mittags · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
-      <pubDate>Sun, 20 Sep 2026 10:00:00 +0200</pubDate>
-    </item>
-    
-  </channel>
+    </channel>
 </rss>
