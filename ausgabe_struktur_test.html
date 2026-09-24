@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[DESIGN-VORSCHLAG] Ausgaben-Struktur: Top News &amp; Good News — RADAR 724</title>
+<link rel="stylesheet" href="styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* Quellen-Design (24.09.2026): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (Roadmap P.60): Anfang der Zweitquellen-Zeile */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+
+/* ============================================================
+   DESIGN-VORSCHLAG (Design_R3, 24.09.2026 — auf Basis Ausgabe #34):
+   Neue Ausgaben-Struktur (Roadmap-Entwurf, Betreiber-Idee):
+   1. TOP NEWS — stärkste Meldung der Ausgabe, NUR hier (nicht nochmal
+      in einer Rubrik), mit Rubrik-Verweis als Label
+   2. GOOD NEWS — positiv besetzte Meldung, ERWÜNSCHT aber OPTIONAL
+      (keine erzwungene Good News; Block entfällt komplett, wenn leer)
+   3. BuyMeACoffee (support-slim, GENAU EINMAL — neue feste Position)
+   4. Die drei Rubriken wie gehabt (ohne die Top-News-Meldung)
+   ============================================================ */
+
+/* Top News: normale Section-Optik, Item mit Rubrik-Label */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+
+/* Good News: dezenter positiver Akzent — Rahmen-Links in Akzentfarbe,
+   keine Sonder-Optik, die die neutrale Berichterstattung überlagert */
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+
+/* Nur Testansicht: Kennzeichnung */
+.test-note{border:1px dashed var(--accent);border-radius:4px;padding:10px 14px;font-size:13px;margin:10px 0 18px}
+.test-note b{letter-spacing:.06em}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Design-Vorschlag (keine echte Ausgabe)</p>
+<nav>
+<a href="index.html">&laquo; Übersicht</a>
+<a href="archive.html">Archiv</a>
+<a href="about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="test-note"><b>DESIGN-VORSCHLAG (Design_R3, 24.09.2026):</b> Neue Ausgaben-Struktur — Top News (stärkste Meldung, nur oben, mit Rubrik-Verweis) → Good News (optional, positiv besetzt) → BuyMeACoffee → Rubriken. Basis: Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
+
+<p class="meta">Beispiel: Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um XX:XX Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Wirtschaft / Tech &amp; KI / Klima &amp; Umwelt</p>
+<h1 class="post-title">H1-TITEL: Bündelung der Top-Headlines der Ausgabe</h1>
+
+<!-- ============================================================
+     1. TOP NEWS — stärkste Meldung der Ausgabe. NUR hier, NICHT
+     zusätzlich in einer Rubrik. Rubrik-Zugehörigkeit als Label über
+     der Headline (rubrik-ref). Blink/Quellen-Regeln wie gehabt.
+     ============================================================ -->
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Wirtschaft</span>
+<h3>BEISPIEL: Die stärkste Meldung der Ausgabe — Headline wie gewohnt</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Fließtext der stärksten Meldung. Sie erscheint nur hier oben — in ihrer Rubrik unten fehlt sie, dort stehen die weiteren Meldungen. Die Rubrik-Zugehörigkeit steht als kleines Label über der Headline, damit die Einordnung nicht verloren geht. Quellen-Design und Blink gelten unverändert.</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="#" rel="noopener">tagesschau</a> — <a href="#" rel="noopener">handelsblatt</a>.</span>
+</div>
+
+<!-- ============================================================
+     2. GOOD NEWS — positiv besetzte Meldung. ERWÜNSCHT, aber OPTIONAL:
+     Keine erzwungene Good News — wenn keine ehrlich positive Nachricht
+     dabei ist, entfällt dieser Block KOMPLETT (kein Platzhalter, keine
+     Aufblähung). Dann rückt die Support-Zeile direkt hinter Top News.
+     ============================================================ -->
+<h2 class="section" id="goodnews">GOOD NEWS</h2>
+<div class="item">
+<h3>BEISPIEL: Eine positiv besetzte Nachricht des Tages</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Fließtext der Good News — eine ehrlich positive Nachricht (Erfolg, Fortschritt, Eröffnung, versöhnlicher Ausgang). Der dezente Akzent (Farbstreifen links, Akzentfarbe in der Rubriken-Überschrift) signalisiert die Positiv-Zone, ohne die neutrale Berichterstattung zu überlagern. Keine Good-News-Pflicht: bei stiller Lage entfällt der Block ersatzlos.</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="#" rel="noopener">heise online</a> — <a href="#" rel="noopener">tagesschau</a>.</span>
+</div>
+
+<!-- ============================================================
+     3. BUYMEACOFFEE — support-slim, GENAU EINMAL, neue feste Position:
+     nach Good News (bzw. direkt nach Top News, wenn Good News entfällt),
+     VOR den Rubriken. Abschlussnote unten bleibt unverändert.
+     ============================================================ -->
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<!-- ============================================================
+     4. DIE DREI RUBRIKEN — wie gehabt (je 2–4 Items). Die Top-News-
+     Meldung erscheint hier NICHT erneut; ihre Rubrik führt die
+     übrigen Meldungen ganz normal weiter.
+     ============================================================ -->
+<h2 class="section">WIRTSCHAFT</h2>
+<div class="item">
+<h3>BEISPIEL: Weitere Meldung der Rubrik (die Top News steht oben, nicht hier)</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Fließtext. Die Rubrik der Top News läuft mit ihren weiteren Meldungen ganz regulär weiter — nur die Top-News-Meldung selbst fehlt hier, da sie oben steht.</p>
+</div>
+
+<h2 class="section">TECH &amp; KI</h2>
+<div class="item">
+<h3>BEISPIEL: Meldung der zweiten Rubrik</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Fließtext der zweiten Rubrik.</p>
+</div>
+
+<h2 class="section">KLIMA &amp; UMWELT</h2>
+<div class="item">
+<h3>BEISPIEL: Meldung der dritten Rubrik</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
+<p>Fließtext der dritten Rubrik.</p>
+</div>
+
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Design-Vorschlag &middot; <a href="index.html">Übersicht</a> &middot; <a href="archive.html">Archiv</a> &middot; <a href="about.html">Über diese Seite</a></p>
+</footer>
+</div>
+</body>
+</html>
