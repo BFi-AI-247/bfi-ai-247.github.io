@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[TESTANSICHT] Ausgabe #34 — Quellen-Design mit Grünem Blink — RADAR 724</title>
+<title>[TESTANSICHT] Ausgabe #34 — Abendausgabe 24.09.2026 — RADAR 724</title>
 <link rel="stylesheet" href="styles/v2.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
 <style>
@@ -12,16 +12,27 @@
 .support-slim a{color:var(--accent)}
 .change-notice{color:var(--accent);font-size:10.5px}
 .change-notice a{color:var(--accent);text-decoration:underline}
-/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+/* Quellen-Design (24.09.2026): Primärquelle unter der Überschrift, Zweitquellen unten */
 .source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
 .source.credit a{font-weight:700}
 .source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
 .source.secondary a{font-weight:700}
-/* Grüner Blink (24.09.2026, Roadmap P.60, Design_R3): statisches Signal-SVG, 10px,
-   inline DIREKT VOR der "Auch berichtet durch:"-Zeile */
+/* Grüner Blink (Roadmap P.60): Anfang der Zweitquellen-Zeile; Bedingung B: Ende des Fließtexts */
 .blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
 .blink svg{display:block}
-/* Nur Testansicht: Kennzeichnung */
+
+/* Neue Ausgaben-Struktur (Design_R3, 24.09.2026 — Vorschlag auf Basis #34):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. GOOD NEWS (optional, positiv, Rubrik-Label)
+   3. BuyMeACoffee (GENAU EINMAL, feste Position)
+   4. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+
+/* Nur Testansicht */
 .test-note{border:1px dashed var(--accent);border-radius:4px;padding:10px 14px;font-size:13px;margin:10px 0 18px}
 .test-note b{letter-spacing:.06em}
 </style>
@@ -37,35 +48,67 @@
 </nav>
 </header>
 <main>
-<p class="test-note"><b>TESTANSICHT (Design_R3, 24.09.2026):</b> Grüner Blink (Roadmap P.60, Position: direkt vor der Zweitquellen-Zeile) + neue Zweitquellen-Formulierung „Auch berichtet durch:" (P.61) — gültig ab Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
+<p class="test-note"><b>TESTANSICHT AUSGABE #34 (Design_R3, 24.09.2026):</b> Neue Ausgaben-Struktur mit Echtdaten der Abendausgabe — Top News (mit Blink, Bedingung A: zwei Zweitquellen) → Good News (nur eine Zweitquelle, daher ehrlich ohne Blink) → BuyMeACoffee → Rubriken. Kein Archiv-Stand, wird nicht verlinkt.</p>
 
-<p class="meta">Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um XX:XX Uhr (Europe/Berlin)</p>
-<p class="meta">Rubriken: Tech &amp; KI / Wirtschaft / Klima &amp; Umwelt</p>
-<h1 class="post-title">TESTANSICHT AUSGABE #34 — Blink &amp; Zweitquellen-Formulierung</h1>
+<p class="meta">Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um 21:00 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Politik &amp; Inland / Wirtschaft / Tech &amp; KI / Klima &amp; Umwelt</p>
+<h1 class="post-title">Geheimdienstreform: Erste Bundestagsdebatte über „echte Geheimdienste” — Opposition warnt vor Grundrechtsbruch</h1>
+
+<!-- ============================================================
+     1. TOP NEWS — stärkste Meldung der Ausgabe, nur hier, mit Rubrik-Label
+     ============================================================ -->
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Politik &amp; Inland</span>
+<h3>Geheimdienstreform im Bundestag: Dobrindt verteidigt „echte Geheimdienste”, Opposition warnt vor „Stasi 2.0”</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html" rel="noopener">Original lesen</a> — tagesschau.</span>
+<p>Erstmals hat der Bundestag über die Pläne der schwarz-roten Koalition für eine Reform der Nachrichtendienste debattiert. Bundesinnenminister Alexander Dobrindt (CSU) wiederholte im Plenum das Ziel des Kanzlers, Deutschland solle „echte Geheimdienste” bekommen: Der BND soll unabhängiger von US-Diensten werden und operative Fähigkeiten erhalten — künftig auch Sabotage im Ausland und das Eindringen in Privatwohnungen dürfen. Die Opposition lehnt die Pläne deutlich ab: Linke und Teile der Grünen warnen vor einem Bruch mit Lehren aus der Geschichte, von einem Umbau des Inlandsgeheimdienstes zu einer „Stasi 2.0” ist die Rede; Ärzteverbände sind besorgt. Nach dem Willen der Regierung soll die Reform zum Jahreswechsel in Kraft treten — dafür muss neben dem Bundestag auch der Bundesrat zustimmen. (Datenstand: 24.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.swr.de/swraktuell-radio/haken-ausspaehen-sollten-bnd-und-verfassungsschutz-mehr-befugnisse-bekommen-100.html" rel="noopener">SWR</a> — <a href="https://netzpolitik.org/2026/bundestagsdebatte-zur-geheimdienstreform-zwischen-schreddern-und-nachbessern/" rel="noopener">netzpolitik.org</a>.</span>
+</div>
+
+<!-- ============================================================
+     2. GOOD NEWS — optional, positiv besetzt, mit Rubrik-Label
+     ============================================================ -->
+<h2 class="section" id="goodnews">GOOD NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Wirtschaft</span>
+<h3>Konjunktur-Ausblick aufgehellt: Institute erwarten 1,3 Prozent Wachstum für 2026</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html" rel="noopener">Original lesen</a> — tagesschau.</span>
+<p>Eine erfreuliche Nachricht von der Konjunkturseite: Die führenden Wirtschaftsforschungsinstitute haben ihre Herbstprognose deutlich angehoben — für 2026 rechnen sie nun mit einem Wachstum von 1,3 Prozent, für 2027 mit 1,1 Prozent. Im Frühjahr hatten sie wegen der Auswirkungen des Iran-Kriegs noch nur mit 0,6 Prozent gerechnet. Treiber sind vor allem die hohen Ausgaben für Verteidigung und Rüstung. Auch der ifo-Index brachte gute Nachrichten. Für Anleger hat der Aufschwung allerdings einen Haken: Robustes Wachstum und Preisdruck halten die Zinsen hoch — „gute Konjunkturdaten werden in diesem Umfeld zunehmend zu einer Belastung für den breiten Aktienmarkt”, erklärte ein Chefvolkswirt. (Datenstand: 24.09.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.news.de/panorama/860022626/24-september-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-24-09-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" rel="noopener">news.de</a>.</span>
+</div>
+
+<!-- ============================================================
+     3. BUYMEACOFFEE — GENAU EINMAL, feste Position nach Good News
+     ============================================================ -->
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<!-- ============================================================
+     4. DIE RUBRIKEN — Top-News-Meldung erscheint hier nicht erneut
+     ============================================================ -->
+<h2 class="section">WIRTSCHAFT</h2>
+<div class="item">
+<h3>Zinsängste drücken DAX: Höhere Ölpreise und steigende Renditen belasten den Leitindex</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html" rel="noopener">Original lesen</a> — tagesschau.</span>
+<p>Die Zinssorgen lassen die DAX-Anleger nicht los: Höhere Ölpreise und steigende Bond-Renditen haben den deutschen Leitindex heute belastet — dagegen konnten auch die guten Konjunkturdaten nichts ausrichten. Die steigenden Ölpreise fachen zudem Inflationsängste an. (Datenstand: 24.09.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.wallstreet-online.de/nachricht/21424629-maerkte-morgen-zinsen-weiter-die-angst-zurueck-dax-weitet-korrektur" rel="noopener">wallstreet-online</a>.</span>
+</div>
 
 <h2 class="section">TECH &amp; KI</h2>
 <div class="item">
-<h3>Beispiel 1 — Beitrag MIT Blink über Bedingung A (zwei Zweitquellen)</h3>
-<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
-<p>Fließtext des Beitrags. Der grüne Blink steht jetzt direkt vor der Zweitquellen-Zeile — statisch, mit Tooltip. Die Zweitquellen laufen in der neuen Formulierung: Links auf den Medianamen, Trenner „—".</p>
-<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="#" rel="noopener">tagesschau</a> — <a href="#" rel="noopener">heise online</a>.</span>
+<h3>USA und China im KI-Wettlauf: Präsidenten-Treffen diese Woche — deutsche Forscher relativieren Regulierungs-Appelle</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/thema/k%C3%BCnstliche%20intelligenz" rel="noopener">Original lesen</a> — tagesschau.</span>
+<p>Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz — diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Während große KI-Entwickler öffentlichkeitswirksam für mehr Regulierung der eigenen Technologie plädieren, relativieren deutsche Forscher die Warnungen — und nehmen die Entwickler in die Pflicht. Für Verbraucher bleibt KI unterdessen ein Preistreiber: Chips werden zur Mangelware und verteuern Smartphones, Notebooks und Konsolen. (Datenstand: 24.09.2026.)</p>
 </div>
 
+<h2 class="section">KLIMA &amp; UMWELT</h2>
 <div class="item">
-<h3>Beispiel 2 — Beitrag MIT Blink über Bedingung B (Absolute Primärquelle, z.&nbsp;B. ESA)</h3>
-<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — ESA.</span>
-<p>Bei einer Absoluten Primärquelle (Bedingung B) steht der Blink direkt — ohne Zweitquellen-Zeile sitzt er am Ende des Fließtexts. Die Primärquelle ist Urheber des Sachverhalts selbst. <span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span></p>
+<h3>Erneuerbare liefern: In vielen Monaten schon mehr als die Hälfte des deutschen Stroms</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zeit.de/wirtschaft/energiemonitor-strompreis-gaspreis-erneuerbare-energien-ausbau" rel="noopener">Original lesen</a> — ZEIT ONLINE.</span>
+<p>Der Ausbau der erneuerbaren Energien in Deutschland kommt voran: Wind und Sonne liefern in vielen Monaten mehr als die Hälfte des erzeugten Stroms, die Kohlekraft hat an Bedeutung verloren. Bis 2035 soll das Stromnetz komplett klimaneutral funktionieren. Gleichzeitig warnen Experten: Selbst wenn Deutschland seine Ausbauziele erfüllt, reicht das nach ihrer Einschätzung nicht für die Verpflichtungen aus dem Pariser Klimaabkommen. Der Bau großer Batterieparks wird daher immer wichtiger. (Datenstand: 24.09.2026.)</p>
 </div>
 
-<div class="item">
-<h3>Beispiel 3 — Beitrag OHNE Blink (nur eine Zweitquelle — Verifikationspflicht erfüllt, kein Anspruch auf Blink)</h3>
-<span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
-<p>Kein Blink: Weder zwei unabhängige Zweitquellen noch eine Absolute Primärquelle. Die Meldung läuft regulär — der Blink ist optional, kein Zweitquellen-Zwang.</p>
-<span class="source secondary">Auch berichtet durch: <a href="#" rel="noopener">Beispiel-Zweitquelle</a>.</span>
-</div>
-
-<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
-
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
 </main>
 <footer class="site-footer">
 <p>RADAR 724 &middot; Testansicht &middot; <a href="index.html">Übersicht</a> &middot; <a href="archive.html">Archiv</a> &middot; <a href="about.html">Über diese Seite</a></p>
