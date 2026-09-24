@@ -1,6 +1,7 @@
 /* ============================================================
    wzgV1-zusatz.css — Kopf-Design Wortmarke (Design_R3, Freigabe
-   Björn_0 24.09.2026, Roadmap Punkt 56, Kandidat v3.14)
+   Björn_0 24.09.2026, Roadmap Punkt 56; Fix-Stand 24.09.:
+   GIFHORN als HTML-Text mit Inline-Mühle statt starrer SVG-Box)
    Ergänzung zur Design-Ära 1: wzgV1.css bleibt unangetastet.
    Geladen von index.html und allen WZG-Ausgaben ab Ausgabe #2.
    ============================================================ */
@@ -11,12 +12,13 @@
 /* Wortmarke Zeile 1: WIESENZEITUNG (klar über GIFHORN) */
 .wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(32px,7.4vw,39px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
 
-/* GIFHORN als EIN SVG (das I ersetzt die stilisierte Gifhorner Mühle):
-   Buchstaben 30px Wiesengrün; Mühle Fußbreite ±7,33 E., Höhe-Skalierung
-   0.8086, Fuß exakt auf Buchstaben-Grundlinie (y=34) — SVG-Block 1:1 aus
-   der Live-index.html bzw. der Format-Vorlage übernehmen. */
-.wm-gifhorn{display:inline-block;vertical-align:middle;line-height:1;margin-top:0}
-.wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:30px;fill:var(--wiese);letter-spacing:.04em}
+/* Wortmarke Zeile 2: GIFHORN als HTML-Text — zentriert/fließt automatisch,
+   kein Abschneiden möglich; das I ist die Inline-Mühle */
+.wm-zeile2{font-family:var(--serif);font-weight:700;font-size:30px;letter-spacing:.04em;margin:0;color:var(--wiese);line-height:1.05}
+
+/* Inline-Mühle (ersetzt das I): passgenau geschnittener SVG-Kasten,
+   Fuß-Streichlinie exakt auf der Buchstaben-Grundlinie (vertical-align -1.4px) */
+.muehle{display:inline-block;line-height:0;vertical-align:-1.4px;margin:0 1px}
 
 /* ki-badge-Zeile unter dem Wortblock */
 .kopf-badge-row{margin:4px 0 0;text-align:center}
