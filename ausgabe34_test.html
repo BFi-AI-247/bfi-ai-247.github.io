@@ -17,8 +17,9 @@
 .source.credit a{font-weight:700}
 .source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
 .source.secondary a{font-weight:700}
-/* Grüner Blink (24.09.2026, Roadmap P.60, Design_R3): statisches Signal-SVG, 10px, inline neben der credit-Zeile */
-.blink{display:inline-block;width:10px;height:10px;margin-left:5px;vertical-align:baseline;line-height:0}
+/* Grüner Blink (24.09.2026, Roadmap P.60, Design_R3): statisches Signal-SVG, 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
 .blink svg{display:block}
 /* Nur Testansicht: Kennzeichnung */
 .test-note{border:1px dashed var(--accent);border-radius:4px;padding:10px 14px;font-size:13px;margin:10px 0 18px}
@@ -36,7 +37,7 @@
 </nav>
 </header>
 <main>
-<p class="test-note"><b>TESTANSICHT (Design_R3, 24.09.2026):</b> Grüner Blink (Roadmap P.60) + neue Zweitquellen-Formulierung „Auch berichtet durch:" (P.61) — gültig ab Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
+<p class="test-note"><b>TESTANSICHT (Design_R3, 24.09.2026):</b> Grüner Blink (Roadmap P.60, Position: direkt vor der Zweitquellen-Zeile) + neue Zweitquellen-Formulierung „Auch berichtet durch:" (P.61) — gültig ab Ausgabe #34. Diese Datei ist kein Archiv-Stand und wird nicht verlinkt.</p>
 
 <p class="meta">Donnerstag, 24. September 2026 &middot; Abendausgabe &middot; erstellt um XX:XX Uhr (Europe/Berlin)</p>
 <p class="meta">Rubriken: Tech &amp; KI / Wirtschaft / Klima &amp; Umwelt</p>
@@ -46,16 +47,14 @@
 <div class="item">
 <h3>Beispiel 1 — Beitrag MIT Blink über Bedingung A (zwei Zweitquellen)</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — Beispiel-Medium.</span>
-<span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>
-<p>Fließtext des Beitrags. Die Primärquelle steht unter der Überschrift, der grüne Blink direkt daneben — statisch, mit Tooltip. Darunter die Zweitquellen in der neuen Formulierung: Links auf den Medianamen, Trenner „—".</p>
-<span class="source secondary">Auch berichtet durch: <a href="#" rel="noopener">tagesschau</a> — <a href="#" rel="noopener">heise online</a>.</span>
+<p>Fließtext des Beitrags. Der grüne Blink steht jetzt direkt vor der Zweitquellen-Zeile — statisch, mit Tooltip. Die Zweitquellen laufen in der neuen Formulierung: Links auf den Medianamen, Trenner „—".</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="#" rel="noopener">tagesschau</a> — <a href="#" rel="noopener">heise online</a>.</span>
 </div>
 
 <div class="item">
 <h3>Beispiel 2 — Beitrag MIT Blink über Bedingung B (Absolute Primärquelle, z.&nbsp;B. ESA)</h3>
 <span class="source credit">Grundlage dieses Beitrags: <a href="#" rel="noopener">Original lesen</a> — ESA.</span>
-<span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>
-<p>Bei einer Absoluten Primärquelle (Bedingung B) steht der Blink direkt — ohne Zweitquellen-Zeile darunter. Die Primärquelle ist Urheber des Sachverhalts selbst.</p>
+<p>Bei einer Absoluten Primärquelle (Bedingung B) steht der Blink direkt — ohne Zweitquellen-Zeile sitzt er am Ende des Fließtexts. Die Primärquelle ist Urheber des Sachverhalts selbst. <span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span></p>
 </div>
 
 <div class="item">
