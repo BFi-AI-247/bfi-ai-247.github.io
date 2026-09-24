@@ -8,7 +8,7 @@
 <link rel="icon" type="image/svg+xml" href="assets/favicon-light.svg">
 <style>
 /* ============================================================
-   ENTWURF v3.9 (24.09.2026, Design_R3, Betreiber-Feedback Runde 11,
+   ENTWURF v3.10 (24.09.2026, Design_R3, Betreiber-Feedback Runde 11,
    Roadmap Punkt 56) — NICHT FREIGEGEBEN, kein Live-Stand.
    wzgV1.css bleibt unangetastet; neue Klassen sind Entwurfs-
    Erweiterungen und wandern bei Freigabe versionierbar ins Live-Design.
@@ -16,20 +16,21 @@
 
 /* Kopf: komplett zentriert */
 .kopf{padding:14px 0 0;border-top:5px double var(--tinte);text-align:center}
-/* WIESENZEITUNG deutlich größer als GIFHORN (30/37px vs. 30px Versals) */
 .wm-zeile1{font-family:var(--serif);font-weight:700;font-size:clamp(30px,7vw,37px);letter-spacing:.04em;margin:0;color:var(--tinte);line-height:1.05}
 
-/* GIFHORN als EIN SVG: dichter an WIESENZEITUNG (margin-top 0) */
+/* GIFHORN als EIN SVG: unverändert aus v3.9 */
 .wm-gifhorn{display:inline-block;vertical-align:middle;line-height:1;margin-top:0}
 .wm-gifhorn text{font-family:var(--serif);font-weight:700;font-size:30px;fill:var(--wiese);letter-spacing:.04em}
 .kopf-badge-row{margin:4px 0 0;text-align:center}
 
-/* Nav-Zeile: Favicon-Rahmen direkt am Icon (Icon füllt Box komplett aus,
-   SVG-interne Randzone wird durch 100%-Skalierung + Überlappungs-Trick eliminiert) */
+/* Nav-Zeile mit überarbeitetem Favicon-Kasten:
+   Der Kasten (33px) trägt den Rahmen; das SVG wird darin auf 140 %
+   vergrößert und zentriert beschnitten — die interne Randzone des
+   favicon-light.svg wird abgeschnitten, das sichtbare RADAR-Zeichen
+   liegt bündig am Rahmen. */
 .nav-zeile{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;border-bottom:1px solid var(--linie);padding:8px 0 10px;margin-top:12px}
-.radar-mark{flex:0 0 auto;display:inline-flex;align-items:center;line-height:1;border:none;text-decoration:none;height:15px}
-.radar-mark img{width:33px;height:33px;display:block;opacity:.92;margin-top:-9px;border:1.5px solid rgba(43,36,28,.45);border-radius:4px;box-sizing:border-box;padding
-:0;background:transparent}
+.radar-mark{flex:0 0 auto;width:33px;height:33px;display:inline-block;border:1.5px solid rgba(43,36,28,.45);border-radius:4px;overflow:hidden;line-height:0;text-decoration:none;margin-top:-9px;background:transparent}
+.radar-mark img{width:140%;height:140%;max-width:none;transform:translateX(-14.3%);opacity:.92;display:block}
 .radar-mark:hover img{opacity:1}
 .nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
 .nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
@@ -44,14 +45,14 @@
 <body>
 <div class="wrap">
 
-<p class="entwurf-note">&#9888; Entwurf v3.10 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 10) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
+<p class="entwurf-note">&#9888; Entwurf v3.10 zur Freigabe durch Bj&ouml;rn_0 (24.09.2026, Roadmap Punkt 56, Layout-Feedback Runde 11) — keine Live-Datei. Live: <a href="index.html">index.html</a> (unver&auml;ndert).</p>
 
 <!-- ================================================================
-     NEUER KOPF (v3.9):
-     - WIESENZEITUNG 30/37px (deutlich über GIFHORN-30px)
-     - GIFHORN dichter dran (margin-top 0)
-     - Mühle unverändert (Betreiber: gut)
-     - Favicon-Rahmen: 1.5px Tinte 45%, direkt anliegend
+     NEUER KOPF (v3.10):
+     - WIESENZEITUNG 30/37px, GIFHORN dicht darunter (unverändert v3.9)
+     - Favicon-Kasten überarbeitet: 33px-Box mit dezentem Rahmen,
+       SVG-Inhalt auf 140% gezoomt und beschnitten → RADAR-Zeichen
+       liegt bündig am Rahmen (interne SVG-Randzone entfällt)
      ================================================================ -->
 <header class="kopf">
   <p class="wm-zeile1">WIESENZEITUNG</p>
@@ -60,8 +61,7 @@
     <g transform="translate(14.5,34) scale(0.5625,0.7031) translate(0,-52)" stroke="#4e6b3a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
       <path d="M23.375 52 C23.375 41 27 35.5 32 35.5 C37 35.5 40.625 41 40.625 52 Z"/>
       <path d="M23.375 46.5 L40.625 46.5"/>
-      <path d="M23.3
-75 46.5 L23.375 52 M40.625 46.5 L40.625 52 M32 46.5 L32 52"/>
+      <path d="M23.375 46.5 L23.375 52 M40.625 46.5 L40.625 52 M32 46.5 L32 52"/>
       <path d="M26.5 34 C26.5 29 29 26.5 32 26.5 C35 26.5 37.5 29 37.5 34"/>
       <circle cx="32" cy="33.5" r="1.8" fill="#4e6b3a" stroke="none"/>
       <g stroke-width="2.6">
@@ -77,7 +77,7 @@
 
 <div class="nav-zeile">
   <a class="radar-mark" href="https://radar724.de" title="RADAR 724 — das Mutterprojekt" rel="noopener">
-    <img src="../assets/favicon-light-tight.svg" alt="RADAR 724 — Logo des Mutterprojekts">
+    <img src="../assets/favicon-light.svg" alt="RADAR 724 — Logo des Mutterprojekts">
   </a>
   <nav>
   <a href="index.html">Start</a>
@@ -94,12 +94,12 @@
 <p class="meta">Ein Ableger von <a href="../index.html">RADAR 724</a>.</p>
 
 <div class="entwurf-box">
-<h3>Revision v3.10 — Hierarchie unmissverst&auml;ndlich, Abst&auml;nde enger</h3>
+<h3>Revision v3.10 — Favicon &uuml;berarbeitet (Zoom-in-Crop)</h3>
 <ul style="font-size:14.5px">
-<li><b>WIESENZEITUNG deutlich gr&ouml;&szlig;er:</b> 28/35&nbsp;&rarr;&nbsp;30/37&nbsp;px — jetzt auch optisch klar &uuml;ber GIFHORN (30&nbsp;px) in jedem Rendering-Zustand.</li>
-<li><b>GIFHORN dichter an WIESENZEITUNG:</b> Zwischenraum (margin-top 2&nbsp;px &rarr; 0) eliminiert — die Zeilen bilden jetzt einen kompakten Wortblock.</li>
-<li><b>Favicon &uuml;berarbeitet:</b> neue, eng geschnittene Variante <i>favicon-light-tight.svg</i> (viewBox direkt auf die Icon-Bounding-Box — die ~10&nbsp;% interne Randzone des Originals ist entfernt). Der Rahmen (1,5&nbsp;px Tinte, 45&nbsp;% Deckkraft) liegt damit tats&auml;chlich am sichtbaren Icon an. Original-Asset unangetastet.</li>
-<li>M&uuml;hle + GIFHORN-Geometrie unver&auml;ndert (Betreiber: „gut").</li>
+<li><b>Diagnose best&auml;tigt:</b> Das favicon-light.svg hat eine interne Randzone (wie auch das gro&szlig;e RADAR-Logo) — deshalb erschien das sichtbare Zeichen selbst mit anliegendem CSS-Rahmen nicht b&uuml;ndig.</li>
+<li><b>L&ouml;sung im Entwurf:</b> Der Kasten ist jetzt eine feste 33-px-Box mit Rahmen; das SVG wird darin auf <b>140&nbsp;% vergr&ouml;&szlig;ert und beschnitten</b> (overflow:hidden) — die interne Randzone f&auml;llt weg, das RADAR-Zeichen f&uuml;llt den Kasten bis zum Rahmen.</li>
+<li><b>Alternative f&uuml;r die Live-Umstellung:</b> Eigentlich sauberer w&auml;re ein eng geschnittenes SVG als eigenes Asset (z.&nbsp;B. <span style="font-family:var(--sans);font-size:12px">assets/radar-mark-tight.svg</span>, viewBox auf das Zeichen geschnitten) — kein Zoom-Nebenprodukt (Leichtkanten bei Skalierung). Empfehlung Design_R3: bei Freigabe das Tight-SVG nachliefern; der Zoom-Crop ist der verl&auml;ssliche Entwurfs-Workaround.</li>
+<li>Wortmarke, M&uuml;hle, Badge, Nav unver&auml;ndert aus v3.9.</li>
 </ul>
 </div>
 
