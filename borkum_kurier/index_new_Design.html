@@ -36,21 +36,7 @@
 </nav>
 </header>
 
-<!-- ===== 1. Wetter & Gezeiten Borkum (bei Sturmflut-/Unwetterwarnung prominent) ===== -->
-<section class="baustein" id="wetter">
-<h2>Wetter &amp; Gezeiten Borkum</h2>
-<p>Heiter bis wolkig, 14–18&nbsp;&deg;C, frischer Nordwestwind. Beispieltext — Platzhalter.</p>
-<ul class="gezeiten">
-<li><span>Hochwasser</span><span>04:52 Uhr</span></li>
-<li><span>Niedrigwasser</span><span>11:03 Uhr</span></li>
-<li><span>Hochwasser</span><span>17:14 Uhr</span></li>
-<li><span>Niedrigwasser</span><span>23:21 Uhr</span></li>
-</ul>
-<!-- Nur bei Sturmflut-/Unwetterwarnung (DWD) einblenden, sonst weglassen -->
-<p class="warnung">&#9888; Beispiel: Unwetterwarnung — schwere Böen, Aufenthalt am Deich meiden.</p>
-</section>
-
-<!-- ===== 2. Meldung des Tages (Hervorhebungs-Box, 5–8 Sätze mit Einordnung) ===== -->
+<!-- ===== 1. Meldung des Tages (Hervorhebungs-Box, 5–8 Sätze mit Einordnung) ===== -->
 <section class="meldung-des-tages" id="meldung-des-tages">
 <h2>Meldung des Tages</h2>
 <p>BEISPIELHEADLINE DES TAGES.</p>
@@ -58,16 +44,22 @@
 <p class="quelle">Grundlage: QUELLE (Beispiel).</p>
 </section>
 
-<!-- ===== 3. Fähr-Baustein (heutige Abfahrten + AG-Ems-Hinweise) ===== -->
-<section class="baustein" id="faehre">
-<h2>Fähre &amp; Katamaran — Abfahrten heute</h2>
-<ul class="faehrliste">
-<li><span>Emden &rarr; Borkum</span><span>07:30 &middot; 11:30 &middot; 16:00 Uhr</span></li>
-<li><span>Borkum &rarr; Emden</span><span>09:00 &middot; 13:45 &middot; 18:15 Uhr</span></li>
-<li><span>Eemshaven &rarr; Borkum (Katamaran)</span><span>08:10 &middot; 12:10 &middot; 17:40 Uhr</span></li>
-<li><span>Borkum &rarr; Eemshaven (Katamaran)</span><span>09:50 &middot; 14:40 &middot; 19:30 Uhr</span></li>
-<li class="hinweis">AG-Ems-Hinweis (Beispiel): Fahrplanänderungen und Wettersperrungen immer hier zuerst.</li>
+<!-- ===== 2. Insel-Daten-Block: Wetter & Gezeiten + F&auml;hre in EINEM Block,
+     kompakte kleinere Schrift, nach der Meldung des Tages
+     (Betreiber-Feedback Bj&ouml;rn_0, 26.09.) ===== -->
+<section class="insel-daten" id="insel-daten">
+<h2>Wetter, Gezeiten &amp; F&auml;hre</h2>
+<p>Heiter bis wolkig, 14&ndash;18&nbsp;&deg;C, frischer Nordwestwind.</p>
+<ul class="gezeiten">
+<li><span>Hochwasser</span><span>04:52 Uhr</span></li>
+<li><span>Niedrigwasser</span><span>11:03 Uhr</span></li>
+<li><span>Hochwasser</span><span>17:14 Uhr</span></li>
+<li><span>Niedrigwasser</span><span>23:21 Uhr</span></li>
 </ul>
+<p class="faehr-kompakt">F&auml;hre Emden &harr; Borkum: 07:30 &middot; 11:30 &middot; 16:00 / 09:00 &middot; 13:45 &middot; 18:15 Uhr &middot; Katamaran Eemshaven &harr; Borkum: 08:10 &middot; 12:10 &middot; 17:40 / 09:50 &middot; 14:40 &middot; 19:30 Uhr</p>
+<p class="faehr-kompakt hinweis">AG-Ems-Hinweis (Beispiel): Fahrplan&auml;nderungen und Wettersperrungen immer hier zuerst.</p>
+<!-- Nur bei Sturmflut-/Unwetterwarnung (DWD) einblenden, sonst weglassen -->
+<p class="warnung">&#9888; Beispiel: Unwetterwarnung — schwere B&ouml;en, Aufenthalt am Deich meiden.</p>
 </section>
 
 <!-- ===== 4. Markt-Baustein (nur DAX + Dollar-Euro; kein Heizöl, kein VW VZ) ===== -->
