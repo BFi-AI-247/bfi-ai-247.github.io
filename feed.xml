@@ -6,8 +6,22 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:52:00 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #38 — Tankrabatt beschlossen: Sprit ab Oktober rund 17 Cent günstiger · Papst warnt in Paris vor neuem Wettrüsten · Iran bietet Öffnung der Straße von Hormus binnen sieben Tagen an</title>
+      <link>https://radar724.de/posts/2026-09-25-abends.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-25-abends.html</guid>
+      <description>Freitag, 25.09.2026 · Abends · Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin</description>
+      <pubDate>Fri, 25 Sep 2026 18:46:00 +0200</pubDate>
+    </item>
+<item>
+      <title>Ausgabe #37 — Update: USA und China lehnen staatliche KI-Regulierung ab · Anthropic und Akamai besiegeln 11,6-Milliarden-Cloud-Deal · Kanada stuft Synagogen-Angriff als Hassverbrechen ein</title>
+      <link>https://radar724.de/posts/2026-09-25-mittags.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-25-mittags.html</guid>
+      <description>Freitag, 25.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen</description>
+      <pubDate>Fri, 25 Sep 2026 12:22:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #36 — Hitze kostet Deutschland 25 Milliarden Euro · Uranus-Mond Ariel: Hinweise auf verborgenen Ozean · Institute verdoppeln Wachstumsprognose</title>
       <link>https://radar724.de/posts/2026-09-25-morgens.html</link>
@@ -97,20 +111,5 @@
       <description>Dienstag, 22.09.2026 · Morgens · Tech & KI / Wirtschaft & Finanzen / Kultur & Medien</description>
       <pubDate>Tue, 22 Sep 2026 06:47:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #23 — Wall Street vor Rekordhoch · UN-Experten fordern strengere Sicherheitsregeln für KI-Agenten · USA kündigen Stilllegung iranischer Airlines an</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-21-nachts.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-21-nachts.html</guid>
-      <description>Montag, 21.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
-      <pubDate>Mon, 21 Sep 2026 23:06:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ausgabe #22 — DAX schließt fester · Microchip vollzieht Hailo-Übernahme · US-Medien verklagen das Weiße Haus</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-21-abends.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-21-abends.html</guid>
-      <description>Montag, 21.09.2026 · Abends · Tech &amp; KI / Wirtschaft &amp; Finanzmärkte / Weltgeschehen</description>
-      <pubDate>Mon, 21 Sep 2026 16:00:00 +0200</pubDate>
-    </item>
-                    
-                </channel>
+    </channel>
 </rss>
