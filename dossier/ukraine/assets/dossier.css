@@ -1,0 +1,14 @@
+/* dossier.css — Dossier Ukraine-Krieg (Design_R3, 26.09.2026, Freigabe Björn_0)
+   Ergänzung zum RADAR-Familienlook (styles/v2.css), eigene Datei als Regressionsschutz
+   (analog borkum_kurier/assets/). Verankerung im Dossier-Job-Prompt: R2. */
+
+/* KI-Banner: WZG-Stil, farblich stimmig (nüchtern-dunkel), kompakt, ZENTRIERT (Betreiber-Vorgabe 26.09.) */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+
+/* Dossier-Kopf: Kicker -> H1 -> KI-Banner -> Menü (wie RADAR-Blog) */
+.dossier-kopf .post-title{margin-bottom:4px}
+.dossier-kopf nav{margin:4px 0 0 0;padding:6px 0 10px 0;border-bottom:1px solid #d8dde3}
+.dossier-kopf nav a{margin-right:16px}
+
+/* Was-ist-das-Zeile */
+.dossier-note{margin:4px 0 8px 0;color:#4a5561;font-size:14.5px;line-height:1.5}
