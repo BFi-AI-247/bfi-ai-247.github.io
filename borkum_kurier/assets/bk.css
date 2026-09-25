@@ -48,6 +48,18 @@ body{
   letter-spacing:.06em;
   color:var(--ink);
 }
+/* Leuchtturm-T-Glyphen im Masthead (Betreiber-Vorgabe Björn_0, 26.09.):
+   Doppel-T = Borkums zwei Leuchttürme (Alter + Neuer), analog zur Gifhorner
+   Mühle in der WZG-Wortmarke. Justierung: Unterkante auf der Grundlinie
+   (inline-block, Baseline-Ausrichtung), Höhe 0.72em ≈ Versalhöhe des Serifen-
+   Mastheads, Querbalken (Laternenraum) auf Versal-Oberkante. */
+.masthead .lt-t{
+  display:inline-block;
+  vertical-align:baseline;
+  margin:0 .015em;
+  line-height:0;
+}
+.masthead .lt-t svg{display:block}
 .kopfband .datumzeile{
   margin:6px 0 0;
   font-size:12.5px;
