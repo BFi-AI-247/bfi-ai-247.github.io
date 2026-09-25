@@ -60,8 +60,7 @@ jobs:
       # Datei-Erkennung (Fix 24.09.2026, Ausgabe-#32-Vorfall):
       # Vorher: git diff HEAD~1 HEAD — bei einem Push mit MEHREREN
       # Commits (Ausgabe, index, feed) zeigt HEAD~1 auf den vorletzten
-      # Commit DES
- PUSH, nicht auf den Zustand vor dem Push. Das Diff
+      # Commit DES PUSH, nicht auf den Zustand vor dem Push. Das Diff
       # war dann leer (Ausgabe #32, 24.09.2026, Run 10 s, kein Post).
       # Jetzt: github.event.before .. github.sha (Zustand vor dem
       # Push), Fallback HEAD~1 falls before fehlt/nicht erreichbar
@@ -84,13 +83,18 @@ jobs:
           mkdir -p social
           touch social/bluesky-state.txt
           # Fix 12 (25.09.2026, Doppelpost Ausgabe #35): Der Checkout steht
-          # auf dem Push-SHA. Bei parallel laufenden/queuenden Laeuifen
+          # auf dem Push-SHA. Bei parallel laufenden/queuenden Laeufen
           # (concurrency-Queue, zweite Push-Welle) ist die State-Datei im
           # Checkout VERALTET — eine bereits gepostete Ausgabe wuerde erneut
           # erkannt und doppelt gepostet. Deshalb: aktuellen Stand von
-          # origin/main in die Pruefung einbeziehen.
+          # origin/main in die Pruefung einbeziehen (ueber Temp-Datei, damit
+          # die lokale State-Datei bei Fetch-Fehlern nicht geleert wird).
           git fetch origin main --quiet || true
-          git show origin/main:social/bluesky-state.txt > social/bluesky-state.txt 2>/dev/null || true
+          if git show origin/main:social/bluesky-state.txt > social/_state.tmp 2>/dev/null; then
+            mv social/_state.tmp social/bluesky-state.txt
+          else
+            rm -f social/_state.tmp
+          fi
           NEW_FILES=""
           if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
             # Fix 11: Schedule = WZG-Morgenausgabe pruefen (heutiges Datum Berlin)
@@ -104,8 +108,7 @@ jobs:
                 echo "WZG-Morgenausgabe gefunden und ungepostet."
               fi
             else
-              echo "WZG-Morgenausgabe heute noch ni
-cht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
+              echo "WZG-Morgenausgabe heute noch nicht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
             fi
           elif [ "$GITHUB_EVENT_NAME" = "push" ]; then
             DIFF_BASE="$BEFORE"
@@ -131,7 +134,10 @@ cht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
             echo "POST_FILE empfangen (roh, in []): [$f]"
             key=$(printf '%s' "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z]+' | head -n 1)
             if [ -n "$key" ]; then
-              f="posts/$key.html"
+case "$f" in
+                  *wiesenzeitung*|*WZG*) f="wiesenzeitung_gifhorn/posts/$key.html" ;;
+                  *) f="posts/$key.html" ;;
+                esac
             else
               f=$(printf '%s' "$f" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/^post_file[[:space:]]*=[[:space:]]*//')
               case "$f" in
@@ -144,21 +150,20 @@ cht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
             fi
             echo "Nachholen aufgeloest zu: [$f]"
             case "$f" in
-              posts/*.html)
+              posts/*.html|wiesenzeitung_gifhorn/posts/*.html)
                 if [ ! -f "$f" ]; then
                   echo "ABBRUCH: Datei $f existiert nicht im Repo. Verfuegbare posts-Dateien:" >&2
-                  ls -1 posts/ | tail -n 5 >&2
+                  ls -1 posts/ wiesenzeitung_gifhorn/posts/ 2>/dev/null | tail -n 10 >&2
                   exit 1
                 fi
-                if grep -qxF "$f" 
-social/bluesky-state.txt; then
+                if grep -qxF "$f" social/bluesky-state.txt; then
                   echo "ABBRUCH: $f wurde laut State-Datei bereits gepostet." >&2
                   exit 1
                 fi
                 NEW_FILES=" $f"
                 ;;
               *)
-                echo "ABBRUCH: post_file muss eine posts-Datei sein, z. B. posts/2026-09-24-morgens.html." >&2
+                echo "ABBRUCH: post_file muss eine Ausgaben-Datei sein, z. B. posts/2026-09-24-morgens.html oder wiesenzeitung_gifhorn/posts/2026-09-25-morgens.html." >&2
                 exit 1
                 ;;
             esac
@@ -193,8 +198,7 @@ social/bluesky-state.txt; then
       # der Runner, nicht der Domain). HTTP-Checks am Runner sind
       # damit als primaeres Kriterium unbrauchbar.
       #
-      # Fix 7 (Run 12, Timeout nach 15 Zykle
-n): Deploy-Check PRIMAER
+      # Fix 7 (Run 12, Timeout nach 15 Zyklen): Deploy-Check PRIMAER
       # ueber die GitHub Pages-API (/pages/builds/latest, mit
       # GITHUB_TOKEN, permission pages: read) — umgeht das Runner-
       # Netz komplett. Erfolg, wenn Status "built" UND (Push: Build-
@@ -227,8 +231,7 @@ n): Deploy-Check PRIMAER
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -f social/_new.txt ]; then
-            URLS=$(sed -e 's|^posts/|htt
-ps://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' social/_new.txt)
+            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' social/_new.txt)
           else
             URLS="https://radar724.de"
           fi
@@ -254,8 +257,7 @@ ps://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wies
             # Superseded gilt daher ebenfalls als deployed.
             if [ "$MY_STATUS" = "built" ] || [ "$MY_STATUS" = "superseded" ]; then
               echo "Pages-API bestätigt Deploy (Status: $MY_STATUS, Run-SHA-Build) — Post wird freigegeben."
-              echo "waited=$SECONDS" >>
- "$GITHUB_OUTPUT"
+              echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             if [ "$GITHUB_EVENT_NAME" != "push" ] && [ "$LATEST_STATUS" = "built" ]; then
@@ -292,8 +294,7 @@ ps://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wies
           exit 1
 
       - name: Nach Bluesky posten (neue Ausgaben)
-        if: steps.fi
-les.outputs.new == 'true' && steps.deploy.outputs.waited != ''
+        if: steps.files.outputs.new == 'true' && steps.deploy.outputs.waited != ''
         env:
           BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
@@ -335,7 +336,6 @@ les.outputs.new == 'true' && steps.deploy.outputs.waited != ''
                   if fname.startswith("wiesenzeitung_gifhorn/"):
                       prefix = "WZG"
                       link = "https://radar724.de/wiesenzeitung_gifhorn/posts/" + os.path.basename(fname)
-
                   else:
                       prefix = "RADAR 724"
                       link = "https://radar724.de/posts/" + os.path.basename(fname)
@@ -372,8 +372,7 @@ les.outputs.new == 'true' && steps.deploy.outputs.waited != ''
                           api("/xrpc/com.atproto.repo.createRecord", payload, auth)
                           ok = True
                           break
-                      ex
-cept Exception as e:
+                      except Exception as e:
                           print(f"Versuch {attempt} fuer {fname} fehlgeschlagen: {e}", flush=True)
                           time.sleep(30 * attempt)
                   if ok:
@@ -431,8 +430,7 @@ cept Exception as e:
           username = os.environ["BLUESKY_USERNAME"]
           password = os.environ["BLUESKY_APP_PASSWORD"]
           dry_run = os.environ.get("DRY_RUN", "true") != "false"
-          host 
-= "https://bsky.social"
+          host = "https://bsky.social"
 
           if not username or not password:
               print("FEHLER: Secrets BLUESKY_USERNAME / BLUESKY_APP_PASSWORD sind nicht gesetzt (Repo-Settings → Secrets and variables → Actions).", file=sys.stderr)
@@ -466,8 +464,7 @@ cept Exception as e:
                              "features": [{"$type": "app.bsky.richtext.facet#tag", "tag": tag.group(0)}]})
           payload = {"repo": did, "collection": "app.bsky.feed.post",
                      "record": {"$type": "app.bsky.feed.post",
-          
-                      "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                                "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                                 "text": text, "facets": facets, "langs": ["de"]}}
 
           # 3) Architekten-Entscheidung: manueller Test-Post bleibt BEWUSST ausserhalb
