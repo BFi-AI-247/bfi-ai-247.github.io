@@ -138,6 +138,11 @@ body{
 .insel-daten p{margin:0 0 4px}
 .insel-daten .gezeiten{font-size:13px;margin:4px 0 6px}
 .insel-daten .gezeiten li{padding:2px 0}
+.insel-daten .gezeiten-kompakt{
+  font-size:13px;
+  letter-spacing:.03em;
+  margin:4px 0 6px;
+}
 .insel-daten .faehr-kompakt{margin:4px 0 2px}
 .insel-daten .hinweis{font-size:12px;color:var(--nordsee);font-weight:600}
 .insel-daten .warnung{margin-top:8px;font-size:13px}
