@@ -5,6 +5,10 @@ on:
     branches: [main]
     paths:
       - 'posts/**'
+      - 'borkum_kurier/posts/**'
+  # Fix 15 (26.09.2026, Borkum-Live-Start): Wattpost-Ausgaben unter
+  # borkum_kurier/posts/ — Push-Trigger, Schedule-Zweig, workflow_dispatch
+  # und URL/Hashtag-Mapping ergaenzt (analog Fix 14 fuer WZG).
   # Fix 11 (24.09.2026, Betreiber-Wunsch): Schedule fuer WZG-Morgenausgabe.
   # Push-Trigger greift nur bei posts/** — WZG-Ausgaben liegen unter
   # wiesenzeitung_gifhorn/posts/ und triggern nichts. Der Schedule prueft
@@ -97,19 +101,23 @@ jobs:
           fi
           NEW_FILES=""
           if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
-            # Fix 11: Schedule = WZG-Morgenausgabe pruefen (heutiges Datum Berlin)
-            WZG_FILE="wiesenzeitung_gifhorn/posts/$(TZ=Europe/Berlin date +%F)-morgens.html"
-            echo "Schedule-Lauf: pruefe $WZG_FILE"
-            if [ -f "$WZG_FILE" ]; then
-              if grep -qxF "$WZG_FILE" social/bluesky-state.txt; then
-                echo "WZG-Morgenausgabe heute bereits gepostet — nichts zu tun."
+            # Fix 11: Schedule = Morgenausgaben pruefen (heutiges Datum Berlin).
+            # Fix 15 (26.09.2026): zusaetzlich Borkum-Morgenausgabe — derselbe
+            # Schedule-Zweig prueft BEIDE Ausgaben (State = Anti-Duplikat).
+            TODAY=$(TZ=Europe/Berlin date +%F)
+            for f in "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
+              echo "Schedule-Lauf: pruefe $f"
+              if [ -f "$f" ]; then
+                if grep -qxF "$f" social/bluesky-state.txt; then
+                  echo "$f heute bereits gepostet — nichts zu tun."
+                else
+                  NEW_FILES="$NEW_FILES $f"
+                  echo "$f gefunden und ungepostet."
+                fi
               else
-                NEW_FILES=" $WZG_FILE"
-                echo "WZG-Morgenausgabe gefunden und ungepostet."
+                echo "$f heute noch nicht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
               fi
-            else
-              echo "WZG-Morgenausgabe heute noch nicht vorhanden — nichts zu tun (naechster Schedule versucht erneut)."
-            fi
+            done
           elif [ "$GITHUB_EVENT_NAME" = "push" ]; then
             DIFF_BASE="$BEFORE"
             if [ -z "$DIFF_BASE" ] || [ "$DIFF_BASE" = "0000000000000000000000000000000000000000" ]; then
@@ -120,9 +128,9 @@ jobs:
               DIFF_BASE="HEAD~1"
               echo "event.before nicht im Checkout — Fallback HEAD~1."
             fi
-            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/'); do
+            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'borkum_kurier/posts/'); do
               case "$f" in
-                posts/*.html)
+                posts/*.html|borkum_kurier/posts/*.html)
                   if ! grep -qxF "$f" social/bluesky-state.txt; then
                     NEW_FILES="$NEW_FILES $f"
                   fi
@@ -138,6 +146,9 @@ jobs:
               case "$f" in
                 *wiesenzeitung*|*WZG*)
                   f="wiesenzeitung_gifhorn/posts/$key.html"
+                  ;;
+                *borkum*|*Borkum*|*wattpost*|*Wattpost*)
+                  f="borkum_kurier/posts/$key.html"
                   ;;
                 *)
                   f="posts/$key.html"
@@ -155,10 +166,10 @@ jobs:
             fi
             echo "Nachholen aufgeloest zu: [$f]"
             case "$f" in
-              posts/*.html|wiesenzeitung_gifhorn/posts/*.html)
+              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
                 if [ ! -f "$f" ]; then
                   echo "ABBRUCH: Datei $f existiert nicht im Repo. Verfuegbare posts-Dateien:" >&2
-                  ls -1 posts/ wiesenzeitung_gifhorn/posts/ 2>/dev/null | tail -n 10 >&2
+                  ls -1 posts/ wiesenzeitung_gifhorn/posts/ borkum_kurier/posts/ 2>/dev/null | tail -n 10 >&2
                   exit 1
                 fi
                 if grep -qxF "$f" social/bluesky-state.txt; then
@@ -168,7 +179,7 @@ jobs:
                 NEW_FILES=" $f"
                 ;;
               *)
-                echo "ABBRUCH: post_file muss eine Ausgaben-Datei sein, z. B. posts/2026-09-24-morgens.html oder wiesenzeitung_gifhorn/posts/2026-09-25-morgens.html." >&2
+                echo "ABBRUCH: post_file muss eine Ausgaben-Datei sein, z. B. posts/2026-09-24-morgens.html, wiesenzeitung_gifhorn/posts/2026-09-25-morgens.html oder borkum_kurier/posts/2026-09-25-morgens.html." >&2
                 exit 1
                 ;;
             esac
@@ -236,7 +247,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -f social/_new.txt ]; then
-            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' social/_new.txt)
+            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' -e 's|^borkum_kurier/|https://radar724.de/borkum_kurier/|' social/_new.txt)
           else
             URLS="https://radar724.de"
           fi
@@ -341,6 +352,9 @@ jobs:
                   if fname.startswith("wiesenzeitung_gifhorn/"):
                       prefix = "WZG"
                       link = "https://radar724.de/wiesenzeitung_gifhorn/posts/" + os.path.basename(fname)
+                  elif fname.startswith("borkum_kurier/"):
+                      prefix = "Wattpost Borkum"
+                      link = "https://radar724.de/borkum_kurier/posts/" + os.path.basename(fname)
                   else:
                       prefix = "RADAR 724"
                       link = "https://radar724.de/posts/" + os.path.basename(fname)
@@ -348,6 +362,8 @@ jobs:
                   # #KI (Lokalbezug schlaegt Generik beim Lokalkanal).
                   if prefix == "WZG":
                       tags = " #Gifhorn #News"
+                  elif prefix == "Wattpost Borkum":
+                      tags = " #Borkum #News"
                   else:
                       tags = " #KI #News"
                   text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
@@ -362,7 +378,7 @@ jobs:
                   if pos >= 0:
                       facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
                                      "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
-                  for tag in re.finditer(r"#(KI|News|Gifhorn)", text):
+                  for tag in re.finditer(r"#(KI|News|Gifhorn|Borkum)", text):
                       b0 = len(text[:tag.start()].encode("utf-8"))
                       b1 = len(text[:tag.end()].encode("utf-8"))
                       facets.append({"index": {"byteStart": b0, "byteEnd": b1},
