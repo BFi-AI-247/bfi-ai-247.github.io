@@ -271,7 +271,13 @@ jobs:
             # (index/archive/feed) superseden den Run-SHA-Build, bevor er
             # "built" erreicht — der Inhalt ist aber im Folge-Build live.
             # Superseded gilt daher ebenfalls als deployed.
-            if [ "$MY_STATUS" = "built" ] || [ "$MY_STATUS" = "superseded" ]; then
+            # Fix 16 (26.09.2026, Abendausgabe #38): Schnelle Folge-Pushes
+            # (index/archive/feed direkt nach dem Post-Commit) koennen den
+            # Run-SHA-Build CANCELLEN ("higher priority waiting request")
+            # statt nur zu superseden — Status "canceled" heisst: ein
+            # Nachfolge-Build (der unseren Commit enthaelt) hat uebernommen.
+            # canceled gilt daher ebenfalls als deployed (wie Fix 10).
+            if [ "$MY_STATUS" = "built" ] || [ "$MY_STATUS" = "superseded" ] || [ "$MY_STATUS" = "canceled" ] || [ "$MY_STATUS" = "cancelled" ]; then
               echo "Pages-API bestätigt Deploy (Status: $MY_STATUS, Run-SHA-Build) — Post wird freigegeben."
               echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
               exit 0
