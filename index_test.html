@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- TESTVARIATE (Design_R3, 25.09.2026): Nav-Punkt „Lokales“ + Lokal-Abschnitt + Umbenennung „Über RADAR 724“ — nur zur Ansicht, Live-index unberührt -->
+<!-- TESTANSICHT v2 (Design_R3, 26.09.2026): Prototyp Dossier-Integration — Menü: Dossiers · Lokales · Archiv · Über RADAR 724 (Start raus); Reihenfolge: RADAR-Ausgaben (Prototyp behält 8 Einträge — Ziel 4 nach R2-Job-Umstellung, Betreiber-Entscheid 26.09.), bmac Position 2, dann Dossiers (je letzter Beitrag), dann Lokales. noindex, nicht verlinkt, Live-index unberührt. -->
 <meta name="robots" content="noindex">
-<title>RADAR 724 — Testansicht „Lokales“ (nicht live)</title>
+<title>RADAR 724 — Testansicht Dossier-Integration (nicht live)</title>
 <link rel="stylesheet" href="styles/v2.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
 <!-- Open Graph / Link-Vorschauen (22.09.2026): WhatsApp, Telegram, Social-Media-Karten -->
@@ -28,9 +28,9 @@
 </div>
 <h1 class="sr-only">RADAR 724</h1>
 <nav>
-<a href="index.html">Start</a>
-<a href="archive.html">Archiv</a>
+<a href="#dossiers">Dossiers</a>
 <a href="#lokales">Lokales</a>
+<a href="archive.html">Archiv</a>
 <a href="about.html">Über RADAR 724</a>
 </nav>
 </header>
@@ -38,10 +38,14 @@
 <h2 class="section">Neueste Ausgaben</h2>
 <ul class="editions">
 <li>
+<a class="headline-link" href="posts/2026-09-25-abends.html">Ausgabe #38 — Tankrabatt beschlossen: Sprit ab Oktober rund 17 Cent g&uuml;nstiger &middot; Papst warnt in Paris vor neuem Wettr&uuml;sten &middot; Iran bietet &Ouml;ffnung der Stra&szlig;e von Hormus binnen sieben Tagen an</a>
+<span class="meta">Freitag, 25.09.2026 &middot; Abends &middot; Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin</span>
+</li>
+<li class="support"><span style="display:block;margin-top:7px;font-size:14.5px;line-height:1.5;color:inherit">&#9749; RADAR 724 findest Du gut? Unterst&uuml;tze uns! <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></span></li>
+<li>
 <a class="headline-link" href="posts/2026-09-25-mittags.html">Ausgabe #37 — Update: USA und China lehnen staatliche KI-Regulierung ab &middot; Anthropic und Akamai besiegeln 11,6-Milliarden-Cloud-Deal &middot; Kanada stuft Synagogen-Angriff als Hassverbrechen ein</a>
 <span class="meta">Freitag, 25.09.2026 &middot; Mittags &middot; Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen</span>
 </li>
-<li class="support"><span style="display:block;margin-top:7px;font-size:14.5px;line-height:1.5;color:inherit">&#9749; RADAR 724 findest Du gut? Unterst&uuml;tze uns! <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></span></li>
 <li>
 <a class="headline-link" href="posts/2026-09-25-morgens.html">Ausgabe #36 &mdash; Hitze kostet Deutschland 25 Milliarden Euro &middot; Uranus-Mond Ariel: Hinweise auf verborgenen Ozean &middot; Institute verdoppeln Wachstumsprognose</a>
 <span class="meta">Freitag, 25.09.2026 &middot; Morgens &middot; Klima &amp; Umwelt / Space &amp; Forschung / Wirtschaft &amp; Finanzen</span>
@@ -67,15 +71,21 @@
 <a class="headline-link" href="posts/2026-09-23-nachts.html">Ausgabe #31 — US-Börsen unter Druck: Nasdaq-Rekordserie endet · SoftBank leiht elf Milliarden für OpenAI · Crew-13 bereit für den 1. Oktober</a>
 <span class="meta">Mittwoch, 23.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung</span>
 </li>
-<li>
-<a class="headline-link" href="posts/2026-09-23-abends.html">Ausgabe #30 — DAX schlie&szlig;t im Minus &middot; Trump und Selenskyj beraten &uuml;ber Teilwaffenruhe &middot; Preiskrieg bei KI-Modellen</a>
-<span class="meta">Mittwoch, 23.09.2026 &middot; Abends &middot; Wirtschaft &amp; Finanzen / Weltgeschehen / Tech &amp; KI</span>
-</li>
+
 
 </ul></ul>
 <p class="note">Nächste Ausgaben: täglich ca.
  um 0:00, 7:00, 13:00 und 19:00 Uhr (Europe/Berlin). Alle früheren Aus
 gaben bleiben dauerhaft im <a href="archive.html">Archiv</a> erhalten.</p>
+
+
+<h2 class="section" id="dossiers">Dossiers</h2>
+<ul class="editions">
+<li>
+<a class="headline-link" href="dossier/ukraine/index.html">Dossier Ukraine-Krieg — t&auml;gliche Ausgabe</a>
+<span class="meta">Dossier &middot; Front / Luftangriffe / Politik / Verlustzahlen &middot; t&auml;glich fertig um 07:45 Uhr</span>
+</li>
+</ul>
 
 <h2 class="section" id="lokales">Lokales</h2>
 <ul class="editions">
