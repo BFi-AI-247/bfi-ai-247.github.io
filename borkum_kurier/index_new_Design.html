@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wattpost Borkum — Insel-Morgenausgabe (Design-Kandidat Ära 1)</title>
+<!-- DESIGN-KANDIDAT (nicht live): Wattpost Borkum, Design-Ära 1 „heimisch & gedruckt",
+     Nordsee-Variante. Alle Beispiel-Inhalte sind Platzhalter für die Struktur-Veranschaulichung.
+     Verfahren 1:1 wie RADAR 724 / WZG: keine automatische Live-Umstellung,
+     Freigabe nur durch Björn_0 im Chat. -->
+<link rel="stylesheet" href="assets/bk.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="kopfband">
+<h1 class="masthead">WATTPOST BORKUM</h1>
+<p class="datumzeile">Samstag, 26. September 2026 &middot; Ausgabe #NNN</p>
+<span class="ki-badge">KI-GENERIERT</span>
+<nav class="kopfnav">
+<a href="index.html">&laquo; Übersicht</a>
+<a href="about.html">Über die Wattpost</a>
+<!-- RADAR-724-Verankerung (Betreiber-Entscheidung, analog WZG): Mark-Geometrie 1:1
+     aus der WZG-Live-index (SVG 24.75px, viewBox 0 0 33 33, Zoom-Crop gegen die
+     SVG-Randzone des favicons), Rahmen hier in Nordseeblau (#1d5f74) statt
+     WZG-Warmbraun, verlinkt auf radar724.de. -->
+<a class="radar-mark" href="https://radar724.de" rel="noopener" title="RADAR 724 — das Mutterprojekt">
+<svg width="24.75" height="24.75" viewBox="0 0 33 33" role="img" aria-label="RADAR 724 — Logo des Mutterprojekts">
+<defs>
+<clipPath id="rm-clip"><rect x="1.5" y="1.5" width="30" height="30" rx="4"/></clipPath>
+</defs>
+<image href="../assets/favicon-light.svg" x="-10.7" y="-10.7" width="54.45" height="54.45" clip-path="url(#rm-clip)"/>
+<rect x="0.75" y="0.75" width="31.5" height="31.5" rx="4" fill="none" stroke="#1d5f74" stroke-width="1.5"/>
+</svg>
+</a>
+</nav>
+</header>
+
+<!-- ===== 1. Wetter & Gezeiten Borkum (bei Sturmflut-/Unwetterwarnung prominent) ===== -->
+<section class="baustein" id="wetter">
+<h2>Wetter &amp; Gezeiten Borkum</h2>
+<p>Heiter bis wolkig, 14–18&nbsp;&deg;C, frischer Nordwestwind. Beispieltext — Platzhalter.</p>
+<ul class="gezeiten">
+<li><span>Hochwasser</span><span>04:52 Uhr</span></li>
+<li><span>Niedrigwasser</span><span>11:03 Uhr</span></li>
+<li><span>Hochwasser</span><span>17:14 Uhr</span></li>
+<li><span>Niedrigwasser</span><span>23:21 Uhr</span></li>
+</ul>
+<!-- Nur bei Sturmflut-/Unwetterwarnung (DWD) einblenden, sonst weglassen -->
+<p class="warnung">&#9888; Beispiel: Unwetterwarnung — schwere Böen, Aufenthalt am Deich meiden.</p>
+</section>
+
+<!-- ===== 2. Meldung des Tages (Hervorhebungs-Box, 5–8 Sätze mit Einordnung) ===== -->
+<section class="meldung-des-tages" id="meldung-des-tages">
+<h2>Meldung des Tages</h2>
+<p>BEISPIELHEADLINE DES TAGES.</p>
+<p>Beispieltext der Meldung des Tages mit Einordnung, fünf bis acht Sätze. Die finalen Inhalte liefert der Kuratierungs-Task (06:15); dieser Block zeigt Struktur und Gewichtung der Hervorhebungs-Box. Sand-Untergrund, Nordseeblau-Kante, Serifen-Überschrift.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</section>
+
+<!-- ===== 3. Fähr-Baustein (heutige Abfahrten + AG-Ems-Hinweise) ===== -->
+<section class="baustein" id="faehre">
+<h2>Fähre &amp; Katamaran — Abfahrten heute</h2>
+<ul class="faehrliste">
+<li><span>Emden &rarr; Borkum</span><span>07:30 &middot; 11:30 &middot; 16:00 Uhr</span></li>
+<li><span>Borkum &rarr; Emden</span><span>09:00 &middot; 13:45 &middot; 18:15 Uhr</span></li>
+<li><span>Eemshaven &rarr; Borkum (Katamaran)</span><span>08:10 &middot; 12:10 &middot; 17:40 Uhr</span></li>
+<li><span>Borkum &rarr; Eemshaven (Katamaran)</span><span>09:50 &middot; 14:40 &middot; 19:30 Uhr</span></li>
+<li class="hinweis">AG-Ems-Hinweis (Beispiel): Fahrplanänderungen und Wettersperrungen immer hier zuerst.</li>
+</ul>
+</section>
+
+<!-- ===== 4. Markt-Baustein (nur DAX + Dollar-Euro; kein Heizöl, kein VW VZ) ===== -->
+<section class="markt" id="markt">
+<div class="markt-zeile"><span>DAX</span><span>XX.XXX Punkte <span class="pos">+0,0&nbsp;%</span></span></div>
+<div class="markt-zeile"><span>Dollar-Euro</span><span>X,XXXX <span class="neg">&minus;0,0&nbsp;%</span></span></div>
+</section>
+
+<!-- ===== 5. BuyMeACoffee-Hinweis ===== -->
+<p class="support">&#9749; Gefällt Dir die Wattpost? Du kannst sie unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<!-- ===== 6. Rubriken (kleine Versalien mit Linie; stille Rubriken entfallen still) ===== -->
+<p class="rubrik-trenner">Aus dem Rathaus</p>
+<article class="meldung">
+<span class="ort-chip">Borkum</span>
+<h3>BEISPIELHEADLINE — Aus dem Rathaus</h3>
+<p>Beispieltext, zwei bis vier Sätze. Stille Rubriken entfallen still (keine Platzhalter), Fallback nach format-morgens.md.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Nationalpark &amp; Natur</p>
+<article class="meldung">
+<span class="ort-chip">Nationalpark</span>
+<h3>BEISPIELHEADLINE — Nationalpark &amp; Natur</h3>
+<p>Beispieltext, zwei bis vier Sätze. Natur-Rubrik trägt Seegras-Grün als Sekundärakzent (Chips, positive Werte).</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Insel &amp; Vereine</p>
+<article class="meldung">
+<span class="ort-chip">Insel</span>
+<h3>BEISPIELHEADLINE — Insel &amp; Vereine</h3>
+<p>Beispieltext, zwei bis vier Sätze.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Was daraus wurde</p>
+<p class="meta">Nur bei Follow-up-Fund (Dauerthemen: Gasbohrung N05-A, MSC-Zoe-Folgen) — hier im Kandidat nur als Struktur-Veranschaulichung.</p>
+
+<footer class="site-footer">
+<p>Wattpost Borkum &middot; Insel-Morgenausgabe, fertig um 07:00 Uhr &middot; <a href="index.html">Übersicht</a> &middot; <a href="about.html">Über die Wattpost</a> &middot; <a href="impressum.html">Impressum</a></p>
+<p class="meta">Ein Projekt von <a href="https://radar724.de" rel="noopener">RADAR 724</a> &middot; KI-generiert, Beispieldaten</p>
+</footer>
+
+</div>
+</body>
+</html>
