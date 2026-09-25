@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:31:00 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #39 — Netanjahu vor der UNO: Dutzende Diplomaten verlassen den Saal · Klopp-Debüt endet mit spätem Gegentor · ZDF kündigt Satiresendung „Journal Deluxe“ mit Florian Schroeder an</title>
+      <link>https://radar724.de/posts/2026-09-25-nachts.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-25-nachts.html</guid>
+      <description>Freitag, 25.09.2026 · Nachts · Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien</description>
+      <pubDate>Fri, 25 Sep 2026 23:30:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #38 — Tankrabatt beschlossen: Sprit ab Oktober rund 17 Cent günstiger · Papst warnt in Paris vor neuem Wettrüsten · Iran bietet Öffnung der Straße von Hormus binnen sieben Tagen an</title>
       <link>https://radar724.de/posts/2026-09-25-abends.html</link>
@@ -104,12 +111,5 @@
       <description>Dienstag, 22.09.2026 · Mittags · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Tue, 22 Sep 2026 12:44:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #24 — Merz und 18 weitere Staats- und Regierungschefs fordern verbindliche KI-Regeln · UN-Generaldebatte beginnt — Trump trifft Selenskyj · Weg frei für Warner-Paramount-Fusion</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-22-morgens.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-22-morgens.html</guid>
-      <description>Dienstag, 22.09.2026 · Morgens · Tech & KI / Wirtschaft & Finanzen / Kultur & Medien</description>
-      <pubDate>Tue, 22 Sep 2026 06:47:00 +0200</pubDate>
-    </item>
-    </channel>
+        </channel>
 </rss>
