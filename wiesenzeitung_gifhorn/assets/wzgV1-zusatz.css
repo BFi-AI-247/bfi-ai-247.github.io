@@ -31,3 +31,9 @@
 .nav-zeile nav{display:flex;gap:18px;flex-wrap:wrap;align-items:center}
 .nav-zeile nav a{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--tinte);text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px;line-height:15px}
 .nav-zeile nav a:hover{color:var(--wiese);border-color:var(--wiese)}
+
+/* Kopf-Menue in Ausgaben (27.09.2026, Betreiber-Vorgabe, Design_R3): Borkum-kopfnav, Links in WZG-Warmbraun #4a3220 */
+.kopfnav{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:10px 0 0;font-size:13.5px}
+.kopfnav a{color:#4a3220;text-decoration:none;border-bottom:1px dotted #4a3220}
+.change-notice{font-size:11px;color:#4a3220}
+.change-notice a{color:#4a3220;text-decoration:underline}
