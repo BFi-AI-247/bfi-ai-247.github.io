@@ -4,29 +4,117 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wattpost Borkum — Insel-Morgenausgabe</title>
-<link rel="stylesheet" href="assets/bkV1.css">
+<!-- DESIGN LIVE (Ära 1 „heimisch & gedruckt", Nordsee-Variante): Design von
+     Björn_0 am 26.09.2026 im Chat freigegeben. Beispiel-Inhalte sind Platzhalter
+     bis zum Probelauf Ausgabe 0; noindex bleibt bis zum Live-Start (Quellen-
+     Hard-Verifikation + Probelauf stehen noch aus). CSS-Link korrigiert:
+     assets/bk.css (das Gerüst verlinkte nicht existierendes bkV1.css).
+     GoatCounter aus dem R2-Gerüst übernommen. -->
+<link rel="stylesheet" href="assets/bk.css">
 <meta name="robots" content="noindex">
 </head>
 <body>
 <div class="wrap">
-<header class="site-header">
-<h1>Wattpost Borkum</h1>
-<p class="meta">Insel-Morgenausgabe · KI-generiert · Ableger von <a href="../index.html">RADAR 724</a></p>
-<nav>
-<a href="index.html">Start</a>
-<a href="archive.html">Archiv</a>
-<a href="about.html">Über diese Seite</a>
-<a href="impressum.html">Impressum</a>
+
+<header class="kopfband">
+<!-- Wortmarke (Betreiber-Vorgabe Björn_0, 26.09., Tonwert-Revision): Das
+     DOPPEL-T in „WAT-TPOST" ist als Borkums zwei Leuchttürme stilisiert
+     (analog zur Gifhorner Mühle in der WZG-Wortmarke) — ERSTES T (links) der
+     NEUE Leuchtturm: ca. 20% höher (ragt über die Versalhöhe hinaus), mit
+     der ikonischen Spitze nach Betreiber-Bild: Laternenraum in Grau (#a9a49b)
+     mit rotem Kuppeldach und kleiner roter Dachspitze, Galerie darunter,
+     konischer Schaft mit breiterer Basis und hellen Bändern; ZWEITES T
+     (rechts) der ALTE Leuchtturm: etwas kleiner, symmetrisch quaderförmiger
+     Backsteinschaft, flacher Abschluss. Die T-Querbalken sind durch EINE
+     stilisierte dünne Wolke ersetzt (dunkler Wolken-Graubeige #9a8c70), die
+     sich hinter beiden Türmen gemeinsam erstreckt (randvoll über beide
+     Glyphen, damit es als EINE Wolke lesbar bleibt). Das T in „POST" bleibt
+     Buchstabe. -->
+<h1 class="masthead">WA<span class="lt-t lt-t-neu"><svg viewBox="0 -20 80 120" width="0.58em" height="0.864em" role="img" aria-label="T — stilisierter Neuer Leuchtturm Borkum mit ikonischer Spitze unter dünner Wolke"><g fill="#9a8c70"><ellipse cx="4" cy="18" rx="14" ry="5"/><ellipse cx="24" cy="14" rx="18" ry="6"/><ellipse cx="48" cy="16" rx="18" ry="5"/><ellipse cx="74" cy="18" rx="12" ry="5"/></g><path d="M34 -20 a6 5 0 0 1 12 0 l-2 2 h-8 z" fill="#8a3a2b"/><path d="M31 -19 a9 7 0 0 1 18 0 z" fill="#8a3a2b"/><rect x="31" y="-12" width="18" height="9" fill="#a9a49b"/><rect x="26" y="-1" width="28" height="3" fill="#33291f"/><path d="M32 2 L48 2 L54 100 L26 100 Z" fill="#a3543f"/><rect x="29" y="40" width="22" height="2.5" fill="#f7f3ec"/><rect x="28" y="72" width="24" height="2.5" fill="#f7f3ec"/></svg></span><span class="lt-t"><svg viewBox="0 0 80 100" width="0.58em" height="0.72em" role="img" aria-label="T — stilisierter Alter Leuchtturm Borkum unter dünner Wolke"><g fill="#9a8c70"><ellipse cx="4" cy="18" rx="14" ry="5"/><ellipse cx="28" cy="15" rx="20" ry="5.5"/><ellipse cx="54" cy="13" rx="18" ry="6"/><ellipse cx="76" cy="18" rx="12" ry="5"/></g><path d="M29 14 L51 14 L51 100 L29 100 Z" fill="#a3543f"/><rect x="37.5" y="42" width="5" height="8" fill="#f7f3ec"/><rect x="37.5" y="66" width="5" height="8" fill="#f7f3ec"/><rect x="37.5" y="86" width="5" height="7" fill="#f7f3ec"/></svg></span>POST BORKUM</h1>
+<p class="datumzeile">Samstag, 26. September 2026 &middot; Ausgabe #NNN</p>
+<span class="ki-badge">KI-GENERIERT</span>
+<nav class="kopfnav">
+<a href="index.html">&laquo; Übersicht</a>
+<a href="about.html">Über die Wattpost</a>
+<!-- RADAR-724-Verankerung (Betreiber-Entscheidung, analog WZG): Mark-Geometrie 1:1
+     aus der WZG-Live-index (SVG 24.75px, viewBox 0 0 33 33, Zoom-Crop gegen die
+     SVG-Randzone des favicons), Rahmen hier in Nordseeblau (#1d5f74) statt
+     WZG-Warmbraun, verlinkt auf radar724.de. -->
+<a class="radar-mark" href="https://radar724.de" rel="noopener" title="RADAR 724 — das Mutterprojekt">
+<svg width="24.75" height="24.75" viewBox="0 0 33 33" role="img" aria-label="RADAR 724 — Logo des Mutterprojekts">
+<defs>
+<clipPath id="rm-clip"><rect x="1.5" y="1.5" width="30" height="30" rx="4"/></clipPath>
+</defs>
+<image href="../assets/favicon-light.svg" x="-10.7" y="-10.7" width="54.45" height="54.45" clip-path="url(#rm-clip)"/>
+<rect x="0.75" y="0.75" width="31.5" height="31.5" rx="4" fill="none" stroke="#1d5f74" stroke-width="1.5"/>
+</svg>
+</a>
 </nav>
 </header>
-<main>
-<h2 class="section">Willkommen auf der Insel</h2>
-<p>Der Wattpost Borkum erscheint täglich am Morgen — mit Gezeiten, Fährplan, Wetter und den Nachrichten der Insel. Die ersten Ausgaben werden hier erscheinen, sobald der Probelauf abgeschlossen ist.</p>
-<p><em>Status: Vorbereitung — keine Ausgaben veröffentlicht.</em></p>
-</main>
-<footer>
-<p><a href="impressum.html">Impressum</a> · <a href="about.html">Über diese Seite</a> · Ein Projekt von <a href="../index.html">RADAR 724</a></p>
+
+<!-- ===== 1. Meldung des Tages (Hervorhebungs-Box, 5–8 Sätze mit Einordnung) ===== -->
+<section class="meldung-des-tages" id="meldung-des-tages">
+<h2>Meldung des Tages</h2>
+<p>BEISPIELHEADLINE DES TAGES.</p>
+<p>Beispieltext der Meldung des Tages mit Einordnung, fünf bis acht Sätze. Die finalen Inhalte liefert der Kuratierungs-Task (06:15); dieser Block zeigt Struktur und Gewichtung der Hervorhebungs-Box. Sand-Untergrund, Nordseeblau-Kante, Serifen-Überschrift.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</section>
+
+<!-- ===== 2. Insel-Daten-Block: Wetter & Gezeiten + F&auml;hre in EINEM Block,
+     kompakte kleinere Schrift, nach der Meldung des Tages
+     (Betreiber-Feedback Bj&ouml;rn_0, 26.09.) ===== -->
+<section class="insel-daten" id="insel-daten">
+<h2>Wetter, Gezeiten &amp; F&auml;hre</h2>
+<p>Heiter bis wolkig, 14&ndash;18&nbsp;&deg;C, frischer Nordwestwind.</p>
+<p class="gezeiten-kompakt">HW 04:52 &nbsp; NW 11:03<br>HW 17:14 &nbsp; NW 23:21 Uhr</p>
+<p class="faehr-kompakt">F&auml;hre Emden &harr; Borkum: 07:30 &middot; 11:30 &middot; 16:00 / 09:00 &middot; 13:45 &middot; 18:15 Uhr &middot; Katamaran Eemshaven &harr; Borkum: 08:10 &middot; 12:10 &middot; 17:40 / 09:50 &middot; 14:40 &middot; 19:30 Uhr</p>
+<p class="faehr-kompakt hinweis">AG-Ems-Hinweis (Beispiel): Fahrplan&auml;nderungen und Wettersperrungen immer hier zuerst.</p>
+<!-- Nur bei Sturmflut-/Unwetterwarnung (DWD) einblenden, sonst weglassen -->
+<p class="warnung">&#9888; Beispiel: Unwetterwarnung — schwere B&ouml;en, Aufenthalt am Deich meiden.</p>
+</section>
+
+<!-- ===== 4. Markt-Baustein (nur DAX + Dollar-Euro; kein Heizöl, kein VW VZ) ===== -->
+<section class="markt" id="markt">
+<div class="markt-zeile"><span>DAX</span><span>XX.XXX Punkte <span class="pos">+0,0&nbsp;%</span></span></div>
+<div class="markt-zeile"><span>Dollar-Euro</span><span>X,XXXX <span class="neg">&minus;0,0&nbsp;%</span></span></div>
+</section>
+
+<!-- ===== 5. BuyMeACoffee-Hinweis ===== -->
+<p class="support">&#9749; Gefällt Dir die Wattpost? Du kannst sie unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<!-- ===== 6. Rubriken (kleine Versalien mit Linie; stille Rubriken entfallen still) ===== -->
+<p class="rubrik-trenner">Aus dem Rathaus</p>
+<article class="meldung">
+<span class="ort-chip">Borkum</span>
+<h3>BEISPIELHEADLINE — Aus dem Rathaus</h3>
+<p>Beispieltext, zwei bis vier Sätze. Stille Rubriken entfallen still (keine Platzhalter), Fallback nach format-morgens.md.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Nationalpark &amp; Natur</p>
+<article class="meldung">
+<span class="ort-chip">Nationalpark</span>
+<h3>BEISPIELHEADLINE — Nationalpark &amp; Natur</h3>
+<p>Beispieltext, zwei bis vier Sätze. Natur-Rubrik trägt Seegras-Grün als Sekundärakzent (Chips, positive Werte).</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Insel &amp; Vereine</p>
+<article class="meldung">
+<span class="ort-chip">Insel</span>
+<h3>BEISPIELHEADLINE — Insel &amp; Vereine</h3>
+<p>Beispieltext, zwei bis vier Sätze.</p>
+<p class="quelle">Grundlage: QUELLE (Beispiel).</p>
+</article>
+
+<p class="rubrik-trenner">Was daraus wurde</p>
+<p class="meta">Nur bei Follow-up-Fund (Dauerthemen: Gasbohrung N05-A, MSC-Zoe-Folgen) — hier nur als Struktur-Veranschaulichung bis zum Probelauf Ausgabe 0.</p>
+
+<footer class="site-footer">
+<p>Wattpost Borkum &middot; Insel-Morgenausgabe, fertig um 07:00 Uhr &middot; <a href="index.html">Übersicht</a> &middot; <a href="archive.html">Archiv</a> &middot; <a href="about.html">Über die Wattpost</a> &middot; <a href="impressum.html">Impressum</a></p>
+<p class="meta">Ein Projekt von <a href="https://radar724.de" rel="noopener">RADAR 724</a> &middot; KI-generiert, Beispieldaten</p>
 </footer>
+
 </div>
 <script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
