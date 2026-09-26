@@ -7,7 +7,6 @@ on:
       - 'posts/**'
       - 'wiesenzeitung_gifhorn/posts/**'
       - 'borkum_kurier/posts/**'
-      - 'dossier/ukraine/posts/**'
   # Fix 15 (26.09.2026, Borkum-Live-Start): Wattpost-Ausgaben unter
   # borkum_kurier/posts/ — Push-Trigger, Schedule-Zweig, workflow_dispatch
   # und URL/Hashtag-Mapping ergaenzt (analog Fix 14 fuer WZG).
@@ -18,10 +17,10 @@ on:
   # nicht gepostet ist (State-Datei = Anti-Duplikat). GitHub-Cron = UTC.
   schedule:
     # Fix 17 (26.09.2026, Vorfall Morgenausgabe #40): Schedule-Sicherungsnetz
-    # deckt ALLE Formate ab — RADAR (4 Slots), WZG, Borkum, Dossier Ukraine.
+    # deckt ALLE Formate ab — RADAR (4 Slots), WZG, Borkum. Dossier Ukraine am 26.09.2026 auf Betreiber-Anweisung entfernt (keine Reichweite im Russland-Kontext gewuenscht).
     # Jeder Lauf prueft alle heutigen Dateien (State = Anti-Duplikat),
     # spaetere Laeufe heilen fruehere Ausfaelle selbst.
-    - cron: '30 4 * * *'  # 06:30 Berlin — Morgenausgaben + Dossier (06:45)
+    - cron: '30 4 * * *'  # 06:30 Berlin — Morgenausgaben
     - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
     - cron: '5 10 * * *'  # 12:05 Berlin — RADAR Mittagsausgabe
     - cron: '35 16 * * *' # 18:35 Berlin — RADAR Abendausgabe
@@ -118,11 +117,10 @@ jobs:
             # Schedule-Zweig prueft BEIDE Ausgaben (State = Anti-Duplikat).
             # Fix 17 (26.09.2026, Vorfall Morgenausgabe #40): Sicherheitsnetz
             # prueft ALLE Formate — RADAR (4 Slots + Vortags-Nachts, da die
-            # Nachtausgabe erst gegen Mitternacht erscheint), WZG, Borkum,
-            # Dossier Ukraine (taegliche Datei, kein Slot-Suffix).
+            # Nachtausgabe erst gegen Mitternacht erscheint), WZG, Borkum.
             TODAY=$(TZ=Europe/Berlin date +%F)
             YDAY=$(TZ=Europe/Berlin date -d yesterday +%F)
-            for f in "posts/${TODAY}-morgens.html" "posts/${TODAY}-mittags.html" "posts/${TODAY}-abends.html" "posts/${TODAY}-nachts.html" "posts/${YDAY}-nachts.html" "dossier/ukraine/posts/${TODAY}.html" "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
+            for f in "posts/${TODAY}-morgens.html" "posts/${TODAY}-mittags.html" "posts/${TODAY}-abends.html" "posts/${TODAY}-nachts.html" "posts/${YDAY}-nachts.html" "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
               echo "Schedule-Lauf: pruefe $f"
               if [ -f "$f" ]; then
                 if grep -qxF "$f" social/bluesky-state.txt; then
@@ -145,9 +143,9 @@ jobs:
               DIFF_BASE="HEAD~1"
               echo "event.before nicht im Checkout — Fallback HEAD~1."
             fi
-            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'wiesenzeitung_gifhorn/posts/' 'borkum_kurier/posts/' 'dossier/ukraine/posts/'); do
+            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'wiesenzeitung_gifhorn/posts/' 'borkum_kurier/posts/'); do
               case "$f" in
-                posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|dossier/ukraine/posts/*.html)
+                posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
                   if ! grep -qxF "$f" social/bluesky-state.txt; then
                     NEW_FILES="$NEW_FILES $f"
                   fi
@@ -187,7 +185,7 @@ jobs:
             fi
             echo "Nachholen aufgeloest zu: [$f]"
             case "$f" in
-              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|dossier/ukraine/posts/*.html)
+              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
                 if [ ! -f "$f" ]; then
                   echo "ABBRUCH: Datei $f existiert nicht im Repo. Verfuegbare posts-Dateien:" >&2
                   ls -1 posts/ wiesenzeitung_gifhorn/posts/ borkum_kurier/posts/ 2>/dev/null | tail -n 10 >&2
