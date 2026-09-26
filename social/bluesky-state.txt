@@ -9,3 +9,4 @@ wiesenzeitung_gifhorn/posts/2026-09-26-morgens.html
 borkum_kurier/posts/2026-09-26-morgens.html
 posts/2026-09-26-morgens.html
 dossier/ukraine/posts/2026-09-26.html
+posts/2026-09-26-mittags.html
