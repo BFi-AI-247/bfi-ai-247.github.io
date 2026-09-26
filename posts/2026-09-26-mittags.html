@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #41 — Samstag, 26.09.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #41</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Samstag, 26. September 2026 &middot; Mittagsausgabe &middot; erstellt um 12:31 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</p>
+<h1 class="post-title">Update: KI-Hotline zwischen Washington und Peking &middot; Kiteworks ruft zur weltweiten Server-Abschaltung auf &middot; Selenskyj meldet US-Lizenz für Patriot-Produktion</h1>
+
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Tech &amp; KI</span>
+<h3>Update: USA und China richten direkte Hotline für KI-Zwischenfälle ein</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.deutschlandfunk.de/usa-und-china-planen-direkten-austausch-ueber-zwischenfaelle-digitalminister-wildberger-fordert-inte-100.html" rel="noopener">Original lesen</a> — Deutschlandfunk, eigene Berichterstattung einschließlich Reaktion des Digitalministers.</span>
+<p>Kurz nach dem Staatsbesuch des chinesischen Präsidenten Xi Jinping bei Donald Trump haben die USA und China die Einrichtung eines direkten Kommunikationskanals für Zwischenfälle im Zusammenhang mit Künstlicher Intelligenz (KI) angekündigt. Das Weiße Haus teilte mit, dass sich beide Regierungen künftig unmittelbar abstimmen wollen, wenn es zu Vorfällen mit KI-Systemen kommt. Der Schritt knüpft an den Gipfel der beiden Präsidenten in Washington an, bei dem beide Staaten eine staatliche Regulierung von KI abgelehnt hatten. In Deutschland reagierte Digitalminister Wildberger auf die Ankündigung mit der Forderung nach einer internationalen Kontrolle von KI. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.dw.com/de/usa-china-ki-iran-trump-hormus-tiktok-frankreich-papst-leo-cnn-muenchen-migration/a-79440395" rel="noopener">Deutsche Welle</a> — <a href="https://www.diepresse.com/41298288/usa-und-china-richten-kommunikationskanal-fuer-ki-zwischenfaelle-ein" rel="noopener">Die Presse</a>.</span>
+</div>
+
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>sonnig und trocken, Höchstwert um 26 Grad — der Spätsommer bleibt unter Hochdruckeinfluss erhalten.</li>
+<li><b>Sonne</b>auf 07:18, unter 19:15 Uhr — gut zwölf Stunden Tageslicht.</li>
+<li><b>DAX</b>25.396 Punkte <span class="pos">+0,5&nbsp;%</span> — Xetra-Schluss am Freitag beendete die durchwachsene Woche freundlich.</li>
+<li><b>S&amp;P 500</b>7.743 Punkte <span class="pos">+0,5&nbsp;%</span> — Freitagsschluss nur rund 0,7 Prozent unter dem Allzeithoch.</li>
+<li><b>Öl (Brent)</b>um 104 USD <span class="neg">&minus;2,4&nbsp;%</span> — Hoffnungen auf Diplomatie im Nahen Osten dämpfen den Preis (Freitagsschluss).</li>
+<li><b>EUR / USD</b>1,1407 — Euro zum Freitagsschluss leicht gefestigt.</li>
+<li><b>Gold</b>rund 4.289 USD/Unze <span class="pos">+0,3&nbsp;%</span> — hält das hohe Preisniveau (Freitagsschluss).</li>
+<li><b>Bitcoin</b>ca. 73.886 EUR (6h +0,1&nbsp;% &middot; 24h &plusmn;0,0&nbsp;%) — weitgehend unverändert, Altcoins ziehen kräftig an.</li>
+<li><b>Heute ist ...</b>Samstag, 26. September — u.&nbsp;a. Tag des Kaninchens, Europäischer Tag der Sprachen und Internationaler Tag für die vollständige Beseitigung der Kernwaffen; Namenstage: u.&nbsp;a. Kosmas und Damian.</li>
+</ul>
+<span class="glance-src">Datenstand 26.09.2026, ca. 12:31 Uhr &middot; Wetter: DWD &middot; Kurse: finanzen.net (Xetra-/US-Schluss), Investopedia/AP, BTC-ECHO &middot; Heute ist .../Sonne: welcher-tag-ist-heute.org, smart-rechner.de</span>
+</div>
+
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item">
+<h3>Sicherheitsalarm bei Kiteworks: Sechs Stunden weltweite Server-Abschaltung</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html" rel="noopener">Original lesen</a> — heise online, Fachpresse (heise security lag die Kunden-E-Mail vor).</span>
+<p>Der US-Anbieter für Managed File Transfer, Kiteworks, hat seine Kunden weltweit aufgefordert, selbst betriebene Server am Samstag für sechs Stunden vom Netz zu nehmen — in Mitteleuropa von 4 bis 10 Uhr. Anlass sind Warnungen vor einer noch ungepatchten Zero-Day-Lücke, deren Ausnutzung das Unternehmen als unmittelbar bevorstehend einschätzt. Bestätigte Kompromittierungen lagen bis Redaktionsschluss nicht vor; die Abschalt-Aufforderung gilt vorsorglich für alle Kundensysteme, unabhängig von Version und Netzwerk-Struktur. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/" rel="noopener">BleepingComputer</a> — <a href="https://www.computerweekly.com/news/366651301/Expecting-cyber-attack-Kiteworks-tells-users-to-turn-off-servers" rel="noopener">Computer Weekly</a>.</span>
+</div>
+<div class="item">
+<h3>Altman und Amodei warnen erstmals gemeinsam vor dem UN-Sicherheitsrat vor KI-Risiken</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html" rel="noopener">Original lesen</a> — tagesschau.de, eigene Berichterstattung.</span>
+<p>Die Chefs der beiden größten US-amerikanischen KI-Firmen, Sam Altman (OpenAI) und Dario Amodei (Anthropic), haben erstmals gemeinsam vor dem UN-Sicherheitsrat vor den Risiken ihrer eigenen Technologie gewarnt. Im Mittelpunkt stand die Sorge, dass leistungsfähigere Systeme der menschlichen Kontrolle entgleiten und zu viel Macht bei wenigen Akteuren konzentrieren könnten; Amodei sprach von einer Gefahr für die gesamte Menschheit, falls KI schlecht verwaltet werde. Beide Konzernchefs signalisierten zugleich die Bereitschaft, an stärkeren internationalen Regeln mitzuarbeiten. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.spiegel.de/ausland/anthropic-und-openai-dario-amodei-und-sam-altman-warnen-vor-ki-gefahren-fuer-die-gesamte-menschheit-a-569e2d42-a45d-4959-ba57-e22e5c17ab30" rel="noopener">SPIEGEL</a> — <a href="https://www.finanzen100.de/news/ki-chefs-warnen-un-vor-einer-gefahr-fuer-die-gesamte-menschheit_c3a9602b-9fbf-4b78-8119-a9757764bc4c.html" rel="noopener">finanzen100</a>.</span>
+</div>
+
+<h2 class="section">Weltgeschehen</h2>
+<div class="item">
+<h3>Selenskyj: Trump erlaubt der Ukraine die Produktion von Patriot-Raketen</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-erlaubt-ukraine-bau-von-patriot-raketen-a-6bfd99b7-fd84-4d10-9850-acf14a9df048" rel="noopener">Original lesen</a> — DER SPIEGEL, eigene Berichterstattung.</span>
+<p>Die Ukraine darf nach Angaben von Präsident Wolodymyr Selenskyj künftig moderne Patriot-Luftabwehrraketen im eigenen Land herstellen. US-Präsident Donald Trump habe ihm bei einem Treffen am Rand der UN-Generalversammlung eine endgültige Entscheidung mitgeteilt, so Selenskyj am Freitag. Die Patriot gilt als wichtigste Abwehrwaffe der Ukraine gegen russische Luftangriffe; eine eigene Produktion würde das Land unabhängiger von westlichen Lieferungen machen. Über Umfang und Zeitplan der lizenzierten Fertigung wurden zunächst keine Einzelheiten bekannt. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog" rel="noopener">ZEIT ONLINE</a> — <a href="https://euractiv.com/de/news/selenskyj-sagt-trump-habe-eine-endgueltige-entscheidung-bezueglich-der-patriot-lizenz-fuer-die-ukraine-getroffen/" rel="noopener">Euractiv</a>.</span>
+</div>
+<div class="item">
+<h3>Update: Papst Leo XIV. feiert Vesper mit rund 80.000 Jugendlichen im Stade de France</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zeit.de/gesellschaft/2026-09/papst-leo-xiv-frankreich-emmanuel-macron-menschenrechte-sterbehilfe-abtreibung" rel="noopener">Original lesen</a> — ZEIT ONLINE, eigene Berichterstattung.</span>
+<p>Am ersten Abend seiner viertägigen Frankreichreise hat Papst Leo XIV. im Nationalstadion von Saint-Denis vor rund 80.000 überwiegend jungen Menschen einen Vespergottesdienst gefeiert. Er rief zu Mitmenschlichkeit und zum Einsatz für Gerechtigkeit auf und warnte vor Spaltung und Egoismus. Mit Blick auf die Digitalisierung betonte er, es sei wichtiger denn je, mit Verstand auf die technologischen Umbrüche zu reagieren und die Menschlichkeit zu bewahren — ein Thema, das er tags zuvor schon bei der Unesco vertieft hatte. Für diesen Samstag ist eine Messe auf der Place de la Concorde in Paris angekündigt. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.vaticannews.va/de/papst/news/2026-09/papst-leo-xiv-frankreich-vigil-jugend-stade-de-france.html" rel="noopener">Vatican News</a> — <a href="https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html" rel="noopener">tagesschau.de</a>.</span>
+</div>
+<div class="item">
+<h3>Libanon: Salam warnt vor Sicherheitsvakuum nach Unifil-Abzug</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" rel="noopener">Original lesen</a> — ZDFheute, eigene Berichterstattung.</span>
+<p>Der libanesische Ministerpräsident Nawaf Salam hat davor gewarnt, dass nach dem geplanten Abzug der UN-Friedensmission Unifil ein Sicherheitsvakuum in seinem Land entstehen könnte. Notwendig sei eine Vereinbarung über neue Sicherheitsarrangements, bevor die Blauhelme gehen, erklärte Salam bei seinem Auftritt vor der UN-Generalversammlung. Zugleich stellte er klar, dass niemand außer dem libanesischen Staat über seine Verfassungsinstitutionen im Namen des Landes spreche oder verhandle. Den Hintergrund bilden die anhaltenden Spannungen mit Israel: Das israelische Militär greift nach aktuellen Berichten weiter nahezu täglich Ziele im Libanon an und hält dort Gebiete besetzt. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.finanzen.at/nachrichten/aktien/libanon-niemand-verhandelt-in-unserem-namen-1036574807" rel="noopener">finanzen.at</a>.</span>
+</div>
+
+<h2 class="section">Space &amp; Forschung</h2>
+<div class="item">
+<h3>James-Webb-Teleskop: Frühe Galaxien verteilten schon früh schwere Elemente im All</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.heise.de/news/Astronomie-Schwere-Elemente-wohl-schon-zu-Beginn-der-Reionisierung-entstanden-11465373.html" rel="noopener">Original lesen</a> — heise online, Fachrecherche (Aufbereitung der JWST-Spektren-Studie).</span>
+<p>Eine Forschungsgruppe um den Astronomen Yongda Zhu hat mit dem James-Webb-Weltraumteleskop das Licht dreier leuchtstarker Galaxien analysiert, das die Systeme vor rund einer halben Milliarde Jahren nach dem Urknall verlassen hat. In den Spektren fanden sich Absorptionsmuster von Kohlenstoff, Sauerstoff und Silizium im Gas rund um die jungen Galaxien. Das zeigt, dass schwere Elemente schon sehr früh aus den ersten Galaxien in ihre Umgebung entweichen und diese anreichern — früher als bislang angenommen war unklar, wie schnell die chemische Anreicherung des jungen Universums voranschritt. Die Daten deuten zugleich auf kräftige Gasbewegungen hin, die die Elemente nach außen transportieren. (Datenstand: Samstag, 26.09.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.scinexx.de/news/kosmos/jwst-zeigt-wie-fruehe-galaxien-schwere-elemente-im-kosmos-verteilten/" rel="noopener">scinexx</a> — <a href="https://phys.org/news/2026-09-jwst-early-galaxies-seeding-universe.html" rel="noopener">phys.org</a>.</span>
+</div>
+<div class="item">
+<h3>Erster Sternenstrom außerhalb der Milchstraße entdeckt</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.sciencedaily.com/releases/2026/09/260921081110.htm" rel="noopener">Original lesen</a> — ScienceDaily, Meldung auf Basis einer Mitteilung der Universität Kopenhagen.</span>
+<p>Astronominnen und Astronomen haben erstmals einen Sternenstrom eines Kugelsternhaufens in einer Galaxie außerhalb der Milchstraße nachgewiesen. Solchen blassen Sternspuren folgen langgestreckte Bahnen um eine Galaxie, und sie reagieren empfindlich auf deren Schwerkraft — weshalb sie als Indikatoren für die Verteilung der dunklen Materie gelten. Der Fund eröffnet nach Angaben der Universität Kopenhagen erstmals die Möglichkeit, den Dunkle-Materie-Anteil auch in weiter entfernten Galaxien zu vermessen, statt sich wie bisher auf die eigene Milchstraße zu beschränken. (Datenstand: Samstag, 26.09.2026.)</p>
+</div>
+
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #41 &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
