@@ -6,3 +6,4 @@ posts/2026-09-24-nachts.html
 posts/2026-09-25-mittags.html
 posts/2026-09-25-nachts.html
 wiesenzeitung_gifhorn/posts/2026-09-26-morgens.html
+borkum_kurier/posts/2026-09-26-morgens.html
