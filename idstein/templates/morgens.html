@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Idsteiner Hexenpost &mdash; Ausgabe #NNN, WOCHENTAG, TT. MONAT JJJJ</title>
+<link rel="stylesheet" href="../assets/hpV1.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="kopf">
+<!-- VORLAGE templates/morgens.html (Design_R3.2, 26.09.2026, Betreiber-Freigabe Ära 1): Struktur und Rahmen JEDER neuen Hexenpost-Ausgabe folgen ausschliesslich dieser Vorlage (frisch via Blob-API holen). Hexenturm-SVG im Wortmarken-I UNVERAENDERT uebernehmen. Platzhalter GROSS/NNN ersetzen, Platzhalter-Bloecke mit Inhalten fuellen, Kommentare am Ende entfernen. -->
+<p class="wm-zeile1">Idste<span class="hx-i"><svg viewBox="0 0 24 100" width="0.26em" height="0.98em" role="img" aria-label="I &mdash; stilisierter Hexenturm Idstein: breite Basis, Schaft in Dach-Breite, hohe Spitze"><path d="M12 0 L21 26 H3 Z" fill="#8a7a66"/><rect x="3" y="26" width="18" height="26" fill="#b3a08c"/><rect x="3" y="26" width="3.5" height="26" fill="#8a7a66"/><rect x="0" y="52" width="24" height="48" fill="#b3a08c"/><rect x="0" y="52" width="24" height="3" fill="#8a7a66"/><rect x="9.5" y="33" width="5" height="6" rx="2.5" fill="#7c3f38"/><rect x="5.5" y="62" width="4" height="7" rx="2" fill="#7c3f38"/><rect x="14.5" y="62" width="4" height="7" rx="2" fill="#7c3f38"/></svg></span>er Hexenpost</p>
+<p class="kopf-badge-row"><span class="ki-badge">KI-GENERIERT</span></p>
+<p class="kopfzeile">WOCHENTAG, TT. MONAT JJJJ &middot; Ausgabe #NNN &middot; guten Morgen, Idstein</p>
+<nav class="kopfnav">
+<a href="../index.html">&laquo; &Uuml;bersicht</a>
+<a href="../about.html">&Uuml;ber die Hexenpost</a>
+<a class="radar-mark" href="https://radar724.de" rel="noopener" title="RADAR 724 &mdash; das Mutterprojekt">
+<svg width="24.75" height="24.75" viewBox="0 0 33 33" role="img" aria-label="RADAR 724 &mdash; Logo des Mutterprojekts">
+<defs>
+<clipPath id="rm-clip"><rect x="1.5" y="1.5" width="30" height="30" rx="4"/></clipPath>
+</defs>
+<image href="../assets/favicon-light.svg" x="-10.7" y="-10.7" width="54.45" height="54.45" clip-path="url(#rm-clip)"/>
+<rect x="0.75" y="0.75" width="31.5" height="31.5" rx="4" fill="none" stroke="#a8574f" stroke-width="1.5"/>
+</svg>
+</a>
+</nav>
+</header>
+
+<main>
+<p class="meta">WOCHENTAG, TT. MONAT JJJJ &middot; Morgenausgabe &middot; erstellt um HH:MM Uhr (Europe/Berlin, exakte Laufzeit)</p>
+
+<!-- 1. WETTER (immer zuerst, faellt nie weg): Wetterlage Idstein/Taunus, 1-2 Saetze; bei Unwetterwarnung prominent -->
+<section class="wetter-box">
+<h2 class="section">Wetter in Idstein</h2>
+<!-- WETTERLAGE HIER -->
+<!-- <p class="note">Quelle: DWD (dwd.de) &middot; Stand: Redaktionsschluss.</p> -->
+</section>
+
+<!-- 2. MELDUNG DES TAGES (Altrosa-Rahmen, 5-8 Saetze + Einordnung): -->
+<section class="meldung-des-tages" id="tagesmeldung">
+<h2 class="section">Meldung des Tages</h2>
+<!-- TAGESMELDUNG HIER -->
+<!-- <p class="warum">Warum das fuer Idstein wichtig ist: ...</p> -->
+<!-- <p class="quelle">Grundlage: ...</p> -->
+</section>
+
+<!-- 3. DOSSIER-VERWEIS TVI HANDBALL (einzeilig, IMMER): Di-Do Verweis auf letzte Ausgabe -->
+<p class="dossier-verweis">&#9917; <b>Dossier TVI Handball:</b> Spieltermine, Ergebnisse und Tabellen der TVI-Teams &mdash; <a href="../dossier-tvi-handball/">zur aktuellen Dossier-Ausgabe</a>.</p>
+
+<!-- 4. MARKT: NUR DAX + Dollar-Euro mit +/- Veraenderung (KEIN Heizoel, KEINE weiteren Werte); Referenztag-Pflicht: Vortags-Schluss nennen -->
+<section class="markt-box">
+<div><p><b>DAX</b> WERT Punkte <span style="color:#3d5a45">&plusmn;X,X %</span> &middot; <b>&euro;/$</b> WERT <span style="color:#3d5a45">&plusmn;X,X %</span></p></div>
+<!-- <p class="note">Quellen: Kurse Schluss WOCHENTAG, Xetra &mdash; ...</p> -->
+</section>
+
+<!-- 5. BUYMEACOFFEE (fester Wortlaut) -->
+<p class="support">&#9749; Gef&auml;llt Dir die Hexenpost? Du kannst sie unkompliziert unterst&uuml;tzen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<!-- 6. RUBRIKEN (format-morgens.md: Aus dem Rathaus, Blaulicht [POL-RTK, nur Idstein-Bezuege, .orts-chip], Termine heute, Vereine &amp; Ehrenamt, Wahl saisonal, Sport hinten, Wochenend-Vorschau freitags): je Rubrik-Trenner + Artikel class="item" (2-4 Saetze) + Quellenverweis UNTER JEDER Meldung; Blaulicht-Meldung zusaetzlich class="meldung blaulicht" -->
+<!-- RUBRIKEN HIER -->
+
+</main>
+
+<footer>
+<p><a href="../impressum.html">Impressum</a> &middot; <a href="../about.html">&Uuml;ber diese Seite</a> &middot; <a href="../archive.html">Archiv</a> &middot; Ein Projekt von <a href="https://radar724.de" rel="noopener">RADAR 724</a></p>
+<p class="meta">Idsteiner Hexenpost &middot; Taunus-Morgenausgabe &middot; KI-generiert</p>
+</footer>
+
+</div>
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
