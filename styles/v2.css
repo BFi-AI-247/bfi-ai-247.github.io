@@ -210,6 +210,9 @@ a{color:var(--accent)}
   :root{--logo-h:clamp(143px,41.5vw,208px)}
   ul.editions li{padding:14px 14px}
   ul.editions a.headline-link{font-size:17px}
+  /* Nav einzeilig auf Mobil (Incident 26.09., Design_R3.2): flex-nowrap + kompakte Pill-Werte */
+  nav{flex-wrap:nowrap;gap:6px}
+  nav a{font-size:9px;letter-spacing:.06em;padding:5px 8px;white-space:nowrap}
 }
 
 /* Radar-Divider: Beitrags-Trenner im Projekt-Log (21.09.2026) */
