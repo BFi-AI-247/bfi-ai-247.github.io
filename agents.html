@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RADAR 724 — Agenten (Prototyp P.184)</title>
+<!-- PROTOTYP (P.184, R2.2): Daten-Layer für Design_R3.2 — Design bewusst roh.
+     LP-05: noindex bis Betreiber-Live-Freigabe. -->
+<style>
+body{font-family:system-ui,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#222}
+table{border-collapse:collapse;width:100%;margin:1rem 0}
+th,td{border:1px solid #ccc;padding:.4rem .6rem;text-align:left;font-size:.95rem}
+th{background:#f2f2f2}
+.note{font-size:.85rem;color:#555}
+h1{font-size:1.4rem}
+</style>
+</head>
+<body>
+<h1>RADAR 724 — Agenten &amp; Betrieb (Prototyp)</h1>
+<p class="note">Prototyp P.184 — Design folgt (Design_R3.2). Bis zur Betreiber-Freigabe:
+noindex, nicht verlinkt. Zahlen live aus tech/stats/ (Standard-Sync, je Lauf).</p>
+<p class="note" id="startnote"><strong>Start-Note (Stichtage getrennt):</strong>
+Run-Zähler rückwirkend bewiesen ab 16./17.09.2026 (je Job siehe Spalte „beweisbar seit“);
+Instanzen-Zähler (Kurat) erst ab 27.09.2026 (RK-Inventar-Start);
+Laufzeit-Summen erst ab 27.09.2026 erfasst (ehrliche Stichtags-Init, keine Schätzung).</p>
+<p class="note" id="tagcounter"></p>
+<table id="stats"><thead><tr>
+<th>Job</th><th>Runs (beweisbar seit)</th><th>Instanzen (ab 27.09.)</th>
+<th>Laufzeit Σ (ab 27.09.)</th><th>Letzter Lauf</th>
+</tr></thead><tbody></tbody></table>
+<script>
+const KEYS = ['radarm','radarmi','radara','radarn','wzg','borkum','idstein','tvi','dosukr','zs'];
+(async () => {
+  const tbody = document.querySelector('#stats tbody');
+  for (const k of KEYS) {
+    try {
+      const r = await fetch('tech/stats/' + k + '.json', {cache: 'no-store'});
+      if (!r.ok) throw new Error(r.status);
+      const d = await r.json();
+      const tr = document.createElement('tr');
+      tr.innerHTML = '<td>' + d.job + '</td>'
+        + '<td>' + d.runs_total + ' <span class="note">(seit ' + d.runs_beweisbar_seit + ')</span></td>'
+        + '<td>' + (d.instanzen_seit === '-' ? '—' : d.instanzen) + '</td>'
+        + '<td>' + d.laufzeit_gesamt_min.toFixed(0) + ' min</td>'
+        + '<td>' + (d.last_run || '—') + '</td>';
+      tbody.appendChild(tr);
+    } catch (e) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = '<td>' + k + '</td><td colspan="4" class="note">Stats-Datei nicht lesbar</td>';
+      tbody.appendChild(tr);
+    }
+  }
+  // Tag-Zähler: 16.09.2026 = Tag 1 (JS berechnet, kein Schreiber)
+  const start = new Date(2026, 8, 16);
+  const today = new Date();
+  const tage = Math.floor((today - start) / 86400000) + 1;
+  document.getElementById('tagcounter').textContent =
+    'Projekt-Tag ' + tage + ' (16.09.2026 = Tag 1, JavaScript-berechnet).';
+})();
+</script>
+</body>
+</html>
