@@ -5,7 +5,9 @@ on:
     branches: [main]
     paths:
       - 'posts/**'
+      - 'wiesenzeitung_gifhorn/posts/**'
       - 'borkum_kurier/posts/**'
+      - 'dossier/ukraine/posts/**'
   # Fix 15 (26.09.2026, Borkum-Live-Start): Wattpost-Ausgaben unter
   # borkum_kurier/posts/ — Push-Trigger, Schedule-Zweig, workflow_dispatch
   # und URL/Hashtag-Mapping ergaenzt (analog Fix 14 fuer WZG).
@@ -15,8 +17,15 @@ on:
   # zweimal taeglich, ob die heutige WZG-Morgenausgabe existiert und noch
   # nicht gepostet ist (State-Datei = Anti-Duplikat). GitHub-Cron = UTC.
   schedule:
-    - cron: '30 4 * * *'  # 06:30 Berlin — kurz nach WZG-Publish
-    - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance (Pufferfall)
+    # Fix 17 (26.09.2026, Vorfall Morgenausgabe #40): Schedule-Sicherungsnetz
+    # deckt ALLE Formate ab — RADAR (4 Slots), WZG, Borkum, Dossier Ukraine.
+    # Jeder Lauf prueft alle heutigen Dateien (State = Anti-Duplikat),
+    # spaetere Laeufe heilen fruehere Ausfaelle selbst.
+    - cron: '30 4 * * *'  # 06:30 Berlin — Morgenausgaben + Dossier (06:45)
+    - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
+    - cron: '5 10 * * *'  # 12:05 Berlin — RADAR Mittagsausgabe
+    - cron: '35 16 * * *' # 18:35 Berlin — RADAR Abendausgabe
+    - cron: '5 21 * * *'  # 23:05 Berlin — RADAR Nachtausgabe
   workflow_dispatch:
     inputs:
       dry_run:
@@ -41,6 +50,9 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
+    # Fix 17 (26.09.2026): Hartes Job-Limit — ein haengender Runner darf die
+    # Concurrency-Gruppe nicht einfrieren (Blockade-Vorfall 25./26.09.).
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -104,8 +116,13 @@ jobs:
             # Fix 11: Schedule = Morgenausgaben pruefen (heutiges Datum Berlin).
             # Fix 15 (26.09.2026): zusaetzlich Borkum-Morgenausgabe — derselbe
             # Schedule-Zweig prueft BEIDE Ausgaben (State = Anti-Duplikat).
+            # Fix 17 (26.09.2026, Vorfall Morgenausgabe #40): Sicherheitsnetz
+            # prueft ALLE Formate — RADAR (4 Slots + Vortags-Nachts, da die
+            # Nachtausgabe erst gegen Mitternacht erscheint), WZG, Borkum,
+            # Dossier Ukraine (taegliche Datei, kein Slot-Suffix).
             TODAY=$(TZ=Europe/Berlin date +%F)
-            for f in "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
+            YDAY=$(TZ=Europe/Berlin date -d yesterday +%F)
+            for f in "posts/${TODAY}-morgens.html" "posts/${TODAY}-mittags.html" "posts/${TODAY}-abends.html" "posts/${TODAY}-nachts.html" "posts/${YDAY}-nachts.html" "dossier/ukraine/posts/${TODAY}.html" "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
               echo "Schedule-Lauf: pruefe $f"
               if [ -f "$f" ]; then
                 if grep -qxF "$f" social/bluesky-state.txt; then
@@ -128,9 +145,9 @@ jobs:
               DIFF_BASE="HEAD~1"
               echo "event.before nicht im Checkout — Fallback HEAD~1."
             fi
-            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'borkum_kurier/posts/'); do
+            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'wiesenzeitung_gifhorn/posts/' 'borkum_kurier/posts/' 'dossier/ukraine/posts/'); do
               case "$f" in
-                posts/*.html|borkum_kurier/posts/*.html)
+                posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|dossier/ukraine/posts/*.html)
                   if ! grep -qxF "$f" social/bluesky-state.txt; then
                     NEW_FILES="$NEW_FILES $f"
                   fi
@@ -150,6 +167,10 @@ jobs:
                 *borkum*|*Borkum*|*wattpost*|*Wattpost*)
                   f="borkum_kurier/posts/$key.html"
                   ;;
+                *dossier*|*Dossier*|*ukraine*|*Ukraine*)
+                  key_d=$(printf '%s' "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -n 1)
+                  f="dossier/ukraine/posts/$key_d.html"
+                  ;;
                 *)
                   f="posts/$key.html"
                   ;;
@@ -166,7 +187,7 @@ jobs:
             fi
             echo "Nachholen aufgeloest zu: [$f]"
             case "$f" in
-              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
+              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|dossier/ukraine/posts/*.html)
                 if [ ! -f "$f" ]; then
                   echo "ABBRUCH: Datei $f existiert nicht im Repo. Verfuegbare posts-Dateien:" >&2
                   ls -1 posts/ wiesenzeitung_gifhorn/posts/ borkum_kurier/posts/ 2>/dev/null | tail -n 10 >&2
@@ -179,7 +200,7 @@ jobs:
                 NEW_FILES=" $f"
                 ;;
               *)
-                echo "ABBRUCH: post_file muss eine Ausgaben-Datei sein, z. B. posts/2026-09-24-morgens.html, wiesenzeitung_gifhorn/posts/2026-09-25-morgens.html oder borkum_kurier/posts/2026-09-25-morgens.html." >&2
+                echo "ABBRUCH: post_file muss eine Ausgaben-Datei sein, z. B. posts/2026-09-24-morgens.html, wiesenzeitung_gifhorn/posts/2026-09-25-morgens.html, borkum_kurier/posts/2026-09-25-morgens.html oder dossier/ukraine/posts/2026-09-25.html." >&2
                 exit 1
                 ;;
             esac
@@ -247,7 +268,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -f social/_new.txt ]; then
-            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' -e 's|^borkum_kurier/|https://radar724.de/borkum_kurier/|' social/_new.txt)
+            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' -e 's|^borkum_kurier/|https://radar724.de/borkum_kurier/|' -e 's|^dossier/|https://radar724.de/dossier/|' social/_new.txt)
           else
             URLS="https://radar724.de"
           fi
@@ -281,6 +302,20 @@ jobs:
               echo "Pages-API bestätigt Deploy (Status: $MY_STATUS, Run-SHA-Build) — Post wird freigegeben."
               echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
               exit 0
+            fi
+            # Fix 17 (26.09.2026, Vorfall Morgenausgabe #40, Run 55): Bei sehr
+            # schnellen Folge-Pushes (24 s Abstand) bekommt der Run-SHA teils
+            # GAR KEINEN eigenen Pages-Build-Eintrag — MY_STATUS bleibt leer,
+            # der Lauf rennt in den Timeout. Neu: Ist der neueste GEBaute
+            # Commit ein Nachfahre des Run-SHA (git merge-base --is-ancestor),
+            # enthaelt der Live-Build unseren Commit — Deploy gilt als ok.
+            if [ -z "$MY_STATUS" ] && [ "$LATEST_STATUS" = "built" ]; then
+              LATEST_COMMIT=$(printf '%s' "$API_JSON" | jq -r 'sort_by(.created_at) | last | .commit // empty' 2>/dev/null || true)
+              if [ -n "$LATEST_COMMIT" ] && git cat-file -e "$LATEST_COMMIT" 2>/dev/null && git merge-base --is-ancestor "$GITHUB_SHA" "$LATEST_COMMIT" 2>/dev/null; then
+                echo "Kein eigener Build-Eintrag, aber Live-Build ${LATEST_COMMIT:0:10} enthaelt Run-SHA — Deploy bestaetigt (Fix 17)."
+                echo "waited=$SECONDS" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
             fi
             if [ "$GITHUB_EVENT_NAME" != "push" ] && [ "$LATEST_STATUS" = "built" ]; then
               echo "Dispatch: Kein eigener Build-Eintrag, latest Build aber built — Post wird freigegeben."
@@ -349,7 +384,7 @@ jobs:
                       doc = fh.read()
                   m_num = re.search(r"Ausgabe #(\d+)", doc)
                   num = m_num.group(1) if m_num else None
-                  if not num:
+                  if not num and not fname.startswith("dossier/"):
                       import glob
                       num = str(len([p for p in glob.glob("posts/*.html")]))
                   m_h1 = re.search(r"<h1[^>]*>(.*?)</h1>", doc, re.S)
@@ -361,6 +396,9 @@ jobs:
                   elif fname.startswith("borkum_kurier/"):
                       prefix = "Wattpost Borkum"
                       link = "https://radar724.de/borkum_kurier/posts/" + os.path.basename(fname)
+                  elif fname.startswith("dossier/"):
+                      prefix = "Dossier Ukraine"
+                      link = "https://radar724.de/dossier/ukraine/posts/" + os.path.basename(fname)
                   else:
                       prefix = "RADAR 724"
                       link = "https://radar724.de/posts/" + os.path.basename(fname)
@@ -370,13 +408,23 @@ jobs:
                       tags = " #Gifhorn #News"
                   elif prefix == "Wattpost Borkum":
                       tags = " #Borkum #News"
+                  elif prefix == "Dossier Ukraine":
+                      tags = " #Ukraine #News"
                   else:
                       tags = " #KI #News"
-                  text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
+                  # Fix 17: Dossier-Ausgaben tragen keine Ausgabe-Nummer — der
+                  # Nummer-Fallback zaehlt RADAR-Posts und wuerde schief liegen.
+                  if prefix == "Dossier Ukraine":
+                      text = "RADAR 724 · Dossier Ukraine: " + headline + " · " + link + tags
+                  else:
+                      text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
                   if len(text) > 296:
                       cut = 296 - len(link) - len(" … · ") - len(tags)
                       headline = headline[:cut] + "…"
-                      text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
+                      if prefix == "Dossier Ukraine":
+                          text = "RADAR 724 · Dossier Ukraine: " + headline + " · " + link + tags
+                      else:
+                          text = prefix + " · Ausgabe #" + num + ": " + headline + " · " + link + tags
                   # Facets: Link + Hashtags (Bluesky-Postings brauchen byte-exakte Ranges)
                   facets = []
                   enc = text.encode("utf-8")
@@ -384,7 +432,7 @@ jobs:
                   if pos >= 0:
                       facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
                                      "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
-                  for tag in re.finditer(r"#(KI|News|Gifhorn|Borkum)", text):
+                  for tag in re.finditer(r"#(KI|News|Gifhorn|Borkum|Ukraine)", text):
                       b0 = len(text[:tag.start()].encode("utf-8"))
                       b1 = len(text[:tag.end()].encode("utf-8"))
                       facets.append({"index": {"byteStart": b0, "byteEnd": b1},
