@@ -22,7 +22,7 @@ on:
     # spaetere Laeufe heilen fruehere Ausfaelle selbst.
     - cron: '30 4 * * *'  # 06:30 Berlin — Morgenausgaben
     - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
-    - cron: '5 11 * * *'  # 13:05 Berlin — RADAR Mittagsausgabe
+    - cron: '5 10 * * *'  # 12:05 Berlin — RADAR Mittagsausgabe
     - cron: '35 16 * * *' # 18:35 Berlin — RADAR Abendausgabe
     - cron: '5 21 * * *'  # 23:05 Berlin — RADAR Nachtausgabe
   workflow_dispatch:
