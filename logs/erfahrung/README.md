@@ -1,4 +1,4 @@
-# logs/erfahrung/ — Pilot Erfahrungs-Capture (P.161, 28.09.-03.10.2026)
+# logs/erfahrung/ — Pilot Erfahrungs-Capture (P.161, 27.09.-03.10.2026)
 
 Shadow-Mode-Journal der 4 RADAR-Kuratoren. Kanon + Leitplanken:
 Knowledge-Topic radar-247, Datei erfahrungs-capture.md (Regelstand 2026-09-27g).
