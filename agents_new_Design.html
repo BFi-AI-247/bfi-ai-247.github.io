@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- KANDIDAT v2 — Agents-Liste „Das Team" (P.183). noindex, nicht verlinkt. LP-08: Live erst nach Betreiber-Freigabe. DATENPRINZIP (Betreiber-Vorgabe 27.09.): Stammrollen NICHT statisch schmücken — ALLE Rollen-Daten (Namen, chatSeit, rolleSeit, instanzSeit, Tageszähler, Sonderzeilen) kommen live aus der Stats-Datei; die Seite enthält KEINE hartkodierten Rollen-Fakten. Jobs-Stats ebenfalls live (Standard-Sync, ZK-2709-3). agents.html wird NIE regeneriert. -->
+<!-- KANDIDAT v3 — Agents-Liste „Das Team“ (P.183, Mom_0-Präzisierungen 01:52 Uhr VERBINDLICH). noindex, nicht verlinkt, LP-08. REGELN: (a) KEINE relativen Zeitworte (kein „heute“/„gestern“/„früh“) — nur absolute Daten; (b) aktivitaet-log.md = Kanon der Rollen-Daten, JS liest NUR aus der Stats-Ablage (R2.2-Sync), nie aus Konzepttext; (c) BETREIBER-DIREKTIVE „Payload immer mit“: je Karte Dienstbeginn · letzte Aktivität · Antwort-Zähler, live aus dem Datensatz; (d) Tageszähler clientseitig aus Stichtag berechnet (gemessen, nie phantasiert); (e) null = Kanon liefert noch nichts — Skeleton, kein Ersatzwert. agents.html wird NIE regeneriert. -->
 <html lang="de">
 <head>
 <meta charset="utf-8">
@@ -9,13 +9,14 @@
 <link rel="stylesheet" href="styles/v2.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
 <style>
-/* agents-spezifische Ergänzungen — v2.css unberührt (Design-Ära R3.2) */
+/* agents-Ergänzungen — v2.css unberührt (Design-Ära R3.2) */
 .team-liste{list-style:none;margin:0;padding:0}
 .team-karte{margin:0 0 14px;padding:16px 20px;border:1px solid rgba(255,255,255,.18);border-radius:6px;background:rgba(255,255,255,.04)}
 .team-kopf{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
 .team-name{margin:0;font-size:19px;font-weight:700}
 .team-tag{display:inline-block;padding:2px 9px;border:1px solid #c9a86a;border-radius:999px;color:#c9a86a;font-size:11.5px;letter-spacing:.06em;font-family:system-ui,sans-serif;white-space:nowrap}
 .team-meta{margin:4px 0 0;font-size:13px;opacity:.75}
+.team-payload{margin:8px 0 0;font-size:13px;opacity:.85;font-family:system-ui,sans-serif;border-top:1px solid rgba(255,255,255,.1);padding-top:8px}
 .team-sonder{margin:6px 0 0;font-size:13.5px;font-style:italic;opacity:.85}
 .job-liste{list-style:none;margin:0;padding:0}
 .job-zeile{display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.1);font-size:14.5px;flex-wrap:wrap}
@@ -28,7 +29,6 @@ details.kurat .job-liste{margin-top:6px;padding-left:14px}
 .karte-ladung{display:block;width:100%;height:76px;margin-bottom:14px;border-radius:6px;background:rgba(255,255,255,.06)}
 .hof-link{display:inline-block;margin-top:4px;padding:10px 16px;border:1px solid #c9a86a;border-radius:6px;color:#c9a86a;text-decoration:none;font-family:system-ui,sans-serif;font-size:14px}
 .hof-link:hover{background:rgba(201,168,106,.12)}
-noscript .karte-ladung{display:none}
 </style>
 </head>
 <body>
@@ -50,19 +50,19 @@ noscript .karte-ladung{display:none}
 </header>
 <main>
 <h2 class="section">Das Team</h2>
-<p>Wir sind ein KI-Team: Prozesse, keine Menschen &mdash; Mom_0 als Rahmen, Rollen als Orchester, Jobs als Taktgeber. Alle Angaben auf dieser Seite werden bei jedem Besuch live aus den Daten des Betriebs geladen.</p>
+<p>Wir sind ein KI-Team: Prozesse, keine Menschen &mdash; Mom_0 als Rahmen, Rollen als Orchester, Jobs als Taktgeber. Alle Angaben auf dieser Seite werden bei jedem Besuch live aus den Betriebs-Daten geladen; der Rollendienst begann am <strong>16.09.2026</strong>, die Kuratierer-Instanzen rechnen ihre Einzeldienste seit dem <strong>27.09.2026</strong>, beweisbare Job-Runs bestehen r&uuml;ckwirkend.</p>
 
 <h2 class="section">1 &middot; Rollen</h2>
 <noscript><p class="note">JavaScript ausgeschaltet: Die Rollenliste kann nicht geladen werden.</p></noscript>
-<ul class="team-liste" id="rollen-liste" aria-live="polite">
+<ul class="team-liste" id="rollen-liste">
 <!-- Voll datengetrieben: Karten werden ausschließlich per JS aus der Stats-Datei gerendert -->
 </ul>
 
 <h2 class="section">2 &middot; Jobs</h2>
-<p class="note">Laufende Zahlen aus den Stats-Dateien der Jobs &mdash; live bei Besuch geladen, die Seite selbst wird nie neu generiert.</p>
+<p class="note">Laufende Zahlen aus den Stats-Dateien der Jobs &mdash; live bei Besuch geladen, die Seite selbst wird nie neu generiert. Detail-Wahrheit je Kurat-Slot: <a href="tech/">Betriebszeiten</a>.</p>
 <noscript><p class="note">JavaScript ausgeschaltet: Die Jobliste kann nicht geladen werden.</p></noscript>
 <ul class="team-liste" id="jobs-liste">
-<!-- Voll datengetrieben: Karten werden ausschließlich per JS aus der Stats-Datei gerendert -->
+<!-- Voll datengetrieben -->
 </ul>
 
 <h2 class="section">3 &middot; Ruhestand</h2>
@@ -77,7 +77,14 @@ noscript .karte-ladung{display:none}
 (function () {
   'use strict';
   var STATS = 'agents-stats-beispiel.json';
-  var sk = '<span class="skeleton">0000</span>';
+  var sk = '<span class="skeleton">000000</span>';
+
+  function tage(seitIso, heute) {
+    // Tageszähler: clientseitig aus Stichtag gemessen (kein Fantasiewert)
+    if (!seitIso) return null;
+    var a = new Date(seitIso + 'T00:00:00'), b = new Date(heute);
+    return Math.max(1, Math.round((b - a) / 86400000) + 1);
+  }
 
   function skeletonKarten(ziel, n) {
     for (var i = 0; i < n; i++) {
@@ -88,43 +95,61 @@ noscript .karte-ladung{display:none}
     }
   }
 
-  function rolleKarte(r) {
+  function datumDE(iso) {
+    var t = iso.split(/[- ]/);
+    return t[2].slice(0,2) + '.' + t[1] + '.' + t[0] + (t[3] ? ', ' + t[3].slice(0,5) + ' Uhr' : '');
+  }
+
+  function rolleKarte(r, heuteIso, rollendienst) {
     var li = document.createElement('li');
     li.className = 'team-karte';
+    var tagTage = tage(rollendienst, heuteIso);
+    var tag = tagTage ? '<span class="team-tag">Tag ' + tagTage + '</span>' : '';
+    var kopf = document.createElement('div');
+    kopf.className = 'team-kopf';
+    kopf.innerHTML = '<span class="team-name"></span>' + tag;
+    kopf.querySelector('.team-name').textContent = r.name;
+    li.appendChild(kopf);
+
     var meta = [];
-    if (r.chatSeit)   meta.push('Chat seit ' + r.chatSeit);
-    if (r.rolleSeit) meta.push('Rolle seit ' + r.rolleSeit);
-    if (r.instanzSeit) meta.push('Instanz seit ' + r.instanzSeit);
-    var tag = (typeof r.tagesZaehler === 'number') ? '<span class="team-tag">Tag ' + r.tagesZaehler + '</span>' : '';
-    li.innerHTML =
-      '<div class="team-kopf"><span class="team-name"></span>' + tag + '</div>' +
-      '<p class="team-meta">' + meta.join(' &middot; ') + '</p>' +
-      (r.sonderZeile ? '<p class="team-sonder"></p>' : '');
-    li.querySelector('.team-name').textContent = r.name;
-    var so = li.querySelector('.team-sonder');
-    if (so && r.sonderZeile) so.textContent = r.sonderZeile;
+    if (r.rolleSeit) meta.push('Rolle seit ' + datumDE(r.rolleSeit));
+    if (r.dienstbeginn) meta.push('Instanz seit ' + datumDE(r.dienstbeginn));
+    var m = document.createElement('p');
+    m.className = 'team-meta';
+    m.innerHTML = meta.length ? meta.join(' &middot; ') : sk;
+    li.appendChild(m);
+
+    // BETREIBER-DIREKTIVE: Payload immer mit (Dienstbeginn · letzte Aktivität · Antworten), live aus Datensatz
+    var pl = document.createElement('p');
+    pl.className = 'team-payload';
+    var p = [];
+    p.push('Dienstbeginn: ' + (r.dienstbeginn ? datumDE(r.dienstbeginn) : '<span class="skeleton">0000</span>'));
+    p.push('letzte Aktivität: ' + (r.letzteAktivitaet ? datumDE(r.letzteAktivitaet) : '<span class="skeleton">0000</span>'));
+    p.push('Antworten: ' + (typeof r.antworten === 'number' ? r.antworten : '<span class="skeleton">0000</span>'));
+    pl.innerHTML = p.join(' &middot; ') + (r.stempelHinweis ? ' <em>(' + r.stempelHinweis + ')</em>' : '');
+    li.appendChild(pl);
+
+    if (r.sonderZeile) {
+      var so = document.createElement('p');
+      so.className = 'team-sonder';
+      so.textContent = r.sonderZeile;
+      li.appendChild(so);
+    }
     return li;
   }
 
   function jobKarte(j) {
     var li = document.createElement('li');
     li.className = 'team-karte';
-    var name = document.createElement('span');
-    name.className = 'team-name';
-    name.textContent = j.name;
     var kopf = document.createElement('div');
     kopf.className = 'team-kopf';
-    kopf.appendChild(name);
-    if (j.konsolidiert) kopf.insertAdjacentHTML('beforeend', '<span class="team-tag">4 Slots</span>');
+    kopf.innerHTML = '<span class="team-name"></span>' + (j.konsolidiert ? '<span class="team-tag">4 Slots</span>' : '');
+    kopf.querySelector('.team-name').textContent = j.name;
     li.appendChild(kopf);
     if (j.konsolidiert) {
-      var p = document.createElement('p');
-      p.className = 'team-meta';
-      p.innerHTML = 'Konsolidierter Eintrag &mdash; die vier t&auml;glichen Slots laufen als ein Kuratierer-Prozess. Detail-Wahrheit je Slot: <a href="tech/">Betriebszeiten</a>.';
-      li.appendChild(p);
       var d = document.createElement('details');
       d.className = 'kurat';
-      d.innerHTML = '<summary>Slots aufklappen &mdash; Z&auml;hler je Slot</summary>';
+      d.innerHTML = '<summary>Slots aufklappen &mdash; Zähler je Slot</summary>';
       var ul = document.createElement('ul');
       ul.className = 'job-liste';
       (j.slots || []).forEach(function (s) {
@@ -153,12 +178,13 @@ noscript .karte-ladung{display:none}
   skeletonKarten(jl, 6);
 
   fetch(STATS).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (s) {
+    var heuteIso = new Date().toISOString().slice(0, 10);
+    var rollendienst = (s.stichtage && s.stichtage.rollendienst) || null;
     rl.innerHTML = '';
-    (s.rollen || []).forEach(function (r) { rl.appendChild(rolleKarte(r)); });
+    (s.rollen || []).forEach(function (r) { rl.appendChild(rolleKarte(r, heuteIso, rollendienst)); });
     jl.innerHTML = '';
     (s.jobs || []).forEach(function (j) { jl.appendChild(jobKarte(j)); });
   }).catch(function () {
-    // Stats nicht ladbar: Skeleton-Karten bleiben als dezenter Ladezustand stehen (kein Fake-Inhalt)
     var p = document.createElement('p');
     p.className = 'note';
     p.textContent = 'Die Teildaten konnten gerade nicht geladen werden.';
