@@ -1,1 +1,75 @@
-[object Object]
+/* hpV1.css — Idsteiner Hexenpost, Design-Ära 1 „Hexenturm" (26.09.2026, Design_R3.2)
+   Vorgabe (Betreiber/R5-Auftrag): „heimisch & gedruckt", Taunus-Stadt-Variante.
+   Palette: warmes Papier #f6f1e7, Sepia-Schwarz #2e221a, Hauptakzent Altrosa #a8574f
+   (Hexenturm-Sandstein — R3.2-Entscheidung: Tannengrün #3d5a45 bewusst nur Sekundär,
+   Familienabstand zu WZG-Wiesengrün; Blaulicht-Sonderregel #7c3f38 statt Dunkelblau).
+   Eigene Gestaltung, Systemfonts, keine fremden Assets. Komplett getrennt von
+   wzgV1.css/bk.css/v2.css — kein Patchen fremder Dateien. Versioniert: Ära 2 = hpV2.css. */
+
+:root{
+  --bg:#f6f1e7;
+  --bg-raised:#efe6d5;
+  --text:#2e221a;
+  --accent:#a8574f;
+  --accent-deep:#7c3f38;
+  --green:#3d5a45;
+  --gold:#8a7440;
+  --line:#d8cbb6;
+}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16.5px/1.55 Georgia,'Times New Roman',serif}
+.wrap{max-width:680px;margin:0 auto;padding:18px 16px 40px}
+
+/* Kopf / Wortmarke (reine Wortmarke, kein Hexen-Icon bis Markenprüfung) */
+.kopf{text-align:center;border-bottom:3px double var(--accent);padding-bottom:14px;margin-bottom:18px}
+.wm-zeile1{margin:14px 0 2px;font-size:32px;line-height:1.2;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--accent)}
+.kopf-badge-row{margin:8px 0 4px}
+.ki-badge,.ki-banner{display:inline-block;padding:3px 10px;border:1px solid var(--accent);border-radius:999px;background:#2c3430;color:#f6f1e7;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-family:system-ui,sans-serif}
+.kopfzeile{margin:10px 0 2px;font-size:14px;font-style:italic;color:var(--text);opacity:.85}
+.kopfnav{margin:10px 0 0;font-family:system-ui,sans-serif;font-size:13px}
+.kopfnav a{display:inline-block;margin:0 10px;color:var(--accent);text-decoration:none;letter-spacing:.04em}
+.kopfnav a:hover{text-decoration:underline}
+.radar-mark{display:inline-block;vertical-align:middle}
+.radar-mark svg{display:block}
+
+/* Sektionen & Rubriken */
+.section{margin:26px 0 10px;font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-family:system-ui,sans-serif}
+.item{margin:0 0 16px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.item:last-child{border-bottom:none}
+h3{margin:0 0 6px;font-size:19px;line-height:1.3;color:var(--text)}
+h3 a{color:var(--text);text-decoration:none}
+h3 a:hover{color:var(--accent)}
+.meta{margin:2px 0 10px;font-size:12px;font-style:italic;color:var(--text);opacity:.7}
+p{margin:0 0 10px}
+a{color:var(--accent)}
+.quelle,.source{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:var(--text);opacity:.75}
+.rubrik-trenner{margin:22px 0 10px;padding-top:6px;border-top:3px double var(--green);font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--green);font-family:system-ui,sans-serif}
+
+/* Meldung des Tages (Altrosa-Rahmen) */
+.meldung-des-tages{border:1.5px solid var(--accent);border-radius:8px;background:rgba(168,87,79,.06);padding:14px 16px 8px;margin:16px 0 22px}
+.warum{font-size:13.5px;font-style:italic;color:var(--accent-deep);margin:4px 0 8px}
+
+/* Wetter + Markt (Beige-Box) */
+.wetter-box,.markt-box{border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px;margin:14px 0}
+.markt-box p{margin:2px 0;font-size:15px}
+.markt-box b{letter-spacing:.04em}
+
+/* Dossier-Verweis (Position 3) & Support */
+.dossier-verweis{margin:14px 0;padding:10px 14px;border-left:3px solid var(--green);background:rgba(61,90,69,.06);font-size:15px}
+.support{margin:16px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px}
+.note{font-size:12.5px;font-style:italic;color:var(--text);opacity:.7}
+
+/* Blaulicht (Sonderregel: getöntes Rot statt Blau) */
+.meldung.blaulicht h3{color:var(--accent-deep)}
+.orts-chip{display:inline-block;margin-right:8px;padding:1px 8px;border:1px solid var(--accent-deep);border-radius:4px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep);font-family:system-ui,sans-serif}
+
+/* Team-Auswahlleiste (Dossier TVI Handball, mitgedacht für Ära 1) */
+.team-leiste{margin:14px 0;font-family:system-ui,sans-serif;font-size:13px}
+.team-leiste a{display:inline-block;margin:2px 6px 2px 0;padding:4px 12px;border:1px solid var(--green);border-radius:999px;color:var(--green);text-decoration:none}
+.team-leiste a.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+/* Footer */
+footer{margin-top:30px;padding-top:12px;border-top:3px double var(--accent);font-family:system-ui,sans-serif;font-size:12.5px}
+footer a{color:var(--accent);text-decoration:none}
+footer a:hover{text-decoration:underline}
