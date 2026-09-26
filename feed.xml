@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:31:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:58:23 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #42 — Papstmesse vor Hunderttausenden in Paris · Millionen-Rückruf bei VW wegen Lenkungsrisiko · Trump weist Irans Hormus-Angebot zurück</title>
+      <link>https://radar724.de/posts/2026-09-26-abends.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-abends.html</guid>
+      <description>Samstag, 26.09.2026 · Abends · Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien</description>
+      <pubDate>Sat, 26 Sep 2026 18:55:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #41 — Update: USA und China richten Hotline für KI-Zwischenfälle ein · Kiteworks fordert weltweite Server-Abschaltung · Selenskyj meldet US-Lizenz für Patriot-Produktion</title>
       <link>https://radar724.de/posts/2026-09-26-mittags.html</link>
@@ -107,12 +114,5 @@ egierungsportal &middot; OECD hebt Deutschland-Prognose auf 1,1 Prozent</title>
       <description>Mittwoch, 23.09.2026 · Morgens · Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt</description>
       <pubDate>Wed, 23 Sep 2026 06:12:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #27 — Trump will &bdquo;Superintelligenz&ldquo; statt &bdquo;KI&ldquo; · Nasdaq schließt erneut auf Rekord · Grönland-Abkommen unterzeichnet</title>
-      <link>https://radar724.de/posts/2026-09-22-nachts.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-22-nachts.html</guid>
-      <description>Dienstag, 22.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
-      <pubDate>Tue, 22 Sep 2026 23:39:00 +0200</pubDate>
-    </item>
-    </channel>
+        </channel>
 </rss>
