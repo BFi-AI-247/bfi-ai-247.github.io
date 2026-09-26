@@ -388,6 +388,11 @@ jobs:
                   m_h1 = re.search(r"<h1[^>]*>(.*?)</h1>", doc, re.S)
                   headline = re.sub(r"<[^>]+>", "", m_h1.group(1)).strip() if m_h1 else "Neue Ausgabe"
                   headline = html.unescape(headline)
+                  # Borkum-Design-Feature (Design_R3, lt-t): Das doppelte T von
+                  # "Wattpost" wird in der H1 als SVG-Leuchtturm gerendert — der
+                  # Tag-Strip laesst "WAPOST" zurueck (Vorfall Bluesky-Post #2,
+                  # Betreiber-Fund "#Wapost" 26.09.). Korrektur nur bei exaktem Fund.
+                  headline = headline.replace("WAPOST", "Wattpost")
                   if fname.startswith("wiesenzeitung_gifhorn/"):
                       prefix = "WZG"
                       link = "https://radar724.de/wiesenzeitung_gifhorn/posts/" + os.path.basename(fname)
