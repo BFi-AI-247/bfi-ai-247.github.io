@@ -8,7 +8,11 @@
    Rev. 3 (26.09., Betreiber-Korrektur): .hx-i — Hexenturm ersetzt das zweite I in
    „IDSTEINER"; Geometrie Betreiber-Vorgabe: breite Basis bis halbe Höhe, schmalerer
    Schaft, Spitze so hoch wie der Schaft, KEINE Wolke. Stein #b3a08c, Struktur/Spitze
-   #8a7a66, Fenster in Blaulicht-Tiefe #7c3f38 (Familienfarbe). */
+   #8a7a66, Fenster in Blaulicht-Tiefe #7c3f38 (Familienfarbe).
+   Rev. 4 (26.09., Betreiber-Justierung): Abstand des Turm-Is zum rechten E
+   symmetrisch zum linken N — SVG-Element erhält kein letter-spacing, deshalb
+   margin-right in Höhe des Wortabstands (.18em letter-spacing der Wortmarke);
+   oberes Turmsegment (Schaft) um 40% verbreitert (8 → 11.2 Einheiten). */
 
 :root{
   --bg:#f6f1e7;
@@ -28,7 +32,7 @@ body{margin:0;background:var(--bg);color:var(--text);font:16.5px/1.55 Georgia,'T
 /* Kopf / Wortmarke */
 .kopf{text-align:center;border-bottom:3px double var(--accent);padding-bottom:14px;margin-bottom:18px}
 .wm-zeile1{margin:14px 0 2px;font-size:32px;line-height:1.2;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--accent)}
-.hx-i{display:inline-block;line-height:1}
+.hx-i{display:inline-block;line-height:1;margin-right:.18em}
 .hx-i svg{display:inline-block;vertical-align:-0.06em}
 .kopf-badge-row{margin:8px 0 4px}
 .ki-badge,.ki-banner{display:inline-block;padding:3px 10px;border:1px solid var(--accent);border-radius:999px;background:#2c3430;color:#f6f1e7;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-family:system-ui,sans-serif}
