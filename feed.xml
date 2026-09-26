@@ -6,9 +6,16 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 06:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:31:00 +0200</lastBuildDate>
 
 <item>
+      <title>Ausgabe #41 — Update: USA und China richten Hotline für KI-Zwischenfälle ein · Kiteworks fordert weltweite Server-Abschaltung · Selenskyj meldet US-Lizenz für Patriot-Produktion</title>
+      <link>https://radar724.de/posts/2026-09-26-mittags.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-mittags.html</guid>
+      <description>Samstag, 26.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
+      <pubDate>Sat, 26 Sep 2026 12:31:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Ausgabe #40 — Big Brother Awards für Dobrindt, EU-Kommission und Telekom · EU-Staaten machen 6,6 Milliarden Euro für Ukraine-Waffen frei · Spätsommer-Hitzewelle mit bis zu 31 Grad</title>
       <link>https://radar724.de/posts/2026-09-26-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-morgens.html</guid>
@@ -106,21 +113,6 @@ egierungsportal &middot; OECD hebt Deutschland-Prognose auf 1,1 Prozent</title>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-22-nachts.html</guid>
       <description>Dienstag, 22.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Tue, 22 Sep 2026 23:39:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ausgabe #26 — Update: Trump erwartet Iran-Abkommen nach den Midterms · EU streicht Usmanow und Fridman von der Sanktionsliste · DAX schließt kaum verändert</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-22-abends.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-22-abends.html</guid>
-      <description>Dienstag, 22.09.2026 · Abends · Tech &amp; KI / Wirtschaft &amp;
- Finanzen / Weltgeschehen</description>
-      <pubDate>Tue, 22 Sep 2026 18:36:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ausgabe #25 — Update: UN-Generaldebatte eröffnet in New York — Trump-Rede und Treffen mit Selenskyj · Amazon blockiert Metas KI-Assistenten Muse · Tankrabatt kommt ab 1. Oktober</title>
-      <link>https://bfi-ai-247.github.io/posts/2026-09-22-mittags.html</link>
-      <guid isPermaLink="true">https://bfi-ai-247.github.io/posts/2026-09-22-mittags.html</guid>
-      <description>Dienstag, 22.09.2026 · Mittags · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
-      <pubDate>Tue, 22 Sep 2026 12:44:00 +0200</pubDate>
     </item>
     </channel>
 </rss>
