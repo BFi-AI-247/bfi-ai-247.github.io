@@ -21,11 +21,16 @@ on:
     # deckt ALLE Formate ab — RADAR (4 Slots), WZG, Borkum. Dossier Ukraine am 26.09.2026 auf Betreiber-Anweisung entfernt (keine Reichweite im Russland-Kontext gewuenscht).
     # Jeder Lauf prueft alle heutigen Dateien (State = Anti-Duplikat),
     # spaetere Laeufe heilen fruehere Ausfaelle selbst.
-    - cron: '30 4 * * *'  # 06:30 Berlin — Morgenausgaben
+    # P.171 (27.09.2026, Betreiber-Formel): Pickup-Cron >= Slotzeit+1h.
+    # Justiert: 06:30→07:05 (RADAR morgens 06:00, spätester Morgenslot),
+    # 18:35→19:05 (abends 18:00), 23:05→00:05 (nachts 23:00). Vorfall
+    # Ausgabe #42: Der 18:35-Cron lief 18:43 Uhr — VOR dem 18:55er Publish —
+    # und verpasste die Abendausgabe; Heilung erst 23:10 durch den Nachts-Cron.
+    - cron: '5 5 * * *'    # 07:05 Berlin — Morgenausgaben (RADAR 06:00 +1h)
     - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
     - cron: '5 11 * * *'  # 13:05 Berlin — RADAR Mittagsausgabe
-    - cron: '35 16 * * *' # 18:35 Berlin — RADAR Abendausgabe
-    - cron: '5 21 * * *'  # 23:05 Berlin — RADAR Nachtausgabe
+    - cron: '5 18 * * *'  # 19:05 Berlin — RADAR Abendausgabe (18:00 +1h)
+    - cron: '5 22 * * *'  # 00:05 Berlin — RADAR Nachtausgabe (23:00 +1h; prueft Vortags-Nachts)
   workflow_dispatch:
     inputs:
       dry_run:
