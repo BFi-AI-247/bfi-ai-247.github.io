@@ -13,9 +13,9 @@
    symmetrisch zum linken N — SVG-Element erhält kein letter-spacing, deshalb
    margin-right in Höhe des Wortabstands (.18em letter-spacing der Wortmarke);
    oberes Turmsegment (Schaft) um 40% verbreitert (8 → 11.2 Einheiten).
-   Rev. 5 (26.09., Betreiber-Justierung): Schaft auf Dach-Breite (18 Einheiten,
-   bündig mit der Dreieck-Basis — kein Überstehen); Turm-Unterkante bündig mit
-   der Buchstaben-Grundlinie (vertical-align:baseline statt -0.06em). */
+   Rev. 5 (26.09., Betreiber-Justierung): Schaft auf exakte Dach-Breite (18 =
+   Dachfuß 3–21, bündig, kein Überstand); Turm-Unterkante bündig zur
+   Buchstaben-Grundlinie (vertical-align:baseline statt -0.06em). */
 
 :root{
   --bg:#f6f1e7;
