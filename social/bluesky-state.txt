@@ -5,3 +5,4 @@ posts/2026-09-24-abends.html
 posts/2026-09-24-nachts.html
 posts/2026-09-25-mittags.html
 posts/2026-09-25-nachts.html
+wiesenzeitung_gifhorn/posts/2026-09-26-morgens.html
