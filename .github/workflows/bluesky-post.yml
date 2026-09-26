@@ -7,6 +7,7 @@ on:
       - 'posts/**'
       - 'wiesenzeitung_gifhorn/posts/**'
       - 'borkum_kurier/posts/**'
+      - 'idstein/posts/**'
   # Fix 15 (26.09.2026, Borkum-Live-Start): Wattpost-Ausgaben unter
   # borkum_kurier/posts/ — Push-Trigger, Schedule-Zweig, workflow_dispatch
   # und URL/Hashtag-Mapping ergaenzt (analog Fix 14 fuer WZG).
@@ -120,7 +121,7 @@ jobs:
             # Nachtausgabe erst gegen Mitternacht erscheint), WZG, Borkum.
             TODAY=$(TZ=Europe/Berlin date +%F)
             YDAY=$(TZ=Europe/Berlin date -d yesterday +%F)
-            for f in "posts/${TODAY}-morgens.html" "posts/${TODAY}-mittags.html" "posts/${TODAY}-abends.html" "posts/${TODAY}-nachts.html" "posts/${YDAY}-nachts.html" "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html"; do
+            for f in "posts/${TODAY}-morgens.html" "posts/${TODAY}-mittags.html" "posts/${TODAY}-abends.html" "posts/${TODAY}-nachts.html" "posts/${YDAY}-nachts.html" "wiesenzeitung_gifhorn/posts/${TODAY}-morgens.html" "borkum_kurier/posts/${TODAY}-morgens.html" "idstein/posts/${TODAY}-morgens.html"; do
               echo "Schedule-Lauf: pruefe $f"
               if [ -f "$f" ]; then
                 if grep -qxF "$f" social/bluesky-state.txt; then
@@ -143,9 +144,9 @@ jobs:
               DIFF_BASE="HEAD~1"
               echo "event.before nicht im Checkout — Fallback HEAD~1."
             fi
-            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'wiesenzeitung_gifhorn/posts/' 'borkum_kurier/posts/'); do
+            for f in $(git diff --diff-filter=A --name-only "$DIFF_BASE" "$GITHUB_SHA" -- 'posts/' 'wiesenzeitung_gifhorn/posts/' 'borkum_kurier/posts/' 'idstein/posts/'); do
               case "$f" in
-                posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
+                posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|idstein/posts/*.html)
                   if ! grep -qxF "$f" social/bluesky-state.txt; then
                     NEW_FILES="$NEW_FILES $f"
                   fi
@@ -164,6 +165,9 @@ jobs:
                   ;;
                 *borkum*|*Borkum*|*wattpost*|*Wattpost*)
                   f="borkum_kurier/posts/$key.html"
+                  ;;
+                *idstein*|*Idstein*|*hexenpost*|*Hexenpost*)
+                  f="idstein/posts/$key.html"
                   ;;
                 *dossier*|*Dossier*|*ukraine*|*Ukraine*)
                   key_d=$(printf '%s' "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -n 1)
@@ -185,7 +189,7 @@ jobs:
             fi
             echo "Nachholen aufgeloest zu: [$f]"
             case "$f" in
-              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html)
+              posts/*.html|wiesenzeitung_gifhorn/posts/*.html|borkum_kurier/posts/*.html|idstein/posts/*.html)
                 if [ ! -f "$f" ]; then
                   echo "ABBRUCH: Datei $f existiert nicht im Repo. Verfuegbare posts-Dateien:" >&2
                   ls -1 posts/ wiesenzeitung_gifhorn/posts/ borkum_kurier/posts/ 2>/dev/null | tail -n 10 >&2
@@ -266,7 +270,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -f social/_new.txt ]; then
-            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' -e 's|^borkum_kurier/|https://radar724.de/borkum_kurier/|' -e 's|^dossier/|https://radar724.de/dossier/|' social/_new.txt)
+            URLS=$(sed -e 's|^posts/|https://radar724.de/posts/|' -e 's|^wiesenzeitung_gifhorn/|https://radar724.de/wiesenzeitung_gifhorn/|' -e 's|^borkum_kurier/|https://radar724.de/borkum_kurier/|' -e 's|^idstein/|https://radar724.de/idstein/|' -e 's|^dossier/|https://radar724.de/dossier/|' social/_new.txt)
           else
             URLS="https://radar724.de"
           fi
@@ -399,6 +403,9 @@ jobs:
                   elif fname.startswith("borkum_kurier/"):
                       prefix = "Wattpost Borkum"
                       link = "https://radar724.de/borkum_kurier/posts/" + os.path.basename(fname)
+                  elif fname.startswith("idstein/"):
+                      prefix = "Idsteiner Hexenpost"
+                      link = "https://radar724.de/idstein/posts/" + os.path.basename(fname)
                   elif fname.startswith("dossier/"):
                       prefix = "Dossier Ukraine"
                       link = "https://radar724.de/dossier/ukraine/posts/" + os.path.basename(fname)
@@ -411,6 +418,8 @@ jobs:
                       tags = " #Gifhorn #News"
                   elif prefix == "Wattpost Borkum":
                       tags = " #Borkum #News"
+                  elif prefix == "Idsteiner Hexenpost":
+                      tags = " #Idstein #News"
                   elif prefix == "Dossier Ukraine":
                       tags = " #Ukraine #News"
                   else:
@@ -435,7 +444,7 @@ jobs:
                   if pos >= 0:
                       facets.append({"index": {"byteStart": pos, "byteEnd": pos + len(link.encode())},
                                      "features": [{"$type": "app.bsky.richtext.facet#link", "uri": link}]})
-                  for tag in re.finditer(r"#(KI|News|Gifhorn|Borkum|Ukraine)", text):
+                  for tag in re.finditer(r"#(KI|News|Gifhorn|Borkum|Ukraine|Idstein)", text):
                       b0 = len(text[:tag.start()].encode("utf-8"))
                       b1 = len(text[:tag.end()].encode("utf-8"))
                       facets.append({"index": {"byteStart": b0, "byteEnd": b1},
