@@ -227,3 +227,6 @@ body{
   text-align:center;
 }
 .site-footer a{color:var(--nordsee)}
+
+/* Sonne-Zeile im Insel-Daten-Block (27.09.2026, Betreiber-Vorgabe kompakt): eigene Zeile, Stil wie gezeiten-kompakt */
+.sonne-kompakt{font-size:13px;letter-spacing:.03em;margin:4px 0 2px}
