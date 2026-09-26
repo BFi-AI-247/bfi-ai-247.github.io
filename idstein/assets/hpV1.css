@@ -4,7 +4,12 @@
    (Hexenturm-Sandstein — R3.2-Entscheidung: Tannengrün #3d5a45 bewusst nur Sekundär,
    Familienabstand zu WZG-Wiesengrün; Blaulicht-Sonderregel #7c3f38 statt Dunkelblau).
    Eigene Gestaltung, Systemfonts, keine fremden Assets. Komplett getrennt von
-   wzgV1.css/bk.css/v2.css — kein Patchen fremder Dateien. Versioniert: Ära 2 = hpV2.css. */
+   wzgV1.css/bk.css/v2.css — kein Patchen fremder Dateien. Versioniert: Ära 2 = hpV2.css.
+   Rev. 2 (26.09., Betreiber-Direktauftrag): .hx-t — Schluss-T von „HEXENPOST" als
+   stilisierter Hexenturm (Analogon Borkum lt-t). Farb-Herkunft Betreiber-Bildanalyse
+   uploads/1000089603.jpg: schlanker Turm ~4:1, Zinnenkranz, heller Steinschaft, kleine
+   Fenster — warme Stein-Töne ans Papier angepasst: Stein #b3a08c, Struktur/Sockel
+   #8a7a66, Fenster in Blaulicht-Tiefe #7c3f38 (Familienfarbe). */
 
 :root{
   --bg:#f6f1e7;
@@ -21,9 +26,11 @@
 body{margin:0;background:var(--bg);color:var(--text);font:16.5px/1.55 Georgia,'Times New Roman',serif}
 .wrap{max-width:680px;margin:0 auto;padding:18px 16px 40px}
 
-/* Kopf / Wortmarke (reine Wortmarke, kein Hexen-Icon bis Markenprüfung) */
+/* Kopf / Wortmarke */
 .kopf{text-align:center;border-bottom:3px double var(--accent);padding-bottom:14px;margin-bottom:18px}
 .wm-zeile1{margin:14px 0 2px;font-size:32px;line-height:1.2;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--accent)}
+.hx-t{display:inline-block;line-height:1}
+.hx-t svg{display:inline-block;vertical-align:baseline}
 .kopf-badge-row{margin:8px 0 4px}
 .ki-badge,.ki-banner{display:inline-block;padding:3px 10px;border:1px solid var(--accent);border-radius:999px;background:#2c3430;color:#f6f1e7;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-family:system-ui,sans-serif}
 .kopfzeile{margin:10px 0 2px;font-size:14px;font-style:italic;color:var(--text);opacity:.85}
