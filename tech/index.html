@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RADAR 724 — Betriebszeiten (intern)</title>
+<style>
+  body { font-family: system-ui, sans-serif; background: #f4f4f2; color: #222; margin: 0; padding: 16px; }
+  h1 { font-size: 1.25rem; margin: 0 0 4px 0; }
+  p.sub { color: #666; font-size: .8rem; margin: 0 0 12px 0; }
+  .wrap { overflow-x: auto; }
+  table { border-collapse: collapse; font-size: .72rem; background: #fff; }
+  th, td { border: 1px solid #ddd; padding: 4px 6px; text-align: left; white-space: nowrap; }
+  thead th { position: sticky; top: 0; background: #2c3440; color: #fff; font-weight: 600; }
+  tbody th { position: sticky; left: 0; background: #e9e9e6; font-weight: 600; }
+  .soll { display: block; font-weight: 600; }
+  .ist { display: block; color: #555; }
+  .ok { color: #1a7f37; }
+  .warn { color: #9a6700; }
+  .spaet { color: #cf222e; font-weight: 700; }
+  .veraltet { color: #999; }
+  .leer { color: #bbb; }
+  .fine-head { background: #4a5568; }
+  .legend { font-size: .72rem; color: #666; margin-top: 10px; }
+</style>
+</head>
+<body>
+<h1>RADAR 724 — Betriebszeiten (intern)</h1>
+<p class="sub">Soll-Startzeiten der geplanten Jobs &middot; Ist-Werte: letzter Lauf laut <code>tech/laeuft/</code> &middot; Soll vs. Ist (&Delta;), Laufzeit in Minuten &middot; KI-generierte Seite (Architektur_R2)</p>
+<div class="wrap"><table id="matrix"></table></div>
+<p class="legend">Farben: &Delta; &le; 15 Min gr&uuml;n &middot; &gt; 15 Min gelb &middot; &gt; 45 Min rot &middot; grau = Ist-Eintrag &auml;lter als der letzte erwartete Lauf. FINE-Spalten (dunkler Kopf): Soll aus dem FINE-Repo, keine Ist-Werte (Datenweg offen). Bluesky (GitHub-Actions-Crons) bewusst nicht enthalten. Format &amp; Regeln: Knowledge radar-247/betriebszeiten.md.</p>
+<script>
+(function () {
+  var JOBS = [
+    { key: "qs", label: "QS", soll: "2:30", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "zs", label: "ZS-Scrape", soll: "3:45", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "idscrape", label: "ID-Scrape", soll: "4:15", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "tvi", label: "DosTVI", soll: "5:05", tage: [1,5,6,7], quelle: "vibe" },
+    { key: "wzg", label: "WZG", soll: "5:15", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "borkum", label: "Borkum", soll: "5:35", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "hexen", label: "Hexen", soll: "5:35", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "dosukr", label: "DosUKR", soll: "5:45", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "radarm", label: "RadarM", soll: "6:00", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "fine1", label: "FineM", soll: "7:30", tage: [1,2,3,4,5], quelle: "fine" },
+    { key: "radarmi", label: "RadarMi", soll: "12:00", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "bctrl", label: "Bctrl", soll: "13:00", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "fine2", label: "FineMi", soll: "14:00", tage: [1,2,3,4,5], quelle: "fine" },
+    { key: "radara", label: "RadarA", soll: "18:00", tage: [1,2,3,4,5,6,7], quelle: "vibe" },
+    { key: "fine3", label: "FineA", soll: "22:00", tage: [1,2,3,4,5], quelle: "fine" },
+    { key: "radarn", label: "RadarN", soll: "23:00", tage: [1,2,3,4,5,6,7], quelle: "vibe" }
+  ];
+  var TAGE = [["Mo",1],["Di",2],["Mi",3],["Do",4],["Fr",5],["Sa",6],["So",7]];
+  var tbl = document.getElementById("matrix");
+  var thead = "<thead><tr><th>Tag</th>";
+  JOBS.forEach(function (j) { thead += '<th' + (j.quelle === "fine" ? ' class="fine-head"' : '') + '>' + j.label + '<br>' + j.soll + '</th>'; });
+  thead += "</tr></thead>";
+  var body = "<tbody>";
+  TAGE.forEach(function (d) {
+    body += "<tr><th>" + d[0] + "</th>";
+    JOBS.forEach(function (j) {
+      if (j.tage.indexOf(d[1]) === -1) { body += '<td class="leer">&mdash;</td>'; return; }
+      body += '<td><span class="soll">' + j.soll + '</span><span class="ist" id="ist-' + j.key + '">geladen&hellip;</span></td>';
+    });
+    body += "</tr>";
+  });
+  body += "</tbody>";
+  tbl.innerHTML = thead + body;
+
+  function minOf(hm) { var p = hm.split(":"); return parseInt(p[0], 10) * 60 + parseInt(p[1], 10); }
+  function letzterErwarteterTermin(j, now) {
+    for (var i = 0; i < 8; i++) {
+      var d = new Date(now.getTime() - i * 86400000);
+      if (j.tage.indexOf(d.getDay() === 0 ? 7 : d.getDay()) === -1) continue;
+      var termin = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+      termin.setMinutes(minOf(j.soll));
+      if (termin <= now) return termin;
+    }
+    return null;
+  }
+  JOBS.forEach(function (j) {
+    var el = document.getElementById("ist-" + j.key);
+    if (!el) return;
+    if (j.quelle === "fine") { el.textContent = "Soll only"; el.className += " veraltet"; return; }
+    fetch("laeuft/" + j.key + ".json", { cache: "no-store" }).then(function (r) {
+      if (!r.ok) throw 0; return r.json();
+    }).then(function (data) {
+      var ist = new Date(data.ist_start);
+      var sollMin = minOf(j.soll);
+      var istMin = ist.getHours() * 60 + ist.getMinutes();
+      var delta = istMin - sollMin;
+      var klasse = "ok";
+      if (Math.abs(delta) > 45) klasse = "spaet"; else if (Math.abs(delta) > 15) klasse = "warn";
+      var alterHinweis = "";
+      var erwartet = letzterErwarteterTermin(j, new Date());
+      if (erwartet && ist < erwartet) { klasse = "veraltet"; alterHinweis = " (veraltet)"; }
+      if (data.status === "fehler") { klasse = "spaet"; }
+      var hh = ist.getHours(), mm = ist.getMinutes();
+      el.textContent = hh + ":" + (mm < 10 ? "0" : "") + mm + " · " + data.dauer_min + " Min" + (delta !== 0 ? " · Δ" + (delta > 0 ? "+" : "") + delta + " Min" : "") + alterHinweis;
+      el.className = "ist " + klasse;
+    }).catch(function () { el.textContent = "—"; el.className = "ist"; });
+  });
+})();
+</script>
+</body>
+</html>
