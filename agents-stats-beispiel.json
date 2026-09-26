@@ -2,25 +2,25 @@
   "aktualisiert": "2026-09-27T02:00:00Z",
   "stichtage": { "rollendienst": "2026-09-16", "kuratInstanzen": "2026-09-27" },
   "rollen": [
-    { "key": "mom0",    "name": "Mom_0",          "rollenSeit": "2026-09-16", "instanzSeit": null,       "tagesZaehler": 12, "sonderZeile": null },
-    { "key": "pmr11",   "name": "PM_R1.1",        "rollenSeit": "2026-09-16", "instanzSeit": "2026-09-26", "tagesZaehler": 12, "sonderZeile": null },
-    { "key": "ar22",    "name": "Architektur_R2.2","rollenSeit": "2026-09-16","instanzSeit": "2026-09-26", "tagesZaehler": 12, "sonderZeile": null },
-    { "key": "dr32",    "name": "Design_R3.2",    "rollenSeit": "2026-09-16", "instanzSeit": "2026-09-26", "tagesZaehler": 12, "sonderZeile": null },
-    { "key": "rr4",     "name": "Redaktion_R4",   "rollenSeit": "2026-09-16", "instanzSeit": null,       "tagesZaehler": 12, "sonderZeile": null },
-    { "key": "r5l",     "name": "R5_Lokales",     "rollenSeit": "2026-09-16", "instanzSeit": null,       "tagesZaehler": 12,
+    { "key": "mom0",  "name": "Mom_0",           "chatSeit": "2026-09-16 21:01", "rolleSeit": "2026-09-22 23:05", "instanzSeit": null, "tagesZaehler": null, "sonderZeile": null },
+    { "key": "pmr11", "name": "PM_R1.1",         "chatSeit": null, "rolleSeit": null, "instanzSeit": null, "tagesZaehler": null, "sonderZeile": null },
+    { "key": "ar22",  "name": "Architektur_R2.2", "chatSeit": null, "rolleSeit": null, "instanzSeit": null, "tagesZaehler": null, "sonderZeile": null },
+    { "key": "dr32",  "name": "Design_R3.2",      "chatSeit": null, "rolleSeit": null, "instanzSeit": null, "tagesZaehler": null, "sonderZeile": null },
+    { "key": "rr4",   "name": "Redaktion_R4",    "chatSeit": null, "rolleSeit": null, "instanzSeit": null, "tagesZaehler": null, "sonderZeile": null },
+    { "key": "r5l",   "name": "R5_Lokales",      "chatSeit": null, "rolleSeit": null, "instanzSeit": null, "tagesZaehler": null,
       "sonderZeile": "pausiert — keine aktiven Ausgaben; Lokal-Kuratierung läuft über die Kuratoren-Jobs; gewollte Sonderrolle, kein Defekt." }
   ],
   "jobs": [
-    { "key": "kurat",  "name": "RADAR-Kuratoren (4 Slots)", "konsolidiert": true, "slots": [
-      { "slot": "05:15", "runs": 11, "laufzeitMin": 74 },
-      { "slot": "07:00", "runs": 11, "laufzeitMin": 68 },
-      { "slot": "13:00", "runs": 11, "laufzeitMin": 66 },
-      { "slot": "19:00", "runs": 11, "laufzeitMin": 71 }
+    { "key": "kurat",  "name": "RADAR-Kuratoren", "konsolidiert": true, "slots": [
+      { "slot": "05:15", "runs": null, "laufzeitMin": null },
+      { "slot": "07:00", "runs": null, "laufzeitMin": null },
+      { "slot": "13:00", "runs": null, "laufzeitMin": null },
+      { "slot": "19:00", "runs": null, "laufzeitMin": null }
     ]},
-    { "key": "wzg",    "name": "WZG-Kuratierer (05:15)",   "runs": 11, "laufzeitMin": 45 },
-    { "key": "borkum", "name": "Wattpost-Kuratierer (05:35)","runs": 10, "laufzeitMin": 42 },
-    { "key": "idstein","name": "Hexenpost-Kuratierer (05:35)","runs": 0,  "laufzeitMin": 0 },
-    { "key": "digest", "name": "Nacht-Digest (02:00)",      "runs": 12, "laufzeitMin": 30 },
-    { "key": "ukraine","name": "Ukraine-Dossier (06:45)",  "runs": 10, "laufzeitMin": 35 }
+    { "key": "wzg",    "name": "WZG-Kuratierer (05:15)",     "runs": null, "laufzeitMin": null },
+    { "key": "borkum", "name": "Wattpost-Kuratierer (05:35)","runs": null, "laufzeitMin": null },
+    { "key": "idstein","name": "Hexenpost-Kuratierer (05:35)","runs": null, "laufzeitMin": null },
+    { "key": "digest", "name": "Nacht-Digest (02:00)",       "runs": null, "laufzeitMin": null },
+    { "key": "ukraine","name": "Ukraine-Dossier (06:45)",   "runs": null, "laufzeitMin": null }
   ]
 }
