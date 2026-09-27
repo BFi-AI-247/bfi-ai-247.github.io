@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 18:25:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:21:00 +0200</lastBuildDate>
 
+<item>
+      <title>Ausgabe #47 — Klopps Heimdeb&uuml;t misslingt: Erste Niederlage gegen Griechenland &middot; Starship startet am Montag erstmals Richtung Erdorbit &middot; TikTok wendet Sucht-Prozess ab</title>
+      <link>https://radar724.de/posts/2026-09-27-nachts.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-nachts.html</guid>
+      <description>Sonntag, 27.09.2026 &middot; Nachts &middot; Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
+      <pubDate>Sun, 27 Sep 2026 23:21:00 +0200</pubDate>
+    </item>
 <item>
       <title>Ausgabe #46 — Schweiz lehnt verschärfte Neutralität deutlich ab · Update: Iran beharrt auf Bedingungen für Hormus-Öffnung · Neue Details zum OpenAI-Zwischenfall</title>
       <link>https://radar724.de/posts/2026-09-27-abends.html</link>
@@ -125,13 +132,6 @@ guid>
       <description>Donnerstag, 24.09.2026 · Morgens · Tech &amp; KI / Kultur &amp; Medien / Klima &amp; Umwelt</description>
       <pubDate>Thu, 24 Sep 2026 06:22:00 +0200</pubDate>
     </item>
-    <item>
-      <title>Ausgabe #31 — US-Börsen unter Druck: Nasdaq-Rekordserie endet · SoftBank leiht elf Milliarden für OpenAI · Crew-13 bereit für den 1. Oktober</title>
-      <link>https://radar724.de/posts/2026-09-23-nachts.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-23-nachts.html</guid>
-      <description>Mittwoc
-h, 23.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung</description>
-      <pubDate>Wed, 23 Sep 2026 23:41:00 +0200</pubDate>
-    </item>
+    
             </channel>
 </rss>
