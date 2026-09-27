@@ -1,42 +1,47 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-27T06:33:48+02:00",
+  "stand": "2026-09-27T09:54:02+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.2",
       "dienstbeginn": "27.09.2026, 02:20 Uhr",
-      "letzte_aktivitaet": "27.09.2026, 02:21 Uhr",
-      "antworten": 1,
+      "letzte_aktivitaet": "27.09.2026, 09:56 Uhr",
+      "antworten": 34,
+      "health": "dienstfaehig",
       "kommentar": "Nachfolge-Instanz von PM_R1.1 (Ruhestand 27.09.2026, 02:20 Uhr — Hof-Verweis d67fefba)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
       "rolle": "Architektur_R2.2",
       "dienstbeginn": "26.09.2026, 10:52 Uhr",
-      "letzte_aktivitaet": "27.09.2026, 02:43 Uhr",
-      "antworten": 3,
+      "letzte_aktivitaet": "27.09.2026, 09:51 Uhr",
+      "antworten": 10,
+      "health": "dienstfaehig",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
       "rolle": "Design_R3.2",
       "dienstbeginn": "26.09.2026, 09:41 Uhr",
-      "letzte_aktivitaet": "27.09.2026, 02:45 Uhr",
-      "antworten": 10,
+      "letzte_aktivitaet": "27.09.2026, 09:46 Uhr",
+      "antworten": 14,
+      "health": "dienstfaehig",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
       "rolle": "Mom_0",
-      "dienstbeginn": "22.09.2026, 23:05 Uhr",
-      "letzte_aktivitaet": "27.09.2026, 06:24 Uhr",
-      "antworten": 7,
+      "dienstbeginn": "16.09.2026, 21:01 Uhr",
+      "letzte_aktivitaet": "27.09.2026, 09:14 Uhr",
+      "antworten": 19,
+      "health": "dienstfaehig",
       "kommentar": "Chat seit 16.09.2026, 21:01 · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
     },
     {
       "rolle": "Redaktion_R4",
       "dienstbeginn": "22.09.2026, 06:53 Uhr",
-      "letzte_aktivitaet": "27.09.2026, 01:45 Uhr",
-      "antworten": 1,
+      "letzte_aktivitaet": "27.09.2026, 09:14:30 Uhr",
+      "antworten": 6,
+      "health": "dienstfaehig",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     }
   ]
