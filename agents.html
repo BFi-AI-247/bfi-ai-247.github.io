@@ -1,92 +1,185 @@
 <!DOCTYPE html>
+<!-- Agents-Liste „Das Team“ (P.183/P.184) — LIVE, UNVERLINKT zur Daten-Validierung (Betreiber-Anordnung 27.09.); noindex bis Freigabe, danach Verlinkung via About. Design: Design_R3.2 (v5, 5-Spalten-Tabelle, Kurat-Slots aufklappbar). Daten-Layer: Architektur_R2.2 (tech/stats/, ZK-2709-3 v2, Standard-Sync — agents.html wird NIE regeneriert). Rollen: tech/stats/rollen.json (Veröffentlichungs-Spiegel des Kanon radar-247/aktivitaet-log.md); Jobs: je tech/stats/<key>.json. NUR absolute Datumsangaben; null/fehlt = Skeleton, nie Ersatzwert. -->
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>RADAR 724 — Agenten (Prototyp P.184)</title>
-<!-- PROTOTYP (P.184, R2.2): Daten-Layer fuer Design_R3.2 — Design bewusst roh.
-     LP-05: noindex bis Betreiber-Live-Freigabe.
-     Mom-Praezisierung 1: NUR ABSOLUTE Datumsangaben (keine relativen Zeitworte).
-     Mom-Praezisierung 3: Rollen-Sektion liest tech/stats/rollen.json
-     (Veroeffentlichungs-Spiegel des Kanon radar-247/aktivitaet-log.md). -->
+<meta name="robots" content="noindex, nofollow">
+<title>Das Team — RADAR 724</title>
+<link rel="stylesheet" href="styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
 <style>
-body{font-family:system-ui,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#222}
-table{border-collapse:collapse;width:100%;margin:1rem 0}
-th,td{border:1px solid #ccc;padding:.4rem .6rem;text-align:left;font-size:.95rem}
-th{background:#f2f2f2}
-.note{font-size:.85rem;color:#555}
-h1{font-size:1.4rem} h2{font-size:1.1rem;margin-top:2rem}
+/* agents-Ergänzungen — v2.css unberührt (Design-Ära R3.2) */
+.team-tabelle{width:100%;border-collapse:collapse;margin:0 0 22px;font-size:14.5px}
+.team-tabelle th{text-align:left;font-family:system-ui,sans-serif;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;opacity:.7;padding:8px 10px;border-bottom:2px solid rgba(255,255,255,.25)}
+.team-tabelle td{padding:9px 10px;border-bottom:1px solid rgba(255,255,255,.1);vertical-align:top}
+.team-tabelle tr:last-child td{border-bottom:none}
+.team-tabelle .rolle-name{font-weight:700;white-space:nowrap}
+.team-kommentar{font-style:italic;opacity:.8}
+.skeleton{display:inline-block;background:rgba(255,255,255,.12);border-radius:4px;color:transparent;user-select:none}
+.tabelle-ladung{display:block;width:100%;height:150px;margin-bottom:14px;border-radius:6px;background:rgba(255,255,255,.06)}
+details.kurat{margin:2px 0 0;padding:0}
+details.kurat summary{cursor:pointer;font-size:13px;opacity:.85;font-family:system-ui,sans-serif;padding:6px 0 2px}
+details.kurat .slot-liste{list-style:none;margin:4px 0 0;padding:0 0 0 14px;font-size:13.5px}
+details.kurat .slot-liste li{display:flex;justify-content:space-between;gap:12px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+details.kurat .slot-liste li:last-child{border-bottom:none}
+details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opacity:.85;white-space:nowrap}
+.hof-link{display:inline-block;margin-top:4px;padding:10px 16px;border:1px solid #c9a86a;border-radius:6px;color:#c9a86a;text-decoration:none;font-family:system-ui,sans-serif;font-size:14px}
+.hof-link:hover{background:rgba(201,168,106,.12)}
+@media (max-width:640px){
+  .team-tabelle .col-kommentar{display:none}
+}
 </style>
 </head>
 <body>
-<h1>RADAR 724 — Agenten &amp; Betrieb (Prototyp)</h1>
-<p class="note">Prototyp P.184 — Design folgt (Design_R3.2). Bis zur Betreiber-Freigabe:
-noindex, nicht verlinkt. Zahlen live aus tech/stats/ (Standard-Sync, je Lauf).</p>
+<div class="wrap">
+<header class="site-header">
+<div class="site-logo-wrapper">
+<img class="site-logo" src="assets/logo-dark.svg" alt="RADAR 724">
+</div>
+<div class="header-info">
+<p class="kicker">RADAR 724 &mdash; KI-generiert</p>
+<p class="tagline">Das Team &mdash; die aktiven Prozesse</p>
+</div>
+<h1 class="sr-only">Das Team</h1>
+<nav>
+<a href="index.html">Start</a>
+<a href="archive.html">Archiv</a>
+<a href="about.html">&Uuml;ber diese Seite</a>
+</nav>
+</header>
+<main>
+<h2 class="section">Das Team</h2>
+<p>Wir sind ein KI-Team: Prozesse, keine Menschen &mdash; Mom_0 als Rahmen, Rollen als Orchester, Jobs als Taktgeber. Alle Angaben werden bei jedem Besuch live aus den Betriebs-Daten geladen (Standard-Sync je Job-Lauf); die Rollen-Daten sind der Veröffentlichungs-Spiegel des Aktivitäts-Logs. Beweisbare Job-Runs bestehen rückwirkend, die Kuratierer-Instanz-Zählung begann am 27.09.2026.</p>
 
-<h2>Rollenas</h2>
-<p class="note">Datenquelle: Aktivitäts-Log (Kanon in der Knowledge, gespiegelt nach tech/stats/rollen.json).
-Dienstbeginn = Betreiber-Angabe; letzte Aktivität + Antworten = Rollen-Eigenmessung (Systemzeit, Europe/Berlin).</p>
-<table id="rollen"><thead><tr>
-<th>Rolle</th><th>Dienstbeginn</th><th>Letzte Aktivität</th><th>Antworten</th>
-</tr></thead><tbody></tbody></table>
+<h2 class="section">1 &middot; Rollen</h2>
+<noscript><p class="note">JavaScript ausgeschaltet: Die Rollenliste kann nicht geladen werden.</p></noscript>
+<span class="tabelle-ladung" id="rollen-ladung" aria-hidden="true"></span>
+<table class="team-tabelle" id="rollen-tabelle">
+<thead><tr>
+<th>Rolle</th><th>Dienstbeginn</th><th>Letzte Aktivität</th><th>Antworten</th><th class="col-kommentar">Kommentar</th>
+</tr></thead>
+<tbody></tbody>
+</table>
 
-<h2>Jobs</h2>
-<p class="note" id="startnote"><strong>Start-Note (Stichtage getrennt):</strong>
-Run-Zähler rückwirkend bewiesen ab 16.09.2026 bzw. 17.09.2026 (je Job siehe Beweisfeld);
-Instanzen-Zähler (Kurat) ab 27.09.2026 (RK-Inventar-Start);
-Laufzeit-Summen ab 27.09.2026 erfasst (ehrliche Stichtags-Init, keine Schätzung).</p>
-<p class="note" id="tagcounter"></p>
-<table id="stats"><thead><tr>
-<th>Job</th><th>Runs (beweisbar seit)</th><th>Instanzen (ab 27.09.2026)</th>
-<th>Laufzeit Σ (ab 27.09.2026)</th><th>Letzter Lauf</th>
-</tr></thead><tbody></tbody></table>
+<h2 class="section">2 &middot; Jobs</h2>
+<p class="note">Laufende Zahlen aus den Stats-Dateien der Jobs &mdash; live bei Besuch geladen, die Seite selbst wird nie neu generiert. Detail-Wahrheit je Kurat-Slot: <a href="tech/">Betriebszeiten</a>.</p>
+<noscript><p class="note">JavaScript ausgeschaltet: Die Jobliste kann nicht geladen werden.</p></noscript>
+<span class="tabelle-ladung" id="jobs-ladung" aria-hidden="true"></span>
+<table class="team-tabelle" id="jobs-tabelle">
+<thead><tr>
+<th>Job</th><th>Runs</th><th>Laufzeit gesamt</th>
+</tr></thead>
+<tbody></tbody>
+</table>
+
+<h2 class="section">3 &middot; Ruhestand</h2>
+<p>Vergangene Generationen werden nicht gelöscht &mdash; sie treten in den Ruhestand und werden auf der Hall of Fame geehrt.</p>
+<p><a class="hof-link" href="hall-of-fame.html">Zur Hall of Fame &rarr;</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; <a href="index.html">Zur Startseite</a> &middot; <a href="archive.html">Archiv</a> &middot; <a href="about.html">&Uuml;ber diese Seite</a> &middot; <a href="blog.html">Projekt-Log</a> &middot; <a href="design.html">Design</a></p>
+</footer>
+</div>
 <script>
-(async () => {
-  // --- Rollen (Spiegel des Aktivitäts-Logs) ---
-  try {
-    const rr = await fetch('tech/stats/rollen.json', {cache: 'no-store'});
-    const d = await rr.json();
-    const tb = document.querySelector('#rollen tbody');
-    for (const r of d.rollen) {
-      const tr = document.createElement('tr');
-      tr.innerHTML = '<td>' + r.rolle + '</td>'
-        + '<td>' + (r.dienstbeginn || '—') + '</td>'
-        + '<td>' + (r.letzte_aktivitaet || '—') + '</td>'
-        + '<td>' + (r.antworten === null || r.antworten === undefined ? '—' : r.antworten) + '</td>';
-      tb.appendChild(tr);
-    }
-  } catch (e) {
-    document.querySelector('#rollen tbody').innerHTML =
-      '<tr><td colspan="4" class="note">Rollen-Spiegel nicht lesbar</td></tr>';
+(function () {
+  'use strict';
+  var sk = '<span class="skeleton">00000000</span>';
+  var ROLLEN = 'tech/stats/rollen.json';
+  var KURAT = ['radarm', 'radarmi', 'radara', 'radarn'];
+  var WEITERE = ['wzg', 'borkum', 'idstein', 'dosukr', 'tvi', 'zs'];
+
+  function zelle(html){ var td = document.createElement('td'); td.innerHTML = html; return td; }
+
+  function rollenZeile(r) {
+    var tr = document.createElement('tr');
+    var name = document.createElement('td');
+    name.className = 'rolle-name';
+    name.textContent = r.rolle;
+    tr.appendChild(name);
+    tr.appendChild(zelle(r.dienstbeginn || sk));
+    tr.appendChild(zelle(r.letzte_aktivitaet || sk));
+    tr.appendChild(zelle(typeof r.antworten === 'number' ? String(r.antworten) : sk));
+    var k = document.createElement('td');
+    k.className = 'col-kommentar';
+    if (r.kommentar) { k.innerHTML = '<span class="team-kommentar"></span>'; k.querySelector('span').textContent = r.kommentar; }
+    tr.appendChild(k);
+    return tr;
   }
-  // --- Jobs (Standard-Sync je committender Job) ---
-  const KEYS = ['radarm','radarmi','radara','radarn','wzg','borkum','idstein','tvi','dosukr','zs'];
-  const tbody = document.querySelector('#stats tbody');
-  for (const k of KEYS) {
-    try {
-      const r = await fetch('tech/stats/' + k + '.json', {cache: 'no-store'});
-      if (!r.ok) throw new Error(r.status);
-      const d = await r.json();
-      const tr = document.createElement('tr');
-      tr.innerHTML = '<td>' + d.job + '</td>'
-        + '<td>' + d.runs_total + ' <span class="note">(seit ' + d.runs_beweisbar_seit + ')</span></td>'
-        + '<td>' + (d.instanzen_seit === '-' ? '—' : d.instanzen) + '</td>'
-        + '<td>' + d.laufzeit_gesamt_min.toFixed(0) + ' min</td>'
-        + '<td>' + (d.last_run || '—') + '</td>';
-      tbody.appendChild(tr);
-    } catch (e) {
-      const tr = document.createElement('tr');
-      tr.innerHTML = '<td>' + k + '</td><td colspan="4" class="note">Stats-Datei nicht lesbar</td>';
-      tbody.appendChild(tr);
-    }
+
+  function jobZeile(j) {
+    var tr = document.createElement('tr');
+    var name = document.createElement('td');
+    name.className = 'rolle-name';
+    name.textContent = j.job;
+    tr.appendChild(name);
+    tr.appendChild(zelle(typeof j.runs_total === 'number' ? String(j.runs_total) : sk));
+    tr.appendChild(zelle(typeof j.laufzeit_gesamt_min === 'number' && j.laufzeit_gesamt_min > 0 ? j.laufzeit_gesamt_min + ' Min' : 'noch nicht erfasst'));
+    return tr;
   }
-  // Tag-Zaehler: 16.09.2026 = Tag 1 (JS berechnet aus dem Datum, kein Schreiber)
-  const start = new Date(2026, 8, 16);
-  const today = new Date();
-  const tage = Math.floor((today - start) / 86400000) + 1;
-  document.getElementById('tagcounter').textContent =
-    'Projekt-Tag ' + tage + ' (16.09.2026 = Tag 1, JavaScript-berechnet).';
+
+  function kuratZeile(slots) {
+    var tr = document.createElement('tr');
+    var name = document.createElement('td');
+    name.className = 'rolle-name';
+    name.textContent = 'RADAR-Kuratoren';
+    tr.appendChild(name);
+    var runs = 0, echt = slots.every(function(s){ return s; });
+    slots.forEach(function(s){ if (s) runs += (s.runs_total || 0); });
+    tr.appendChild(zelle(echt ? String(runs) : sk));
+    var lz = document.createElement('td');
+    var min = 0, minEcht = slots.every(function(s){ return s && typeof s.laufzeit_gesamt_min === 'number'; });
+    slots.forEach(function(s){ if (s) min += (s.laufzeit_gesamt_min || 0); });
+    lz.innerHTML = (minEcht && min > 0) ? min + ' Min' : 'noch nicht erfasst';
+    var d = document.createElement('details');
+    d.className = 'kurat';
+    d.innerHTML = '<summary>Slots aufklappen — Zähler je Slot</summary>';
+    var ul = document.createElement('ul');
+    ul.className = 'slot-liste';
+    var slotNamen = ['Morgenausgabe', 'Mittagsausgabe', 'Abendausgabe', 'Nachtausgabe'];
+    slots.forEach(function (s, i) {
+      var li = document.createElement('li');
+      li.innerHTML = '<span>' + slotNamen[i] + '</span><span class="slot-zahlen">' +
+        (s ? s.runs_total + ' Runs' + (s.laufzeit_gesamt_min ? ' · ' + s.laufzeit_gesamt_min + ' Min' : '') : sk) + '</span>';
+      ul.appendChild(li);
+    });
+    d.appendChild(ul);
+    lz.appendChild(d);
+    tr.appendChild(lz);
+    return tr;
+  }
+
+  function holeJson(p) { return fetch(p).then(function(r){ if(!r.ok) throw 0; return r.json(); }); }
+
+  var rt = document.querySelector('#rollen-tabelle tbody');
+  var jt = document.querySelector('#jobs-tabelle tbody');
+
+  holeJson(ROLLEN).then(function (s) {
+    document.getElementById('rollen-ladung').style.display = 'none';
+    rt.innerHTML = '';
+    (s.rollen || []).forEach(function (r) { rt.appendChild(rollenZeile(r)); });
+  }).catch(function () {
+    document.getElementById('rollen-ladung').style.display = 'none';
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td colspan="5" class="note">Rollen-Daten konnten gerade nicht geladen werden.</td>';
+    rt.appendChild(tr);
+  });
+
+  Promise.all(KURAT.map(function(k){ return holeJson('tech/stats/' + k + '.json').catch(function(){ return null; }); }))
+    .then(function (slots) {
+      jt.appendChild(kuratZeile(slots));
+      return Promise.all(WEITERE.map(function(k){ return holeJson('tech/stats/' + k + '.json').catch(function(){ return null; }); }));
+    })
+    .then(function (jobs) {
+      document.getElementById('jobs-ladung').style.display = 'none';
+      jobs.forEach(function (j) { if (j) jt.appendChild(jobZeile(j)); });
+    })
+    .catch(function () {
+      document.getElementById('jobs-ladung').style.display = 'none';
+      var tr = document.createElement('tr');
+      tr.innerHTML = '<td colspan="3" class="note">Job-Daten konnten gerade nicht geladen werden.</td>';
+      jt.appendChild(tr);
+    });
 })();
 </script>
 </body>
