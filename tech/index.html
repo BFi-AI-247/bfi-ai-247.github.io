@@ -65,10 +65,13 @@
     fetch("laeuft/" + j.key + ".json", { cache: "no-store" }).then(function (r) {
       if (!r.ok) throw 0; return r.json();
     }).then(function (data) {
-      (data.laeufe || []).forEach(function (e) {
+      var laeufe = data.laeufe || (Array.isArray(data) ? data : []); // ZK-2709-4: tolerantes Parsing (fail-offen)
+      laeufe.forEach(function (e) {
         var el = document.getElementById("c-" + e.datum + "-" + j.key);
         if (!el) return;
         var ist = new Date(e.ist_start);
+        if (isNaN(ist.getTime()) && /^\d{1,2}:\d{2}$/.test(e.ist_start)) ist = new Date(e.datum + "T" + e.ist_start + ":00+02:00"); // ZK-2709-4: HH:MM-Fallback (Alt-Eintraege)
+        if (isNaN(ist.getTime())) return;
         var hh = ist.getHours(), mm = ist.getMinutes();
         var txt = hh + ":" + (mm < 10 ? "0" : "") + mm + " &middot; " + e.dauer_min + " Min";
         if (e.status === "fehler") txt += " (Fehler)";
