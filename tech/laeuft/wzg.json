@@ -1,1 +1,7 @@
-[{"datum": "2026-09-27", "ist_start": "05:22", "dauer_min": 8, "status": "ok"}]
+{
+  "key": "wzg",
+  "job": "WZG — Morgenausgabe Wiesenzeitung Gifhorn",
+  "laeufe": [
+    { "datum": "2026-09-27", "ist_start": "2026-09-27T05:22:00+02:00", "dauer_min": 8, "status": "ok" }
+  ]
+}
