@@ -1,8 +1,7 @@
-[
-  {
-    "datum": "2026-09-27",
-    "ist_start": "02:30",
-    "dauer_min": 35,
-    "status": "ok"
-  }
-]
+{
+  "key": "qs",
+  "job": "QS — Quellen-Qualitaetssicherung",
+  "laeufe": [
+    { "datum": "2026-09-27", "ist_start": "2026-09-27T02:30:00+02:00", "dauer_min": 35, "status": "ok" }
+  ]
+}
