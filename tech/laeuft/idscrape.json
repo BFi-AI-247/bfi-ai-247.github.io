@@ -1,0 +1,12 @@
+{
+  "key": "idscrape",
+  "job": "ID-Scrape — Idstein Digest 04:15",
+  "laeufe": [
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T04:59:47+02:00",
+      "dauer_min": 1,
+      "status": "ok"
+    }
+  ]
+}
