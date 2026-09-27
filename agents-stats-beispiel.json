@@ -2,12 +2,12 @@
   "aktualisiert": "2026-09-27T02:00:00Z",
   "stichtage": { "rollendienst": "2026-09-16", "kuratInstanzen": "2026-09-27" },
   "rollen": [
-    { "key": "mom0",  "name": "Mom_0",           "letzteAktivitaet": null, "antworten": null, "kommentar": "Chat seit 16.09.2026, 21:01 Uhr &middot; Rolle seit 22.09.2026, 23:05 Uhr" },
-    { "key": "pmr11", "name": "PM_R1.1",         "letzteAktivitaet": "2026-09-27 01:42", "antworten": 1, "kommentar": "Instanz seit 26.09.2026, 09:29 Uhr" },
-    { "key": "ar22",  "name": "Architektur_R2.2", "letzteAktivitaet": "2026-09-27 00:45", "antworten": null, "kommentar": "Absender-Stempel, bis Eigenmessung" },
-    { "key": "dr32",  "name": "Design_R3.2",      "letzteAktivitaet": "2026-09-27 01:55", "antworten": 2, "kommentar": "Instanz seit 26.09.2026, 09:41 Uhr" },
-    { "key": "rr4",   "name": "Redaktion_R4",    "letzteAktivitaet": null, "antworten": null, "kommentar": null },
-    { "key": "r5l",   "name": "R5_Lokales",      "letzteAktivitaet": null, "antworten": null, "kommentar": "pausiert — keine aktiven Ausgaben; Lokal-Kuratierung läuft über die Kuratoren-Jobs; gewollte Sonderrolle, kein Defekt." }
+    { "key": "mom0",  "name": "Mom_0",           "dienstbeginn": null, "letzteAktivitaet": null, "antworten": null, "kommentar": "Chat seit 16.09.2026, 21:01 Uhr &middot; Rolle seit 22.09.2026, 23:05 Uhr" },
+    { "key": "pmr11", "name": "PM_R1.1",         "dienstbeginn": "2026-09-26 09:29", "letzteAktivitaet": "2026-09-27 01:42", "antworten": 1, "kommentar": "Instanz seit 26.09.2026, 09:29 Uhr" },
+    { "key": "ar22",  "name": "Architektur_R2.2", "dienstbeginn": null, "letzteAktivitaet": "2026-09-27 00:45", "antworten": null, "kommentar": "Absender-Stempel, bis Eigenmessung" },
+    { "key": "dr32",  "name": "Design_R3.2",      "dienstbeginn": "2026-09-26 09:41", "letzteAktivitaet": "2026-09-27 02:01", "antworten": 3, "kommentar": "Instanz seit 26.09.2026, 09:41 Uhr" },
+    { "key": "rr4",   "name": "Redaktion_R4",    "dienstbeginn": null, "letzteAktivitaet": null, "antworten": null, "kommentar": null },
+    { "key": "r5l",   "name": "R5_Lokales",      "dienstbeginn": null, "letzteAktivitaet": null, "antworten": null, "kommentar": "pausiert — keine aktiven Ausgaben; Lokal-Kuratierung läuft über die Kuratoren-Jobs; gewollte Sonderrolle, kein Defekt." }
   ],
   "jobs": [
     { "key": "kurat",  "name": "RADAR-Kuratoren", "konsolidiert": true, "slots": [
