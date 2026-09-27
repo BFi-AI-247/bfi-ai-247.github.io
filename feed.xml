@@ -6,7 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 23:29:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:37:00 +0200</lastBuildDate>
+
+<item>
+      <title>Ausgabe #44 — Wadephul trifft Lawrow erstmals seit Kriegsbeginn · München gewinnt das Olympia-Votum · OpenAI stoppte Astra-Training wegen Sicherheitsproblemen</title>
+      <link>https://radar724.de/posts/2026-09-27-morgens.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-morgens.html</guid>
+      <description>Sonntag, 27.09.2026 · Morgens · Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien</description>
+      <pubDate>Sun, 27 Sep 2026 06:37:00 +0200</pubDate>
+    </item>
 
 <item>
       <title>Ausgabe #43 — Google schickt KI-Chips ins All · BASF sondiert Milliarden-Übernahme von Evonik · Klopps erstes Heimspiel gegen Griechenland</title>
@@ -107,13 +115,5 @@ egierungsportal &middot; OECD hebt Deutschland-Prognose auf 1,1 Prozent</title>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-23-abends.html</guid>
       <description>Mittwoch, 23.09.2026 · Abends · Wirtschaft &amp; Finanzen / Weltgeschehen / Tech &amp; KI</description>
       <pubDate>Wed, 23 Sep 2026 18:46:00 +0200</pubDate>
-    </item><item>
-  
-    <title>Ausgabe #29 — Alibaba kündigt Chinas stärksten KI-Chip an · Ölpreis rutscht unter die 100-Dollar-Marke · DAX legt zum Mittwochstart zu</title>
-      <link>https://radar724.de/posts/2026-09-23-mittags.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-23-mittags.html</guid>
-      <description>Mittwoch, 23.09.2026 · Mittags · Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung</description>
-      <pubDate>Wed, 23 Sep 2026 12:11:00 +0200</pubDate>
-    </item>
-        </channel>
+    </item>        </channel>
 </rss>
