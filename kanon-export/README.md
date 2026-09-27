@@ -19,3 +19,4 @@ Der Export bleibt unverlinkt (kein Eintrag in index.html oder Footer) — eine L
 | Version | Erzeugt | Auftrag |
 |---|---|---|
 | v1 | 27.09.2026 | Betreiber-Initiative (Beschluss 27.09.2026, Kanon-Sync-Chat); Quelle: Wissens-Ablage (framework-kern.md, reinit-anhang-radar724.md, reinit-adapter-vibe.md), 1:1, byte-exakt; Kapselungs-Prüfung des Kerns: 0 Treffer |
+| v2 | 27.09.2026 | Betreiber-Initiative (Ein-Wort-Auftrag, Kanon-Sync-Chat); Kern-Stand 13:50 Uhr inkl. Kapitel 7 (Connectoren 6/7), Kapitel 8 (Fähigkeiten), Nacharbeit der Mom-Auflagen, Signaturzeilen-Pflicht Kapitel 5; Anhang/Adapter unverändert (Stand v1); 1:1, byte-exakt; Kapselungs-Prüfung des Kerns: 0 Treffer |
