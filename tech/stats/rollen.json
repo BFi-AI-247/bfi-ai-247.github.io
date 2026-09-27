@@ -1,11 +1,11 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-27T02:25:28+02:00",
+  "stand": "2026-09-27T02:43:04+02:00",
   "rollen": [
-    { "rolle": "PM_R1.1", "dienstbeginn": "26.09.2026, 09:29 Uhr", "letzte_aktivitaet": "27.09.2026, 01:42 Uhr", "antworten": 1, "quelle": "Betreiber-Angabe laut Aktivitaets-Log" },
-    { "rolle": "Architektur_R2.2", "dienstbeginn": "26.09.2026, 10:52 Uhr", "letzte_aktivitaet": "27.09.2026, 01:58 Uhr", "antworten": 2, "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)" },
-    { "rolle": "Design_R3.2", "dienstbeginn": "26.09.2026, 09:41 Uhr", "letzte_aktivitaet": "27.09.2026, 01:41 Uhr", "antworten": 1, "quelle": "Betreiber-Angabe laut Aktivitaets-Log" },
-    { "rolle": "Mom_0", "dienstbeginn": null, "letzte_aktivitaet": null, "antworten": null, "quelle": "UNBEKANNT bis erste Eigenmessung (Regel 7 — keine Schaetzung)" },
-    { "rolle": "Redaktion_R4", "dienstbeginn": null, "letzte_aktivitaet": null, "antworten": null, "quelle": "UNBEKANNT bis erste Eigenmessung (Regel 7 — keine Schaetzung)" }
+    { "rolle": "PM_R1.2", "dienstbeginn": "27.09.2026, 02:20 Uhr", "letzte_aktivitaet": "27.09.2026, 02:21 Uhr", "antworten": 1, "kommentar": "Nachfolge-Instanz von PM_R1.1 (Ruhestand 27.09.2026, 02:20 Uhr — Hof-Verweis d67fefba)", "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)" },
+    { "rolle": "Architektur_R2.2", "dienstbeginn": "26.09.2026, 10:52 Uhr", "letzte_aktivitaet": "27.09.2026, 02:43 Uhr", "antworten": 3, "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)" },
+    { "rolle": "Design_R3.2", "dienstbeginn": "26.09.2026, 09:41 Uhr", "letzte_aktivitaet": "27.09.2026, 02:42 Uhr", "antworten": 9, "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)" },
+    { "rolle": "Mom_0", "dienstbeginn": "22.09.2026, 23:05 Uhr", "letzte_aktivitaet": "27.09.2026, 01:44 Uhr", "antworten": 2, "kommentar": "Chat seit 16.09.2026, 21:01 · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr)", "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)" },
+    { "rolle": "Redaktion_R4", "dienstbeginn": "22.09.2026, 06:53 Uhr", "letzte_aktivitaet": "27.09.2026, 01:45 Uhr", "antworten": 1, "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)" }
   ]
 }
