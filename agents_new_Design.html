@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- KANDIDAT v4 — Agents-Liste „Das Team“ (P.183, Mom_0-Präzisierungen verbindlich, Betreiber-Feedback 27.09.: TABULARISCH, keine Label-Wiederholung je Zeile, Kommentar-Freitextfeld je Rolle z. B. Mom „Chat seit/Rolle seit“). noindex, LP-08. Keine relativen Zeitworte; Daten nur aus Stats-Ablage (Kanon aktivitaet-log.md via R2.2-Sync); null = Skeleton; Tageszähler clientseitig aus Stichtag. agents.html wird NIE regeneriert. -->
+<!-- KANDIDAT v5 — Agents-Liste „Das Team“ (P.183). noindex, LP-08. Betreiber-Vorgaben: 5 Spalten Rolle/Dienstbeginn/Letzte Aktivität/Antworten/Kommentar; Kurat-Slots AUFKLAPPBAR (Details) + tech/-Link. Keine relativen Zeitworte; Daten nur aus Stats-Ablage (Kanon aktivitaet-log.md via R2.2-Sync); null = Skeleton; Tageszähler clientseitig gemessen. agents.html wird NIE regeneriert. -->
 <html lang="de">
 <head>
 <meta charset="utf-8">
@@ -19,6 +19,12 @@
 .team-kommentar{font-style:italic;opacity:.8}
 .skeleton{display:inline-block;background:rgba(255,255,255,.12);border-radius:4px;color:transparent;user-select:none}
 .tabelle-ladung{display:block;width:100%;height:150px;margin-bottom:14px;border-radius:6px;background:rgba(255,255,255,.06)}
+details.kurat{margin:2px 0 0;padding:0}
+details.kurat summary{cursor:pointer;font-size:13px;opacity:.85;font-family:system-ui,sans-serif;padding:6px 0 2px}
+details.kurat .slot-liste{list-style:none;margin:4px 0 0;padding:0 0 0 14px;font-size:13.5px}
+details.kurat .slot-liste li{display:flex;justify-content:space-between;gap:12px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+details.kurat .slot-liste li:last-child{border-bottom:none}
+details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opacity:.85;white-space:nowrap}
 .hof-link{display:inline-block;margin-top:4px;padding:10px 16px;border:1px solid #c9a86a;border-radius:6px;color:#c9a86a;text-decoration:none;font-family:system-ui,sans-serif;font-size:14px}
 .hof-link:hover{background:rgba(201,168,106,.12)}
 @media (max-width:640px){
@@ -53,7 +59,7 @@
 <span class="tabelle-ladung" id="rollen-ladung" aria-hidden="true"></span>
 <table class="team-tabelle" id="rollen-tabelle">
 <thead><tr>
-<th>Rolle</th><th>Letzte Aktivität</th><th>Antworten</th><th class="col-kommentar">Kommentar</th>
+<th>Rolle</th><th>Dienstbeginn</th><th>Letzte Aktivität</th><th>Antworten</th><th class="col-kommentar">Kommentar</th>
 </tr></thead>
 <tbody>
 <!-- Voll datengetrieben: Zeilen werden ausschließlich per JS aus der Stats-Datei gerendert -->
@@ -69,7 +75,7 @@
 <th>Job</th><th>Runs</th><th>Laufzeit gesamt</th>
 </tr></thead>
 <tbody>
-<!-- Voll datengetrieben -->
+<!-- Voll datengetrieben; Kurat-Zeile mit aufklappbaren Slots -->
 </tbody>
 </table>
 
@@ -108,6 +114,7 @@
     name.innerHTML = '<span></span>' + (tagTage ? '<span class="team-tag">Tag ' + tagTage + '</span>' : '');
     name.querySelector('span').textContent = r.name;
     tr.appendChild(name);
+    tr.appendChild(zelle(r.dienstbeginn ? datumDE(r.dienstbeginn) : sk));
     tr.appendChild(zelle(r.letzteAktivitaet ? datumDE(r.letzteAktivitaet) : sk));
     tr.appendChild(zelle(typeof r.antworten === 'number' ? String(r.antworten) : sk));
     var k = document.createElement('td');
@@ -122,14 +129,32 @@
     var tr = document.createElement('tr');
     var name = document.createElement('td');
     name.className = 'rolle-name';
-    name.textContent = j.name + (j.konsolidiert ? ' (4 Slots)' : '');
-    tr.appendChild(name);
+    name.textContent = j.name;
     if (j.konsolidiert) {
       var runs = 0, min = 0, echt = (j.slots || []).every(function(s){ return typeof s.runs === 'number'; });
       (j.slots || []).forEach(function(s){ runs += (s.runs || 0); min += (s.laufzeitMin || 0); });
-      tr.appendChild(zelle(echt ? runs + ' (4 Slots)' : sk));
-      tr.appendChild(zelle(echt ? min + ' Min' : sk));
+      tr.appendChild(name);
+      tr.appendChild(zelle(echt ? String(runs) : sk));
+      var lz = document.createElement('td');
+      if (echt) lz.textContent = min + ' Min';
+      else lz.innerHTML = sk + '<details class="kurat"><summary>Slots aufklappen — Zähler je Slot</summary><ul class="slot-liste"></ul></details>';
+      if (echt) {
+        var d = document.createElement('details');
+        d.className = 'kurat';
+        d.innerHTML = '<summary>Slots aufklappen — Zähler je Slot</summary>';
+        var ul = document.createElement('ul');
+        ul.className = 'slot-liste';
+        (j.slots || []).forEach(function (s) {
+          var li = document.createElement('li');
+          li.innerHTML = '<span>Slot ' + s.slot + '</span><span class="slot-zahlen">' + s.runs + ' Runs · ' + s.laufzeitMin + ' Min</span>';
+          ul.appendChild(li);
+        });
+        d.appendChild(ul);
+        lz.appendChild(d);
+      }
+      tr.appendChild(lz);
     } else {
+      tr.appendChild(name);
       tr.appendChild(zelle(typeof j.runs === 'number' ? String(j.runs) : sk));
       tr.appendChild(zelle(typeof j.runs === 'number' ? j.laufzeitMin + ' Min' : sk));
     }
