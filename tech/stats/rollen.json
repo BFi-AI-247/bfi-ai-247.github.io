@@ -1,6 +1,6 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-27T09:54:02+02:00",
+  "stand": "2026-09-27T10:15:05+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.2",
@@ -43,6 +43,15 @@
       "antworten": 6,
       "health": "dienstfaehig",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
+    },
+    {
+      "rolle": "Framework_R6.1",
+      "dienstbeginn": "27.09.2026, 08:31 Uhr",
+      "letzte_aktivitaet": "27.09.2026, 10:08 Uhr",
+      "antworten": 5,
+      "health": "dienstfaehig",
+      "kommentar": "Spezial-Instanz (Autoren-Rolle bfi_ai_framework.html), kein Perma-Chat — Zeilenlogik analog Framework_R6.0; Dienstbeginn gemäß Ini-Prompt; Nachfolger von Framework_R6.0 (Dienstende 09:33, Ruhestand)",
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     }
   ]
 }
