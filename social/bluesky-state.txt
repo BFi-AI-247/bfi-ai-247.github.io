@@ -12,3 +12,7 @@ dossier/ukraine/posts/2026-09-26.html
 posts/2026-09-26-mittags.html
 posts/2026-09-26-abends.html
 wiesenzeitung_gifhorn/posts/2026-09-27-morgens.html
+posts/2026-09-27-morgens.html
+posts/2026-09-26-nachts.html
+borkum_kurier/posts/2026-09-27-morgens.html
+idstein/posts/2026-09-27-morgens.html
