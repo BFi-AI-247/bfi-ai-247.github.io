@@ -1,0 +1,12 @@
+{
+  "key": "hexen",
+  "job": "Idstein Kuratierung — Morgenausgabe Idsteiner Hexenpost",
+  "laeufe": [
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T06:31:52+02:00",
+      "dauer_min": 5,
+      "status": "ok"
+    }
+  ]
+}
