@@ -6,7 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:43:00 +0200</lastBuildDate>
+
+<item>
+      <title>Ausgabe #48 — Update: Starship startet heute erstmals in den Erdorbit · Vucic tritt als serbischer Präsident zurück · Ölpreis steigt nach Trumps Iran-Absage</title>
+      <link>https://radar724.de/posts/2026-09-28-morgens.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-28-morgens.html</guid>
+      <description>Montag, 28.09.2026 · Morgens · Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI</description>
+      <pubDate>Mon, 28 Sep 2026 06:43:00 +0200</pubDate>
+    </item>
 
 <item>
       <title>Ausgabe #47 — Klopps Heimdeb&uuml;t misslingt: Erste Niederlage gegen Griechenland &middot; Starship startet am Montag erstmals Richtung Erdorbit &middot; TikTok wendet Sucht-Prozess ab</title>
@@ -26,7 +34,8 @@
 <item>
       <title>Ausgabe #45 — Update: OpenAI setzt Training nach neuem KI-Vorfall wieder aus · Starship startet morgen erstmals in den Erdorbit · Festnahmen bei britischem Luftwaffenstützpunkt</title>
       <link>https://radar724.de/posts/2026-09-27-mittags.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-mittags.html</guid>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-mittags.html</g
+uid>
       <description>Sonntag, 27.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Sun, 27 Sep 2026 12:40:00 +0200</pubDate>
     </item>
@@ -57,7 +66,8 @@
     </item>
 <item>
       <title>Ausgabe #41 — Update: USA und China richten Hotline für KI-Zwischenfälle ein · Kiteworks fordert weltweite Server-Abschaltung · Selenskyj meldet US-Lizenz für Patriot-Produktion</title>
-      <link>https://radar724.de/posts/2026-09-26-mittags.html</link>
+      <link>https://radar724.
+de/posts/2026-09-26-mittags.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-mittags.html</guid>
       <description>Samstag, 26.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Sat, 26 Sep 2026 12:31:00 +0200</pubDate>
@@ -85,6 +95,7 @@ ar724.de/posts/2026-09-25-nachts.html</link>
       <description>Freitag, 25.09.2026 · Abends · Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin</description>
       <pubDate>Fri, 25 Sep 2026 18:46:00 +0200</pubDate>
     </item>
+
 <item>
       <title>Ausgabe #37 — Update: USA und China lehnen staatliche KI-Regulierung ab · Anthropic und Akamai besiegeln 11,6-Milliarden-Cloud-Deal · Kanada stuft Synagogen-Angriff als Hassverbrechen ein</title>
       <link>https://radar724.de/posts/2026-09-25-mittags.html</link>
@@ -113,7 +124,8 @@ item>
  <title>Ausgabe #34 — Ifo-Geschäftsklima auf Höchststand seit Mai 2023 · US-Richter stoppt Medien-Hausverbot im Weißen Haus · KI-Modell entdeckt neues Enzymsystem</title>
       <link>https://radar724.de/posts/2026-09-24-abends.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-24-abends.html</guid>
-      <description>Donnerstag, 24.09.2026 · Abends · Wirtschaft &amp; Finanzen / Weltgeschehen / Space &amp; Forschung</description>
+      <desc
+ription>Donnerstag, 24.09.2026 · Abends · Wirtschaft &amp; Finanzen / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Thu, 24 Sep 2026 18:39:00 +0200</pubDate>
     </item>
 <item>
@@ -124,14 +136,7 @@ egierungsportal &middot; OECD hebt Deutschland-Prognose auf 1,1 Prozent</title>
       <description>Donnerstag, 24.09.2026 &middot; Mittags &middot; Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Thu, 24 Sep 2026 12:37:00 +0200</pubDate>
     </item>
-<item>
-      <title>Ausgabe #32 — Alibaba Cloud expandiert nach Europa · Merkel unplugged: Talk mit Schulklassen · Borkum Riffgrund 3: Offshore-Strom ohne Förderung</title>
-      <link>https://radar724.de/posts/2026-09-24-morgens.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-24-morgens.html</
-guid>
-      <description>Donnerstag, 24.09.2026 · Morgens · Tech &amp; KI / Kultur &amp; Medien / Klima &amp; Umwelt</description>
-      <pubDate>Thu, 24 Sep 2026 06:22:00 +0200</pubDate>
-    </item>
+
     
             </channel>
 </rss>
