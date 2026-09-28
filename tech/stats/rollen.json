@@ -1,12 +1,12 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-28T04:31:22+02:00",
+  "stand": "2026-09-28T18:53:32.580Z",
   "rollen": [
     {
       "rolle": "PM_R1.2",
       "dienstbeginn": "27.09.2026, 02:20 Uhr",
-      "letzte_aktivitaet": "28.09.2026, 00:49 Uhr",
-      "antworten": 64,
+      "letzte_aktivitaet": "28.09.2026, 10:09 Uhr",
+      "antworten": 67,
       "health": "dienstfaehig",
       "kommentar": "Nachfolge-Instanz von PM_R1.1 (Ruhestand 27.09.2026, 02:20 Uhr — Hof-Verweis d67fefba)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
