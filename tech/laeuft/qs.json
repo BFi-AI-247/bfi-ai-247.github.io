@@ -1,7 +1,18 @@
 {
   "key": "qs",
-  "job": "QS — Quellen-Qualitaetssicherung",
+  "job": "QS",
   "laeufe": [
-    { "datum": "2026-09-27", "ist_start": "2026-09-27T02:30:00+02:00", "dauer_min": 35, "status": "ok" }
+    {
+      "datum": "2026-09-28",
+      "ist_start": "2026-09-28T00:32:20+00:00",
+      "dauer_min": 38,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T02:30:00+02:00",
+      "dauer_min": 35,
+      "status": "ok"
+    }
   ]
 }
