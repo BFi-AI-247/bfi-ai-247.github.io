@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Projektseite BFi_AI (RUN-ID PROJ-BFI-2809) — PROTOTYP: vereinigt agents.html + hall-of-fame.html. UNVERLINKT + noindex bis Betreiber-Abnahme (LP-05); Live-Verlinkung index.html = separater Beschluss. Design: Design_R3.2. Daten-Layer: tech/stats/projekt.json (R2.2-Prozess, Teil 3 Payload-Transport) + tech/stats/rollen.json (Spiegel des Kanon). agents.html + hall-of-fame.html bleiben unangetastet stehen (Betreiber-Entscheidung 2). NUR absolute Datumsangaben; null/fehlt = Skeleton, nie Ersatzwert (Federn-Regel). Begriffe: bfi-ai-glossar.md (ENTWURF, Betreiber-Entscheidung 28.09.) — System-Begriffe (Agentur, Contractor) im sachlichen Text, Erzähl-Begriffe (Team, Ruhestand, Vermächtnis) als bewusstes Stilmittel der Erzähl-Ebene. -->
+<!-- Projektseite BFi_AI (RUN-ID PROJ-BFI-2809) — PROTOTYP: vereinigt agents.html + hall-of-fame.html. UNVERLINKT + noindex bis Betreiber-Abnahme (LP-05); Live-Verlinkung index.html = separater Beschluss. Design: Design_R3.2. Daten-Layer: tech/stats/projekt.json (R2.2-Prozess, Teil 3 Payload-Transport) + tech/stats/rollen.json (Spiegel des Kanon). agents.html + hall-of-fame.html bleiben unangetastet stehen (Betreiber-Entscheidung 2). NUR absolute Datumsangaben; null/fehlt = Skeleton, nie Ersatzwert (Federn-Regel). Begriffe: bfi-ai-glossar.md (ENTWURF, Betreiber-Entscheidung 28.09.) — System-Begriffe (Agentur, Contractor) im sachlichen Text, Erzähl-Begriffe (Team, Ruhestand, Vermächtnis) als bewusstes Stilmittel der Erzähl-Ebene. K1: KANON NACH DEFINITION (Betreiber-Entscheidung 28.09., 22:20 Uhr — Regel-/Verfahrens-Dateien per Glossar, nicht Ordner-Scope) + zusätzlicher Knowledge-Block (Gesamt-Speicher). -->
 <html lang="de">
 <head>
 <meta charset="utf-8">
@@ -67,7 +67,8 @@ details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opa
 <h2 class="section">Das Projekt in Zahlen</h2>
 <noscript><p class="note">JavaScript ausgeschaltet: Die Kennzahlen k&ouml;nnen nicht geladen werden.</p></noscript>
 <div class="kennzahlen" id="kennzahlen">
-<div class="kennzahl"><h3>Kanon-Gr&ouml;&szlig;e</h3><p id="k1">—</p><span class="k-quelle">Knowledge radar-247 + agent-zusammenarbeit</span></div>
+<div class="kennzahl"><h3>Kanon-Gr&ouml;&szlig;e</h3><p id="k1">—</p><span class="k-quelle">Regel- und Verfahrens-Dateien (Glossar-Definition)</span></div>
+<div class="kennzahl"><h3>Knowledge-Gr&ouml;&szlig;e</h3><p id="k1w">—</p><span class="k-quelle">Gesamt-Speicher: alle 13 Topics, inkl. Chronik</span></div>
 <div class="kennzahl"><h3>Agentur aktiv</h3><p id="k2a">—</p><span class="k-quelle">Rollen-Spiegel des Aktivit&auml;ts-Logs</span></div>
 <div class="kennzahl"><h3>Im Ruhestand</h3><p id="k2r">—</p><span class="k-quelle">Hall of Fame (Ehrenkarten)</span></div>
 <div class="kennzahl"><h3>Aktive Schedules</h3><p id="k3">—</p><span class="k-quelle">Vibe Work, Task-Z&auml;hlung je Lauf</span></div>
@@ -163,15 +164,24 @@ details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opa
   var sk = '<span class="skeleton">00000000</span>';
 
   // --- Kennzahlen aus tech/stats/projekt.json (R2.2-Prozess Teil 3) ---
+  // K1: Kanon NACH DEFINITION (Betreiber-Entscheidung 28.09.) + Knowledge (Gesamt-Speicher)
   fetch('tech/stats/projekt.json', {cache: 'no-store'}).then(function (r) { if (!r.ok) throw 0; return r.json(); })
     .then(function (p) {
-      var k1 = document.getElementById('k1'), k2a = document.getElementById('k2a'),
+      var k1 = document.getElementById('k1'), k1w = document.getElementById('k1w'),
+          k2a = document.getElementById('k2a'),
           k2r = document.getElementById('k2r'), k3 = document.getElementById('k3'), k4 = document.getElementById('k4');
-      if (p.k1_kanon) {
-        k1.innerHTML = (typeof p.k1_kanon.dateien === 'number' ? p.k1_kanon.dateien + ' Dateien' : sk)
-          + '<span class="k-sub">' + (typeof p.k1_kanon.woerter === 'number' ? p.k1_kanon.woerter.toLocaleString('de-DE') + ' W&ouml;rter &middot; ' : '')
-          + (typeof p.k1_kanon.kilobytes === 'number' ? p.k1_kanon.kilobytes + ' KB' : '') + '</span>';
+      function gross(pBlock) {
+        if (!pBlock) return null;
+        var z = [];
+        if (typeof pBlock.dateien === 'number') z.push(pBlock.dateien + ' Dateien');
+        if (typeof pBlock.woerter === 'number') z.push(pBlock.woerter.toLocaleString('de-DE') + ' W&ouml;rter');
+        if (typeof pBlock.kilobytes === 'number') z.push(pBlock.kilobytes + ' KB');
+        return z.length ? z : null;
       }
+      var g1 = gross(p.k1_kanon);
+      if (g1) k1.innerHTML = g1[0] + '<span class="k-sub">' + g1.slice(1).join(' &middot; ') + '</span>';
+      var g1w = gross(p.k1_knowledge);
+      if (g1w) k1w.innerHTML = g1w[0] + '<span class="k-sub">' + g1w.slice(1).join(' &middot; ') + '</span>';
       if (p.k2_agenten) {
         k2a.textContent = typeof p.k2_agenten.aktiv === 'number' ? String(p.k2_agenten.aktiv) : '—';
         k2r.textContent = typeof p.k2_agenten.ruhestand === 'number' ? String(p.k2_agenten.ruhestand) : '—';
@@ -185,7 +195,7 @@ details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opa
         if (p.k4_claude.quelle) document.getElementById('k4-quelle').textContent = p.k4_claude.quelle;
       }
     }).catch(function () {
-      ['k1','k2a','k2r','k3','k4'].forEach(function (id) { document.getElementById(id).innerHTML = sk; });
+      ['k1','k1w','k2a','k2r','k3','k4'].forEach(function (id) { document.getElementById(id).innerHTML = sk; });
     });
 
   // --- Rollen + Jobs (unverändert aus agents.html v5 übernommen) ---
