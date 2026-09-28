@@ -1,0 +1,8 @@
+{
+  "quelle_kanon": "tech/stats/projekt.json (Projekt-Kennzahlen, RUN-ID PROJ-BFI-2809) — Befuellung durch Payload-Transport-Task Teil 3 (R2.2, ZK-2709-6 Single-Writer); manuelle Pflege nur bis Prozess steht (v1-Init Betreiber). Schema ZK-2709-4-konform, fail-offen, Stand-Stempel je Lauf.",
+  "stand": null,
+  "k1_kanon": { "dateien": null, "woerter": null, "kilobytes": null },
+  "k2_agenten": { "aktiv": null, "ruhestand": null },
+  "k3_schedules": { "aktiv": null },
+  "k4_claude": { "aktiv": null, "inaktiv": null, "quelle": "via Claude_Bridge (Betreiber-Kanal) — offen bis Prozess läuft" }
+}
