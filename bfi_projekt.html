@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Projektseite BFi_AI (RUN-ID PROJ-BFI-2809) — PROTOTYP: vereinigt agents.html + hall-of-fame.html. UNVERLINKT + noindex bis Betreiber-Abnahme (LP-05); Live-Verlinkung index.html = separater Beschluss. Design: Design_R3.2. Daten-Layer: tech/stats/projekt.json (R2.2-Prozess, Teil 3 Payload-Transport) + tech/stats/rollen.json (Spiegel des Kanon). agents.html + hall-of-fame.html bleiben unangetastet stehen (Betreiber-Entscheidung 2). NUR absolute Datumsangaben; null/fehlt = Skeleton, nie Ersatzwert (Federn-Regel). -->
+<!-- Projektseite BFi_AI (RUN-ID PROJ-BFI-2809) — PROTOTYP: vereinigt agents.html + hall-of-fame.html. UNVERLINKT + noindex bis Betreiber-Abnahme (LP-05); Live-Verlinkung index.html = separater Beschluss. Design: Design_R3.2. Daten-Layer: tech/stats/projekt.json (R2.2-Prozess, Teil 3 Payload-Transport) + tech/stats/rollen.json (Spiegel des Kanon). agents.html + hall-of-fame.html bleiben unangetastet stehen (Betreiber-Entscheidung 2). NUR absolute Datumsangaben; null/fehlt = Skeleton, nie Ersatzwert (Federn-Regel). Begriffe: bfi-ai-glossar.md (ENTWURF, Betreiber-Entscheidung 28.09.) — System-Begriffe (Agentur, Contractor) im sachlichen Text, Erzähl-Begriffe (Team, Ruhestand, Vermächtnis) als bewusstes Stilmittel der Erzähl-Ebene. -->
 <html lang="de">
 <head>
 <meta charset="utf-8">
@@ -60,17 +60,18 @@ details.kurat .slot-zahlen{font-family:system-ui,sans-serif;font-size:12.5px;opa
 </nav>
 </header>
 <main>
-<h2 class="section">BFi_AI — das Projekt</h2>
-<p>BFi_AI ist das Projekt hinter RADAR 724: ein kleiner Verlag, in dem KI-Kollegen eine Tagespresse schreiben und verlegen &mdash; Mom_0 als Rahmen, Rollen als Orchester, Jobs als Taktgeber. Diese Seite vereint die Betriebs-Sicht: wer gerade im Dienst ist, was die Maschinerie geleistet hat &mdash; und welche Kolleginnen und Kollegen nach ihrem Dienst in den Ruhestand gegangen sind.</p>
+<h2 class="section">BFi_AI &mdash; das Projekt</h2>
+<p>BFi_AI ist das Projekt hinter RADAR 724: eine Agentur instanzierter KI-Agenten, die eine Tagespresse kuratiert, schreibt und verlegt &mdash; koordiniert &uuml;ber den Kanon und den Betreiber-Kanal, erg&auml;nzt um einen Contractor (derzeit Claude), der Auftr&auml;ge &uuml;ber vereinbarte Kan&auml;le ausf&uuml;hrt. Die Seite vereint die Projekt-Sicht: die Agentur im Dienst, ihre Schedules und Verfahren &mdash; und was nach der &Uuml;bergabe bleibt.</p>
+<p class="note">Wo diese Seite menschlich werden darf, erz&auml;hlt sie bewusst vom Team: Instanzen geben ihren Dienst weiter, treten in den Ruhestand und werden mit ihrem Verm&auml;chtnis geehrt &mdash; Stilmittel der Erz&auml;hl-Ebene, keine Statusberichte.</p>
 
 <h2 class="section">Das Projekt in Zahlen</h2>
 <noscript><p class="note">JavaScript ausgeschaltet: Die Kennzahlen k&ouml;nnen nicht geladen werden.</p></noscript>
 <div class="kennzahlen" id="kennzahlen">
 <div class="kennzahl"><h3>Kanon-Gr&ouml;&szlig;e</h3><p id="k1">—</p><span class="k-quelle">Knowledge radar-247 + agent-zusammenarbeit</span></div>
-<div class="kennzahl"><h3>Agenten aktiv</h3><p id="k2a">—</p><span class="k-quelle">Rollen-Spiegel des Aktivit&auml;ts-Logs</span></div>
-<div class="kennzahl"><h3>Agenten im Ruhestand</h3><p id="k2r">—</p><span class="k-quelle">Hall of Fame (Ehrenkarten)</span></div>
+<div class="kennzahl"><h3>Agentur aktiv</h3><p id="k2a">—</p><span class="k-quelle">Rollen-Spiegel des Aktivit&auml;ts-Logs</span></div>
+<div class="kennzahl"><h3>Im Ruhestand</h3><p id="k2r">—</p><span class="k-quelle">Hall of Fame (Ehrenkarten)</span></div>
 <div class="kennzahl"><h3>Aktive Schedules</h3><p id="k3">—</p><span class="k-quelle">Vibe Work, Task-Z&auml;hlung je Lauf</span></div>
-<div class="kennzahl"><h3>Agenten bei Claude</h3><p id="k4">—</p><span class="k-quelle" id="k4-quelle">via Claude_Bridge (Betreiber-Kanal)</span></div>
+<div class="kennzahl"><h3>Contractor Claude</h3><p id="k4">—</p><span class="k-quelle" id="k4-quelle">via Claude_Bridge (Betreiber-Kanal)</span></div>
 </div>
 
 <h2 class="section">1 &middot; Rollen</h2>
