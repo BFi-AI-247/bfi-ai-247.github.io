@@ -2,6 +2,7 @@
   "key": "wzg",
   "job": "WZG — Morgenausgabe Wiesenzeitung Gifhorn",
   "laeufe": [
+    { "datum": "2026-09-28", "ist_start": "2026-09-28T06:02:36+02:00", "dauer_min": 11, "status": "ok" }
     { "datum": "2026-09-27", "ist_start": "2026-09-27T05:22:00+02:00", "dauer_min": 8, "status": "ok" }
   ]
 }
