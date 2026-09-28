@@ -2,6 +2,7 @@
   "key": "radarm",
   "job": "RadarM — Morgenausgabe RADAR 724",
   "laeufe": [
-    { "datum": "2026-09-27", "ist_start": "2026-09-27T06:32:00+02:00", "dauer_min": 38, "status": "ok" }
+    { "datum": "2026-09-27", "ist_start": "2026-09-27T06:32:00+02:00", "dauer_min": 38, "status": "ok" },
+    { "datum": "2026-09-28", "ist_start": "2026-09-28T06:41:21+02:00", "dauer_min": 3, "status": "ok" }
   ]
 }
