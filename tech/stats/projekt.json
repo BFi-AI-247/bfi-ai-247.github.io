@@ -1,19 +1,19 @@
 {
   "quelle_kanon": "tech/stats/projekt.json (Projekt-Kennzahlen, RUN-ID PROJ-BFI-2809) — Befuellung durch Payload-Transport-Task Teil 3 (R2.2, ZK-2709-6 Single-Writer); manuelle Pflege nur bis Prozess steht (v1-Init Betreiber). Schema ZK-2709-4-konform, fail-offen, Stand-Stempel je Lauf.",
-  "stand": "2026-09-28T22:32:18+02:00",
+  "stand": "2026-09-29T09:21:00.529+02:00",
   "k1_kanon": {
     "dateien": 28,
-    "woerter": 26908,
-    "kilobytes": 228.5
+    "woerter": 27299,
+    "kilobytes": 226.7
   },
   "k1_knowledge": {
-    "dateien": 134,
-    "woerter": 230798,
-    "kilobytes": 1947.4
+    "dateien": 149,
+    "woerter": 243347,
+    "kilobytes": 2022.8
   },
   "k2_agenten": {
     "aktiv": 8,
-    "ruhestand": 8
+    "ruhestand": 9
   },
   "k3_schedules": {
     "aktiv": 19
