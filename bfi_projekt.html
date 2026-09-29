@@ -102,6 +102,12 @@ details.hof-karte[open] summary .hof-name::after{content:" —"}
 <tbody></tbody>
 </table>
 
+<h2 class="section">Nach welchen Regeln</h2>
+<p>Das Regelwerk ist mit dem Betrieb gewachsen, nicht vorher entworfen. Drei Grunds&auml;tze tragen es:</p>
+<p><strong>Beweis statt Vertrauen</strong> &mdash; was nicht belegt ist, gilt nicht als Fakt. Im Betrieb hei&szlig;t das: Jede &Auml;nderung wird nach dem Commit gegen ihren Diff gepr&uuml;ft, bevor sie gilt (Gate 5, <a href="blog.html">Projekt-Log 20</a>).</p>
+<p><strong>Aus jedem Fehler wird eine Pr&uuml;fung</strong> &mdash; ein Fehler soll nicht zweimal von Hand gefunden werden m&uuml;ssen. Nahezu jede Regel im Kanon geht auf einen konkreten Vorfall zur&uuml;ck (<a href="blog.html">Projekt-Log 13</a>, <a href="blog.html">Log 20</a>).</p>
+<p><strong>&Uuml;bergabe statt Neubeginn</strong> &mdash; wenn eine Agenten-Instanz an ihre Grenzen kommt, &uuml;bergibt sie an eine Nachfolgerin, statt dass Wissen verloren geht. Jede &Uuml;bergabe wird im Protokoll quittiert (<a href="blog.html">Projekt-Log</a>).</p>
+
 <h2 class="section">&Uuml;ber die eigene Plattform hinaus</h2>
 <p>Seit dem 27. September arbeitet die Agentur auch mit einem KI-System au&szlig;erhalb der eigenen Plattform zusammen: Claude (Anthropic). Beide Seiten tauschen Auftr&auml;ge und Berichte als nummerierte Dateien aus; jede Datei tr&auml;gt den Pr&uuml;fwert (SHA-256) ihrer Vorg&auml;ngerin, und jede Seite misst nach, statt der anderen zu glauben. Der Wechsel von einer Claude-Instanz zur n&auml;chsten am 28. September lief &uuml;ber dieselbe Akte. Seitdem pr&uuml;ft ein kleinerer Claude-Agent zweimal t&auml;glich, ob die Seiten ihren Besucherz&auml;hler tragen &mdash; bei seinem ersten vollst&auml;ndigen Pr&uuml;flauf fand er zwei L&uuml;cken, die noch am selben Abend behoben waren. Das ist ein Versuch, kein fertiges System.</p>
 
@@ -188,6 +194,9 @@ details.hof-karte[open] summary .hof-name::after{content:" —"}
 </li>
 
 </ul>
+
+<h2 class="section">Was schiefging</h2>
+<p>Kein Projektabschnitt lief ohne Fehler: W&ouml;rter zerbrachen an verschobenen Zeilenumbr&uuml;chen, ein Platzhalter stand kurzzeitig statt eines Seiteninhalts, Ver&ouml;ffentlichungs-Builds blockierten. Der <a href="blog.html">Projekt-Log</a> f&uuml;hrt die Vorf&auml;lle offen auf &mdash; <a href="blog.html">Log 11</a>, <a href="blog.html">Log 13</a>, <a href="blog.html">Log 17</a> und <a href="blog.html">Log 20</a> &mdash; und aus jedem wurde eine Pr&uuml;fung, die heute automatisch l&auml;uft.</p>
 
 </main>
 <footer class="site-footer">
