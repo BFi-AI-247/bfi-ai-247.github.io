@@ -1,12 +1,12 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-29T18:44:00+02:00",
+  "stand": "2026-09-29T23:31:32.418Z",
   "rollen": [
     {
       "rolle": "PM_R1.2",
       "dienstbeginn": "27.09.2026, 02:20 Uhr",
-      "letzte_aktivitaet": "29.09.2026, 10:08 Uhr",
-      "antworten": 90,
+      "letzte_aktivitaet": "29.09.2026, 23:20 Uhr",
+      "antworten": 109,
       "health": null,
       "kommentar": "Nachfolge-Instanz von PM_R1.1 (Ruhestand 27.09.2026, 02:20 Uhr — Hof-Verweis d67fefba)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
@@ -14,8 +14,8 @@
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "29.09.2026, 00:43 Uhr",
-      "letzte_aktivitaet": "29.09.2026, 16:06 Uhr",
-      "antworten": 8,
+      "letzte_aktivitaet": "29.09.2026, 21:18 Uhr",
+      "antworten": 11,
       "health": null,
       "kommentar": "Nachfolge-Instanz von Architektur_R2.2 (Dienstende 29.09.2026, 00:40 Uhr, Ruhestand — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
@@ -23,8 +23,8 @@
     {
       "rolle": "Design_R3.2",
       "dienstbeginn": "26.09.2026, 09:41 Uhr",
-      "letzte_aktivitaet": "29.09.2026, 07:11 Uhr",
-      "antworten": 34,
+      "letzte_aktivitaet": "29.09.2026, 21:16 Uhr",
+      "antworten": 35,
       "health": null,
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
@@ -34,7 +34,7 @@
       "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
       "antworten": 31,
       "health": null,
-      "kommentar": "Chat seit 16.09.2026, 21:01 · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr)",
+      "kommentar": "Chat seit 16.09.2026, 21:01 Uhr · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
     },
     {
@@ -52,15 +52,6 @@
       "antworten": 16,
       "health": null,
       "kommentar": "Spezial-Instanz (Autoren-Rolle bfi_ai_framework.html), kein Perma-Chat — Zeilenlogik analog Framework_R6.0; Dienstbeginn gemäß Ini-Prompt; Nachfolger von Framework_R6.0 (Dienstende 09:33, Ruhestand)",
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
-    },
-    {
-      "rolle": "Kanon_Sync",
-      "dienstbeginn": "27.09.2026, 11:29 Uhr",
-      "letzte_aktivitaet": "29.09.2026, 10:56 Uhr",
-      "antworten": 30,
-      "health": null,
-      "kommentar": "Spezial-Instanz (Kanon-Export, Profil rollenprofil-kanonsync.md; Initialisierungs-Quittierung analog R6-Zeilenlogik)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
