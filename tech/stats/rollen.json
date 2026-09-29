@@ -1,6 +1,6 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-29T12:24:00+02:00",
+  "stand": "2026-09-29T18:44:00+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.2",
@@ -14,8 +14,8 @@
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "29.09.2026, 00:43 Uhr",
-      "letzte_aktivitaet": "29.09.2026, 01:13 Uhr",
-      "antworten": 7,
+      "letzte_aktivitaet": "29.09.2026, 16:06 Uhr",
+      "antworten": 8,
       "health": null,
       "kommentar": "Nachfolge-Instanz von Architektur_R2.2 (Dienstende 29.09.2026, 00:40 Uhr, Ruhestand — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
