@@ -1,29 +1,30 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-28T23:08:15.119+02:00",
+  "stand": "2026-09-29T05:55:54.784+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.2",
       "dienstbeginn": "27.09.2026, 02:20 Uhr",
-      "letzte_aktivitaet": "28.09.2026, 23:12 Uhr",
-      "antworten": 81,
+      "letzte_aktivitaet": "29.09.2026, 00:58 Uhr",
+      "antworten": 89,
       "health": null,
       "kommentar": "Nachfolge-Instanz von PM_R1.1 (Ruhestand 27.09.2026, 02:20 Uhr — Hof-Verweis d67fefba)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
-      "rolle": "Architektur_R2.2",
-      "dienstbeginn": "26.09.2026, 10:52 Uhr",
-      "letzte_aktivitaet": "28.09.2026, 22:24 Uhr",
-      "antworten": 17,
+      "rolle": "Architektur_R2.3",
+      "dienstbeginn": null,
+      "letzte_aktivitaet": "29.09.2026, 01:13 Uhr",
+      "antworten": 7,
       "health": null,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
+      "kommentar": "Nachfolge-Instanz von Architektur_R2.2; Dienstbeginn im Aktivitaets-Log nicht angegeben (kein Raten — LP-01, R2.2-Auftrag gemeldet)",
+      "quelle": "Eigenmessung laut Aktivitaets-Log (Aktivitaet/Antworten); Dienstbeginn nicht angegeben"
     },
     {
       "rolle": "Design_R3.2",
       "dienstbeginn": "26.09.2026, 09:41 Uhr",
-      "letzte_aktivitaet": "28.09.2026, 22:07 Uhr",
-      "antworten": 28,
+      "letzte_aktivitaet": "29.09.2026, 01:17 Uhr",
+      "antworten": 33,
       "health": null,
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
@@ -56,8 +57,8 @@
     {
       "rolle": "Kanon_Sync",
       "dienstbeginn": "27.09.2026, 11:29 Uhr",
-      "letzte_aktivitaet": "28.09.2026, 22:49 Uhr",
-      "antworten": 17,
+      "letzte_aktivitaet": "29.09.2026, 00:20 Uhr",
+      "antworten": 26,
       "health": null,
       "kommentar": "Spezial-Instanz (Kanon-Export, Profil rollenprofil-kanonsync.md; Initialisierungs-Quittierung analog R6-Zeilenlogik)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
