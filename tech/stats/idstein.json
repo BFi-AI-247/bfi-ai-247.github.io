@@ -1,13 +1,13 @@
 {
   "key": "idstein",
   "job": "Idsteiner Hexenpost Morgenausgabe",
-  "runs_total": 2,
+  "runs_total": 3,
   "runs_beweisbar_seit": "2026-09-27",
   "beweis": "Ausgabe #1 (idstein/posts/2026-09-27-morgens.html), LIVE-START",
-  "instanzen": 2,
+  "instanzen": 3,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 14,
+  "laufzeit_gesamt_min": 20,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-09-28T06:25:32+02:00",
-  "updated": "2026-09-28T06:25:32+02:00"
+  "last_run": "2026-09-29T05:55:54+02:00",
+  "updated": "2026-09-29T05:55:54+02:00"
 }
