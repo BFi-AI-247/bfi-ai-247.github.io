@@ -13,6 +13,12 @@
       "ist_start": "2026-09-28T06:16:21+02:00",
       "dauer_min": 12,
       "status": "ok"
+    },
+    {
+      "datum": "2026-09-29",
+      "ist_start": "2026-09-29T05:55:07+02:00",
+      "dauer_min": 6,
+      "status": "fehler"
     }
   ]
 }
