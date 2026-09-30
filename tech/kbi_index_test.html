@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RADAR 724 &mdash; KBI Performance-Indikator (intern) &mdash; TEST-PROTOTYP</title>
+<style>
+  body { font-family: system-ui, sans-serif; background: #f4f4f2; color: #222; margin: 0; padding: 16px; }
+  h1 { font-size: 1.25rem; margin: 0 0 4px 0; }
+  p.sub { color: #666; font-size: .8rem; margin: 0 0 12px 0; }
+  h2 { font-size: 1rem; margin: 18px 0 6px 0; }
+  .wrap { overflow-x: auto; max-height: 80vh; overflow-y: auto; }
+  table { border-collapse: collapse; font-size: .72rem; background: #fff; }
+  th, td { border: 1px solid #ddd; padding: 4px 6px; text-align: left; white-space: nowrap; }
+  thead th { position: sticky; top: 0; background: #2c3440; color: #fff; font-weight: 600; z-index: 2; }
+  .leer { color: #bbb; }
+  .legend { font-size: .72rem; color: #666; margin-top: 10px; }
+</style>
+</head>
+<body>
+<h1>RADAR 724 &mdash; KBI Performance-Indikator (intern) &mdash; TEST-PROTOTYP</h1>
+<p class="sub">Tages-Aggregation &middot; vollst&auml;ndige Antwortliste (je PM-Antwort: Erst-Stempel &rarr; Signatur-Stempel &rarr; Eigenzeit, KBI-K1 gem&auml;&szlig; KDL-018) &middot; Monats-St&auml;nde K1&ndash;K6 &middot; reine Ist-Zahlen &middot; KI-generierte Seite (Design_R3.3, unverlinkter Prototyp)</p>
+<!-- Schema-Vorschlag tech/kbi/kbi.json (Schreiber: PM gem. MSG-006 Block A 3; Datei NICHT Teil dieses Prototyp-Commits):
+{ "quelle": "KDL-018 Erst-Stempel + Signatur-Stempel je Antwort", "antworten": [ { "nr": 40, "datum": "2026-09-30", "erst_stempel": "2026-09-30T...+02:00", "signatur_stempel": "2026-09-30T...+02:00", "eigenzeit_s": 6 } ], "monate": [ { "monat": "2026-10", "k1_eigenzeit_s": null, "k2_zug_ratio": null, "k3_lesevolumen_bytes": null, "k4_nacharbeit_je_10": null, "k5_systemlast": null, "k6_qs_dauer_min": null } ] }
+Betreiber-Dialogentscheid 30.09.: VOLLE Antwortliste (kein 30er-Cap im Frontend); etwaiger Datenhaltungs-Cap der JSON = PM-Entscheidung (KDL-017 Zahlentabelle). -->
+<h2>Tages-Aggregation (&Oslash; Eigenzeit je Kalendertag, neueste oben)</h2>
+<div class="wrap"><table id="tage"><thead><tr><th>Datum</th><th>Antworten</th><th>&Oslash; Eigenzeit</th></tr></thead><tbody></tbody></table></div>
+<h2>Antwortliste (vollst&auml;ndig, neueste oben)</h2>
+<div class="wrap"><table id="antworten"><thead><tr><th>Nr.</th><th>Datum</th><th>Erst-Stempel</th><th>Signatur-Stempel</th><th>Eigenzeit</th></tr></thead><tbody></tbody></table></div>
+<h2>Monats-St&auml;nde K1&ndash;K6 (erster Stand: 31.10.2026)</h2>
+<div class="wrap"><table id="monate"><thead><tr><th>Monat</th><th>K1 &Oslash; Eigenzeit</th><th>K2 Zug-Ratio</th><th>K3 Lese-Volumen</th><th>K4 Nacharbeit / 10</th><th>K5 Systemlast</th><th>K6 QS-Dauer</th></tr></thead><tbody></tbody></table></div>
+<p class="legend">Datenquelle: tech/kbi/kbi.json (Schreiber: PM). &mdash; = kein Wert geflossen (LP-01: keine F&uuml;llwerte, Seite startet ehrlich leer). Eigenzeit = Signatur-Stempel minus Erst-Stempel je Antwort (KDL-018); Tages-Aggregation bildet den Mittelwert je Kalendertag, reine Ist-Zahlen ohne Delta/Farben (Format-Vorbild betriebszeiten.md). Auftrag: AGENTUR_INBOX MSG-006 (RUN-ID MSG-006-KBI-R32-3009), roadmap P.319. TEST-PROTOTYP &mdash; unverlinkt, noindex, Live-&Uuml;berf&uuml;hrung erst nach Betreiber-Freigabe; Verlinkungsort bei Live: Projektseite (Betreiber-Dialogentscheid 30.09.).</p>
+<script>
+(function () {
+  'use strict';
+  function fmtSek(s) {
+    if (typeof s !== 'number' || isNaN(s)) return '—';
+    if (s >= 60) { var m = Math.floor(s / 60), r = Math.round(s - m * 60); if (r === 60) { m++; r = 0; } return m + ':' + (r < 10 ? '0' : '') + r + ' min'; }
+    return (Math.round(s * 10) / 10) + ' s';
+  }
+  function leer(el, txt, n) { el.innerHTML = '<tr><td class="leer" colspan="' + n + '">' + txt + '</td></tr>'; }
+  function eigenzeitAus(e) {
+    if (typeof e.eigenzeit_s === 'number') return e.eigenzeit_s;
+    if (e.erst_stempel && e.signatur_stempel) { var t1 = new Date(e.erst_stempel).getTime(), t2 = new Date(e.signatur_stempel).getTime(); if (!isNaN(t1) && !isNaN(t2) && t2 >= t1) return (t2 - t1) / 1000; }
+    return null;
+  }
+  function fuelle(data) {
+    var antworten = (data && Array.isArray(data.antworten)) ? data.antworten.slice() : [];
+    var monate = (data && Array.isArray(data.monate)) ? data.monate : [];
+    var tEl = document.querySelector('#tage tbody');
+    var aEl = document.querySelector('#antworten tbody');
+    var mEl = document.querySelector('#monate tbody');
+    if (antworten.length === 0) {
+      leer(tEl, 'noch keine Daten (kbi.json noch nicht geflossen)', 3);
+      leer(aEl, 'noch keine Daten (kbi.json noch nicht geflossen)', 5);
+    } else {
+      antworten.sort(function (x, y) { return (y.nr || 0) - (x.nr || 0); });
+      var aHtml = '';
+      antworten.forEach(function (e) {
+        var ez = eigenzeitAus(e);
+        aHtml += '<tr><td>' + (e.nr != null ? e.nr : '—') + '</td><td>' + (e.datum || '—') + '</td><td>' + (e.erst_stempel || '—') + '</td><td>' + (e.signatur_stempel || '—') + '</td><td>' + (ez !== null ? fmtSek(ez) : '—') + '</td></tr>';
+      });
+      aEl.innerHTML = aHtml;
+      var jeTag = {};
+      antworten.forEach(function (e) {
+        var d = e.datum || (e.erst_stempel || '').slice(0, 10) || '—';
+        if (!jeTag[d]) jeTag[d] = { n: 0, sum: 0, hat: false };
+        jeTag[d].n++;
+        var ez = eigenzeitAus(e);
+        if (ez !== null) { jeTag[d].sum += ez; jeTag[d].hat = true; }
+      });
+      var tage = Object.keys(jeTag).sort(function (a, b) { return a < b ? 1 : (a > b ? -1 : 0); });
+      var tHtml = '';
+      tage.forEach(function (d) { var j = jeTag[d]; tHtml += '<tr><td>' + d + '</td><td>' + j.n + '</td><td>' + (j.hat ? fmtSek(j.sum / j.n) : '—') + '</td></tr>'; });
+      tEl.innerHTML = tHtml;
+    }
+    if (monate.length === 0) {
+      leer(mEl, 'noch kein Stand (erster Monats-Stand: 31.10.2026)', 7);
+    } else {
+      function f(v, suf) { return (typeof v === 'number' && !isNaN(v)) ? v + (suf || '') : '—'; }
+      var mHtml = '';
+      monate.slice().sort(function (a, b) { return (b.monat || '').localeCompare(a.monat || ''); }).forEach(function (m) {
+        mHtml += '<tr><td>' + (m.monat || '—') + '</td><td>' + f(m.k1_eigenzeit_s) + '</td><td>' + f(m.k2_zug_ratio) + '</td><td>' + f(m.k3_lesevolumen_bytes) + '</td><td>' + f(m.k4_nacharbeit_je_10) + '</td><td>' + f(m.k5_systemlast) + '</td><td>' + f(m.k6_qs_dauer_min) + '</td></tr>';
+      });
+      mEl.innerHTML = mHtml;
+    }
+  }
+  function lade(pfad) { return fetch(pfad, { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }); }
+  lade('kbi.json').then(fuelle).catch(function () { return lade('kbi/kbi.json').then(fuelle).catch(function () { fuelle({}); }); });
+})();
+</script>
+</body>
+</html>
