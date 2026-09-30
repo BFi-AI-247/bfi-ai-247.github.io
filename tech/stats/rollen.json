@@ -1,12 +1,12 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-30T12:54:36+02:00",
+  "stand": "2026-09-30T18:29:36.770+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026, 00:24 Uhr",
       "letzte_aktivitaet": "30.09.2026, 06:50 Uhr",
-      "antworten": 34,
+      "antworten": 38,
       "health": null,
       "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
@@ -14,8 +14,8 @@
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "29.09.2026, 00:43 Uhr",
-      "letzte_aktivitaet": "30.09.2026, 08:16 Uhr",
-      "antworten": 25,
+      "letzte_aktivitaet": "30.09.2026, 16:33 Uhr",
+      "antworten": 28,
       "health": null,
       "kommentar": "Nachfolge-Instanz von Architektur_R2.2 (Dienstende 29.09.2026, 00:40 Uhr, Ruhestand — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
@@ -23,8 +23,8 @@
     {
       "rolle": "Design_R3.3",
       "dienstbeginn": "30.09.2026, 01:43 Uhr (erste Eigenmessung im Log — Dienstbeginn dort nicht explizit datiert)",
-      "letzte_aktivitaet": "30.09.2026, 08:09 Uhr",
-      "antworten": 4,
+      "letzte_aktivitaet": "30.09.2026, 16:28 Uhr",
+      "antworten": 6,
       "health": null,
       "kommentar": "Nachfolge-Instanz von Design_R3.2 (Aussendienststellung 30.09.2026, 01:26 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
