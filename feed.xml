@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:28:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:21:00 +0200</lastBuildDate>
         <item>
+      <title>Ausgabe #58 &mdash; Vereitelter Anschlag auf Flydubai-Maschine &middot; VW k&uuml;ndigt zehn Tarifvertr&auml;ge &middot; Micron punktet zum Quartalsende</title>
+      <link>https://radar724.de/posts/2026-09-30-nachts.html</link>
+      <guid>https://radar724.de/posts/2026-09-30-nachts.html</guid>
+      <description>Mittwoch, 30.09.2026 &middot; Nachtausgabe &middot; Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
+      <pubDate>Wed, 30 Sep 2026 23:13:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Ausgabe #57 &mdash; Starship erstmals im Erdorbit &middot; Trump nennt Kim Jong Un einen Freund &middot; DAX gibt zum Quartalsende nach</title>
       <link>https://radar724.de/posts/2026-09-30-abends.html</link>
       <guid>https://radar724.de/posts/2026-09-30-abends.html</guid>
@@ -67,13 +74,14 @@
 <item>
       <title>Ausgabe #46 — Schweiz lehnt verschärfte Neutralität deutlich ab · Update: Iran beharrt auf Bedingungen für Hormus-Öffnung · Neue Details zum OpenAI-Zwischenfall</title>
       <link>https://radar724.de/posts/2026-09-27-abends.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-abends.html</guid>      <description>Sonntag, 27.09.2026 · Abends · Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI</description>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-abends.html</guid>
+      <description>Sonntag, 27.09.2026 · Abends · Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI</description>
       <pubDate>Sun, 27 Sep 2026 18:25:00 +0200</pubDate>
     </item>
 <item>
       <title>Ausgabe #45 — Update: OpenAI setzt Training nach neuem KI-Vorfall wieder aus · Starship startet morgen erstmals in den Erdorbit · Festnahmen bei britischem Luftwaffenstützpunkt</title>
-      <link>https://radar724.de/posts/2026-09-27-mittags.html</link>      
-<guid isPermaLink="true">https://radar724.de/posts/2026-09-27-mittags.html</guid>
+      <link>https://radar724.de/posts/2026-09-27-mittags.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-mittags.html</guid>
       <description>Sonntag, 27.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Sun, 27 Sep 2026 12:40:00 +0200</pubDate>
     </item>
@@ -86,7 +94,7 @@
     </item>
 <item>
       <title>Ausgabe #43 — Google schickt KI-Chips ins All · BASF sondiert Milliarden-Übernahme von Evonik · Klopps erstes Heimspiel gegen Griechenland</title>
-      <link>https://radar724.de/posts/2026-09-26-nachts.html</link> 
+      <link>https://radar724.de/posts/2026-09-26-nachts.html</link>
      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-nachts.html</guid>
       <description>Samstag, 26.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Sat, 26 Sep 2026 23:28:00 +0200</pubDate>
@@ -104,13 +112,6 @@
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-mittags.html</guid>
       <description>Samstag, 26.09.2026 · Mittags · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Sat, 26 Sep 2026 12:31:00 +0200</pubDate>
-    </item>
-<item>
-      <title>Ausgabe #40 — Big Brother Awards für Dobrindt, EU-Kommission und Telekom · EU-Staaten machen 6,6 Milliarden Euro für Ukraine-Waffen frei · Spätsommer-Hitzewelle mit bis zu 31 Grad</title>
-      <link>https://radar724.de/posts/2026-09-26-morgens.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-morgens.html</guid>
-      <description>Samstag, 26.09.2026 · Morgens · Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt</description>
-      <pubDate>Sat, 26 Sep 2026 06:16:00 +0200</pubDate>
     </item>
 
     </channel>
