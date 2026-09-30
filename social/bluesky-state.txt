@@ -31,3 +31,7 @@ borkum_kurier/posts/2026-09-29-morgens.html
 posts/2026-09-29-mittags.html
 posts/2026-09-29-abends.html
 posts/2026-09-29-nachts.html
+posts/2026-09-30-morgens.html
+wiesenzeitung_gifhorn/posts/2026-09-30-morgens.html
+borkum_kurier/posts/2026-09-30-morgens.html
+idstein/posts/2026-09-30-morgens.html
