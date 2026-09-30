@@ -1,7 +1,13 @@
 {
   "key": "idscrape",
-  "job": "ID-Scrape — Idstein Digest (Teil B im vereinigten ZS-Lauf, ZK-2709-5)",
+  "job": "ID-Scrape",
   "laeufe": [
+    {
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T04:30:45+02:00",
+      "dauer_min": 1,
+      "status": "ok"
+    },
     {
       "datum": "2026-09-28",
       "ist_start": "2026-09-28T04:29:48+02:00",
