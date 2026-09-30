@@ -1,7 +1,13 @@
 {
   "key": "zs",
-  "job": "ZS-Scrape — zentraler Scrape-Lauf (RADAR/WZG/Borkum)",
+  "job": "ZS-Scrape",
   "laeufe": [
+    {
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T04:28:45+02:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
     {
       "datum": "2026-09-28",
       "ist_start": "2026-09-28T04:26:05.696+02:00",
