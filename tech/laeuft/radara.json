@@ -1,7 +1,13 @@
 {
   "key": "radara",
-  "job": "RADAR Abendausgabe",
+  "job": "RadarA",
   "laeufe": [
+    {
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T18:23:43+02:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
     {
       "datum": "2026-09-29",
       "ist_start": "2026-09-29T18:34:24+02:00",
