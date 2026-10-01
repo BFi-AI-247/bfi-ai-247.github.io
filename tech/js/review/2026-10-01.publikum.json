@@ -1,0 +1,23 @@
+{
+  "schema": "radar724-review-publikum/1",
+  "ableger": "wzg",
+  "status": "OK",
+  "titel": "Was die KI zu dieser Ausgabe sagt (TEST)",
+  "text": "TEST-Datensatz der Komponenten-Verifikation (R23-KOMM-0110).\n\nZweiter Absatz: prueft die Absatz-Trennung. Nicht fuer die Veroeffentlichung bestimmt.",
+  "hinweis": "Automatisch erstellt von Claude (Anthropic). Kann irren. (TEST)",
+  "ausgabe": {
+    "datum": "2026-10-01",
+    "datei": "wiesenzeitung_gifhorn/posts/2026-10-01-morgens.html",
+    "sha256": "test",
+    "pages_commit": "test"
+  },
+  "erzeugt_am": {
+    "wert": "2026-10-01T06:00:00+02:00",
+    "quelle": "Test"
+  },
+  "erzeugt_von": {
+    "instanz": "TEST_Haiku_Reviewer",
+    "modell": "test"
+  },
+  "pruefskript_sha256": "test"
+}

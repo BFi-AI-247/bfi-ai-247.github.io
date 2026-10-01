@@ -1,0 +1,23 @@
+{
+  "schema": "radar724-review-publikum/1",
+  "ableger": "wzg",
+  "status": "OK",
+  "titel": "Was die KI zu dieser Ausgabe sagt (TEST, gesperrt)",
+  "text": "TEST-Datensatz Sperre-Fall (R23-KOMM-0110). Dieses Datum steht in sperre.json und darf nie sichtbar werden.",
+  "hinweis": "Automatisch erstellt von Claude (Anthropic). Kann irren. (TEST)",
+  "ausgabe": {
+    "datum": "2000-01-01",
+    "datei": "wiesenzeitung_gifhorn/posts/2000-01-01-morgens.html",
+    "sha256": "test",
+    "pages_commit": "test"
+  },
+  "erzeugt_am": {
+    "wert": "2000-01-01T06:00:00+02:00",
+    "quelle": "Test"
+  },
+  "erzeugt_von": {
+    "instanz": "TEST_Haiku_Reviewer",
+    "modell": "test"
+  },
+  "pruefskript_sha256": "test"
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Testseite Review-Publikum 1/3: Normalfall (R23-KOMM-0110)</title>
+</head>
+<body>
+<h1>Testseite 1/3 &mdash; Normalfall: gueltige publikum.json</h1>
+<p>Erwartet: aufklappbarer Bereich mit Titel &quot;Was die KI zu dieser Ausgabe sagt (TEST)&quot;, zwei Absaetzen, Hinweis- und Meta-Zeile; Container-Status &quot;aktiv&quot;, hidden entfernt. Datum wird automatisch aus dem Dateinamen dieser Seite abgeleitet (2026-10-01).</p>
+<!-- Testharness: echte Ausgaben-Seiten liegen in <ableber>/posts/ und laden die
+     Komponente via ../../tech/js/review-publikum.js; die Daten liegen real in
+     <ableber>/review/ (relativ zur Seite: ../review/). Diese Testseite liegt
+     neben der Komponente in tech/js/ und spiegelt genau diese Struktur:
+     tech/js/review/ steht fuer <ableber>/review/. -->
+<div data-review-publikum hidden></div>
+<script src="review-publikum.js" defer></script>
+</body>
+</html>
