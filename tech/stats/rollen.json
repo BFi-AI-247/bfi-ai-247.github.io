@@ -1,11 +1,11 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-09-30T23:15:14.022+02:00",
+  "stand": "2026-10-01T06:20:42.301+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026, 00:24 Uhr",
-      "letzte_aktivitaet": "30.09.2026, 21:53 Uhr",
+      "letzte_aktivitaet": "30.09.2026, 06:50 Uhr",
       "antworten": 48,
       "health": null,
       "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
@@ -31,12 +31,12 @@
     },
     {
       "rolle": "Kanon_Sync_2",
-      "dienstbeginn": "30.09.2026, per Ini-Prompt INI-KSY2-3009 via Björn_0 (im Log nicht als Uhrzeit datiert)",
+      "dienstbeginn": "30.09.2026 (per Ini-Prompt INI-KSY2-3009 via Björn_0)",
       "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
       "antworten": 1,
       "health": null,
-      "kommentar": "Spezial-Instanz analog Framework_R6.1 (Ini-Prompt-Werkstatt + Export-Verantwortlicher kanon-export/, Profil rollenprofil-kanonsync.md); Initialisierungs-Quittierung Regelteil B am 30.09.; Nachfolger von Kanon_Sync (Dienstende/Ruhestand 29.09.2026, 22:53 Uhr — nie im Spiegel)",
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung laut Aktivitaets-Log"
+      "kommentar": "NEU im Spiegel (P.235 dynamische Rollenliste); Spezial-Instanz analog R6 (Regelteil B); Export-/Ini-Prompt-Verantwortlicher; Nachfolger von Kanon_Sync (Dienstende — nicht im Spiegel, Git-Historie bleibt Beweiskette)",
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
       "rolle": "Mom_0",
@@ -44,8 +44,8 @@
       "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
       "antworten": 31,
       "health": null,
-      "kommentar": "Chat seit 16.09.2026, 21:01 · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr)",
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "kommentar": "Chat seit 16.09.2026, 21:01 · Rolle seit 22.09.2026, 23:05 · Vordienst als technisches Rueckgrat seit Projektgruendung 16.09.2026 (Betreiber-Direktive 27.09., 01:45 Uhr) — keine Eigenmessung im Log vermerkt, daher quelle null",
+      "quelle": null
     },
     {
       "rolle": "Redaktion_R4",
@@ -53,7 +53,8 @@
       "letzte_aktivitaet": "30.09.2026, 08:17:22 Uhr",
       "antworten": 26,
       "health": null,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
+      "kommentar": "keine Eigenmessung im Log vermerkt, daher quelle null",
+      "quelle": null
     },
     {
       "rolle": "Framework_R6.1",
@@ -61,7 +62,7 @@
       "letzte_aktivitaet": "28.09.2026, 00:20 Uhr",
       "antworten": 16,
       "health": null,
-      "kommentar": "Spezial-Instanz (Autoren-Rolle bfi_ai_framework.html), kein Perma-Chat — Zeilenlogik analog Framework_R6.0; Dienstbeginn gemaess Ini-Prompt; Nachfolger von Framework_R6.0 (Dienstende 09:33, Ruhestand)",
+      "kommentar": "Spezial-Instanz (Autoren-Rolle bfi_ai_framework.html), kein Perma-Chat — Zeilenlogik analog Framework_R6.0; Dienstbeginn gemaeß Ini-Prompt; Nachfolger von Framework_R6.0 (Dienstende 09:33, Ruhestand)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
@@ -70,7 +71,7 @@
       "letzte_aktivitaet": "27.09.2026, 18:53 Uhr",
       "antworten": 1,
       "health": null,
-      "kommentar": "Spezial-Instanz (Protokoll-Austausch Claude, Profil rollenprofil-claudebridge.md; Initialisierungs-Quittierung analog R6/Kanon_Sync; Erstauftrag 3-1-2 ausgefuehrt)",
+      "kommentar": "Spezial-Instanz (Protokoll-Austausch Claude, Profil rollenprofil-claudebridge.md; Initialisierungs-Quittierung analog R6/Kanon_Sync; Erstauftrag 3-1-2 ausgeführt)",
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     }
   ]
