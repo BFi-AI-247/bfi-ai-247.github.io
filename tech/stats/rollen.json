@@ -1,14 +1,14 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-10-01T07:18:42.098Z",
+  "stand": "2026-10-01T12:19:00+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026, 00:24 Uhr",
-      "letzte_aktivitaet": "30.09.2026, 06:50 Uhr",
+      "letzte_aktivitaet": "01.10.2026, 06:26 Uhr",
       "antworten": 52,
       "health": null,
-      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
+      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette). Letzte Aktivitaet laut Log-Ereignis INBOX-PRUEFUNG 01.10., 06:26 Uhr (Zeilenkopf des Log-Eintrags aelterer Stempel, Neuersung im Zeilen-Inhalt)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
@@ -50,7 +50,7 @@
     {
       "rolle": "Redaktion_R4",
       "dienstbeginn": "22.09.2026, 06:53 Uhr",
-      "letzte_aktivitaet": "01.10.2026, 07:03:45 Uhr",
+      "letzte_aktivitaet": "01.10.2026, 07:03 Uhr",
       "antworten": 28,
       "health": null,
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
