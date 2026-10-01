@@ -2,9 +2,35 @@
   "key": "radarm",
   "job": "RadarM — Morgenausgabe RADAR 724",
   "laeufe": [
-    { "datum": "2026-09-30", "ist_start": "2026-09-30T04:19:07.000+02:00", "dauer_min": 7, "status": "ok" },
-    { "datum": "2026-09-29", "ist_start": "2026-09-29T06:55:27+02:00", "dauer_min": 22, "status": "ok" },
-    { "datum": "2026-09-27", "ist_start": "2026-09-27T06:32:00+02:00", "dauer_min": 38, "status": "ok" },
-    { "datum": "2026-09-28", "ist_start": "2026-09-28T06:41:21+02:00", "dauer_min": 3, "status": "ok" }
+    {
+      "datum": "2026-10-01",
+      "ist_start": "2026-10-01T06:16:30+02:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T04:19:07.000+02:00",
+      "dauer_min": 7,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-29",
+      "ist_start": "2026-09-29T06:55:27+02:00",
+      "dauer_min": 22,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T06:32:00+02:00",
+      "dauer_min": 38,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-28",
+      "ist_start": "2026-09-28T06:41:21+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    }
   ]
 }
