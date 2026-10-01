@@ -6,26 +6,34 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:19:00 +0200</lastBuildDate>
             <item>
+      <title>Ausgabe #60 &mdash; SoftBank &uuml;berweist letzte OpenAI-Milliarden &middot; EU-Innenminister geben Abschiebegesetz frei &middot; Berlin startet rot-gr&uuml;n-rotes Vorgespr&auml;ch</title>
+      <link>https://radar724.de/posts/2026-10-01-mittags.html</link>
+      <guid isPermaLink="true">https://radar724.de/posts/2026-10-01-mittags.html</guid>
+      <description>Donnerstag, 01.10.2026 &middot; Mittagsausgabe &middot; Rubriken: Tech &amp;amp; KI / Weltgeschehen / Gesundheit &amp;amp; Medizin</description>
+      <pubDate>Thu, 01 Oct 2026 12:13:00 +0200</pubDate>
+    </item>
+<item>
       <title>Ausgabe #59 &mdash; Update: Trump und KI-Chefs besiegeln Sicherheits-Abkommen &middot; Anthropic reicht IPO-Prospekt ein &middot; Crew-13 startet heute zur ISS</title>
       <link>https://radar724.de/posts/2026-10-01-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-10-01-morgens.html</guid>
       <description>Donnerstag, 01.10.2026 &middot; Morgenausgabe &middot; Rubriken: Tech &amp;amp; KI / Wirtschaft &amp;amp; Finanzen / Space &amp;amp; Forschung</description>
       <pubDate>Thu, 01 Oct 2026 06:19:00 +0200</pubDate>
     </item>
-    <item>
+<item>
       <title>Ausgabe #58 &mdash; Vereitelter Anschlag auf Flydubai-Maschine &middot; VW k&uuml;ndigt zehn Tarifvertr&auml;ge &middot; Micron punktet zum Quartalsende</title>
       <link>https://radar724.de/posts/2026-09-30-nachts.html</link>
       <guid>https://radar724.de/posts/2026-09-30-nachts.html</guid>
       <description>Mittwoch, 30.09.2026 &middot; Nachtausgabe &middot; Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Wed, 30 Sep 2026 23:13:00 +0200</pubDate>
     </item>
-    <item>
+<item>
       <title>Ausgabe #57 &mdash; Starship erstmals im Erdorbit &middot; Trump nennt Kim Jong Un einen Freund &middot; DAX gibt zum Quartalsende nach</title>
       <link>https://radar724.de/posts/2026-09-30-abends.html</link>
       <guid>https://radar724.de/posts/2026-09-30-abends.html</guid>
       <descript
+
 ion>Mittwoch, 30.09.2026 &middot; Abendausgabe &middot; Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung</description>
       <pubDate>Wed, 30 Sep 2026 18:28:00 +0200</pubDate>
     </item>
@@ -37,8 +45,7 @@ rue">https://radar724.de/posts/2026-09-30-mittags.html</guid>
       <description>Mittwoch, 30.09.2026 &middot; Mittags &middot; Weltgeschehen / Wirtschaft &amp;amp; Finanzen / Tech &amp;amp; KI</description>
       <pubDate>Wed, 30 Sep 2026 12:46:00 +0200</pubDate>
     </item>
-
-    <item>
+<item>
       <title>Ausgabe #55 &mdash; Trump &uuml;berl&auml;sst die KI-Aufsicht der Branche &middot; Deutschlandticket: Preisentscheid heute &mdash; rund 67 Euro erwartet &middot; NASA testet Mondlandef&auml;hre mit ESA-Astronaut</title>
       <link>https://radar724.de/posts/2026-09-30-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-30-morgens.html</guid>
@@ -50,7 +57,8 @@ rue">https://radar724.de/posts/2026-09-30-mittags.html</guid>
       <link>https://radar724.de/posts/2026-09-29-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-29-morgens.html</guid>
       <description>Dienstag, 29.09.2026 · Morgens · Tech &amp; KI / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt</description>
-      <pubDate>Tue, 29 Sep 2026 07:
+      <pubDate>Tue, 29 Sep 2026 07
+:
 05:00 +0200</pubDate>
     </item>
 <item>
@@ -79,7 +87,8 @@ eicht erstmals den Erdorbit · DAX trotzt Ölpreis-Schub · Vucic-Rücktritt ist
       <title>Ausgabe #47 — Klopps Heimdeb&uuml;t misslingt: Erste Niederlage gegen Griechenland &middot; Starship startet am Montag erstmals Richtung Erdorbit &middot; TikTok wendet Sucht-Prozess ab</title>
       <link>https://radar724.de/posts/2026-09-27-nachts.html</link>
       <guid isPermaLink="true">https://radar724.de/posts/2026-09-27-nachts.html</guid>
-      <description>Sonntag, 27.09.2026 &middot; Na
+      <description>Sonntag, 27.09.2026 &middot; 
+Na
 chts &middot; Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
       <pubDate>Sun, 27 Sep 2026 23:21:00 +0200</pubDate>
     </item>
@@ -107,21 +116,13 @@ KI</description>
     </item>
 <item>
       <title>Ausgabe #43 — Google schickt KI-Chips ins All · BASF sondiert Milliarden-Übernahme von Evonik · Klopps erstes Heimspiel gegen Griechenland</title>
-      <link>https://radar724.de/posts/2026-09-26-nachts.html</link
+      <link>https://radar724.de/posts/2026-09-26-nachts.html</l
+ink
 >
      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-nachts.html</guid>
       <description>Samstag, 26.09.2026 · Nachts · Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
       <pubDate>Sat, 26 Sep 2026 23:28:00 +0200</pubDate>
     </item>
-<item>
-      <title>Ausgabe #42 — Papstmesse vor Hunderttausenden in Paris · Millionen-Rückruf bei VW wegen Lenkungsrisiko · Trump weist Irans Hormus-Angebot zurück</title>
-      <link>https://radar724.de/posts/2026-09-26-abends.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-26-abends.html</
-guid>
-      <description>Samstag, 26.09.2026 · Abends · Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien</description>
-      <pubDate>Sat, 26 Sep 2026 18:55:00 +0200</pubDate>
-    </item>
-
 
     </channel>
 </rss>
