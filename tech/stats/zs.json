@@ -1,13 +1,13 @@
 {
   "key": "zs",
   "job": "Zentral-Scrape (Digest RADAR/WZG/Borkum/Dossier)",
-  "runs_total": 4,
+  "runs_total": 5,
   "runs_beweisbar_seit": "2026-09-26",
   "beweis": "Gemeinsame Digest-Dateien (radar/_digest, wiesenzeitung_gifhorn/_digest, borkum_kurier/_digest) je Lauf; ältere Digests stammen von den pausierten Alt-Digest-Jobs; seit 27.09. inkl. idstein/_digest als Teil B (ZK-2709-5)",
   "instanzen": 0,
   "instanzen_seit": "-",
-  "laufzeit_gesamt_min": 20,
+  "laufzeit_gesamt_min": 26,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-09-30T04:28:45+02:00",
-  "updated": "2026-09-30T04:32:38+02:00"
+  "last_run": "2026-10-01T04:21:03+02:00",
+  "updated": "2026-10-01T04:27:24.086+02:00"
 }
