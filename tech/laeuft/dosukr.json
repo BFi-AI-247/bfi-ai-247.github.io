@@ -1,7 +1,13 @@
 {
   "key": "dosukr",
-  "job": "Dossier Ukraine-Krieg — Kuratierung 06:45",
+  "job": "DosUKR",
   "laeufe": [
+    {
+      "datum": "2026-10-02",
+      "ist_start": "2026-10-02T06:41:46+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
     {
       "datum": "2026-10-01",
       "ist_start": "2026-10-01T06:35:34+02:00",
