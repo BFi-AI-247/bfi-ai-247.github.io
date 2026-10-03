@@ -6,7 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 18:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 23:15:00 +0200</lastBuildDate>
+
+<item>
+<title>Ausgabe #70 — Lettland-Wahl: Prognose sieht Vereinigte Liste vorn · Ukraine: Brücken-Angriffe und Ölziele · Nvidia offenbart Sicherheitsplattform für KI-Agenten</title>
+<link>https://radar724.de/posts/2026-10-03-nachts.html</link>
+<guid>https://radar724.de/posts/2026-10-03-nachts.html</guid>
+<description>Samstag, 3. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 23:15 Uhr (Europe/Berlin)</description>
+<pubDate>Sat, 03 Oct 2026 23:15:00 +0200</pubDate>
+</item>
 
 <item>
 <title>Ausgabe #69 — Behörde der Emirate: Flydubai-Copilot plante einen Terrorakt · Lettland wählt bis zum Abend · FTC weitet KI-Ermittlungen aus</title>
@@ -116,16 +124,6 @@ r 8,2 Milliarden Dollar</title>
    
    <pubDate>Wed, 30 Sep 2026 12:46:00 +0200</pubDate>
     </item>
-<item>
-      <title>Ausgabe #55 &mdash; Trump &uuml;berl&auml;sst die KI-Aufsicht der Branche &middot; Deutschlandticket: Preisentscheid heute 
-&mdash; rund 67 Euro erwartet &middot; NASA testet Mondlandef&auml;hre mit ESA-Astronaut</title>
-      <link>https://radar724.de/posts/2026-09-30-morgens.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-09-30-morgens.html</guid>
-      <description>Mittwoch, 30.09.2026 &middot; Morgens &middot; Tech &amp;amp; KI / Wirtschaft &amp;amp; Finanzen / Space &amp;amp; Forschung</description>
-      <pubDate>Wed, 30 Sep 2026 06:19:00 +0200</pubDate>
-    </item>
-
-
 
 </channel>
 </rss>
