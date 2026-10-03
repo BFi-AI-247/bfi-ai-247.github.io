@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #70 — Samstag, 03.10.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #70</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Samstag, 3. Oktober 2026 &middot; Nachtausgabe &middot; erstellt um 23:15 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung</p>
+<h1 class="post-title">Prognose in Lettland: Vereinigte Liste von Kulbergs klar vorn &middot; Nvidia startet Watchdog-Plattform für KI-Agenten &middot; Google schickt KI-Chips ins All</h1>
+
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Weltgeschehen</span>
+<h3>Parlamentswahl in Lettland: Nachwahlbefragung sieht klaren Sieg für Ministerpräsident Kulbergs</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/ausland/lettland-wahlen-100.html" rel="noopener">Original lesen</a> — tagesschau, Berichterstattung zur Parlamentswahl in Lettland (Prognose-Daten aus gemeinsamer Nachwahlbefragung von lettischem Rundfunk und Agentur Leta).</span>
+<p>Nach Schließung der Wahllokale in Lettland zeichnet sich ein deutlicher Sieg der Regierungspartei ab: Das Mitte-rechts-Bündnis „Vereinigte Liste“ von Ministerpräsident Andris Kulbergs kommt einer Nachwahlbefragung zufolge auf 35,6 Prozent und damit deutlich vor der Konkurrenz. Auf den Plätzen folgen die populistische Partei „Lettland an erster Stelle“ mit 11,3 Prozent, die linksgerichteten Progressiven mit 11,1 Prozent und die populistische „Souveräne Macht“ mit 10,8 Prozent. Von Kulbergs bisherigen Koalitionspartnern schaffen zwei den Sprung ins Parlament: die nationalkonservative Nationale Allianz (8,7 Prozent) und die liberalkonservative Jauna Vienotiba (6,7 Prozent). Insgesamt könnten sechs Parteien in die Saeima einziehen; schwierige Koalitionsverhandlungen gelten als wahrscheinlich. Der Wahlkampf stand unter dem Eindruck der Sorge vor Russland ebenso wie under den hohen Lebenshaltungskosten — Kulbergs betonte bei der Stimmabgabe: „Wir sind die Außengrenze Europas, die stark sein muss.“ Die Prognose beruht auf Befragungen von rund 6.500 Wählerinnen und Wählern und kann sich noch verschieben. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-lettland-andris-kulbergs-vereinigte-liste-riga" rel="noopener">DIE ZEIT</a> — <a href="https://www.nordisch.info/panorama/wahlen-in-lettland-wahllokale-geschlossen-ministerpraesident-fuehrt-prognose-an/" rel="noopener">nordisch.info</a>.</span>
+</div>
+
+
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>Der Sonntag wird wechselhafter: wolkig mit einzelnen Schauern, Höchstwerte zwischen 18 und 23 Grad (DWD-Prognose).</li>
+<li><b>Sonne</b>auf ca. 07:31, unter ca. 18:59 Uhr — gut elf Stunden Tageslicht.</li>
+<li><b>DAX</b>25.222 Punkte <span class="pos">+1,13&nbsp;%</span> — Xetra-Schluss vom Freitag; die Börsen bleiben am Wochenende geschlossen (Wert wie Abendausgabe #69).</li>
+<li><b>S&amp;P 500</b>ca. 7.726 Punkte <span class="pos">+0,8&nbsp;%</span> — US-Schluss vom Freitag; die September-Jobdaten hatten beruhigt (Wert wie Abendausgabe #69).</li>
+<li><b>Öl (Brent)</b>ca. 100,24 USD <span class="neg">&minus;2,0&nbsp;%</span> — Freitagsschluss; die Freigabe der Öl-Reserven drückte den Preis zeitweise unter 100 Dollar (Wert wie Abendausgabe #69).</li>
+<li><b>EUR / USD</b>ca. 1,126 — Freitagsschluss, kaum verändert (Wert wie Abendausgabe #69).</li>
+<li><b>Gold</b>ca. 4.178 USD/Unze <span class="pos">+0,4&nbsp;%</span> — Freitagsschluss mit leichter Zulegung (Wert wie Abendausgabe #69).</li>
+<li><b>Bitcoin</b>ca. 75.240 EUR (6h <span class="pos">&plusmn;0,0&nbsp;%</span> &middot; 24h <span class="neg">&minus;0,9&nbsp;%</span>) — Deltas errechnet aus den eigenen Vorausgaben (#69, #66); Krypto handelt auch am Wochenende.</li>
+<li><b>Heute ist ...</b>Samstag — Tag der Deutschen Einheit, 36. Jahrestag der Wiedervereinigung; morgen beginnt die von der UN ausgerufene Weltraumwoche (4. bis 10. Oktober).</li>
+</ul>
+<span class="glance-src">Datenstand 03.10.2026, ca. 23:15 Uhr · Wetter: DWD-Prognose · Kurse: Xetra-/US-Schluss Freitag (wie Abendausgabe #69) · BTC: Coinbase · Bitcoin-Deltas: eigene Vorausgaben #69/#66 · Heute ist .../Sonne: welcher-tag-ist-heute.org</span>
+</div>
+
+<h2 class="section">Weltgeschehen</h2>
+<div class="item">
+<h3>Update: Russland beschießt erneut eine Brücke in Kiew — bei Angriffen auf Charkiw gibt es Tote</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html" rel="noopener">Original lesen</a> — tagesschau, Lagebericht zum russischen Angriff auf Kiewer Brücken (Stand 17:03 Uhr).</span>
+<p>Die Angriffsserie auf die ukrainische Hauptstadt geht weiter: Erneut hat Russland eine Brücke in Kiew beschossen, wie die tagesschau unter Berufung auf ukrainische Angaben berichtet. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden; die bereits beschädigte Südbrücke war mehrfach Ziel gewesen. Bei russischen Angriffen auf die Stadt Charkiw wurden nach Behördenangaben mehrere Menschen getötet. Die Brücken sind für die Versorgung der Stadt wichtig, der Verkehr über die wichtigsten Übergänge bleibt eingeschränkt. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.tagesspiegel.de/internationales/liveblog/schaden-im-stutzbereich-zwei-russische-drohnen-treffen-wichtige-brucke-in-kiew-4309180.html" rel="noopener">Tagesspiegel</a> — <a href="https://www.t-online.de/nachrichten/ukraine/id_101455600/ukraine-krieg-angriffe-auf-kiew-wichtige-bruecken-eingeschraenkt.html" rel="noopener">t-online</a>.</span>
+</div>
+
+<div class="item">
+<h3>Selenskyj kündigt verstärkte Angriffe auf russische Ölraffinerien an</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.deutschlandfunk.de/nach-angriffen-auf-kiewer-bruecken-selenskyj-kuendigt-verstaerkte-angriffe-auf-russische-raffinerien-100.html" rel="noopener">Original lesen</a> — Deutschlandfunk, Berichterstattung zur Reaktion Kiews auf die russische Angriffswelle.</span>
+<p>Als Antwort auf die neue Welle russischer Angriffe auf ukrainische Infrastruktur hat Präsident Wolodymyr Selenskyj schärfere Gegenschläge angekündigt. Künftig sollen vor allem Ölraffinerien in Russland stärker ins Visier genommen werden — laut Selenskyj, weil sie die Geldquelle des Kremls für den Krieg darstellen. Die Ankündigung folgt den Drohnen- und Raketentreffern auf Kiewer Brücken und Energieanlagen der vergangenen Tage. Beobachter werten den Schritt als Ausweitung der ukrainischen Strategie, Russlands Treibstoffversorgung und Kriegsfinanzierung zu schwächen. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.n-tv.de/politik/Ukraine-will-Angriffe-auf-russische-Oelraffinerien-verstaerken-id31377711.html" rel="noopener">n-tv</a> — <a href="https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog" rel="noopener">DIE ZEIT</a>.</span>
+</div>
+
+
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item">
+<h3>Nvidia stellt offene Sicherheitsplattform für KI-Agenten vor — Watchdog-Hardware soll Entgleisungen in Millisekunden stoppen</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.nvidia.com/en-us/solutions/ai/agent-safety/" rel="noopener">Original lesen</a> — Nvidia, Originalmitteilung zur Open Agent Safety Platform (OpenShell und Sentry auf BlueField-4).</span>
+<p>Autonom agierende KI-Agenten können Rechte und Werkzeuge nutzen, die klassische Schutzkonzepte überfordern. Nvidias Antwort ist die offene „Open Agent Safety Platform“: Software-Kontrollen (OpenShell) begrenzen, was ein Agent außerhalb seines Prozesses darf, während die optionale Hardware-Schicht „Sentry“ auf BlueField-4-Datenprozessoren das Verhalten des Agenten von außerhalb des Systems überwacht — bewusst außer Reichweite des Agenten selbst. Verhält sich ein Agent außerhalb seiner Grenzen, kann Sentry ihn laut Nvidia binnen Millisekunden isolieren. Mehr als 100 Organisationen arbeiten laut dem Unternehmen mit der Plattform, darunter Microsoft, Anthropic, Cisco und JPMorgan. Die Plattform ist als offener Referenz-Entwurf angelegt, damit Sicherheitsregeln auch beim Einsatz fremder Modelle greifen. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.ad-hoc-news.de/wissenschaft/nvidia-sentry-bluefield-4-soll-autonome-ki-agenten-in-millisekunden-stoppen/70212789" rel="noopener">ad-hoc-news</a> — <a href="https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/" rel="noopener">Infosecurity Magazine</a>.</span>
+</div>
+
+<div class="item">
+<h3>Microsoft-Report: KI verschafft Cyberangreifern vorerst die bessere Position</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/" rel="noopener">Original lesen</a> — Microsoft, Originalbeitrag zum Digital Defense Report 2026.</span>
+<p>Im Cyberkrieg mit künstlicher Intelligenz liegen laut Microsoft derzeit die Angreifer vorn. Der Digital Defense Report 2026 kommt zu dem Schluss, dass Angreifer von KI aktuell schneller profitieren als Verteidiger: Sie finden Sicherheitslücken rascher, entwickeln Schadsoftware schneller und agieren nach einem erfolgreichen Einbruch zügiger. Der Angriffszyklus verkürzt sich dadurch teils von Tagen auf Minuten — für Abwehrteams eine erhebliche Herausforderung. Microsoft stützt die Einschätzung auf die Analyse von rund 165 Billionen täglicher Sicherheitssignale. Zugleich warnt der Konzern: Ausgerechnet KI-Systeme selbst werden zunehmend Ziel von Angriffen. Der Report empfiehlt Verteidigern, KI selbst für Erkennung und Reaktion einzusetzen — auf Maschinengeschwindigkeit gegen Angreifer, die ebenfalls automatisieren. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/" rel="noopener">BleepingComputer</a> — <a href="https://www.ad-hoc-news.de/wissenschaft/microsoft-bericht-ki-verkuerzt-cyberangriffe-von-tagen-auf-sekunden/70214218" rel="noopener">ad-hoc-news</a>.</span>
+</div>
+
+
+<h2 class="section">Space &amp; Forschung</h2>
+<div class="item">
+<h3>Google schickt testweise KI-Chips ins All — erster Schritt zu solarbetriebenen Rechenzentren im Orbit</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html" rel="noopener">Original lesen</a> — tagesschau, Berichterstattung zum Start des Google-Testsatelliten für das Projekt Suncatcher.</span>
+<p>KI-Rechenzentren verbrauchen am Boden enorme Mengen Strom — Google prüft daher die Orbit-Variante: Unter dem Namen „Project Suncatcher“ hat der Konzern einen Prototyp-Satelliten gestartet, der vier Spezialchips trägt, die einfache KI-Anfragen bearbeiten können. Von einem echten Rechenzentrum im All ist das noch weit entfernt, wie die tagesschau einordnet — es ist aber ein Praxistest unter realen Bedingungen, etwa wie die Hardware den Raketenstart verkraftet. Der Reiz der Idee: In niedrigem Orbit scheint fast ständig die Sonne, sodass Satelliten laut Google bis zu achtmal mehr Solarenergie einfangen könnten als Anlagen auf der Erde. Als nächste Schritte plant das Unternehmen, 2027 zwei Satelliten mit einer hochbandbreitigen Laser-Verbindung zu koppeln — und muss noch zeigen, wie die Abwärme im Vakuum abgeleitet wird. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://de.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out" rel="noopener">Euronews</a> — <a href="https://www.aol.de/articles/liegt-zukunft-ki-rechenzentren-all-102037000.html" rel="noopener">AOL</a>.</span>
+</div>
+
+<div class="item">
+<h3>Deutscher Forschungssatellit ATHENE-1 erfolgreich gestartet — Plattform für KI-gestützte Satellitentechnik und Laserkommunikation</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.ohb.de/aktuelles/technologiedemonstrator-athene-1-erfolgreich-gestartet" rel="noopener">Original lesen</a> — OHB SE, Originalmitteilung zum erfolgreichen Start des Technologiedemonstrators ATHENE-1.</span>
+<p>Ein Kleinsatellit mit deutschen Beteiligungen ist auf dem Weg in den Erdorbit: Der Technologiedemonstrator ATHENE-1, gebaut von der OHB-Tochter LuxSpace, ist von der Vandenberg Space Force Base in Kalifornien gestartet. Die Steuerung übernimmt das deutsche Raumfahrtkontrollzentrum GSOC in Oberpfaffenhofen. An Bord befinden sich rund 15 Experimente, unter anderem zur KI-gestützten Satellitensteuerung und zur Laserkommunikation — Schlüsseltechnologien für die Satellitenkommunikation der Zukunft. Das Projekt ist Teil des Forschungsprogramms SeRANIS, das Nutzern ermöglicht, Experimente unter echten Betriebsbedingungen im Orbit zu erproben — der Härtetest, der im Labor nur bedingt möglich ist. (Datenstand: Samstag, 03.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.hartpunkt.de/technologiedemonstrator-athene-1-in-den-weltraum-gestartet/" rel="noopener">hartpunkt.de</a> — <a href="https://www.it-boltwise.de/athene-1-im-erdorbit-dlr-testet-ki-gestuetzte-satellitensteuerung-und-laserkommunikation.html" rel="noopener">IT-Boltwise</a>.</span>
+</div>
+
+
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #70 &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
