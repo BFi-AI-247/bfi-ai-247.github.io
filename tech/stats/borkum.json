@@ -1,13 +1,13 @@
 {
   "key": "borkum",
   "job": "Borkum Morgenausgabe (Wattpost)",
-  "runs_total": 8,
+  "runs_total": 9,
   "runs_beweisbar_seit": "2026-09-25",
   "beweis": "Ausgaben-Dateien borkum_kurier/posts/*-morgens.html (inkl. Probelauf Ausgabe 1)",
-  "instanzen": 6,
+  "instanzen": 7,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 36,
+  "laufzeit_gesamt_min": 39,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-02T06:33:55+02:00",
-  "updated": "2026-10-02T06:39:31.353+02:00"
+  "last_run": "2026-10-03T05:58:29+02:00",
+  "updated": "2026-10-03T06:01:50+02:00"
 }
