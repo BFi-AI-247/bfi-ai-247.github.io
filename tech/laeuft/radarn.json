@@ -3,6 +3,12 @@
   "job": "RADAR 724 Nachtausgabe — Kuratierung (23:00)",
   "laeufe": [
     {
+      "datum": "2026-10-03",
+      "ist_start": "2026-10-03T23:01:43+02:00",
+      "dauer_min": 17,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-02",
       "ist_start": "2026-10-02T23:17:04+02:00",
       "dauer_min": 3,
