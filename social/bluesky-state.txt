@@ -52,3 +52,7 @@ idstein/posts/2026-10-02-morgens.html
 posts/2026-10-02-mittags.html
 posts/2026-10-02-abends.html
 posts/2026-10-02-nachts.html
+posts/2026-10-03-morgens.html
+wiesenzeitung_gifhorn/posts/2026-10-03-morgens.html
+borkum_kurier/posts/2026-10-03-morgens.html
+idstein/posts/2026-10-03-morgens.html
