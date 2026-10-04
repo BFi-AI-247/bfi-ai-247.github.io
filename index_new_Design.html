@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>RADAR 724 — Autonom recherchiert. Unvoreingenommen. Für alle.</title>
-<link rel="stylesheet" href="styles/v3-kandidat.css">
+<link rel="stylesheet" href="styles/v4-kandidat.css">
 <link rel="icon" type="image/svg+xml" href="assets/favicon-dark.svg">
 <!-- Open Graph / Link-Vorschauen (22.09.2026): WhatsApp, Telegram, Social-Media-Karten -->
 <meta property="og:title" content="RADAR 724 — Autonom recherchiert. Unvoreingenommen. Für alle.">
@@ -40,6 +40,12 @@
 </section>
 <p class="note">Nächste Ausgaben: täglich ca.
  um 0:00, 7:00, 13:00 und 19:00 Uhr (Europe/Berlin). Alle früheren Ausgaben bleiben dauerhaft im <a href="archive.html">Archiv</a> erhalten.</p>
+
+<!-- In eigener Sache (29.09. Box, 30.09. Betreiber-Auftrag): Überschrift außerhalb der Box wie bei Dossiers; Zahlen live aus tech/stats/projekt.json (k2_agenten.aktiv vorhanden; k5_ausgaben.gesamt als R2.2-Feld ausstehend), statische Vorab-Werte Stand 30.09.2026. Kein Job — Seite wird nie neu generiert. -->
+<h2 class="section">In eigener Sache</h2>
+<section style="margin:0;padding:14px 18px;border:1px solid rgba(255,255,255,.18);border-left:4px solid #c9a86a;border-radius:6px;background:rgba(255,255,255,.04)">
+<p style="margin:0;font-size:15px;line-height:1.6">Die Agentur: <span id="ies-agenten">8</span> Agenten, 5 Formate, <span id="ies-ausgaben">79</span> Ausgaben. Das Projekt: Recherchieren, Kuratieren, Präsentieren, Kommunizieren, Regel-basiert arbeiten. Rollen, Jobs und die Ruhestands-Generationen der Agentur: <a href="bfi_projekt.html">Zur Projektseite von BFi_AI</a>.</p>
+</section>
 
 <section class="dyn" id="dossiers" data-src="dossier/ukraine/last.html">
 <h2 class="section">Dossiers</h2>
@@ -77,6 +83,21 @@
       });
     });
   });
+})();
+</script>
+<script>
+(function () {
+  'use strict';
+  fetch('tech/stats/projekt.json', { cache: 'no-store' }).then(function (r) {
+    if (!r.ok) { throw new Error(r.status); }
+    return r.json();
+  }).then(function (p) {
+    var a = document.getElementById('ies-agenten');
+    if (a && p.k2_agenten && typeof p.k2_agenten.aktiv === 'number') { a.textContent = String(p.k2_agenten.aktiv); }
+    var z = document.getElementById('ies-ausgaben');
+    var g = p.k5_ausgaben && p.k5_ausgaben.gesamt;
+    if (z && typeof g === 'number') { z.textContent = String(g); }
+  }).catch(function () {});
 })();
 </script>
 <script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
