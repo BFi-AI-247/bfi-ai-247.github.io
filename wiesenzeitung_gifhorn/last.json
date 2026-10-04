@@ -1,10 +1,1 @@
-{
-  "format": "wiesenzeitung",
-  "ausgabe": "Morgenausgabe #10",
-  "titel": "Wiesenzeitung Gifhorn — Morgenausgabe #10",
-  "link": "posts/2026-10-03-morgens.html",
-  "kicker": ["Bahnsperrung übers Wochenende", "VW: Schicht im Stammwerk entfällt", "Eule Euraya für Kitas", "DAX zurück über 25.000 Punkte"],
-  "datum": "2026-10-03",
-  "uhrzeit": "06:00",
-  "fertig_um": "07:00"
-}
+{ "format": "wiesenzeitung", "ausgabe": "Morgenausgabe #11", "titel": "Wiesenzeitung Gifhorn — Morgenausgabe #11", "link": "posts/2026-10-04-morgens.html", "kicker": ["Politschmierereien an Schulen", "Raub: Tatverdächtiger gefasst", "Bahn-Sperrung endet am Montag", "Street-Food-Finale am Sonntag"], "datum": "2026-10-04", "uhrzeit": "05:59", "fertig_um": "07:00" }
