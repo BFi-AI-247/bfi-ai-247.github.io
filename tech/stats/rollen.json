@@ -1,14 +1,14 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-10-04T18:27:16+02:00",
+  "stand": "2026-10-04T23:58:31.833+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026, 00:24 Uhr",
-      "letzte_aktivitaet": "04.10.2026 (Datumsebene — Ereignisse P.330–P.333 im Log: Versuch Personen_Recherche beendet, Ini-Prompt Claude_Web, Arbeits-Repo BFI_Website, Vorlagen-CSS geladen; Uhrzeit im Log nicht datiert; letzte datierte Aktivität laut Zeilenkopf: 30.09.2026, 06:50 Uhr)",
-      "antworten": 63,
+      "letzte_aktivitaet": "04.10.2026 (Datumsebene — Ereignisse P.330–P.336 im Log: Personen_Recherche-Versuch beendet, Ini-Prompts Claude_Web/Kern_Extractor/Web_Steuerung, Arbeits-Repo BFI_Website, Vorlagen-CSS geladen, Claude_Web-Start-Abstimmung, Token-Entfall; Uhrzeiten im Log nicht datiert; letzte datierte Zeitangabe der Zeile: 30.09.2026, 06:50 Uhr)",
+      "antworten": 73,
       "health": null,
-      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette). PM-Zeile im Log mit Ereignissen bis 04.10. (P.330–P.333); Zeilenkopf-Stempel aelterer Stand (30.09.2026, 06:50 Uhr, Antworten 63), keine spaeteren Uhrzeit-Angaben in der Zeile",
+      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette). PM-Zeile im Log mit Ereignissen bis 04.10. (P.330–P.336); Zeilenkopf-Stempel aelterer Stand (30.09.2026, 06:50 Uhr), keine spaeteren Uhrzeit-Angaben in der Zeile",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
@@ -74,5 +74,5 @@
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     }
   ],
-  "updated": "2026-10-04T18:27:16+02:00"
+  "updated": "2026-10-04T23:58:31.833+02:00"
 }
