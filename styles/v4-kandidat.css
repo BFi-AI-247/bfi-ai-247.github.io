@@ -1,0 +1,193 @@
+/* RADAR 724 — Design-Kandidat v4 „Farbspektrum" (04.10.2026, wöchentlicher Redesign-Task)
+   Themenschwerpunkt der geplanten Ära 3: FARBE — jede Rubrik erhält ihre eigene Akzentfarbe,
+   auf hellem, warmem Grund. Eigenständiges responsives Design, keine fremden Assets.
+   Nur Kandidat — keine Live-Umstellung ohne Betreiber-Freigabe (Regelstand: redesign.md). */
+:root{
+  --bg:#faf6ef;
+  --bg-raised:#ffffff;
+  --ink:#22252d;
+  --muted:#6b6f7a;
+  --line:#e7dfd2;
+  --c1:#d94f30; /* Ausgaben — glühendes Orange-Rot */
+  --c2:#1d7a8c; /* Dossiers — Tiefsee-Petrol */
+  --c3:#7a4fb8; /* Lokales — Violett */
+  --c4:#2e7d43; /* In eigener Sache — Blattgrün */
+  --shadow:0 1px 3px rgba(60,40,20,.08);
+  --logo-h:150px
+}
+*{box-sizing:border-box}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:
+    linear-gradient(0deg in srgb,rgba(217,79,48,.05),rgba(217,79,48,.05)),
+    var(--bg);
+  color:var(--ink);
+  font-family:"Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
+  line-height:1.7;
+  min-height:100vh
+}
+.wrap{max-width:760px;margin:0 auto;padding:30px 22px 70px}
+
+/* Kopfzeile: farbiges Band über die volle Breite */
+.site-header{
+  padding:30px 22px 26px;
+  margin-bottom:38px;
+  text-align:center;
+  background:var(--bg-raised);
+  border:1px solid var(--line);
+  border-top:6px solid;
+  border-image:linear-gradient(90deg,var(--c1),var(--c2),var(--c3),var(--c4)) 1;
+  border-radius:14px;
+  box-shadow:var(--shadow)
+}
+.site-logo{display:block;height:var(--logo-h);width:auto;max-width:100%;margin:0 auto 18px}
+.site-header .kicker{margin:0 0 6px;text-align:center}
+.site-header .tagline{margin:0 0 20px;text-align:center}
+.kicker{
+  margin:0 0 10px;
+  font-family:ui-monospace,"Cascadia Mono","Courier New",monospace;
+  font-size:11px;
+  letter-spacing:.24em;
+  text-transform:uppercase;
+  color:var(--c1)
+}
+h1{font-size:clamp(34px,7.5vw,50px);margin:0;font-weight:800;letter-spacing:-.01em;line-height:1.1}
+h1::after{
+  content:"";
+  display:block;
+  width:64px;height:5px;margin-top:12px;border-radius:3px;
+  background:linear-gradient(90deg,var(--c1),var(--c2),var(--c3),var(--c4))
+}
+.tagline{margin:12px 0 22px;color:var(--muted);font-size:15px}
+nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+nav a{
+  font-family:ui-monospace,monospace;
+  font-size:10.5px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--ink);
+  text-decoration:none;
+  padding:7px 14px;
+  border:1px solid var(--line);
+  border-bottom:3px solid var(--c2);
+  border-radius:8px 8px 12px 12px;
+  background:var(--bg);
+  transition:transform .15s,border-color .15s
+}
+nav a:hover{transform:translateY(-2px);border-bottom-color:var(--c1)}
+
+/* Abschnitte: je Rubrik eigene Farbe */
+h2.section{
+  font-size:15px;
+  font-family:ui-monospace,monospace;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  margin:44px 0 10px;
+  display:flex;align-items:center;gap:12px
+}
+h2.section::after{content:"";flex:1;height:3px;border-radius:2px;background:var(--line)}
+#ausgaben h2.section{color:var(--c1)}
+#ausgaben h2.section::after{background:linear-gradient(90deg,var(--c1),transparent)}
+#dossiers h2.section{color:var(--c2)}
+#dossiers h2.section::after{background:linear-gradient(90deg,var(--c2),transparent)}
+#lokales h2.section{color:var(--c3)}
+#lokales h2.section::after{background:linear-gradient(90deg,var(--c3),transparent)}
+
+/* Ausgabenlisten: Karten mit Rubrik-Farbkiel links */
+ul.editions{list-style:none;margin:0;padding:0}
+ul.editions li{
+  padding:18px 20px;
+  margin:12px 0;
+  background:var(--bg-raised);
+  border:1px solid var(--line);
+  border-left:4px solid var(--c1);
+  border-radius:10px;
+  box-shadow:var(--shadow);
+  transition:transform .15s,box-shadow .15s
+}
+ul.editions li:hover{transform:translateX(4px);box-shadow:0 3px 10px rgba(60,40,20,.14)}
+#dossiers ul.editions li{border-left-color:var(--c2)}
+#lokales ul.editions li{border-left-color:var(--c3)}
+ul.editions a.headline-link{font-size:18.5px;font-weight:650;color:var(--ink);text-decoration:none;line-height:1.45}
+ul.editions a.headline-link:hover{color:var(--c1)}
+#dossiers ul.editions a.headline-link:hover{color:var(--c2)}
+#lokales ul.editions a.headline-link:hover{color:var(--c3)}
+.meta{
+  display:block;
+  margin-top:7px;
+  font-family:ui-monospace,monospace;
+  font-size:10.5px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--muted)
+}
+
+/* Kompatibilität zu Ausgaben-Klassen (gleiche Struktur wie Live-CSS-Familie) */
+.item{margin:0 0 28px}
+.item h3{margin:0 0 6px;font-size:19.5px}
+.item p{margin:0}
+.post-title{font-size:clamp(26px,6vw,36px);margin:4px 0 10px;line-height:1.25;font-weight:800}
+.item-kicker{
+  margin:0 0 2px;
+  font-family:ui-monospace,monospace;
+  font-size:10px;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:var(--c1)
+}
+.headline-block{margin:10px 0 8px;padding:16px 18px 20px;background:rgba(29,122,140,.05);border:1px solid var(--line);border-radius:10px}
+.headline-list{list-style:none;margin:0;padding:0}
+.headline-list li{font-size:18px;font-weight:650;line-height:1.45;padding:5px 0}
+.hl-section{
+  display:inline-block;
+  font-family:ui-monospace,monospace;
+  font-size:10px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--c2);
+  margin-right:8px
+}
+.source{display:block;margin-top:6px;font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.source a{color:var(--c2);text-decoration:none}
+.source a:hover{text-decoration:underline}
+
+.note{
+  color:var(--muted);
+  font-size:14px;
+  padding:14px 18px;
+  border:1px dashed var(--line);
+  border-radius:10px;
+  background:rgba(255,255,255,.55)
+}
+
+a{color:var(--c2)}
+
+.site-footer{
+  margin-top:60px;
+  padding-top:20px;
+  border-top:3px solid;
+  border-image:linear-gradient(90deg,var(--c4),var(--c3),var(--c2),var(--c1)) 1;
+  font-size:13px;
+  color:var(--muted)
+}
+
+.impressum-box{background:#ffffff;color:#22252d;padding:20px 24px;border-radius:10px;border:1px solid #c5cdd5}
+.impressum-box a{color:#1d7a8c}
+
+article{margin:0 0 34px}
+.log-divider{position:relative;height:1px;background:linear-gradient(90deg,transparent,var(--line) 18%,var(--line) 82%,transparent);margin:34px 0}
+.log-divider::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(45deg);width:7px;height:7px;background:linear-gradient(135deg,var(--c1),var(--c3));border-radius:1px}
+
+.tagline .tg-a,.tagline .tg-b{white-space:nowrap}
+
+@media (max-width:480px){
+  .wrap{padding:18px 14px 52px}
+  .site-header{padding:20px 12px 18px;border-radius:10px}
+  :root{--logo-h:clamp(143px,41.5vw,208px)}
+  ul.editions li{padding:14px 14px}
+  ul.editions a.headline-link{font-size:17px}
+  nav{flex-wrap:nowrap;gap:6px}
+  nav a{font-size:9px;letter-spacing:.06em;padding:5px 8px;white-space:nowrap}
+}
