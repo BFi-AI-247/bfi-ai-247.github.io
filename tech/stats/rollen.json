@@ -1,14 +1,14 @@
 {
   "quelle_kanon": "radar-247/aktivitaet-log.md (Knowledge — Kanon-Ort; dieses Repo-Exemplar ist abgeleiteter Veroffentlichungs-Spiegel, Aenderungen nur via Sync, nie direkt im Repo editieren)",
-  "stand": "2026-10-05T12:18:27+02:00",
+  "stand": "2026-10-05T18:59:40+02:00",
   "rollen": [
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026, 00:24 Uhr",
-      "letzte_aktivitaet": "05.10.2026, 06:38 Uhr (Datumsebene — P.337 im Log: Blog-Beitrag Log 22 im Projekt-Log veröffentlicht, Commit 0ec76f9c; Zeilenkopf-Stempel aelterer Stand 30.09.2026, 06:50 Uhr)",
-      "antworten": 74,
+      "letzte_aktivitaet": "05.10.2026, 16:22 Uhr (Datumsebene — P.337 im Log: Betreiber-Abhakung Offene-Themen-Übersicht; Zeilenkopf-Stempel aelterer Stand 30.09.2026, 06:50 Uhr)",
+      "antworten": 77,
       "health": null,
-      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette). PM-Zeile im Log mit Ereignissen bis 05.10. (P.330–P.337); Antworten laut Kanon-Zeile 74",
+      "kommentar": "Nachfolge-Instanz von PM_R1.2 (Ruhestand 30.09.2026, 00:38 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette). PM-Zeile im Log mit Ereignissen bis 05.10. (P.330–P.337); Antworten laut Kanon-Zeile 77",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
@@ -26,8 +26,7 @@
       "letzte_aktivitaet": "30.09.2026, 22:06 Uhr",
       "antworten": 7,
       "health": null,
-      "kommentar": "Nachfolge-Instanz von Design_R3.2 (Aussendienststellung 30.09.2026, 01:26 Uhr — aus dem Spiegel entfernt, Git-Hist
-orie bleibt Beweiskette)",
+      "kommentar": "Nachfolge-Instanz von Design_R3.2 (Aussendienststellung 30.09.2026, 01:26 Uhr — aus dem Spiegel entfernt, Git-Historie bleibt Beweiskette)",
       "quelle": "Betreiber-Handoff laut Aktivitaets-Log; Eigenmessung (Aktivitaet/Antworten)"
     },
     {
@@ -63,8 +62,7 @@ orie bleibt Beweiskette)",
       "antworten": 20,
       "health": null,
       "kommentar": "Spezial-Instanz (Autoren-Rolle bfi_ai_framework.html), kein Perma-Chat — Zeilenlogik analog Framework_R6.0; Dienstbeginn gemaess Ini-Prompt; Nachfolger von Framework_R6.0 (Dienstende 09:33, Ruhestand)",
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, D
-ienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     },
     {
       "rolle": "Claude_Bridge",
@@ -76,5 +74,5 @@ ienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
       "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Ini-Prompt, Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)"
     }
   ],
-  "updated": "2026-10-05T12:18:27+02:00"
+  "updated": "2026-10-05T18:59:40+02:00"
 }
