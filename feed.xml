@@ -6,8 +6,15 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:55:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:00:00 +0200</lastBuildDate>
 
+<item>
+<title>Ausgabe #75 &mdash; Project Meridian: Pentagon beruft Musk und Luckey f&uuml;r Kriegsforschung &middot; Update Brasilien: Bolsonaro und Lula gehen in die Stichwahl &middot; DeutschlandTrend bei historischen Tiefstwerten</title>
+<link>https://radar724.de/posts/2026-10-05-morgens.html</link>
+<guid>https://radar724.de/posts/2026-10-05-morgens.html</guid>
+<description>Montag, 05. Oktober 2026 &middot; Morgenausgabe &middot; erstellt um 07:00 Uhr (Europe/Berlin)</description>
+<pubDate>Mon, 05 Oct 2026 07:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Ausgabe #74 &mdash; Update Brasilien: Nach Schlie&szlig;ung der Wahllokale l&auml;uft die Ausz&auml;hlung &middot; Lettland: Koalition Kulbergs kommt auf 59 von 100 Sitzen &middot; Trump ernennt Geheimdienstchef Clayton zum KI-Beauftragten</title>
 <link>https://radar724.de/posts/2026-10-04-nachts.html</link>
@@ -118,16 +125,7 @@ sts/2026-10-01-abends.html</link>
 escription>
       <pubDate>Thu, 01 Oct 2026 12:13:00 +0200</pubDate>
     </item>
-<item>
-      <title>Ausgabe #59 &mdash; Update: Trump und KI-Chefs besieg
-eln Sicherheits-Abkommen &middot; Anthropic reicht IPO-Prospekt ein &middot; Crew-13 startet heute zur ISS</title>
-      <link>https://radar724.de/posts/2026-10-01-morgens.html</link>
 
-      <guid isPermaLink="true">https://radar724.de/posts/2026-10-01-morgens.html</guid>
-      <description>Donnerstag, 01.10.2026 &middot; Morgenausgabe &middot; Rubriken: Tech &amp;amp; KI / Wirtschaft &amp;
-amp; Finanzen / Space &amp;amp; Forschung</description>
-      <pubDate>Thu, 01 Oct 2026 06:19:00 +0200</pubDate>
-    </item>
 
 </channel>
 </rss>
