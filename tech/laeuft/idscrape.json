@@ -3,6 +3,12 @@
   "job": "ID-Scrape",
   "laeufe": [
     {
+      "datum": "2026-10-06",
+      "ist_start": "2026-10-06T04:40:43+02:00",
+      "dauer_min": 10,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-05",
       "ist_start": "2026-10-05T04:47:00+02:00",
       "dauer_min": 2,
