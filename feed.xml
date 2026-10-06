@@ -6,7 +6,14 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:20:00 +0200</lastBuildDate>
+<item>
+<title>Ausgabe #81 &mdash; Ex-BND-Chef Hanning festgenommen &middot; Erstmals AfD-Landtagspr&auml;sident in Sachsen-Anhalt &middot; DAX schlie&szlig;t 0,8 Prozent fester</title>
+<link>https://radar724.de/posts/2026-10-06-abends.html</link>
+<guid>https://radar724.de/posts/2026-10-06-abends.html</guid>
+<description>Dienstag, 06.10.2026 &middot; Abendausgabe &middot; Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI &middot; erstellt um 18:15 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 06 Oct 2026 18:15:00 +0200</pubDate>
+</item>
 <item>
 <title>Ausgabe #80 &mdash; Physiknobelpreis f&uuml;r Neutrino-Pionier Halzen &middot; Pentagon beendet Nutzung von Anthropic-KI &middot; Industriauftr&auml;ge brechen um 10,6 Prozent ein</title>
 <link>https://radar724.de/posts/2026-10-06-mittags.html</link>
@@ -120,13 +127,6 @@ dar724.de/posts/2026-10-02-abends.html</link>
 <pubDate>Fr
 i, 02 Oct 2026 18:14:00 +0200</pubDate>
 </item>
-<item>
-      <title>Ausgabe #64 &mdash; Google bezahlt Verlage f&uuml;r KI-Antworten &middot; DAX zur&uuml;ck &uuml;ber 25.000 Punkte &middot; Crew-13 dockt in Rekordzeit an der ISS an</title>
-      <link>https://radar724.de/posts/2026-10-02-mitt
-ags.html</link>
-      <guid isPermaLink="true">https://radar724.de/posts/2026-10-02-mittags.html</guid>
-      <description>Freitag, 02.10.2026 &amp;middot; Mittags &amp;amp; Rubriken: Tech &amp;amp; KI / Wirtschaft &amp;amp; Finanzen / Space &amp;amp; Forschung</description>
-      <pubDate>Fri, 02 Oct 2026 12:23:00 +0200</pubDate>
-    </item>
+
 </channel>
 </rss>
