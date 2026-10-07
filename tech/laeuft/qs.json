@@ -3,6 +3,12 @@
   "job": "QS",
   "laeufe": [
     {
+      "datum": "2026-10-07",
+      "ist_start": "2026-10-07T02:48:12+02:00",
+      "dauer_min": 7,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-06",
       "ist_start": "2026-10-06T02:49:52+02:00",
       "dauer_min": 8,
