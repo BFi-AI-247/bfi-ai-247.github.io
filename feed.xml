@@ -6,7 +6,14 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:02:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:48:00 +0200</lastBuildDate>
+<item>
+<title>Ausgabe #86 — Voigt beendet den Kampf um seinen Doktortitel · Fed-Protokoll deutet auf weitere Zinserhöhung hin · US-Börsen nach Rendite-Anstieg im Minus</title>
+<link>https://radar724.de/posts/2026-10-07-nachts.html</link>
+<guid>https://radar724.de/posts/2026-10-07-nachts.html</guid>
+<description>Mittwoch, 7. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 23:44 Uhr (Europe/Berlin)</description>
+<pubDate>Wed, 07 Oct 2026 23:44:00 +0200</pubDate>
+</item>
 <item>
 <title>Ausgabe #84 — Chemie-Nobelpreis für Kagan und Soai · DAX rutscht zur Mittagszeit klar ins Minus · Mistral startet Open-Weight-Offensive „Le Chonk“</title>
 <link>https://radar724.de/posts/2026-10-07-mittags.html</link>
@@ -26,6 +33,7 @@
 <link>https://radar724.de/posts/2026-10-06-nachts.html</link>
 <guid>https://radar724.de/posts/2026-10-06-nachts.html</guid>
 <description>Dienstag, 06.10.2026 &middot; Nachtausgabe &middot; Rubrik
+
 en: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung &middot; erstellt um 23:37 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 06 Oct 2026 23:37:00 +0200</pubDate>
 </item>
@@ -54,7 +62,8 @@ ption>Dienstag, 06.10.2026 &middot; Mittagsausgabe &middot; Rubriken: Tech &amp;
 <pubDate>Mon, 05 Oct 2026 23:32:00 +0200</pubDate>
 </item>
 <item>
-<title>Ausgabe #77 &mdash; BND-Chef warnt vor gewaltsamem Konflikt mit Russland &middot; Spanien ruft Neuwahlen f&uuml;r den 29. November aus &midd
+<title>Ausgabe #77 &mdash; BND-Chef warnt vor gewaltsamem Konflikt mit Russland &middot; Spanien ruft Neuwahlen f&uuml;r den 29. November aus &mid
+d
 ot; Rekord: Jeder dritte Neuwagen f&auml;hrt elektrisch</title>
 <link>https://radar724.de/posts/2026-10-05-abends.html</link>
 <guid>https://radar724.de/posts/2026-10-05-abends.html</guid>
@@ -83,7 +92,8 @@ ct Meridian: Pentagon beruft Musk und Luckey f&uuml;r Kriegsforschung &middot; U
 <title>Ausgabe #74 &mdash; Update Brasilien: Nach Schlie&szlig;ung der Wahllokale l&auml;uft die Ausz&auml;hlung &middot; Lettland: Koalition Kulbergs kommt auf 59 von 100 Sitzen &middot; Trump ernennt Geheimdienstchef Clayton zum KI-Beauftragten</title>
 <link>https://radar724.de/posts/2026-10-04-nachts.html</link>
 <guid>https://radar724.de/posts/2026-10-04-nachts.html</guid>
-<description>Sonntag, 04. 
+<description>Sonntag, 04
+. 
 Oktober 2026 &middot; Nachtausgabe &middot; erstellt um 23:55 Uhr (Europe/Berlin)</description>
 <pubDate>Sun, 04 Oct 2026 23:55:00 +0200</pubDate>
 </item>
@@ -115,7 +125,8 @@ ens.html</guid>
 <pubDate>Sat, 03 Oct 2026 23:15:00 +0200</pubDate>
 </item>
 <item>
-<title>Ausgabe #69 — Behörde der Emirate: Flydubai-Copilot plante einen Terrorakt · Lettland wählt bis zum Abend · F
+<title>Ausgabe #69 — Behörde der Emirate: Flydubai-Copilot plante einen Terrorakt · Lettland wählt bis zum Abend 
+· F
 TC weitet KI-Ermittlungen aus</title>
 <link>https://radar724.de/posts/2026-10-03-abends.html</link>
 <guid>https://radar724.de/posts/2026-10-03-abends.html</guid>
@@ -123,15 +134,5 @@ TC weitet KI-Ermittlungen aus</title>
 ds · Rubriken: Weltgeschehen / Tech &amp;amp; KI / Kultur &amp;amp; Medien · erstellt um 18:19 Uhr (Europe/Berlin)</description>
 <pubDate>Sat, 03 Oct 2026 18:19:00 +0200</pubDate>
 </item>
-<item>
-<title>Ausgabe #68 — Brasilien vor der Richtungswahl · G7 öffnen die Öl-Reserven · Kiews Südbrücke blei
-bt gesperrt</title>
-<link>https://
-rad
-ar724.de/posts/2026-10-03-mittags.html</link>
-<guid>https://radar724.de/posts/2026-10-03-mittags.html</guid>
-<description>Samstag, 3. Oktober 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 12:22 Uhr 
-(Europe/Berlin)</description>
-<pubDate>Sat, 03 Oct 2026 12:22:00 +0200</pubDate>
-</item></channel>
+</channel>
 </rss>
