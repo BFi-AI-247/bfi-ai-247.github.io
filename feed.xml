@@ -6,7 +6,14 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:02:19 +0200</lastBuildDate>
+<item>
+<title>Ausgabe #84 — Chemie-Nobelpreis für Kagan und Soai · DAX rutscht zur Mittagszeit klar ins Minus · Mistral startet Open-Weight-Offensive „Le Chonk“</title>
+<link>https://radar724.de/posts/2026-10-07-mittags.html</link>
+<guid>https://radar724.de/posts/2026-10-07-mittags.html</guid>
+<description>Mittwoch, 7. Oktober 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 12:58 Uhr (Europe/Berlin)</description>
+<pubDate>Wed, 07 Oct 2026 12:58:00 +0200</pubDate>
+</item>
 <item>
 <title>Ausgabe #83 — Israel gedenkt des 7. Oktober · Nvidia rückt an die 6-Billionen-Dollar-Marke heran · KI-Anbieter geben Nutzerdaten an Tracker weiter</title>
 <link>https://radar724.de/posts/2026-10-07-morgens.html</link>
@@ -26,6 +33,7 @@
 <link>https://radar724.de/posts/2026-10-06-abends.html</link>
 <guid>https://radar724.de/posts/2026-10-06-abends.html</guid>
 <description>Dienstag, 06.10.2026 &middot; Abendausgabe
+
  &middot; Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI &middot; erstellt um 18:15 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 06 Oct 2026 18:15:00 +0200</pubDate>
 </item>
@@ -51,10 +59,9 @@ ption>Dienstag, 06.10.2026 &middot; Mittagsausgabe &middot; Rubriken: Tech &amp;
 <description>Montag, 05.10.2026 &middot; Abendausgabe &middot; Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI &middot; erstellt um 18:50 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 05 Oct 2026 18:50:18 +0200</pubDate>
 </item>
-
-
 <item>
-<title>Ausgabe #76 &mdash; Update Brasilien: Bolsonaro knapp vor Lula &mdash; Stichwahl am 25. O
+<title>Ausgabe #76 &mdash; Update Brasilien: Bolsonaro knapp vor Lula &mdash; Stichwahl am 25. 
+O
 ktober &middot; Dodik erkl&auml;rt sich in Bosnien zum Wahlsieger &middot; Telekom will mit KI Milliarden sparen</title>
 <link>https://radar724.de/posts/2026-10-05-mittags.html</link>
 <guid>https://radar724.de/posts/2026-10-05-mittags.html</guid>
@@ -62,7 +69,6 @@ ktober &middot; Dodik erkl&auml;rt sich in Bosnien zum Wahlsieger &middot; Telek
 ption>Montag, 05.10.2026 &middot; Mittagsausgabe &middot; Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt &middot; erstellt um 12:17 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 05 Oct 2026 12:17:46 +0200</pubDate>
 </item>
-
 <item>
 <title>Ausgabe #75 &mdash; Proje
 ct Meridian: Pentagon beruft Musk und Luckey f&uuml;r Kriegsforschung &middot; Update Brasilien: Bolsonaro und Lula gehen in die Stichwahl &middot; DeutschlandTrend bei historischen Tiefstwerten</title>
@@ -78,13 +84,13 @@ ct Meridian: Pentagon beruft Musk und Luckey f&uuml;r Kriegsforschung &middot; U
 <description>Sonntag, 04. Oktober 2026 &middot; Nachtausgabe &middot; erstellt um 23:55 Uhr (Europe/Berlin)</description>
 <pubDate>Sun, 04 Oct 2026 23:55:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Ausgabe #72 &mdash; Merz &uuml;berraschend in Kiew &middot; Update Lettland: 35,4 Prozent f&uuml;r Kulbergs&rsquo; Vereinte Liste &middot; OpenAI entl&auml;sst Sicherheits-Forscher</title>
 <link>https://radar724.de/posts/2026-10-04-mittags.html</link>
 <guid>https://radar724.de/posts/2026-10-04-mittags.html</guid>
 <description>Sonn
-tag, 04.10.2026 &middot; Mittagsausgabe 
+tag, 04.10.2026 &middot; Mittagsausgab
+e 
 &middot; Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen &middot; erstellt um 12:10 Uhr (Europe/Berlin)</description>
 <pubDate>Sun, 04 Oct 2026 12:10:00 +0200</pubDate>
 </item>
@@ -105,7 +111,6 @@ ens.html</guid>
 <description>Samstag, 3. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 23:15 Uhr (Europe/Berlin)</description>
 <pubDate>Sat, 03 Oct 2026 23:15:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Ausgabe #69 — Behörde der Emirate: Flydubai-Copilot plante einen Terrorakt · Lettland wählt bis zum Abend · FTC weitet KI-Ermittlungen aus</title>
 <link>https://radar724.de/posts/2026-10-03-abends.html</link>
@@ -117,21 +122,12 @@ ds · Rubriken: Weltgeschehen / Tech &amp;amp; KI / Kultur &amp;amp; Medien · e
 <item>
 <title>Ausgabe #68 — Brasilien vor der Richtungswahl · G7 öffnen die Öl-Reserven · Kiews Südbrücke blei
 bt gesperrt</title>
-<link>https://rad
+<link>https://
+rad
 ar724.de/posts/2026-10-03-mittags.html</link>
 <guid>https://radar724.de/posts/2026-10-03-mittags.html</guid>
 <description>Samstag, 3. Oktober 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 12:22 Uhr 
 (Europe/Berlin)</description>
 <pubDate>Sat, 03 Oct 2026 12:22:00 +0200</pubDate>
-</item><item>
-<title>Ausgabe #67 — Deutschland feiert den Tag der Deutschen Einheit in Bremen · OpenAI trennt sich von drei Sicherheitsforschern · Ökostrom-Rekord: Erneuerbare decken 60,7 Prozent<
-/title>
-<link>https://radar724.de/posts/2026-10-03-morgens.html</link>
-<guid>https://radar724.de/posts/2026-10-03-morgens.html</guid>
-<description>Samstag, 3. Oktober 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 06:05 Uhr (Europe/Berlin)</description>
-<pubDate>Sat, 03 Oct 2026 06:05:00 +0200</pubDate>
-</item>
-
-    
-</channel>
+</item></channel>
 </rss>
