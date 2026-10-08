@@ -84,3 +84,7 @@ wiesenzeitung_gifhorn/posts/2026-10-07-morgens.html
 idstein/posts/2026-10-07-morgens.html
 posts/2026-10-07-mittags.html
 posts/2026-10-07-nachts.html
+posts/2026-10-08-morgens.html
+wiesenzeitung_gifhorn/posts/2026-10-08-morgens.html
+borkum_kurier/posts/2026-10-08-morgens.html
+idstein/posts/2026-10-08-morgens.html
