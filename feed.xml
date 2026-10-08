@@ -6,7 +6,14 @@
     <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 07:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu,, 08 Oct 2026 12:27:00 +0200</lastBuildDate>
+<item>
+<title>Ausgabe #88 — FBI vereitelt mutmaßlichen Anschlag auf US-Einkaufszentrum · DAX rutscht unter 25.000 Punkte · WHO: keine Abnehmspritzen für unter Zehnjährige</title>
+<link>https://radar724.de/posts/2026-10-08-mittags.html</link>
+<guid>https://radar724.de/posts/2026-10-08-mittags.html</guid>
+<description>Donnerstag, 8. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 12:26 Uhr (Europe/Berlin)</description>
+<pubDate>Thu, 08 Oct 2026 12:26:00 +0200</pubDate>
+</item>
 <item>
 <title>Ausgabe #87 — Spanien trauert um Maricarmen · Raumfahrer-Crew auf dem Heimweg · Börse mit Blick auf EZB-Protokoll</title>
 <link>https://radar724.de/posts/2026-10-08-morgens.html</link>
@@ -124,13 +131,6 @@ ens.html</guid>
 <description>Sonntag, 04.10.2026 &middot; Morgens &middot; Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien &middot; erstellt um 06:20 Uhr (Europe/Berlin)</description>
 <pubDate>Sun, 04 Oct 2026 06:20:00 +0200</pubDate>
 </item>
-<item>
-<title>Ausgabe #70 — Lettland-Wahl: Prognose sieht Vereinigte Liste vorn · Ukraine: Brücken-Angriffe und Ölziele · Nvidia offenbart Sicherheitsplattform für KI-Agenten</title>
-<link>https://radar724.de/posts/2026-10-03-nachts.html</link>
-<guid>https://radar724.de/posts/2026-10-0
-3-nachts.html</guid>
-<description>Samstag, 3. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 23:15 Uhr (Europe/Berlin)</description>
-<pubDate>Sat, 03 Oct 2026 23:15:00 +0200</pubDate>
-</item>
+
 </channel>
 </rss>
