@@ -91,3 +91,4 @@ idstein/posts/2026-10-08-morgens.html
 posts/2026-10-08-mittags.html
 posts/2026-10-08-abends.html
 posts/2026-10-08-nachts.html
+idstein/posts/2026-10-09-morgens.html
