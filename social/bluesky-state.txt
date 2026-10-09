@@ -95,3 +95,4 @@ idstein/posts/2026-10-09-morgens.html
 posts/2026-10-09-morgens.html
 wiesenzeitung_gifhorn/posts/2026-10-09-morgens.html
 borkum_kurier/posts/2026-10-09-morgens.html
+posts/2026-10-09-mittags.html
