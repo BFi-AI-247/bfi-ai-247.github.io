@@ -3,6 +3,12 @@
   "job": "Hexen",
   "laeufe": [
     {
+      "datum": "2026-10-10",
+      "ist_start": "2026-10-10T05:44:21+02:00",
+      "dauer_min": 2,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-08",
       "ist_start": "2026-10-08T05:41:55+02:00",
       "dauer_min": 5,
@@ -51,15 +57,9 @@
       "status": "ok"
     },
     {
-      "datum": "2026-09-27",
-      "ist_start": "2026-09-27T06:31:52+02:00",
-      "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-09-28",
-      "ist_start": "2026-09-28T06:16:21+02:00",
-      "dauer_min": 12,
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T05:48:07+02:00",
+      "dauer_min": 2,
       "status": "ok"
     },
     {
@@ -69,9 +69,15 @@
       "status": "fehler"
     },
     {
-      "datum": "2026-09-30",
-      "ist_start": "2026-09-30T05:48:07+02:00",
-      "dauer_min": 2,
+      "datum": "2026-09-28",
+      "ist_start": "2026-09-28T06:16:21+02:00",
+      "dauer_min": 12,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T06:31:52+02:00",
+      "dauer_min": 5,
       "status": "ok"
     }
   ]
