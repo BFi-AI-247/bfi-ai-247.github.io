@@ -1,13 +1,13 @@
 {
   "key": "tvi",
   "job": "Dossier TVI Handball Idstein",
-  "runs_total": 8,
+  "runs_total": 9,
   "runs_beweisbar_seit": "2026-09-27",
-  "beweis": "idstein/dossier-tvi-handball/ausgabe-8.html (Ausgabe #8, 10.10.2026)",
-  "instanzen": 8,
+  "beweis": "idstein/dossier-tvi-handball/ausgabe-9.html (Ausgabe #9, 11.10.2026)",
+  "instanzen": 9,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 19,
+  "laufzeit_gesamt_min": 20,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-10T05:18:15+02:00",
-  "updated": "2026-10-10T05:18:15+02:00"
+  "last_run": "2026-10-11T05:16:20+02:00",
+  "updated": "2026-10-11T05:16:20+02:00"
 }
