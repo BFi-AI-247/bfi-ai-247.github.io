@@ -1,13 +1,13 @@
 {
   "key": "radarmi",
   "job": "RADAR Mittagsausgabe",
-  "runs_total": 23,
+  "runs_total": 24,
   "runs_beweisbar_seit": "2026-09-17",
   "beweis": "Ausgaben-Dateien posts/*-mittags.html je Lauf",
-  "instanzen": 49,
+  "instanzen": 53,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 84,
+  "laufzeit_gesamt_min": 87,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-10T12:24:23+02:00",
-  "updated": "2026-10-10T12:30:51+02:00"
+  "last_run": "2026-10-11T12:46:57+02:00",
+  "updated": "2026-10-11T12:49:35+02:00"
 }
