@@ -3,6 +3,12 @@
   "job": "RadarM — Morgenausgabe RADAR 724",
   "laeufe": [
     {
+      "datum": "2026-10-11",
+      "ist_start": "2026-10-11T06:32:11+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-10",
       "ist_start": "2026-10-10T06:06:27+02:00",
       "dauer_min": 10,
