@@ -5,35 +5,40 @@
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "11.10.2026, 07:13 Uhr",
       "antworten": 86,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "30.09.2026, 06:50 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "26.09.2026",
       "letzte_aktivitaet": "11.10.2026, 07:18 Uhr",
       "antworten": 35,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "11.10.2026, 07:18 Uhr"
     },
     {
       "rolle": "Design_R3.3",
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "30.09.2026, 22:06 Uhr",
       "antworten": 7,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
-    },
-    {
-      "rolle": "Mom_0",
-      "dienstbeginn": "16.09.2026",
-      "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
-      "antworten": 31,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "30.09.2026, 22:06 Uhr"
     },
     {
       "rolle": "Redaktion_R4",
       "dienstbeginn": "unbekannt (keine Angabe in Daten-Zeile)",
       "letzte_aktivitaet": "11.10.2026, 07:11:13 Uhr",
       "antworten": 37,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "11.10.2026, 07:11 Uhr"
+    },
+    {
+      "rolle": "Mom_0",
+      "dienstbeginn": "16.09.2026",
+      "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
+      "antworten": 31,
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
+      "stand": "28.09.2026, 19:41 Uhr"
     },
     {
       "rolle": "Framework_R6.1",
