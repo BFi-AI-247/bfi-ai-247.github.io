@@ -6,7 +6,7 @@
       "letzte_aktivitaet": "11.10.2026, 07:13 Uhr",
       "antworten": 86,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.09.2026, 06:50 Uhr"
+      "stand": "11.10.2026, 07:13 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
@@ -45,22 +45,25 @@
       "dienstbeginn": "27.09.2026",
       "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
       "antworten": 20,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
+      "stand": "01.10.2026, 08:51 Uhr"
     },
     {
       "rolle": "Kanon_Sync_2",
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
       "antworten": 1,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
+      "stand": "30.09.2026, 21:23 Uhr"
     },
     {
       "rolle": "Claude_Bridge",
       "dienstbeginn": "27.09.2026",
       "letzte_aktivitaet": "27.09.2026, 18:53 Uhr",
       "antworten": 1,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log"
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
+      "stand": "27.09.2026, 18:53 Uhr"
     }
   ],
-  "updated": "2026-10-11T12:50:05+02:00"
+  "updated": "2026-10-12T05:44:00+02:00"
 }
