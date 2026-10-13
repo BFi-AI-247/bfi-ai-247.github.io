@@ -6,8 +6,8 @@
   "beweiss": "Ausgaben-Dateien dossier/ukraine/posts/*.html",
   "instanzen": 16,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 70,
+  "laufzeit_gesamt_min": 53,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-13T06:30:28.428Z",
-  "updated": "2026-10-13T06:30:28.428Z"
+  "last_run": "2026-10-13T06:27:00+02:00",
+  "updated": "2026-10-13T06:30:59.058+02:00"
 }
