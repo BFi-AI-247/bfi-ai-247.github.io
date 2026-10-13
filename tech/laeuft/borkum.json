@@ -3,6 +3,12 @@
   "job": "Borkum Kuratierung — Morgenausgabe Wattpost Borkum",
   "laeufe": [
     {
+      "datum": "2026-10-13",
+      "ist_start": "2026-10-13T05:58:14+02:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-12",
       "ist_start": "2026-10-12T05:48:01+02:00",
       "dauer_min": 3,
