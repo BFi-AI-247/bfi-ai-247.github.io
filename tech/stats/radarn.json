@@ -1,13 +1,13 @@
 {
   "key": "radarn",
   "job": "RADAR Nachtausgabe",
-  "runs_total": 34,
+  "runs_total": 35,
   "runs_beweisbar_seit": "2026-09-16",
   "beweis": "Ausgaben-Dateien posts/*-nachts.html je Lauf (inkl. -2-Neuanlage)",
-  "instanzen": 28,
+  "instanzen": 32,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 154,
+  "laufzeit_gesamt_min": 161,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-19T23:04:22+02:00",
-  "updated": "2026-10-19T21:10:16+00:00"
+  "last_run": "2026-10-20T23:04:43+02:00",
+  "updated": "2026-10-20T23:12:28.301+02:00"
 }
