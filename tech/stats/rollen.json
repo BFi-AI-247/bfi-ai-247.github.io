@@ -41,14 +41,6 @@
       "stand": "19.10.2026, 00:45 Uhr"
     },
     {
-      "rolle": "Framework_R6.1",
-      "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "01.10.2026, 08:51 Uhr"
-    },
-    {
       "rolle": "Kanon_Sync_2",
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
@@ -65,5 +57,5 @@
       "stand": "27.09.2026, 18:53 Uhr"
     }
   ],
-  "updated": "2026-10-20T02:29:33.255Z"
+  "updated": "2026-10-20T12:11:26.222+02:00"
 }
