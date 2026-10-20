@@ -1,13 +1,13 @@
 {
   "key": "wzg",
   "job": "WZG Morgenausgabe Gifhorn",
-  "runs_total": 24,
+  "runs_total": 25,
   "runs_beweisbar_seit": "2026-09-24",
   "beweis": "Ausgaben-Dateien wiesenzeitung_gifhorn/posts/*-morgens.html",
-  "instanzen": 21,
+  "instanzen": 22,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 96,
+  "laufzeit_gesamt_min": 98,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-19T05:26:25+02:00",
-  "updated": "2026-10-19T05:29:07.576Z"
+  "last_run": "2026-10-20T05:50:35+02:00",
+  "updated": "2026-10-20T03:53:07.644Z"
 }
