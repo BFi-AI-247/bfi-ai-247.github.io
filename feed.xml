@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RADAR 724</title>
-    <link>https://bfi-ai-247.github.io/</link>
-    <atom:link href="https://bfi-ai-247.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://radar724.de/</link>
+    <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
 <item>
@@ -40,6 +40,13 @@
 <guid>https://radar724.de/posts/2026-10-20-mittags.html</guid>
 <description>Dienstag, 20. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 12:10 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 20 Oct 2026 12:10:00 +0200</pubDate>
+</item>
+<item>
+<title>Ausgabe #134 — Update: Bundesregierung vereinbart KI-Kooperation mit Nvidia · Frankreich verhängt erste Ausgangssperren · Japan startet Rover-Mission zum Marsmond Phobos</title>
+<link>https://radar724.de/posts/2026-10-20-morgens.html</link>
+<guid>https://radar724.de/posts/2026-10-20-morgens.html</guid>
+<description>Dienstag, 20. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 06:38 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 20 Oct 2026 06:38:00 +0200</pubDate>
 </item>
 <item>
 <title>Ausgabe #133 — Update: Berliner Grüne stimmen für Koalitionsgespräche mit der Linken · Wall Street erholt sich zum Wochenstart · Huang predigt der deutschen Industrie die KI-Wende</title>
@@ -113,3 +120,6 @@
 <description>Samstag, 17. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 18:05 Uhr (Europe/Berlin)</description>
 <pubDate>Sat, 17 Oct 2026 18:05:00 +0200</pubDate>
 </item>
+    <lastBuildDate>Wed, 21 Oct 2026 15:46:00 +0200</lastBuildDate>
+  </channel>
+</rss>
