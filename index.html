@@ -13,6 +13,8 @@
 <meta property="og:url" content="https://radar724.de/">
 <meta property="og:image" content="https://radar724.de/assets/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="RADAR 724 — Ausgaben (RSS)" href="/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="RADAR 724 — Artikel (RSS)" href="/feed-artikel.xml" />
 </head>
 <body>
 <div class="wrap">
@@ -38,8 +40,7 @@
 <ul class="editions" id="ausgaben-list"></ul>
 <noscript><p class="note">JavaScript ausgeschaltet: Die vollständige Ausgaben-Liste steht im <a href="archive.html">Archiv</a>.</p></noscript>
 </section>
-<p class="note">Nächste Ausgaben: täglich ca.
- um 0:00, 7:00, 13:00 und 19:00 Uhr (Europe/Berlin). Alle früheren Ausgaben bleiben dauerhaft im <a href="archive.html">Archiv</a> erhalten.</p>
+<p class="note">Nächste Ausgaben: täglich ca. um 0:00, 7:00, 13:00 und 19:00 Uhr (Europe/Berlin). Alle früheren Ausgaben bleiben dauerhaft im <a href="archive.html">Archiv</a> erhalten.</p>
 
 <!-- In eigener Sache (29.09. Box, 30.09. Betreiber-Auftrag): Überschrift außerhalb der Box wie bei Dossiers; Zahlen live aus tech/stats/projekt.json (k2_agenten.aktiv vorhanden; k5_ausgaben.gesamt als R2.2-Feld ausstehend), statische Vorab-Werte Stand 30.09.2026. Kein Job — Seite wird nie neu generiert. -->
 <h2 class="section">In eigener Sache</h2>
@@ -64,42 +65,9 @@
 </div>
 
 <script>
-(function () {
-  'use strict';
-  document.querySelectorAll('section.dyn').forEach(function (sec) {
-    var srcs = (sec.getAttribute('data-src') || '').split(' ').filter(Boolean);
-    var target = sec.querySelector('ul');
-    var ok = 0, done = 0;
-    srcs.forEach(function (src) {
-      fetch(src, { cache: 'no-store' }).then(function (r) {
-        if (!r.ok) { throw new Error(r.status); }
-        return r.text();
-      }).then(function (t) {
-        t = (t || '').trim();
-        if (t) { target.insertAdjacentHTML('beforeend', t); ok++; }
-      }).catch(function () {}).then(function () {
-        done++;
-        if (done === srcs.length && ok === 0) { sec.style.display = 'none'; }
-      });
-    });
-  });
-})();
-</script>
+(function () {  'use strict';  document.querySelectorAll('section.dyn').forEach(function (sec) {    var srcs = (sec.getAttribute('data-src') || '').split(' ').filter(Boolean);    var target = sec.querySelector('ul');    var ok = 0, done = 0;    srcs.forEach(function (src) {      fetch(src, { cache: 'no-store' }).then(function (r) {        if (!r.ok) { throw new Error(r.status); }        return r.text();      }).then(function (t) {        t = (t || '').trim();        if (t) { target.insertAdjacentHTML('beforeend', t); ok++; }      }).catch(function () {}).then(function () {        done++;        if (done === srcs.length && ok === 0) { sec.style.display = 'none'; }      });    });  });})();</script>
 <script>
-(function () {
-  'use strict';
-  fetch('tech/stats/projekt.json', { cache: 'no-store' }).then(function (r) {
-    if (!r.ok) { throw new Error(r.status); }
-    return r.json();
-  }).then(function (p) {
-    var a = document.getElementById('ies-agenten');
-    if (a && p.k2_agenten && typeof p.k2_agenten.aktiv === 'number') { a.textContent = String(p.k2_agenten.aktiv); }
-    var z = document.getElementById('ies-ausgaben');
-    var g = p.k5_ausgaben && p.k5_ausgaben.gesamt;
-    if (z && typeof g === 'number') { z.textContent = String(g); }
-  }).catch(function () {});
-})();
-</script>
+(function () {  'use strict';  fetch('tech/stats/projekt.json', { cache: 'no-store' }).then(function (r) {    if (!r.ok) { throw new Error(r.status); }    return r.json();  }).then(function (p) {    var a = document.getElementById('ies-agenten');    if (a && p.k2_agenten && typeof p.k2_agenten.aktiv === 'number') { a.textContent = String(p.k2_agenten.aktiv); }    var z = document.getElementById('ies-ausgaben');    var g = p.k5_ausgaben && p.k5_ausgaben.gesamt;    if (z && typeof g === 'number') { z.textContent = String(g); }  }).catch(function () {});})();</script>
 <script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
