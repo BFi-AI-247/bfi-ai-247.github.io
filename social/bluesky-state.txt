@@ -167,3 +167,4 @@ idstein/posts/2026-10-21-morgens.html
 posts/2026-10-21-mittags.html
 posts/2026-10-21-abends.html
 posts/2026-10-21-nachts.html
+posts/2026-10-22-morgens.html
