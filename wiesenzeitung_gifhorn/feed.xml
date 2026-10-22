@@ -6,6 +6,106 @@
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:53:00 +0200</lastBuildDate>
+    <item>
+      <title>VW startet Revisionsgespräche über die Tarifverträge — Zukunftsplan 2030 im Fokus</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-1</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Der Volkswagen-Newsroom meldet den Start der Revisionsgespräche über die Tarifverträge (Absender-Mitteilung). Im Hintergrund stehen die Q3-Auslieferungszahlen und der Zukunftsplan 2030.</description>
+      <category>Wirtschaft &amp; Arbeit</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen" />
+      <r724:quelle url="https://www.wolfsburger-nachrichten.de/" />
+      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Regionalleitstelle: Planung für die Erweiterung am Standort Gifhorn vorgestellt</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-2</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Der Landkreis Gifhorn informiert über die Planung zur Erweiterung der Regionalleitstelle am Standort Gifhorn — mehr Platz und Robustheit für Feuerwehr-Disposition und Rettungsdienst im Kreisgebiet.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>27 neue Ärzte registriert, barrierefreier Zugang am Kreishaus III, Führerscheinumtausch</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-3</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Im Landkreis Gifhorn sind 27 neue Ärztinnen und Ärzte registriert worden. Am Kreishaus III gibt es einen barrierefreien Zugang; der Landkreis erinnert an den Umtausch alter Führerscheine.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Computer-Betrug im Landkreis gemeldet: Polizei warnt vor der Masche</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-4</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Der NDR meldet aus dem Landkreis Gifhorn einen Fall von Computer-Betrug. Die Polizei warnt vor der Masche mit angeblichen Hotlines und Fernwartungszugriff.</description>
+      <category>Feuerwehr &amp; Blaulicht</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>VMZ-Baustellenlage: B 4, K 54, L 283 und L 286 — K 56 weiter ohne Starttermin</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-5</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Die amtliche Baustellenliste des VMZ Niedersachsen weist für den Raum Gifhorn weiterhin aktive Baustellen aus. Beim K-56-Ausbau in Lagesbüttel gibt es weiterhin keinen Starttermin.</description>
+      <category>Verkehr</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Isenbüttel: Benefizkalender, 9. Verkündigungsblatt und Freibad-Saisonende</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-6</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Die Samtgemeinde Isenbüttel wirbt für einen Benefizkalender, hat ihr 9. Verkündigungsblatt veröffentlicht und meldet das Saisonende im Freibad.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.isenbuettel.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Eule Euraya: Demokratie-Bildung in allen Kitas bis Ende 2026</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-7</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Das Handpuppen-Projekt zur Demokratie-Bildung bleibt bis Ende 2026 für alle Kindertagesstätten des Landkreises im Angebot.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Termine: Donnerstag ohne Wochenmarkt — Lesung am 5. November, Fachtage im November und Dezember</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-22-morgens.html#artikel-8</guid>
+      <pubDate>Thu, 22 Oct 2026 05:35:00 +0200</pubDate>
+      <description>Heute steht kein Wochenmarkt an. Zum Vormerken: Lesung am 5. November sowie die Präventionsbündnis-Fachtage am 24. November und 8. Dezember.</description>
+      <category>Termine</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 05:35:00 +0200</lastBuildDate>
   </channel>
 </rss>
