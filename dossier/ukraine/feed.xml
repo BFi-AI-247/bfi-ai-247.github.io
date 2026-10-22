@@ -6,6 +6,105 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:53:00 +0200</lastBuildDate>
+    <item>
+      <title>Russische Angriffe töten mindestens vier Menschen — Raketenalarm über Kyiv</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-1</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Nach ukrainischen Angaben haben russische Angriffe mindestens vier Menschen getötet, zwei davon in Kyiv und ein älteres Ehepaar in der Region Charkiw. Kurz nach Selenskyjs Botschaft zu neuen Verhandlungsrunden ging erneut Raketenalarm über der Hauptstadt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Lugansk: Besatzungsbehörden melden Drohnentreffer — keine bestätigte Geländebewegung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-2</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Russische Besatzungsbehörden melden einen ukrainischen Drohnenschlag auf eine Telefongesellschaft mit zwei Toten — Partei-Angabe, nicht unabhängig bestätigt. Eine bestätigte Geländebewegung an der Landfront liegt nicht vor; OSINT-Karten bleiben über ISW und MilitaryLand verlinkt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Energie-Schläge gehen weiter — die Waffenruhe vom 11. Oktober hält nicht</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Die Schonung von Energie-Infrastruktur ist auf beiden Seiten Makulatur: Russland bekämpft Ukraines Stromnetz weiter mit ballistischen Raketen und Drohnen, Kyiv trifft Treibstoff-Infrastruktur in Russland. Selenskyj erklärt, Kyiv erhalte inzwischen wieder Frühwarnungen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>EU fordert SpaceX zur vollständigen Starlink-Wiederherstellung auf — Musk-These bleibt ungeklärt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-4</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Die EU-Kommission fordert SpaceX auf, die für die Ukraine kritischen Satellitendienste dringend vollständig wiederherzustellen. Der Widerspruch zur Drosselung bleibt ungeklärt: Laut WSJ soll Musk selbst angeordnet haben, die US-Regierung bestreitet Vorab-Kenntnis.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Putin sagt Trilateral-Gespräche ab dem 10. November grundsätzlich zu</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-5</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Nach rund drei Stunden mit US-Sondergesandtem Witkoff erklärte Kreml-Berater Uschakow, Russland sei grundsätzlich bereit, die Dreiergespräche mit den USA und Kyiv Mitte November wiederaufzunehmen — das erste Treffen dieser Art seit Februar. Selenskyj und Norwegens Ministerpräsident Støre reagieren vorsichtig positiv.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Selenskyj: Front einfrieren als erster Schritt zum Kriegsende</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-6</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Im US-Fernsehen nennt Selenskyj ein Einfrieren der Front entlang der aktuellen Linien den realistischen ersten Schritt Richtung Waffenruhe — Sicherheitsgarantien der USA und Europas vorausgesetzt. Über die Ukraine werde nur mit der Ukraine verhandelt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russland setzt US-Bürger Hubbard frei — Trump verteidigt Sanktions-Verzicht</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-7</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Der zu knapp sieben Jahren verurteilte US-Lehrer Stephen Hubbard ist nach über vier Jahren in russischer Haft auf dem Weg in die USA. Trump begründet seinen Sanktions-Verzicht mit der Freilassung — Kyiv und europäische Regierungen warnen derweil vor zu viel Gegenleistung an Moskau.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>RU-Innenpolitik: FSB verhaftet Deutschen als angeblichen Söldner</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-8</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Laut Berichten russischer Agenturen hat der FSB einen deutschen Staatsangehörigen festgenommen, der als Scharfschütze auf ukrainischer Seite gekämpft haben soll. Behördenangabe aus Moskau — nicht unabhängig bestätigt; schon in der Vorwoche war ein Schwede festgenommen worden.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Heute ohne Verlustzahlen-Block</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-22.html#artikel-9</guid>
+      <pubDate>Thu, 22 Oct 2026 06:03:00 +0200</pubDate>
+      <description>Heute liegen keine neuen foto- oder videobewiesenen Oryx-Belege vor; der Verlustzahlen-Block entfällt. Ungekennzeichnete Verlust-Zählungen der Verteidigungsministerien beider Parteien werden nicht übernommen.</description>
+      <category>Verlustzahlen</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.oryxspioenkop.com/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 06:04:59 +0200</lastBuildDate>
   </channel>
 </rss>
