@@ -1,1 +1,219 @@
-FEEDCONTENT
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:r724="https://radar724.de/ns/r724/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Wattpost Borkum</title>
+    <link>https://radar724.de/borkum_kurier/</link>
+    <atom:link href="https://radar724.de/borkum_kurier/feed.xml" rel="self" type="application/rss+xml" />
+    <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
+    <language>de-de</language>
+    <item>
+      <title>Letzte Rats-Sitzung in alter Besetzung: WSA-Brache hinterm Miramar in der Debatte</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-1</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Der Borkumer Rat hat in seiner letzten Sitzung in alter Besetzung erneut die frühere WSA-Fläche hinter dem Hotel Miramar beraten. Im Raum stand, das Areal aus dem Sanierungsgebiet zu nehmen — die Debatte geht an die neue Ratsbesetzung über.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Einzige Drogerie auf Borkum schließt vorübergehend — Insel fragt nach Alternativen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-2</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Borkums einzige Drogerie soll bald für längere Zeit schließen. Die Borkumer Zeitung hat nachgefragt, wie lange und ob es eine Versorgungsalternative gibt.</description>
+      <category>Insel &amp; Versorgung</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Geothermie: neuer Standort für Borkums erste Tiefengeothermie-Bohrung im Fokus</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-3</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Für die erste Tiefengeothermie-Bohrung auf Borkum rückt ein neuer Standort außerhalb sensibler Schutzzonen ins Visier. Die klimaneutrale Wärmeplanung der Insel kommt damit voran.</description>
+      <category>Wirtschaft &amp; Energie</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Telekom-Glasfaser: Ausbau für mehr als 2.200 Haushalte in der Umsetzung</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-4</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Der Glasfaserausbau der Telekom auf Borkum ist in der laufenden Umsetzungsphase. Mehr als 2.200 Haushalte und Betriebe sollen an das schnelle Netz angeschlossen werden.</description>
+      <category>Insel &amp; Infrastruktur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kräftiger Ostwind: Fährfahrer sollen Fahrplan vor der Abfahrt prüfen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-5</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Kräftiger Ostwind beeinträchtigt die Schifffahrt zu den ostfriesischen Inseln. Zugleich ist die AG-Ems-Fahrplanauskunft wegen eines System-Updates teils nicht erreichbar.</description>
+      <category>Verkehr</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>POL-LER: zwei Alkoholverstöße bei Verkehrskontrolle Barbaraweg</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-6</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Bei einer Verkehrskontrolle im Barbaraweg auf Borkum musste die Polizei zwei Alkoholverstöße feststellen. Es ist die jüngste Borkum-Lagemeldung der Polizeiinspektion Leer/Emden.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Borkumerin für den Deutschen Engagementpreis nominiert — Kalender 2027 erhältlich</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-7</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Ana-Maria Andrei bleibt im Rennen um den Deutschen Engagementpreis 2026 — das Publikums-Voting läuft bis Ende Oktober. Parallel ist der Borkum-Aktuell-Jahreskalender 2027 erhältlich.</description>
+      <category>Inselleben</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Stürmisches Wochenende: Regen, Böen — und Gewitterpotenzial am Sonntag</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-23-morgens.html#artikel-8</guid>
+      <pubDate>Fri, 23 Oct 2026 06:14:00 +0200</pubDate>
+      <description>Das Wochenende bleibt stürmisch: Am Samstag Regen und Böen bis rund 90 km/h, am Sonntag rechnet das Modell mit Spitzenböen um 100 km/h und Gewitterpotenzial.</description>
+      <category>Wochenend-Vorschau</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.daswetter.com/wetter_Borkum-Europa-Deutschland-Niedersachsen--1-99940.html"></r724:quelle>
+      <r724:quelle url="https://meteozentrale.de/meteo/5tage.php?city=Borkum%2C+DE&amp;place_id=2946206"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Rat tagt heute: letzte Sitzung in alter Besetzung — WSA-Fläche hinterm Miramar auf der Agenda</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-1</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Der Borkumer Rat tagt heute zum letzten Mal in alter Besetzung — auf der Agenda steht erneut die frühere WSA-Fläche hinter dem Hotel Miramar. Eine Entscheidung über die Nachnutzung steht noch aus.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>WSA reguliert Strand nach Aufspülung an Buhne 20 — Nordbad im Fokus</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-2</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Das Wasser- und Schifffahrtsamt Ems-Nordsee meldet Regulierungsarbeiten nach einer Strandaufspülung im Bereich Buhne 20 am Nordbad. Strand- und Badebereiche werden dabei neu geformt.</description>
+      <category>Insel &amp; Infrastruktur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.wsa-ems-nordsee.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Geothermie: neuer Standort auf der Insel im Gespräch</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-3</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Die Geothermie-Pläne für Borkum bleiben in Bewegung: Ein neuer Standort für das Vorhaben ist nach Zeitungsberichten im Gespräch. Tiefengeothermie könnte die Insel langfristig unabhängiger machen.</description>
+      <category>Wirtschaft &amp; Energie</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Telekom-Glasfaser: Ausbau für mehr als 2.200 Haushalte läuft</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-4</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Der Glasfaserausbau der Telekom auf Borkum ist in der Umsetzung — mehr als 2.200 Haushalte und Betriebe sollen bis Juni 2028 angeschlossen werden.</description>
+      <category>Wirtschaft &amp; Energie</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>AG Ems: Winterfahrplan 2026/27 — Fahrplanauskunft teils gestört</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-5</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Die AG Ems hält den Winterfahrplan 2026/27 bereit, Teile der Auskunftssysteme sind aber vorübergehend nicht erreichbar. Reisende sollen Zeiten vor Fahrtantritt prüfen.</description>
+      <category>Verkehr</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Inselrundflüge ab Flugplatz Borkum auch heute buchbar</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-6</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Auch in den Herbstferien bleiben die Inselrundflüge ab Flugplatz Borkum im Angebot. Bei Sturmwind empfiehlt sich eine kurze Wetterrücksprache mit dem Betreiber.</description>
+      <category>Termine heute</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Borkumerin im Rennen um den Deutschen Engagementpreis — Voting läuft bis Ende Oktober</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-7</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Ana-Maria Andrei ist weiterhin im Rennen um den Deutschen Engagementpreis 2026. Das Publikums-Voting läuft noch bis Ende Oktober.</description>
+      <category>Insel &amp; Vereine</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>„Bye Bye Plastik“: Inselsäuberungs-Kampagne läuft bis Ende November</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-8</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Die Inselsäuberungs-Kampagne „Bye Bye Plastik“ läuft vom 1. April bis 30. November 2026 — jede gesammelte Tasche Müll zählt für das Wattenmeer vor der Haustür.</description>
+      <category>Nationalpark &amp; Natur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Energie-Kompakt: Alpha Ventus bleibt am Netz — He Dreiht auf voller Kapazität</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-9</guid>
+      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
+      <description>Das Offshore-Testfeld Alpha Ventus soll weiterbetrieben werden, der Windpark He Dreiht erreicht volle Kapazität — BP stellt das Projekt Oceanbeat dagegen ein.</description>
+      <category>Blick über die Insel hinaus</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 06:14:00 +0200</lastBuildDate>
+  </channel>
+</rss>
