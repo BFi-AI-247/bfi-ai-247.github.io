@@ -177,3 +177,4 @@ posts/2026-10-23-morgens.html
 wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html
 borkum_kurier/posts/2026-10-23-morgens.html
 idstein/posts/2026-10-23-morgens.html
+posts/2026-10-23-mittags.html
