@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #146 — Freitag, 23.10.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #146</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Freitag, 23. Oktober 2026 &middot; Morgenausgabe &middot; erstellt um 06:06 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt</p>
+<h1 class="post-title">PHP-Lücke unter Dauerbeschuss · Öl auf Fünfmonatshoch · Steuerschätzung ohne neue Spielräume</h1>
+
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item" id="artikel-1">
+<span class="rubrik-ref">Rubrik: Tech &amp; KI</span>
+<h3>Update: Millionen Angriffsversuche auf ungeschützte PHP-Systeme — Bund weiterhin ohne Hinweise auf Schäden</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html" rel="noopener">Original lesen</a> — tagesschau.de.</span>
+<p>Nach der Veröffentlichung von Sicherheitsupdates für die Webskriptsprache PHP beobachten Sicherheitsexperten Berichten zufolge Millionen von Angriffsversuchen auf Systeme, denen die Patches noch fehlen. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt erneut: Wer die Updates nicht einspiele, laufe weiter Gefahr. Für die Systeme des Bundes gibt es bislang keine Hinweise auf Schäden — Digitalminister Wildberger hatte bereits am Donnerstag Entwarnung für die Bund-IT gegeben. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.html" rel="noopener">BSI</a> — <a href="https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html" rel="noopener">tagesschau (FAQ)</a>.</span>
+</div>
+
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<h2 class="section" id="goodnews">GOOD NEWS</h2>
+<div class="item" id="artikel-2">
+<span class="rubrik-ref">Rubrik: Kultur &amp; Medien</span>
+<h3>Spotify wächst weiter: 788 Millionen Nutzer, Umsatz plus 16 Prozent</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/" rel="noopener">Original lesen</a> — Spotify Newsroom.</span>
+<p>Der Streamingdienst meldet für das dritte Quartal 788 Millionen monatlich aktive Nutzer — rund elf Prozent mehr als ein Jahr zuvor. Die Zahl der Premium-Abonnenten stieg um neun Prozent auf 306 Millionen, der Umsatz legte mit rund 4,97 Milliarden Euro um 16 Prozent zu. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://variety.com/2026/digital/news/spotify-q3-2026-earnings-results-paid-subscribers-1236919528/" rel="noopener">Variety</a> — <a href="https://musically.com/2026/10/22/spotify-q3-2026-financial-results/" rel="noopener">Music Ally</a>.</span>
+</div>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>Regen und Schauer, 9 bis 14 Grad — amtliche Warnung vor Windböen bis 60 km/h.</li>
+<li><b>Sonne</b>auf 07:58, unter 18:20 Uhr — Tage werden spürbar kürzer.</li>
+<li><b>DAX</b>25.371,75 Punkte <span class="neg">&minus;1,07 %</span> — Xetra-Schluss Donnerstag, Abgab nach Vierwochenhoch.</li>
+<li><b>S&amp;P 500</b>7.663,43 Punkte <span class="neg">&minus;1,21 %</span> — US-Schluss Donnerstag, KI-Kostensorgen lasten weiter.</li>
+<li><b>Öl (Brent)</b>113,17 USD <span class="pos">+ca. 4 %</span> — Fünfmonatshoch nach Angriffen auf Energie-Infrastruktur.</li>
+<li><b>EUR / USD</b>1,1215 — Euro schwach verändert im Handelsverlauf.</li>
+<li><b>Gold</b>rund 4.100 USD/Unze — leicht nachgebend, Nähe zur 4.000-Dollar-Marke.</li>
+<li><b>Bitcoin</b>rund 73.024 EUR (6h <span class="pos">+0,7 %</span> &middot; 24h <span class="neg">&minus;0,9 %</span>) — Seitwärtsbewegung nach Volatilitätswoche.</li>
+<li><b>Heute ist ...</b>Freitag — der 296. Tag des Jahres, 43. Kalenderwoche. Ende der Sommerzeit am Sonntag, den 25. Oktober.</li>
+</ul>
+<span class="glance-src">Datenstand 23.10.2026, ca. 06:06 Uhr · Wetter: wetterdienst.de · Kurse: Xetra/finanzen.net/boerse.de/gold.de · Heute ist .../Sonne: welcher-tag-ist-heute.org</span>
+</div>
+
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item" id="artikel-3">
+<h3>Meta wächst mit 26 Prozent — erhöht aber erneut die KI-Investitionen</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm" rel="noopener">Original lesen</a> — SEC-Filing von Meta.</span>
+<p>Meta hat im dritten Quartal rund 64,6 Milliarden US-Dollar umgesetzt — 26 Prozent mehr als im Vorjahresquartal. Unter dem Strich blieben 9,86 Milliarden Dollar, belastet durch eine Rechtsrückstellung von 9,89 Milliarden Dollar. Für das vierte Quartal erwartet der Konzern 73 bis 76 Milliarden Dollar Umsatz und weitet den Ausgabenrahmen für KI-Infrastruktur auf 135 bis 145 Milliarden Dollar aus. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://ng.investing.com/news/stock-market-news/meta-q3-2026-slides-revenue-surges-26-as-margins-compress-sharply-93CH-2749772" rel="noopener">Investing.com</a>.</span>
+</div>
+<div class="item" id="artikel-4">
+<h3>Handy-Verbote an Schulen: Zwei Drittel der Grundschulen gehen strenger vor als ihre Länder</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.bib.bund.de/DE/Presse/Mitteilungen/2026/2026-10-22-Smartphone-Regeln-Viele-Schulen-sind-strenger-als-die-Landesvorgaben.html" rel="noopener">Original lesen</a> — Bundesinstitut für Bevölkerungsforschung.</span>
+<p>An deutschen Schulen sind Regeln zur privaten Smartphone-Nutzung längst Normalfall. Einer Studie des Bundesinstituts für Bevölkerungsforschung zufolge setzen 67 Prozent der Grundschulen ein ganztägiges Verbot durch — viele Schulen damit strenger als die Vorgaben ihrer Bundesländer. Für die SENSE-Studie wurden 827 Eltern befragt. <span class="blink" title="Geprüft: Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>(Datenstand: Freitag, 23.10.2026.)</p>
+</div>
+
+<h2 class="section">Wirtschaft &amp; Finanzen</h2>
+<div class="item" id="artikel-5">
+<h3>Steuerschätzung: 4,1 Milliarden mehr für den Bund 2027 — Klingbeil sieht "keine neuen Spielräume"</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html" rel="noopener">Original lesen</a> — tagesschau.de.</span>
+<p>Die neue Steuerschätzung weist dem Bund für das kommende Jahr rund 4,1 Milliarden Euro zusätzliche Einnahmen aus. Bundesfinanzminister Klingbeil betonte zugleich, daraus ergäben sich keine neuen Spielräume. Weiter im Streit ist die Forderung der Länder nach einer raschen Senkung der Stromsteuer für alle. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Donnerstag-22-Oktober-2026-id31444261.html" rel="noopener">n-tv</a>.</span>
+</div>
+<div class="item" id="artikel-6">
+<h3>Update: Ölpreis steigt auf Fünfmonatshoch — Brent notiert um 113 Dollar</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/wall-street-schluss-nasdaq-stuerzt-ab-ki-aktien-unter-druck-oelpreis-explodiert-20423053.html" rel="noopener">Original lesen</a> — DER AKTIONÄR.</span>
+<p>Ein Barrel der Nordseesorte Brent kostet zuletzt rund 113 US-Dollar — gut vier Prozent mehr und der höchste Stand seit etwa fünf Monaten. Auslöser sind erneut Angriffe auf Energie-Infrastruktur am Golf, darunter ein Drohnenangriff auf ein Ölfeld. US-Präsident Trump wies Berichte über laufende Verhandlungsbemühungen zurück. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://de.marketscreener.com/boerse-nachrichten/aktien-new-york-schluss-kursrutsch-an-der-nasdaq-meta-und-oelpreise-ce785cdedf8bff27" rel="noopener">MarketScreener</a> — <a href="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Donnerstag-22-Oktober-2026-id31444261.html" rel="noopener">n-tv</a>.</span>
+</div>
+<div class="item" id="artikel-7">
+<h3>Börsen-Ausblick Freitag: PMI-Daten und Zahlen von Volvo, Eni und Holcim im Fokus</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.boersennews.de/nachrichten/service/community/tagesvorschau-23-oktober-zahlenstarker-wochenausklang-am-freitag-mit-fokus-auf-volvo-saab-und-eni/5321595/" rel="noopener">Original lesen</a> — böersennews.de.</span>
+<p>Der Freitag steht im Zeichen der Konjunkturdaten: Einkaufsmanagerindices aus Deutschland, dem Euroraum und den USA werden erwartet, zudem Konsumdaten und die Verbrauchsstimmung der University of Michigan. Unternehmensseitig stehen Quartalszahlen von Holcim, Volvo, Eni und Atoss an, ebenso Berichte von American Express — und ein Zinsentscheid der russischen Notenbank. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.finanzen.at/nachrichten/aktien/tagesvorschau-freitag-23-oktober-vorlaufige-fassung-1036654291" rel="noopener">finanzen.at</a>.</span>
+</div>
+
+<h2 class="section">Klima &amp; Umwelt</h2>
+<div class="item" id="artikel-8">
+<h3>EU-Ausschüsse bestätigen Verbrenner-Kompromiss: 95 Prozent weniger CO2 statt Null bis 2035</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/wirtschaft/verbraucher/eu-verbrenner-klima-100.html" rel="noopener">Original lesen</a> — tagesschau.de.</span>
+<p>Die zuständigen Ausschüsse des EU-Parlaments haben den Kompromiss für die CO2-Regulierung von Neuwagen bestätigt: Statt einer Absenkung auf Null ist bis 2035 nun eine Reduktion um 95 Prozent vorgesehen. Der Kompromiss sieht zudem Anreize für den Einsatz grünen Stahls vor, mit denen bis zu 87,5 Prozent CO2-Reduktion erreicht werden können. Damit bleibt dem Verbrennungsmotor unter Auflagen eine Perspektive. (Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.zeit.de/politik/2026-10/verbrenner-aus-eu-lockerung-co2-ausstoss-neuwagen-evp-sd" rel="noopener">ZEIT</a> — <a href="https://www.auto-motor-und-sport.de/verkehr/eu-parlament-einigt-sich-auf-87-5-co-ziel-bis-2035-warum-verbrenner-weiter-moeglich-bleiben/" rel="noopener">auto motor und sport</a>.</span>
+</div>
+<div class="item" id="artikel-9">
+<h3>Unesco startet eDNA-Expeditionen: Umwelt-DNA aus 25 Meeresschutzgebieten bis 2028</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.ioc.unesco.org/en/articles/edna-expeditions-2026-2028" rel="noopener">Original lesen</a> — IOC/UNESCO.</span>
+<p>Die zwischenstaatliche Ozeanographische Kommission der Unesco hat die eDNA-Expeditionen für die Jahre 2026 bis 2028 vorgestellt: In 25 Meeresschutzgebieten sollen rund 3.000 Proben Umwelt-DNA genommen werden, um die Artenvielfalt der Ozeane sichtbar zu machen. Die Vorstellung erfolgt zeitgleich zur UN-Artenschutzkonferenz COP17. <span class="blink" title="Geprüft: Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>(Datenstand: Freitag, 23.10.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.tagesschau.de/wissen/tiere/un-artenschutzkonferenz-armenien-100.html" rel="noopener">tagesschau.de</a>.</span>
+</div>
+
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #146 &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
