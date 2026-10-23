@@ -79,6 +79,12 @@
       "ist_start": "2026-10-20T13:48:42+02:00",
       "dauer_min": 6,
       "status": "ok"
+    },
+    {
+      "datum": "2026-10-23",
+      "ist_start": "2026-10-23T13:17:53+02:00",
+      "dauer_min": 1,
+      "status": "ok"
     }
   ]
 }
