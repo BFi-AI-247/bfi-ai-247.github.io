@@ -3,36 +3,172 @@
   "job": "RADAR 724 Nachtausgabe — Kuratierung (23:00)",
   "laeufe": [
     {
+      "datum": "2026-10-24",
+      "ist_start": "2026-10-24T23:51:21+02:00",
+      "dauer_min": 9,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-22",
       "ist_start": "2026-10-22T23:47:11+02:00",
       "dauer_min": 7,
       "status": "ok"
     },
-    {"datum":"2026-10-21","ist_start":"2026-10-21T23:11:34+02:00","dauer_min":14,"status":"ok"},
-    {"datum":"2026-10-20","ist_start":"2026-10-20T23:04:43+02:00","dauer_min":7,"status":"ok"},
-    {"datum":"2026-10-19","ist_start":"2026-10-19T23:04:22+02:00","dauer_min":8,"status":"ok"},
-    {"datum":"2026-10-18","ist_start":"2026-10-18T23:59:14+02:00","dauer_min":5,"status":"ok"},
-    {"datum":"2026-10-17","ist_start":"2026-10-17T23:39:46+02:00","dauer_min":4,"status":"ok"},
-    {"datum":"2026-10-16","ist_start":"2026-10-16T23:52:48+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-15","ist_start":"2026-10-15T23:54:54+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-14","ist_start":"2026-10-14T23:51:47+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-13","ist_start":"2026-10-13T23:59:52+02:00","dauer_min":4,"status":"ok"},
-    {"datum":"2026-10-12","ist_start":"2026-10-12T23:37:30+02:00","dauer_min":8,"status":"ok"},
-    {"datum":"2026-10-11","ist_start":"2026-10-11T23:51:06+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-10","ist_start":"2026-10-10T23:34:05+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-09","ist_start":"2026-10-09T23:11:34+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-08","ist_start":"2026-10-08T23:35:47+02:00","dauer_min":8,"status":"ok"},
-    {"datum":"2026-10-07","ist_start":"2026-10-07T23:40:00+02:00","dauer_min":2,"status":"ok"},
-    {"datum":"2026-10-06","ist_start":"2026-10-06T23:37:27+02:00","dauer_min":24,"status":"ok"},
-    {"datum":"2026-10-05","ist_start":"2026-10-05T23:27:55+02:00","dauer_min":6,"status":"ok"},
-    {"datum":"2026-10-04","ist_start":"2026-10-04T23:50:47+02:00","dauer_min":12,"status":"ok"},
-    {"datum":"2026-10-03","ist_start":"2026-10-03T23:01:43+02:00","dauer_min":17,"status":"ok"},
-    {"datum":"2026-10-02","ist_start":"2026-10-02T23:17:04+02:00","dauer_min":3,"status":"ok"},
-    {"datum":"2026-10-01","ist_start":"2026-10-01T23:56:09+02:00","dauer_min":4,"status":"ok"},
-    {"datum":"2026-09-30","ist_start":"2026-09-30T23:07:44+02:00","dauer_min":15,"status":"ok"},
-    {"datum":"2026-09-29","ist_start":"2026-09-29T23:26:46+02:00","dauer_min":5,"status":"ok"},
-    {"datum":"2026-09-28","ist_start":"2026-09-28T23:03:20+02:00","dauer_min":5,"status":"ok"},
-    {"datum":"2026-09-27","ist_start":"2026-09-27T23:21:39+02:00","dauer_min":8,"status":"ok"},
-    {"datum":"2026-09-26","ist_start":"2026-09-26T23:17:39+02:00","dauer_min":12,"status":"ok"}
+    {
+      "datum": "2026-10-21",
+      "ist_start": "2026-10-21T23:11:34+02:00",
+      "dauer_min": 14,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-20",
+      "ist_start": "2026-10-20T23:04:43+02:00",
+      "dauer_min": 7,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-19",
+      "ist_start": "2026-10-19T23:04:22+02:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-18",
+      "ist_start": "2026-10-18T23:59:14+02:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-17",
+      "ist_start": "2026-10-17T23:39:46+02:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-16",
+      "ist_start": "2026-10-16T23:52:48+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-15",
+      "ist_start": "2026-10-15T23:54:54+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-14",
+      "ist_start": "2026-10-14T23:51:47+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-13",
+      "ist_start": "2026-10-13T23:59:52+02:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-12",
+      "ist_start": "2026-10-12T23:37:30+02:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-11",
+      "ist_start": "2026-10-11T23:51:06+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-10",
+      "ist_start": "2026-10-10T23:34:05+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-09",
+      "ist_start": "2026-10-09T23:11:34+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-08",
+      "ist_start": "2026-10-08T23:35:47+02:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-07",
+      "ist_start": "2026-10-07T23:40:00+02:00",
+      "dauer_min": 2,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-06",
+      "ist_start": "2026-10-06T23:37:27+02:00",
+      "dauer_min": 24,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-05",
+      "ist_start": "2026-10-05T23:27:55+02:00",
+      "dauer_min": 6,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-04",
+      "ist_start": "2026-10-04T23:50:47+02:00",
+      "dauer_min": 12,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-03",
+      "ist_start": "2026-10-03T23:01:43+02:00",
+      "dauer_min": 17,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-02",
+      "ist_start": "2026-10-02T23:17:04+02:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-10-01",
+      "ist_start": "2026-10-01T23:56:09+02:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-30",
+      "ist_start": "2026-09-30T23:07:44+02:00",
+      "dauer_min": 15,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-29",
+      "ist_start": "2026-09-29T23:26:46+02:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-28",
+      "ist_start": "2026-09-28T23:03:20+02:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-27",
+      "ist_start": "2026-09-27T23:21:39+02:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
+    {
+      "datum": "2026-09-26",
+      "ist_start": "2026-09-26T23:17:39+02:00",
+      "dauer_min": 12,
+      "status": "ok"
+    }
   ]
 }
