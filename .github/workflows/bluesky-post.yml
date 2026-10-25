@@ -22,15 +22,19 @@ on:
     # Jeder Lauf prueft alle heutigen Dateien (State = Anti-Duplikat),
     # spaetere Laeufe heilen fruehere Ausfaelle selbst.
     # P.171 (27.09.2026, Betreiber-Formel): Pickup-Cron >= Slotzeit+1h.
+    # Winter-Justierung P.173 (25.10.2026, DST-Ende, Lauf R2.2): UTC-Crons auf
+    # CET-Äquivalente justiert — Morgens 05:05→06:05, 2. Chance 06:00→07:00,
+    # Mittags 11:05→12:05, Nachts 22:05→23:05 UTC; Abends unverändert
+    # (18:05 UTC entspricht 19:05 Berlin bereits im Winter). Sommer-Rückstellung 29.03.2027.
     # Justiert: 06:30→07:05 (RADAR morgens 06:00, spätester Morgenslot),
     # 18:35→19:05 (abends 18:00), 23:05→00:05 (nachts 23:00). Vorfall
     # Ausgabe #42: Der 18:35-Cron lief 18:43 Uhr — VOR dem 18:55er Publish —
     # und verpasste die Abendausgabe; Heilung erst 23:10 durch den Nachts-Cron.
-    - cron: '5 5 * * *'    # 07:05 Berlin — Morgenausgaben (RADAR 06:00 +1h)
-    - cron: '0 6 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
-    - cron: '5 11 * * *'  # 13:05 Berlin — RADAR Mittagsausgabe
+    - cron: '5 6 * * *'    # 07:05 Berlin — Morgenausgaben (RADAR 06:00 +1h)
+    - cron: '0 7 * * *'   # 08:00 Berlin — zweite Chance Morgenausgaben
+    - cron: '5 12 * * *'  # 13:05 Berlin — RADAR Mittagsausgabe
     - cron: '5 18 * * *'  # 19:05 Berlin — RADAR Abendausgabe (18:00 +1h)
-    - cron: '5 22 * * *'  # 00:05 Berlin — RADAR Nachtausgabe (23:00 +1h; prueft Vortags-Nachts)
+    - cron: '5 23 * * *'  # 00:05 Berlin — RADAR Nachtausgabe (23:00 +1h; prueft Vortags-Nachts)
   workflow_dispatch:
     inputs:
       dry_run:
