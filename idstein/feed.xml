@@ -6,6 +6,7 @@
     <atom:link href="https://radar724.de/idstein/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Idstein (Ableger von RADAR 724).</description>
     <language>de-de</language>
+    <lastBuildDate>Mon, 26 Oct 2026 06:16:45 +0100</lastBuildDate>
     <item>
       <title>Unterwegs mit den Gartenweibern: Halloween-Stadtführung mit Apfelweinprobe</title>
       <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-1</link>
@@ -328,7 +329,7 @@
       <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-24-morgens.html#artikel-9</guid>
       <pubDate>Sat, 24 Oct 2026 05:57:13 +0200</pubDate>
       <description>Neue Impulse für Übungsleiter, eine Plakat-Reihe im Bistro und eine neukonzipierte Halloween-Party.</description>
-      <category>Vereine & Ehrenamt</category>
+      <category>Vereine &amp; Ehrenamt</category>
       <category>Idstein</category>
       <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
@@ -436,7 +437,7 @@
       <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-23-morgens.html#artikel-8</guid>
       <pubDate>Fri, 23 Oct 2026 05:48:16 +0200</pubDate>
       <description>Die Stadtteil-Websites sind erreichbar und aktiv; neue Termin-Beiträge waren im heutigen Abruf nicht dabei.</description>
-      <category>Vereine & Ehrenamt</category>
+      <category>Vereine &amp; Ehrenamt</category>
       <category>Idstein</category>
       <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://kroeftel.de/">Originalquelle</r724:quelle>
@@ -466,6 +467,5 @@
       <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
       <r724:ki>true</r724:ki>
       </item>
-    <lastBuildDate>Mon, 26 Oct 2026 06:16:45 +0100</lastBuildDate>
   </channel>
 </rss>

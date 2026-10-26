@@ -6,6 +6,7 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
+    <lastBuildDate>Mon, 26 Oct 2026 06:46:38 +0100</lastBuildDate>
     <item>
       <title>ISW: Russische Offensiven an mehreren Abschnitten — keine bestätigten nennenswerten Geländegewinne</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-10-26.html#artikel-1</link>
@@ -424,6 +425,5 @@
       <r724:quelle url="https://www.oryxspioenkop.com/">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <lastBuildDate>Mon, 26 Oct 2026 06:46:38 +0100</lastBuildDate>
   </channel>
 </rss>

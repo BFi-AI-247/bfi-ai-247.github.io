@@ -6,6 +6,7 @@
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 724).</description>
     <language>de-de</language>
+    <lastBuildDate>Mon, 26 Oct 2026 05:42:00 +0100</lastBuildDate>
     <item>
       <title>Tarifrunde bei Volkswagen: Verhandlungen mit IG Metall starten am 24. November in Emden</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html</link>
@@ -61,7 +62,7 @@
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-5</guid>
       <pubDate>Mon, 26 Oct 2026 05:42:00 +0100</pubDate>
       <description>Das Sturmtief „Manja“ hat in der Nacht zum Sonntag auch Niedersachsen getroffen; im Raum Gifhorn blieben die Schäden laut Lageberichten begrenzt. Der DWD rechnet heute mit Schauern bei kräftigem Westwind.</description>
-      <category>Wetter & Region</category>
+      <category>Wetter &amp; Region</category>
       <category>Gifhorn</category>
       <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
@@ -88,7 +89,7 @@
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html</guid>
       <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
       <description>Der NDR hält die Unwetterwarnung aufrecht: Orkanböen und eine Sturmflut werden an der Nordseeküste erwartet. Für den Landkreis Gifhorn bleiben Schauer bei kräftigem Südwind angesagt, im Tagesverlauf klingt der Sturm ab.</description>
-      <category>Wetter & Region</category>
+      <category>Wetter &amp; Region</category>
       <category>Gifhorn</category>
       <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
@@ -124,7 +125,7 @@
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-3</guid>
       <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
       <description>Der POL-GF-Newsroom zeigt seit dem 21. Oktober keine neuen Meldungen. Im Wochenfenster bestätigt: Fluchtversuch in Isenbüttel, Betrugsmasche gegen eine 69-Jährige, Einbruchssaison-Warnung nach Eischott sowie Kontrollen in Leiferde und Gifhorn.</description>
-      <category>Feuerwehr & Blaulicht</category>
+      <category>Feuerwehr &amp; Blaulicht</category>
       <category>Gifhorn</category>
       <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
@@ -161,7 +162,7 @@
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-6</guid>
       <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
       <description>Am 5. November stellt der Sozialpsychiatrische Dienst für Kinder und Jugendliche in Gifhorn bei einer Lesung seine Arbeit vor — eine niedrigschwellige, kostenfreie Anlaufstelle der Kreisverwaltung.</description>
-      <category>Soziales & Gesundheit</category>
+      <category>Soziales &amp; Gesundheit</category>
       <category>Gifhorn</category>
       <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
@@ -477,6 +478,5 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <lastBuildDate>Mon, 26 Oct 2026 05:42:00 +0100</lastBuildDate>
   </channel>
 </rss>
