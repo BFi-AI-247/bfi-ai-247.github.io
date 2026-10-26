@@ -3,18 +3,18 @@
     {
       "rolle": "PM_R1.3",
       "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "21.10.2026, 15:25 Uhr",
-      "antworten": 97,
+      "letzte_aktivitaet": "26.10.2026, 16:23 Uhr",
+      "antworten": 99,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "21.10.2026, 15:25 Uhr"
+      "stand": "26.10.2026, 16:23 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "26.09.2026",
-      "letzte_aktivitaet": "25.10.2026, 06:12 Uhr",
-      "antworten": 42,
+      "letzte_aktivitaet": "26.10.2026, 16:44 Uhr",
+      "antworten": 43,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "25.10.2026, 06:12 Uhr"
+      "stand": "26.10.2026, 16:44 Uhr"
     },
     {
       "rolle": "Design_R3.3",
@@ -65,5 +65,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-10-25T06:28:58+01:00"
+  "updated": "2026-10-26T18:41:07+01:00"
 }
