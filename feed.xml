@@ -6,7 +6,14 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:37:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:56:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #160 — Anthropic reicht Anmeldung für Rekord-Börsengang ein — Harry Kane gewinnt den Ballon d'Or — Israel wählt am Dienstag zwischen Netanjahu und Eisenkot</title>
+<link>https://radar724.de/posts/2026-10-26-nachts.html</link>
+<guid>https://radar724.de/posts/2026-10-26-nachts.html</guid>
+<description>Montag, 26. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 23:56 Uhr (Europe/Berlin)</description>
+<pubDate>Mon, 26 Oct 2026 23:56:00 +0100</pubDate></item>
+
 <item>
 <title>Ausgabe #159 — DAX beendet den Montag mit Über-Prozent-Aufschlag — Iran erklärt Israels Wahlausgang für gleichgültig — Sturmflut überflutet den Hamburger Fischmarkt</title>
 <link>https://radar724.de/posts/2026-10-26-abends.html</link>
@@ -104,13 +111,5 @@
 <guid>https://radar724.de/posts/2026-10-23-morgens.html</guid>
 <description>Freitag, 23. Oktober 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 06:06 Uhr (Europe/Berlin)</description>
 <pubDate>Fri, 23 Oct 2026 06:06:00 +0200</pubDate></item>
-
-<item>
-<title>Ausgabe #145 — KI-Kostenschock: Nasdaq stürzt um 2,6 Prozent ab · Macron wirft „ultralinken“ Gruppen Umsturzversuch vor · Gold fällt Richtung 4.000 Dollar</title>
-<link>https://radar724.de/posts/2026-10-22-nachts.html</link>
-<guid>https://radar724.de/posts/2026-10-22-nachts.html</guid>
-<description>Donnerstag, 22. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 23:51 Uhr (Europe/Berlin)</description>
-<pubDate>Thu, 22 Oct 2026 23:51:00 +0200</pubDate>
-</item>
-  </channel>
+    </channel>
 </rss>
