@@ -6,6 +6,7 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
+    <lastBuildDate>Mon, 26 Oct 2026 11:33:52 +0100</lastBuildDate>
 <item>
 <title>Update: Lula sichert sich vierte Amtszeit — Bolsonaro erkennt Stichwahl-Niederlage nicht an</title>
 <link>https://radar724.de/posts/2026-10-26-mittags.html#artikel-1</link>
@@ -259,7 +260,7 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-5</guid>
 <description>Die BSI-Warnung zu kritischen PHP-Schwachstellen bleibt in Kraft; Nutzer sollen Updates zügig einspielen. Digitalminister Wildberger plädiert für KI-Werkzeuge, um Schwachstellen künftig schneller zu schließen.</description>
 <pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Tech & KI</category>
+<category>Tech &amp; KI</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"></r724:quelle>
 <r724:quelle url="https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/261021_PHP-kritische-Schwachstelle.html"></r724:quelle>
@@ -271,7 +272,7 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-6</guid>
 <description>Netanjahu hatte angeregt, über Kryptowährungen eine „alternative Wirtschaft“ gegen mögliche Sanktionen aufzubauen. Die Bank of Israel wies das zurück: Digitale Währungen könnten globale Finanzverbindungen nicht ersetzen.</description>
 <pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Tech & KI</category>
+<category>Tech &amp; KI</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://jewishinsider.com/2026/10/netanyahu-bank-of-israel-international-sanctions-cryptocurrency/"></r724:quelle>
 <r724:quelle url="https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions"></r724:quelle>
@@ -283,7 +284,7 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-7</guid>
 <description>Der individuell angepasste mRNA-Wirkstoff von Moderna und Merck senkte mit Pembrolizumab das Rückfallrisiko um 42 Prozent. In der Verum-Gruppe blieben rund 82 Prozent ohne Tumor-Rückkehr, in der Vergleichsgruppe 70 Prozent.</description>
 <pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Gesundheit & Medizin</category>
+<category>Gesundheit &amp; Medizin</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.zeit.de/gesundheit/2026-10/mrna-melanomimpfstoff-moderna-merck-keytruda-studie"></r724:quelle>
 <r724:quelle url="https://www.esmo.org/insights-by-esmo/all-news/first-positive-phase-iii-trial-data-for-an-individualised-mrna-based-neoantigen-therapy"></r724:quelle>
@@ -295,7 +296,7 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-8</guid>
 <description>Eine Übersicht der Ärzte Zeitung bündelt die Studienlage zu COVID-19, Influenza und RSV. Die RSV-Immunisierung Schwangerer senkte Krankenhauseinweisungen von Säuglingen um 51 bis 70 Prozent.</description>
 <pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Gesundheit & Medizin</category>
+<category>Gesundheit &amp; Medizin</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.aerztezeitung.de/Medizin/So-gut-wirkt-der-Impfschutz-gegen-respiratorische-Viren-464335.html"></r724:quelle>
 <r724:ki>true</r724:ki></item>
@@ -588,7 +589,6 @@
 <r724:quelle url="https://www.mdr.de/nachrichten/sachsen/news-autoindustrie-zwickau,kretschmer-vw-arbeitsplaetze-100.html"></r724:quelle>
 <r724:quelle url="https://ostdeutscheallgemeine.com/article/vw-werk-zwickau-sachsens-rettungsplan-auto-union-10517770"></r724:quelle>
 <r724:ki>true</r724:ki></item>
-    <lastBuildDate>2026-10-26T12:33:52+01:00</lastBuildDate>
   </channel>
 </rss>
 
