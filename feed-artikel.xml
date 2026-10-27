@@ -6,7 +6,109 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:47:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:45:00 +0100</lastBuildDate>
+  <item>
+    <title>Update: Höchste Wahlbeteiligung seit 1981 — Israel stimmt unter Hochspannung ab</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-1</guid>
+    <description>Artikel 1 der Mittagsausgabe vom 27.10.2026 · Rubrik: TOP NEWS</description>
+    <category>TOP NEWS</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls</r724:quelle>
+    <r724:quelle>https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html</r724:quelle>
+    <r724:quelle>https://www.zdfheute.de/politik/ausland/wahl-israel-netanjahu-eisenkot-liveblog-100.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Waffenruhe für Frontstadt Oleschky in Kraft — Papst und Melania Trump haben vermittelt</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-2</guid>
+    <description>Artikel 2 der Mittagsausgabe vom 27.10.2026 · Rubrik: Weltgeschehen</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html</r724:quelle>
+    <r724:quelle>https://www.zdfheute.de/politik/ausland/oleschky-waffenruhe-ukraine-krieg-russland-100.html</r724:quelle>
+    <r724:quelle>https://www.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Nach Brasiliens Stichwahl: Bolsonaros Partei erkennt Niederlage an — Lula steht vor härtester Amtszeit</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-3</guid>
+    <description>Artikel 3 der Mittagsausgabe vom 27.10.2026 · Rubrik: Weltgeschehen</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.tagesschau.de/ausland/amerika/brasilien-lula-nach-stichwahl-100.html</r724:quelle>
+    <r724:quelle>https://www.zdfheute.de/newsticker/schlagzeilen-100.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>OpenAI meldet: KI-Modelle widerlegen zentrale Vermutung — Fachwelt beginnt mit der Prüfung</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-4</guid>
+    <description>Artikel 4 der Mittagsausgabe vom 27.10.2026 · Rubrik: Tech &amp;amp; KI</description>
+    <category>Tech &amp;amp; KI</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills</r724:quelle>
+    <r724:quelle>https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/</r724:quelle>
+    <r724:quelle>https://mydata.ch/blog/ki-news-2026-10-27</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>SpaceX sichert sich 40 Milliarden Dollar für KI-Chips — größte GPU-Finanzierung aller Zeiten</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-5</guid>
+    <description>Artikel 5 der Mittagsausgabe vom 27.10.2026 · Rubrik: Tech &amp;amp; KI</description>
+    <category>Tech &amp;amp; KI</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/</r724:quelle>
+    <r724:quelle>https://www.apollo.com/insights-news/pressreleases/2026/10/spacex-secures--40-billion-in-the-largest-gpu-financing-ever</r724:quelle>
+    <r724:quelle>https://finance.yahoo.com/technology/ai/articles/spacex-secures-record-40-billion-190201846.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>CERN und Mistral bauen KI-Modell für die Teilchenphysik — trainiert mit Milliarden Simulationen</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-6</guid>
+    <description>Artikel 6 der Mittagsausgabe vom 27.10.2026 · Rubrik: Tech &amp;amp; KI</description>
+    <category>Tech &amp;amp; KI</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</r724:quelle>
+    <r724:quelle>https://www.inside-it.ch/cern-und-mistral-entwickeln-physik-ki-20261019</r724:quelle>
+    <r724:quelle>https://www.it-markt.ch/news/2026-10-19/cern-und-mistral-planen-ki-modell-zur-analyse-von-teilchenkollisionen</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Dax dreht zum Mittag ins Plus — Anleger warten auf den Fed-Entscheid am Mittwoch</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-7</guid>
+    <description>Artikel 7 der Mittagsausgabe vom 27.10.2026 · Rubrik: Wirtschaft &amp;amp; Finanzen</description>
+    <category>Wirtschaft &amp;amp; Finanzen</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.finanzen.net/nachricht/aktien/schwacher-handel-dax-schwaechelt-zum-handelsstart-16010669</r724:quelle>
+    <r724:quelle>https://markets.ft.markitdigital.com/data/indices/tearsheet/historical?s=DAXX:GER</r724:quelle>
+    <r724:quelle>https://www.ariva.de/news/dpa-afx-boersentag-auf-einen-blick-dax-behauptet-12182674</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Öl prallt vom Montagshoch ab — Brent gibt im frühen Handel moderat nach</title>
+    <link>https://radar724.de/posts/2026-10-27-mittags.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html#artikel-8</guid>
+    <description>Artikel 8 der Mittagsausgabe vom 27.10.2026 · Rubrik: Wirtschaft &amp;amp; Finanzen</description>
+    <category>Wirtschaft &amp;amp; Finanzen</category>
+    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.ariva.de/news/oelpreise-moderat-im-minus-nach-preissprung-am-vorabend-12182660</r724:quelle>
+    <r724:quelle>https://www.goldreporter.de/goldpreis-27-10-2026/marktbericht-gold/262635/</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
 <item>
 <title>Update: Schicksalswahl in Israel — seit heute früh entscheiden die Wähler über Netanjahus Zukunft</title>
 <link>https://radar724.de/posts/2026-10-27-morgens.html#artikel-1</link>
@@ -511,99 +613,5 @@
 <r724:quelle url="https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"></r724:quelle>
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/serbien-vucic-niederlage-wahl-100.html"></r724:quelle>
 <r724:ki>true</r724:ki></item>
-<item>
-<title>Friedensnobelpreisträgerin María Corina Machado ist nach fast einem Jahr Exil nach Venezuela zurückgekehrt</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-2</guid>
-<description>Machado kündigte ihre Rückkehr mit den Worten „Ich bin hier. Bei euch“ an; ihr Verbündeter González bestätigte ihren Aufenthalt in Caracas. Die Heimkehr folgt landesweiten Protesten für freie Wahlen.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile"></r724:quelle>
-<r724:quelle url="https://www.rtve.es/noticias/20261025/maria-corina-machado-regresa-a-venezuela-tras-casi-10-meses-fuera-del-pais/17282698.shtml"></r724:quelle>
-<r724:quelle url="https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Stichwahl in Brasilien: Auszählung läuft — Ergebnis stand bei Redaktionsschluss noch aus</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-3</guid>
-<description>Nach verlängerter Abstimmungszeit läuft die Auszählung der Stichwahl zwischen Lula und Flávio Bolsonaro. Ein abschließendes Ergebnis lag zur Nacht noch nicht vor; die Umfragen hatten ein Kopf-an-Kopf-Rennen angedeutet.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://g1.globo.com/politica/eleicoes/2026/apuracao/presidente.ghtml"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Update: Israel weitet Offensive im Westjordanland aus — Armee kündigt komplette Abriegelung zum Wahltag an</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-4</guid>
-<description>Nach dem tödlichen Angriff auf zwei Soldaten in Hebron verlegt die Armee hunderte Palästinenser und errichtet Bewegungseinschränkungen. Zum Wahltag am Dienstag sollen alle Landübergänge zum Westjordanland geschlossen werden.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/politik/Israel-vertreibt-2000-Palaestinenser-aus-Hebron-id31455045.html"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank"></r724:quelle>
-<r724:quelle url="https://de.euronews.com/2026/10/24/israel-vertreibt-rund-250-palastinensische-familien-aus-hebron"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Nach PHP-Sicherheitslücke: BSI sieht weiterhin „akuten Handlungsbedarf“ — Minister Wildberger setzt auf KI-gestützte Abwehr</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-5</guid>
-<description>Die BSI-Warnung zu kritischen PHP-Schwachstellen bleibt in Kraft; Nutzer sollen Updates zügig einspielen. Digitalminister Wildberger plädiert für KI-Werkzeuge, um Schwachstellen künftig schneller zu schließen.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"></r724:quelle>
-<r724:quelle url="https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/261021_PHP-kritische-Schwachstelle.html"></r724:quelle>
-<r724:quelle url="https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.html"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Israels Zentralbank weist Netanyahus Idee zurück, mit Krypto mögliche Sanktionen zu umgehen</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-6</guid>
-<description>Netanjahu hatte angeregt, über Kryptowährungen eine „alternative Wirtschaft“ gegen mögliche Sanktionen aufzubauen. Die Bank of Israel wies das zurück: Digitale Währungen könnten globale Finanzverbindungen nicht ersetzen.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://jewishinsider.com/2026/10/netanyahu-bank-of-israel-international-sanctions-cryptocurrency/"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions"></r724:quelle>
-<r724:quelle url="https://www.thejc.com/news/israel/bank-israel-netanyahu-crypto-evade-sanctions-ulvtr3n4"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Phase-III-Erfolg: Personalisierter mRNA-Impfstoff senkt Rückfallrisiko bei Schwarzem Hautkrebs um 42 Prozent</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-7</guid>
-<description>Der individuell angepasste mRNA-Wirkstoff von Moderna und Merck senkte mit Pembrolizumab das Rückfallrisiko um 42 Prozent. In der Verum-Gruppe blieben rund 82 Prozent ohne Tumor-Rückkehr, in der Vergleichsgruppe 70 Prozent.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zeit.de/gesundheit/2026-10/mrna-melanomimpfstoff-moderna-merck-keytruda-studie"></r724:quelle>
-<r724:quelle url="https://www.esmo.org/insights-by-esmo/all-news/first-positive-phase-iii-trial-data-for-an-individualised-mrna-based-neoantigen-therapy"></r724:quelle>
-<r724:quelle url="https://www.healio.com/news/hematology-oncology/20261023/personalized-mrna-vaccine-reduced-melanoma-recurrence-risk-42-after-surgery"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Winterliche Impf-Saison: Wie gut COVID-, Grippe- und RSV-Impfungen laut aktueller Studienlage schützen</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-nachts.html#artikel-8</guid>
-<description>Eine Übersicht der Ärzte Zeitung bündelt die Studienlage zu COVID-19, Influenza und RSV. Die RSV-Immunisierung Schwangerer senkte Krankenhauseinweisungen von Säuglingen um 51 bis 70 Prozent.</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aerztezeitung.de/Medizin/So-gut-wirkt-der-Impfschutz-gegen-respiratorische-Viren-464335.html"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-<item>
-<title>Update: Wahl-Sonntag — Serbien bei Rekordbeteiligung, Bulgarien und Brasilien stimmen noch ab</title>
-<link>https://radar724.de/posts/2026-10-25-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-25-abends.html#artikel-1</guid>
-<description>In Serbien gaben bis 13 Uhr laut Beobachtern rund 41 Prozent ihre Stimme ab — ein Rekordwert. In Bulgarien und Brasilien dauert die Wahl noch an; erste Hochrechnungen werden erst am Abend erwartet.</description>
-<pubDate>Sun, 25 Oct 2026 18:21:00 +0100</pubDate>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"></r724:quelle>
-<r724:quelle url="https://www.fr.de/politik/serbiens-parlamentswahl-rekordbeteiligung-ueberschattet-von-120-unregelmaessigkeiten-94557555.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-serbien-aleksandar-vucic-sns-studenten-novi-sad-gxe"></r724:quelle>
-<r724:ki>true</r724:ki></item>
-    </channel>
+</channel>
 </rss>
