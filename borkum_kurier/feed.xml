@@ -6,7 +6,71 @@
     <atom:link href="https://radar724.de/borkum_kurier/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:22:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:59:39 +0100</lastBuildDate>
+    <item>
+      <title>Telefonbetrüger nehmen Borkum ins Visier — Polizei warnt vor falschen Beamten</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-1</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
+      <description>Falsche Polizeibeamte haben auf Borkum per Telefon Bargeld und Goldschmuck abfragen wollen; ein Schaden ist bislang nicht bekannt. Die Polizeiinspektion Leer/Emden warnt vor der Masche mit QR-Codes und einer angeblichen Einbruchsserie.</description>
+      <category>Meldung des Tages</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Katamaran NORDLICHT II bis Donnerstag ausgefallen — MS Westfalen springt ein</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-2</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
+      <description>Die AG Ems streicht bis einschließlich 29. Oktober alle Katamaran-Abfahrten und setzt die MS Westfalen als Ersatz ein. Gebuchte Tickets gelten alternativ für Fährfahrten.</description>
+      <category>Fährverkehr</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kräftiger Wind über der Nordsee — Fährfahrer sollen Zeiten prüfen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-3</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
+      <description>Die Regionalmedien melden Einschränkungen für die Schifffahrt zu den ostfriesischen Inseln. Reisende sollen vor der Abfahrt den aktuellen Fahrplan prüfen.</description>
+      <category>Wetter &amp; Schifffahrt</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Update — Rossmann: Insel-Drogerie bleibt vorerst geschlossen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-4</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
+      <description>Die vorübergehende Schließung der einzigen Borkumer Drogerie bleibt bestehen. Grund und Dauer liegen hinter der Paywall der Regionalmedien.</description>
+      <category>Versorgung auf der Insel</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Leony am Strand und „Bye Bye Plastik“: Die Insel räumt auf</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-5</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
+      <description>Auf borkum.de ist das Leony-Open-Air am Strand für 2027 vorgemerkt; bis 30. November läuft die Müllsammel-Aktion „Borkum räumt auf — Das Meer braucht Dich“.</description>
+      <category>Inselleben &amp; Kultur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Sturmtief „Manja“ hinterlässt Windböen — Katamaran am Morgen ausgefallen</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-10-26-morgens.html#artikel-1</link>
