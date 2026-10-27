@@ -47,7 +47,7 @@
     <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-4</guid>
     <description>Laut Bitkom-Umfrage lassen sieben Prozent der Lehrkräfte Noten ungeprüft von KI vergeben. 58 Prozent nutzen KI für schulische Zwecke, nur 57 Prozent haben klare Regeln an ihrer Schule.</description>
-    <category>Tech & KI</category>
+    <category>Tech &amp; KI</category>
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://www.bitkom.org/Presse/Presseinformation/7-Prozent-Lehrkraefte-haben-ungeprueft-Noten-durch-KI-vergeben"></r724:quelle>
     <r724:quelle url="https://www.heise.de/news/Digitale-Bildung-4-von-5-Lehrkraeften-sehen-zu-wenig-politische-Unterstuetzung-11399253.html"></r724:quelle>
@@ -58,7 +58,7 @@
     <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-5</guid>
     <description>Bis 2034 baut Infineon in Kärnten die weltweit erste Hochvolumenfertigung für Galliumnitrid-Leistungshalbleiter auf großen Wafern. GaN gilt als Schlüsselbaustein für E-Mobilität und Energienetze.</description>
-    <category>Tech & KI</category>
+    <category>Tech &amp; KI</category>
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://www.infineon.com/press-release/2026/infpr202610-021"></r724:quelle>
     <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"></r724:quelle>
@@ -70,7 +70,7 @@
     <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-6</guid>
     <description>Der S&amp;P 500 schließt 0,72 Prozent höher bei 7.730,80 Punkten, der Nasdaq Composite gewinnt 1,21 Prozent. Die Tech-Rally um das Anthropic-Debüt setzt sich vor der Fed-Entscheidung fort.</description>
-    <category>Wirtschaft & Finanzen</category>
+    <category>Wirtschaft &amp; Finanzen</category>
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://247wallst.com/cards/big-tech-did-nearly-all-the-work-today-the-nasdaq-added-1-2-gspc-market-bell-01m5zfc466wpggx27vagbmvdfk"></r724:quelle>
     <r724:quelle url="https://el7.ai/en/news/2026-10-27-nasdaq-and-sp-500-rise-on-chip-gains-as-boeing-shares-plunge-10"></r724:quelle>
@@ -81,7 +81,7 @@
     <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-7</guid>
     <description>Boeing weist für das dritte Quartal weiter einen Verlust aus und will die 737-Max-Produktion erst Ende 2027 signifikant hochfahren. Die Aktie stürzt daraufhin um rund elf Prozent.</description>
-    <category>Wirtschaft & Finanzen</category>
+    <category>Wirtschaft &amp; Finanzen</category>
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://boeing.mediaroom.com/2026-10-27-Boeing-Reports-Third-Quarter-Results"></r724:quelle>
     <r724:quelle url="https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"></r724:quelle>
@@ -92,7 +92,7 @@
     <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-8</guid>
     <description>Die US-Notenbank dürfte den Zielkorridor von 3,75 bis 4,00 Prozent unverändert lassen. Spannend ist, ob Fed-Chef Warsh eine Zinserhöhung im Dezember offen lässt — die Inflation liegt bei 3,7 Prozent.</description>
-    <category>Wirtschaft & Finanzen</category>
+    <category>Wirtschaft &amp; Finanzen</category>
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://de.euronews.com/2026/10/27/fed-entscheid-im-fokus-warsh-ringt-mit-hoher-inflation-olpreisen-und-us-zwischenwahlen"></r724:quelle>
     <r724:quelle url="https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html"></r724:quelle>
@@ -619,15 +619,5 @@
 <r724:quelle url="https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"></r724:quelle>
 <r724:quelle url="https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/"></r724:quelle>
 <r724:ki>true</r724:ki></item>
-<item>
-<title>Update: Nach PHP-Lücke setzt Digitalminister auf KI — BSI sieht weiter akuten Handlungsbedarf</title>
-<link>https://radar724.de/posts/2026-10-26-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-26-mittags.html#artikel-4</guid>
-<description>Digitalminister Wildberger setzt nach der kritischen PHP-Schwachstelle verstärkt auf KI-Werkzeuge für die Cybersicherheit. Das BSI sieht bei den Millionen betroffenen Systemen weiterhin akuten Handlungsbedarf.</description>
-<pubDate>Mon, 26 Oct 2026 12:28:00 +0100</pubDate>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"></r724:quelle>
-<r724:quelle url="https://www.n-tv.de/politik/Digitalminister-Wildberger-will-KI-fuer-Cybersicherheit-einsetzen-id31455042.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/digital/2026-10/php-sicherheitsluecke-karsten-wildberger-cdu-bsi-itz-bund"></r724:quelle>
-<r724:ki>true</r724:ki>
+  </channel>
+</rss>
