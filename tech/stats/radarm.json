@@ -1,13 +1,13 @@
 {
   "key": "radarm",
   "job": "RADAR Morgenausgabe",
-  "runs_total": 40,
+  "runs_total": 41,
   "runs_beweisbar_seit": "2026-09-17",
   "beweis": "Ausgaben-Dateien posts/*-morgens.html je Lauf (inkl. -2-Neuanlage = erneuter Lauf)",
-  "instanzen": 53,
+  "instanzen": 57,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 286,
+  "laufzeit_gesamt_min": 294,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-26T07:04:46.152+01:00",
-  "updated": "2026-10-26T07:04:46.152+01:00"
+  "last_run": "2026-10-27T06:43:00+01:00",
+  "updated": "2026-10-27T06:55:00+01:00"
 }
