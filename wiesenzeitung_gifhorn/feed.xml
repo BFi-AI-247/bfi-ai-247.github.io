@@ -6,7 +6,69 @@
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:01:00 +0100</lastBuildDate>
+    <item>
+      <title>Bitcoin-Betrug: Unbekannte erbeuten von einem Mann aus Gifhorn rund 100.000 Euro</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-1</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:00 +0100</pubDate>
+      <description>Die Polizeiinspektion Gifhorn meldet eine Bitcoin-Betrugsmasche, bei der ein Gifhorner rund 100.000 Euro verlor. Die Polizei warnt vor Anlageangeboten mit Zeitdruck.</description>
+      <category>Blaulicht</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/gifhorn-mann-verliert-1000" />
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Landkreis Gifhorn empfiehlt die Grippe-Impfung rechtzeitig zur Grippesaison</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-2</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:00 +0100</pubDate>
+      <description>Die Kreisverwaltung rät zur rechtzeitigen Impfung; sie kann schwere Krankheitsverläufe verhindern. Anlaufstellen sind Hausarztpraxen und viele Apotheken.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>B 4-Baustelle zwischen Gifhorn und Braunschweig läuft weiter – Sperrung Richtung Braunlage kommt hinzu</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-3</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:00 +0100</pubDate>
+      <description>Die amtliche VMZ-Baustellenliste zeigt die B 4-Blockade seit dem 22. September weiter aktiv; seit dem 23. Oktober gilt zusätzlich eine Sperrung in Richtung Braunlage. Pendler sollten Zeitpuffer einplanen.</description>
+      <category>Verkehr</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>NDR-Wettbewerb sucht Dorf-Ideen junger Menschen – auch für Kommunen im Raum Gifhorn anschlussfähig</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-4</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:00 +0100</pubDate>
+      <description>Der NDR ruft junge Menschen auf, Ideen für ihr Dorf einzureichen. Auch Jugendgruppen und Initiativen im Landkreis Gifhorn können anschlussfähig sein.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/wettbewerb-ideen-junge" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Dienstag: Kein Wochenmarkt in der Gifhorner Innenstadt – nächste Chance am Mittwoch</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-5</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:00 +0100</pubDate>
+      <description>Der Wochenmarkt öffnet mittwochs und samstags in der Fußgängerzone. Termine von Vereinen, Schulen und Kirchen finden sich im städtischen Kalender.</description>
+      <category>Termine</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Tarifrunde bei Volkswagen: Verhandlungen mit IG Metall starten am 24. November in Emden</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html</link>
