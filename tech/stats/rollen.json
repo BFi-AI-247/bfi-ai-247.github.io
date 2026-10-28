@@ -41,14 +41,6 @@
       "stand": "19.10.2026, 00:45 Uhr"
     },
     {
-      "rolle": "Kanon_Sync_2",
-      "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
-      "antworten": 1,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.09.2026, 21:23 Uhr"
-    },
-    {
       "rolle": "Claude_Bridge",
       "dienstbeginn": "27.09.2026",
       "letzte_aktivitaet": "27.09.2026, 18:53 Uhr",
@@ -65,5 +57,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-10-28T00:03:26+01:00"
+  "updated": "2026-10-28T12:18:15+01:00"
 }
