@@ -6,7 +6,112 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:16:00 +0100</lastBuildDate>
+  <item>
+    <title>Fed lässt Zinsen unverändert — zwei Notenbanker fordern die nächste Anhebung</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-1</guid>
+    <description>Die US-Notenbank belässt den Zielkorridor bei 3,75 bis 4,0 Prozent. Cook und Hammack stimmen dagegen und wollten 25 Basispunkte mehr. Ab 2027 dient jährlich ein Termin allein der Strategie — der Dezember-Termin mit neuen Projektionen gilt als nächste Weichenstellung.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm</r724:quelle>
+    <r724:quelle>https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html</r724:quelle>
+    <r724:quelle>https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Israel: Netanjahus Block vorn — arabische Parteien werden zum Königsmacher</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-2</guid>
+    <description>Nach Auszählung von rund 80 Prozent kommt Netanjahus Block auf 54 Sitze, die Opposition auf 49, die arabischen Listen auf 17. Netanjahu lehnt eine Regierung mit arabischer Unterstützung ab, Golan wirbt dafür — das endgültige Ergebnis wird bis Freitag erwartet.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Weltgeschehen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html</r724:quelle>
+    <r724:quelle>https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Spanien: Mindestens 68 Tote — Hochgeschwindigkeitszug fuhr auf stehen gebliebenen Zug auf</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-3</guid>
+    <description>Bei Urda in der Provinz Toledo fährt ein Renfe-Zug auf einen stehengebliebenen Iryo-Zug auf: mindestens 68 Tote, mehr als 100 Verletzte. Ersten Ermittlungen zufolge war das Sicherungssystem ausgefallen; Spanien trauert drei Tage, der Wahlkampf ist weitgehend ausgesetzt.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Weltgeschehen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html</r724:quelle>
+    <r724:quelle>https://www.zdfheute.de/panorama/zugunglueck-spanien-toledo-was-wir-wissen-100.html</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Apple bricht mit einer alten Doktrin: Das erste MacBook Pro mit Touchscreen</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-4</guid>
+    <description>Das neue MacBook Pro in 14 und 16 Zoll bekommt ein berührungsempfindliches Tandem-OLED mit bis zu 2.000 Nits, M5 Pro/Max und Dynamic Island. Apple bricht damit mit der alten Touch-Doktrin; Lieferung ab 6. November, in Deutschland ab 3.299 Euro.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.apple.com/de/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</r724:quelle>
+    <r724:quelle>https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Alphabet verpasst die Erwartungen — Aktie gibt nach Börsenschluss zweistellig nach</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-5</guid>
+    <description>Umsatz und Gewinn bleiben unter den Erwartungen, der freie Cashflow fällt mit minus 9,07 Milliarden Dollar negativ. Nach Börsenschluss gibt die Aktie zweistellig nach; Pichai verweist auf eine Milliarde Gemini-Nutzer.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html</r724:quelle>
+    <r724:quelle>https://247wallst.com/companies/googl/earnings/</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>SK Hynix verdient so viel wie nie — Speicherboom dürfte bis 2030 anhalten</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-6</guid>
+    <description>Der operative Gewinn steigt um 632 Prozent auf 83,33 Billionen Won, der Umsatz erstmals über 100 Billionen Won. Die Speicher-Knappheit dürfte bis 2030 anhalten — die Aktie legt in Seoul um 10,9 Prozent zu.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://de.qz.com/sk-hynix-verzeichnet-rekordbetriebsgewinn-aufgrund-von-speichermangel-bis-2030</r724:quelle>
+    <r724:quelle>https://de.marketscreener.com/boerse-nachrichten/sk-hynix-sprengt-alle-rekorde-die-speicherknappheit-koennte-bis-2030-andauern-ce785cd2da88f426</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Wall Street schließt fester — dritter Gewinntag in Folge nach der Fed-Pause</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-7</guid>
+    <description>S&amp;P 500, Nasdaq und Dow legen zum dritten Tag in Folge zu. Oracle gewinnt zwölf Prozent, Wendy's 14,6 Prozent nach dem Trian-Angebot; nach Börsenschluss stehen Alphabet und Microsoft an.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html</r724:quelle>
+    <r724:quelle>https://portfolio-terminal.com/markets/stock-market-close</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+  <item>
+    <title>Ölpreis zieht an: Huthi-Angriff auf saudische Raffinerie befeuert Lieferängste</title>
+    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-8</guid>
+    <description>Ein Barrel Brent kostet zuletzt rund 112 Dollar, 2,3 Prozent mehr als am Vortag. Ein Huthi-Angriff auf eine saudische Raffinerie und Berichte über eine mögliche US-Kampagne nach den Zwischenwahlen befeuern die Lieferängste.</description>
+    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle>https://www.wallstreet-online.de/nachricht/21596856-rohstoffpreise-ueberblick-goldpreis-silberpreis-oel-brent-wti-rohstoffe-28-10-2026</r724:quelle>
+    <r724:quelle>https://apnews.com/article/stock-markets-ai-earnings-oil-b07c5abe1fbaacc7618aeb610eaa91e0</r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
   <item>
     <title>Update: Bei 80 Prozent ausgezählten Stimmen führt Netanjahus Block mit 54 Sitzen — Patt bleibt</title>
     <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-1</link>
@@ -18,94 +123,14 @@
     <r724:quelle url="https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
-    <title>Selenskyj hofft auf EU-Beteiligung an den Ukraine-Gesprächen im November</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-2</guid>
-    <description>Für November sind Gespräche zwischen Russland, der Ukraine und den USA geplant. Selenskyj wünscht sich die EU am Verhandlungstisch; Termin und Ort stehen noch nicht fest.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Lawrow reist zum G20-Außenministertreffen nach Atlanta</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-3</guid>
-    <description>Russlands Außenminister wird das G20-Treffen in den USA leiten — ein seltener Auftritt russischer Diplomatie auf amerikanischem Boden, unmittelbar vor den geplanten Ukraine-Gesprächen im November.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Tagesrückblick: DAX schließt bei 25.704,02 Punkten — Rekordgewinn der Deutschen Bank, Symrise stürzt</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-4</guid>
-    <description>Der DAX gewann zum Xetra-Schluss 0,44 Prozent auf 25.704,02 Punkte. KI-Hoffnungen trieben den Markt, die Deutsche Bank legte vier Prozent zu, Symrise rutschte um mehr als zehn Prozent ab.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-auf-erholungskurs-12185579"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Fed entscheidet zum Redaktionsschluss: Zinspause gilt als safe — Dezember als Nächstes</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-5</guid>
-    <description>94 von 100 befragten Ökonomen erwarten eine Zinspause zwischen 3,75 und 4,00 Prozent. Alle 100 rechnen im Dezember mit der nächsten Anhebung — Warshs Formulierungen zählen deshalb doppelt.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://financefeeds.com/de/fed-entscheidung-mittwoch-oekonomen-halt-dezember-anhebung/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Rohstoffe vor der Fed: Gold gibt nach, Öl legt kräftig zu</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-6</guid>
-    <description>Gold notierte rund ein halbes Prozent schwächer nahe der 4.040-Dollar-Marke, Brent stieg um gut zwei Prozent auf etwa 112,27 Dollar. Händler nannten Positionierungen vor dem Fed-Entscheid.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.goldreporter.de/goldpreis-28-10-2026/marktbericht-gold/262650/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Webb durchleuchtet die Sternwiege NGC 7129 — junge Sterne im Staub entlarvt</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-7</guid>
-    <description>Das James-Webb-Teleskop zeigt die Sternbildungsregion NGC 7129 in neuer Tiefe. Der Infrarotblick durchdringt den Staub und enthüllt zahlreiche Protosterne, die früheren Teleskopen verborgen blieben.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Space &amp; Forschung</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://esawebb.org/news/weic2620/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>Mögliche Supernova im jungen Universum — Webb fing sie wenige Tage nach der Explosion</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-8</guid>
-    <description>Astronomen entdeckten mit Webb eine mögliche Supernova bei einer Rotverschiebung von gut 5 — ohne Gravitationslinse, vermutlich nur vier bis zehn Tage nach der Explosion. Die Studie ist als Preprint erschienen.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Space &amp; Forschung</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-  <item>
-    <title>NASA beschleunigt Mondpläne: Landung 2028 mit SpaceX- oder Blue-Origin-Fähre</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-9</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-9</guid>
-    <description>Die NASA zielt auf eine bemannte Mondlandung im Jahr 2028 — mit einer Fähre von SpaceX oder Blue Origin, je nachdem, welche Firma zuverlässiger testet. Die Strategie soll zugleich Artemis IV absichern.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Space &amp; Forschung</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.cbsnews.com/news/nasa-artemis-2028-moon-landing-program-adjustments/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
+
+
+
+
+
+
+
+
 <item>
     <title>Update: Netanjahu-Lager baut Vorsprung aus — arabische Parteien bieten sich als Mehrheitsbeschaffer an</title>
     <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-1</link>
