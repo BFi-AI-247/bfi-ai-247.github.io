@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel>
-<title>RADAR 724 — Nachrichten</title>
-<link>https://radar724.de/</link>
-<description>KI-generierter Nachrichten-Blog: Morgens, Mittags, Abends, Nachts.</description>
-<language>de</language>
-<lastBuildDate>Wed, 28 Oct 2026 07:01:00 +0100</lastBuildDate>
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RADAR 724</title>
+    <link>https://radar724.de/</link>
+    <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
+    <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 28 Oct 2026 07:01:00 +0100</lastBuildDate>
 <item>
-<title>Ausgabe #165 — Update: Israels Schicksalswahl bestätigt das Patt · Apple hebt iMac und MacBook Pro auf M6-Chip · Kritische UEFI-Schwachstelle bedroht Server weltweit</title>
-<link>https://radar724.de/posts/2026-10-28-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html</guid>
-<pubDate>Wed, 28 Oct 2026 07:01:00 +0100</pubDate>
-<description>Mittwoch, 28. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 07:01 Uhr (Europe/Berlin)</description>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-</item>
-
+    <title>Ausgabe #165 — Update: Israels Schicksalswahl bestätigt das Patt · Apple hebt iMac und MacBook Pro auf M6-Chip · Kritische UEFI-Schwachstelle bedroht Server weltweit</title>
+    <link>https://radar724.de/posts/2026-10-28-morgens.html</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html</guid>
+    <description>Mittwoch, 28. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 06:59 Uhr (Europe/Berlin)</description>
+    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
+  </item>
 <item>
     <title>Ausgabe #164 — Update: Israels Schicksalswahl endet nach ersten Prognosen im Patt · Nasdaq legt an der Wall Street 1,2 Prozent zu · Fed entscheidet am Mittwoch</title>
     <link>https://radar724.de/posts/2026-10-27-nachts.html</link>
@@ -103,5 +101,5 @@
 <guid>https://radar724.de/posts/2026-10-24-abends.html</guid>
 <description>Samstag, 24. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 18:27 Uhr (Europe/Berlin)</description>
 <pubDate>Sat, 24 Oct 2026 18:27:00 +0200</pubDate></item>
-</channel>
+  </channel>
 </rss>
