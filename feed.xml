@@ -6,7 +6,14 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:16:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:52:00 +0100</lastBuildDate>
+<item>
+    <title>Ausgabe #167 — Update: Netanjahus Block klar vorn, aber keine Mehrheit · DAX schließt 0,44 Prozent höher · Webb blickt durch den Staub einer Sternwiege</title>
+    <link>https://radar724.de/posts/2026-10-28-abends.html</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html</guid>
+    <description>Mittwoch, 28. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:49 Uhr (Europe/Berlin)</description>
+    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
+  </item>
 <item>
     <title>Ausgabe #166 — Update: Netanjahu-Lager baut Vorsprung aus · Fed entscheidet am Abend über die Zinsen · Jede zwanzigste Lehrkraft lässt Noten ungeprüft von KI vergeben</title>
     <link>https://radar724.de/posts/2026-10-28-mittags.html</link>
@@ -96,11 +103,5 @@
 <guid>https://radar724.de/posts/2026-10-25-morgens.html</guid>
 <description>Sonntag, 25. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 06:27 Uhr (Europe/Berlin)</description>
 <pubDate>Sun, 25 Oct 2026 06:27:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #152 — USA versetzen Personal im Nahen Osten in Alarmbereitschaft — Huthi-Angriffsserie auf Saudi-Arabien — rund 1.000 Festnahmen bei Frankreich-Protesten</title>
-<link>https://radar724.de/posts/2026-10-24-nachts.html</link>
-<guid>https://radar724.de/posts/2026-10-24-nachts.html</guid>
-<description>Samstag, 24. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 23:57 Uhr (Europe/Berlin)</description>
-<pubDate>Sat, 24 Oct 2026 23:57:00 +0200</pubDate></item>
   </channel>
 </rss>
