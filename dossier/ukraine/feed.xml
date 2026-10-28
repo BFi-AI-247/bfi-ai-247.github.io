@@ -6,7 +6,125 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:46:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:49:20 +0100</lastBuildDate>
+    <item>
+      <title>Update: Operation Veles — Selenskyj nennt Details der Pipeline-Offensive bei Kupjansk</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-1</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Selenskyj hat Details zur unterirdischen Pipeline-Operation Veles bei Kupjansk veröffentlicht: über 15 Kilometer Vorstoß, mehr als 100 ausgeschaltete und über 30 gefangene russische Soldaten — Partei-Angabe, nicht unabhängig verifiziert.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-zelensky-reveals-details-of-operation-veles/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraines-veles-pipeline-operation-near-kupiansk-eliminates-over-100-russian-troops-zelensky-says/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Gegenschlag-in-Region-Charkiw-id31465296.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Infrastruktur unter Dauerbeschuss: Konotop-Blackout am vierten Tag, Treffer auf Verlagslager in Charkiw, Ersatzquerungen über den Dnipro</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-2</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>In Konotop dauert der Blackout in den vierten Tag; ein russischer Angriff traf ein Verlagslager in Charkiw, Kyiv genehmigte nach Brückentreffern alternative Dnipro-Querungen.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/blackout-in-konotop-enters-fourth-day-with-no-end-in-sight/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/on-holiday-celebrating-ukrainian-language-russia-strikes-publishers-warehouse-in-kharkiv-2/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/kyiv-approves-alternative-dnipro-crossings-after-russian-strikes-on-bridges/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Verteidigungsministerium: über 302.000 russische Soldaten seit Januar durch Drohnen getötet oder verwundet — Partei-Angabe</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-3</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Das ukrainische Verteidigungsministerium meldet über 302.000 durch Drohnen getötete oder verwundete russische Soldaten seit Januar — eine Partei-Angabe ohne unabhängige Bestätigung.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-zelensky-reveals-details-of-operation-veles/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kyiv unter ballistischem Dauerbeschuss — über 100 Raketen seit dem 14. Oktober, Patriot-Munition knapp</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-4</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Selenskyj zählte über 100 ballistische Raketen gegen Kyiv seit dem 14. Oktober; der Angriff vom 26. Oktober traf Universität, Brücke und Kliniken — ein Toter, 15 Verletzte. Abfangmunition für Patriot-Systeme ist knapp.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russia-launched-over-100-ballistic-missiles-against-kyiv-in-past-two-weeks/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4178769-zelensky-russia-fires-over-100-ballistic-missiles-at-kyiv-region-in-two-weeks.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Lipetsk: Brände nach gemeldetem ukrainischem Angriff — nicht unabhängig bestätigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-5</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>In Lipetsk brennen mehrere Objekte nach einem mutmaßlichen ukrainischen Angriff; Details zu Zielen und Folgen sind offen, der Angriff ist nicht unabhängig bestätigt.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Generalstab meldet steigende Abfangquoten gegen Strahl-Drohnen vom Typ Geran-4 — Partei-Angabe</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-6</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Der ukrainische Generalstab meldet steigende Abfangquoten gegen strahlgetriebene Geran-4-Drohnen — Abwehrquoten sind Partei-Angaben ohne unabhängige Zählung.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-intercepting-more-russian-geran-4-jet-powered-drones-general-staff-says/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Oleschky-Waffenruhe beginnt früher und wird im Cherson-Gebiet ausgeweitet — beide Seiten melden Einhaltung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-7</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Die vermittelte Waffenruhe um Oleschky trat zwei Tage früher in Kraft und wurde innerhalb des Gebiets Cherson ausgeweitet; beide Parteien melden Einhaltung, nach Minenräumung sollen Hilfsgüter fließen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Stubb und Støre telefonieren mit Putin — Diplomatie-Schub vor möglichen Abu-Dhabi-Gesprächen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-8</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Finnlands Präsident Stubb und Norwegens Ministerpräsident Støre telefonierten mit Putin — die ersten solchen Gespräche seit langem, vor möglichen trilateralen Verhandlungen in Abu Dhabi im November.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/norway-finland-call-putin-ahead-of-potential-abu-dhabi-peace-talks-2/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>USA prüfen Berichten zufolge Aufhebung der Sanktionen gegen den russischen Staatsfonds RDIF</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-9</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>Die US-Regierung prüft Berichten zufolge die Sanktions-Aufhebung für den russischen Staatsfonds RDIF — Kritiker warnen vor wirtschaftlichen Konzessionen vor einem Friedensfortschritt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/trump-reportedly-considering-lifting-sanctions-against-russias-investment-fund/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.kyivpost.com/post/88359">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Pentagon bremst Drohnen-Wettbewerb mit ukrainischen Firmen — Export- und Visa-Hürden</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-10</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-10</guid>
+      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
+      <description>US-Exportvorschriften und Visum-Wartezeiten zwingen das Pentagon zur Verlangsamung seines Drohnen-Wettbewerbs mit ukrainischen Unternehmen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/export-hurdles-and-visa-waits-for-ukrainian-companies-force-pentagon-to-slow-its-drone-contest/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>ISW: Russische Offensiven an mehreren Abschnitten — keine bestätigten nennenswerten Geländegewinne</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-10-26.html#artikel-1</link>
