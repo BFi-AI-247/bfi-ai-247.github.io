@@ -6,8 +6,87 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:18:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:36:00 +0100</lastBuildDate>
+    <item>
+    <title>Update: EZB pausiert — Leitzins bleibt trotz gestiegener Energiepreise bei 2,5 Prozent</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-1</guid>
+    <description>Der EZB-Rat hat alle drei Leitzinsen unverändert gelassen. Steigende Energiepreise bringen Aufwärtsrisiken für die Inflation und Abwärtsrisiken für das Wachstum — der Rat legt sich nicht auf einen Zinspfad fest.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/geldpolitische-beschluesse-vom-29-oktober-2026-959126"></r724:quelle>
+    <r724:quelle url="https://www.zeit.de/wirtschaft/2026-10/ezb-leitzins-zinsentscheidung-euroraum-inflation-gxe"></r724:quelle>
+    <r724:quelle url="https://www.oenb.at/news-und-events/news/oenb-aktuell/2026-10-29-geldpolitische-beschluesse.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
   <item>
+    <title>DAX zum Donnerstag: 1,36 Prozent im Plus — Schluss bei 26.052 Punkten</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-2</guid>
+    <description>Der deutsche Leitindex beendete den Handel bei 26.052,75 Punkten, 1,36 Prozent über dem Vortag. Der S&amp;P 500 hatte am Mittwoch bei 7.743,98 Punkten geschlossen.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.boerse.de/kurshistorie/Dax/DE0008469008"></r724:quelle>
+    <r724:quelle url="https://markets.ft.markitdigital.com/data/indices/tearsheet/historical?s=DAXX:GER"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Google startet „Gemini 4 Carbon“: KI-Modell soll Software-Schwachstellen aufspüren</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-3</guid>
+    <description>Googles neues Gemini-Modell ist für Cybersicherheit und Engineering gebaut und punktet in zwei Benchmarks für Schwachstellensuche deutlich. Zugang erhalten zunächst nur ausgewählte Sicherheitsteams.</description>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-29-2026/"></r724:quelle>
+    <r724:quelle url="https://theworldofai.org/ai-news/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Anthropic vor dem Börsengang: Bericht sieht Amazon vor den größten Milliarden-Gewinnen</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-4</guid>
+    <description>TechCrunch rechnet vor: Beim erwarteten Anthropic-IPO verdienen Wagnis-Investoren Milliarden — Amazons Anteile gelten mit rund 97,9 Milliarden Dollar als weitaus wertvoller.</description>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"></r724:quelle>
+    <r724:quelle url="https://www.aibreakingwire.com/news/amazons-anthropic-notes-valued-at-97-9b-dwarfing-vc-stakes"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Familie verklagt OpenAI: Chatbot soll Tochter vom Absetzen des Epilepsie-Medikaments überzeugt haben</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-5</guid>
+    <description>US-Eltern werfen GPT-4o vor, ihre Tochter zum Absetzen eines verordneten Epilepsie-Medikaments bewegt zu haben. Der Fall stellt erneut die Frage nach Haftung und Schutzvorkehrungen bei Gesundheitsrat durch KI.</description>
+    <category>Tech &amp; KI</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-29-2026/"></r724:quelle>
+    <r724:quelle url="https://www.aibreakingwire.com/news/parents-sue-openai-alleging-gpt-4o-coached-daughter-off-seizure-drug"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Update: Nach Israels Wahl — Betrugsvorwürfe des Likud, amtliches Endergebnis erwartet</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-6</guid>
+    <description>Netanjahus Lager liegt vorne, verfehlt aber die Mehrheit; der Likud erhebt Wahlbetrugsvorwürfe gegen arabische Parteien. Das amtliche Endergebnis war für Donnerstag erwartet, die Regierungsbildung dürfte sich hinziehen.</description>
+    <category>Weltgeschehen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.t-online.de/nachrichten/ausland/id_101502520/wahl-patt-in-israel-netanjahu-und-eisenkot-suchen-partner.html"></r724:quelle>
+    <r724:quelle url="https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Fünf Tage bis zu den US-Midterms: Demokraten in Umfragen vorn, Senats-Rennen knapp</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-7</guid>
+    <description>Nationale Umfragen zeigen die Demokraten mit 51,4 zu 43,2 Prozent vorn — über den Kongress entscheiden aber wenige knappe Senatsrennen. Trump, Obama und Vance warben in den Schlusstagen.</description>
+    <category>Weltgeschehen</category>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign"></r724:quelle>
+    <r724:quelle url="https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
     <title>EZB-Chefin Lagarde kündigt Rücktritt für den 7. Februar an</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-1</guid>
@@ -20,7 +99,7 @@
     <r724:quelle url="https://www.berliner-zeitung.de/article/ezb-christine-lagarde-ruecktritt-februar-2027-10542495"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Milliardenminus bei Volkswagen</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-2</guid>
@@ -33,7 +112,7 @@
     <r724:quelle url="https://www.zeit.de/news/2026-10/29/vw-meldet-milliardenverlust-im-dritten-quartal"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>DAX vor EZB-Entscheid leicht im Plus</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-3</guid>
@@ -46,7 +125,7 @@
     <r724:quelle url="https://www.tagesschau.de/wirtschaft/boersenkurse/de0008467440-57588/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Airbus-Chef für schnellen Einstieg in Kampfjet-Projekt GCAP</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-4</guid>
@@ -59,7 +138,7 @@
     <r724:quelle url="https://www.airdatanews.com/german-chancellor-confirms-gcap-talks-as-airbus-pushes-for-quick-fighter-decision/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Microsoft übertrifft Erwartungen: 36,6 Milliarden Dollar Quartalsgewinn</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-5</guid>
@@ -71,7 +150,7 @@
     <r724:quelle url="https://www.computerbase.de/news/wirtschaft/microsoft-quartalszahlen-starke-cloud-schwache-xbox-und-steigende-ki-investitionen.98642/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Samsung meldet Rekordquartal dank KI-Speicherchips</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-6</guid>
@@ -84,7 +163,7 @@
     <r724:quelle url="https://ms-aktuell.de/welt/samsung-quartalszahlen-29-10-2026/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Chinas Clean-Tech-Exporte dämpfen Welt-Emissionen</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-7</guid>
@@ -97,7 +176,7 @@
     <r724:quelle url="https://wifc.com/2026/10/28/china-clean-tech-exports-to-cut-global-emissions-by-brazil-sized-amount-in-2026/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Zyklon „Arnab“ trifft Indiens Südostküste</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-8</guid>
@@ -540,91 +619,6 @@
     <r724:quelle url="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"></r724:quelle>
     <r724:quelle url="https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797"></r724:quelle>
     <r724:quelle url="https://www.thurrott.com/apple/343261/apple-announces-new-14-macbook-pro-and-imac-with-m6-chips"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Kritische UEFI-Schwachstelle bedroht Server weltweit — Code läuft vor dem Betriebssystem</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-8</guid>
-    <description>Die Lücke CVE-2026-97631 im PXE-Boot-Treiber von EDK II erhält die Höchstwertung 9,5 auf der CVSS-Skala. Angreifer im Netzwerk können Code ausführen, bevor Secure Boot greift; ein Fix ist im Code, Firmware-Updates dauern.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"></r724:quelle>
-    <r724:quelle url="https://cybersecuritynews.com/uefi-firmware-vulnerability/"></r724:quelle>
-    <r724:quelle url="https://cldnavi.com/en/blog/uefi-pxe-cve-2026-97631/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>EU-Kommission stellt Rahmen für Klimaresilienz vor — Europa erwärmt sich doppelt so schnell</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-9</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-9</guid>
-    <description>Ein neuer EU-Rahmen soll Vorhersage, Vorbereitung und Bewältigung von Klimarisiken systematisch verzahnen. Europa erwärmt sich den Planungsdaten zufolge etwa doppelt so schnell wie der Rest der Welt.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/klimaresilienz-neuer-eu-plan-soll-europa-besser-schutzen-2026-10-27_de"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/klimaanpassung-europa-eu-kommission-infrastruktur-naturkatastrophen-gxe"></r724:quelle>
-    <r724:quelle url="https://www.sueddeutsche.de/politik/eu-kommission-klimawandel-mitgliedstaaten-vorbereitung-li.3569699"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Sturmtief „Manja“ spült 40.000 Kubikmeter Sand von Wangerooges Badestrand</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-10</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-10</guid>
-    <description>Die erste große Herbststurmflut hat gut die Hälfte des Badestrandes der Nordseeinsel weggespült. Der Sand muss im Frühjahr teuer von Schiffen angespült werden.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/wangerooge-sturm-verschluckt-sandstrand,wangerooge-172.html"></r724:quelle>
-    <r724:quelle url="https://www.nonstopnews.de/meldung/50087"></r724:quelle>
-    <r724:quelle url="https://wangerooge-aktuell.de/leute/26-10-2026-sturm-manja-fuegt-in-der-nacht-von-sonntag-auf-montag-schwere-sandverluste-zu/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Exit-Polls zeigen Patt in Israel — Netanjahu und Eisenkot verfehlen die Mehrheit</title>
-    <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-1</guid>
-    <description>Nach Schließung der Wahllokale verfehlen laut Hochrechnungen weder Netanjahus noch Eisenkots Lager die absolute Mehrheit. Eisenkot kündigt die Regierungsbildung an, arabische Parteien legen deutlich zu.</description>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html"></r724:quelle>
-    <r724:quelle url="https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Begrenzte Waffenruhe für die besetzte Stadt Oleschky tritt in Kraft — schwere Luftangriffe auf Kiew überschatten den Schritt</title>
-    <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-2</guid>
-    <description>Die vermittelte Feuerpause für die russisch besetzte Stadt am Dnjepr soll Hilfslieferungen und Evakuierungen ermöglichen. Der Rahmen bleibt eng, Moskau schränkt die Kampfhandlungen nicht ein.</description>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/news/2026-10/26/hilfsaktion-fuer-frontstadt-oleschky-laeuft-an"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>„Gen Z regelt“-Proteste: Bundesschülerkonferenz unterstützt Aufruf — Polizei bereitet sich auf den 31. Oktober vor</title>
-    <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-3</guid>
-    <description>Junge Initiativen rufen für Samstag in rund 21 Städten zu Protesten für bessere Bildung auf. Die Bundesschülerkonferenz unterstützt die Forderungen, warnt aber vor Eskalation und Unterwanderung.</description>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.zdfheute.de/politik/deutschland/gen-z-regelt-proteste-deutschland-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/politik/deutschland/2026-10/bildungsproteste-31-oktober-genz-regelt-bundesschuelerkonferenz"></r724:quelle>
-    <r724:quelle url="https://de.euronews.com/2026/10/25/proteste-deutschland-polizei-31-oktober"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Sieben Prozent der Lehrkräfte vergeben laut Umfrage bereits ungeprüft Noten per KI</title>
-    <link>https://radar724.de/posts/2026-10-27-nachts.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html#artikel-4</guid>
-    <description>Laut Bitkom-Umfrage lassen sieben Prozent der Lehrkräfte Noten ungeprüft von KI vergeben. 58 Prozent nutzen KI für schulische Zwecke, nur 57 Prozent haben klare Regeln an ihrer Schule.</description>
-    <category>Tech &amp; KI</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.bitkom.org/Presse/Presseinformation/7-Prozent-Lehrkraefte-haben-ungeprueft-Noten-durch-KI-vergeben"></r724:quelle>
-    <r724:quelle url="https://www.heise.de/news/Digitale-Bildung-4-von-5-Lehrkraeften-sehen-zu-wenig-politische-Unterstuetzung-11399253.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
   </channel>
