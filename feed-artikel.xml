@@ -6,8 +6,123 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 18:36:00 +0100</lastBuildDate>
-    <item>
+    <lastBuildDate>Thu, 29 Oct 2026 23:58:00 +0100</lastBuildDate>
+  <item>
+    <title>Update: Historischer Alphabet-Absturz — rund zwölf Prozent Minus ziehen die Wall Street nach unten</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</guid>
+    <description>Alphabet gab am Donnerstag rund zwölf Prozent nach — ein historisch seltener Tagesverlust. S&amp;P 500, Nasdaq und Dow schlossen im Minus, während Small Caps und die europäischen Börsen zulegten.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://portfolio-terminal.com/markets/stock-market-close"></r724:quelle>
+    <r724:quelle url="https://www.centrien.com/markethawk-market-close-2026-10-29/"></r724:quelle>
+    <r724:quelle url="https://metro.newschannelnebraska.com/story/370523431/how-major-us-stock-indexes-fared-thursday-10292026"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Chinas Rekord-Exporte sauberer Technik dürften weltweit deutlich Emissionen dämpfen</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</guid>
+    <description>Eine CREA-Analyse sieht Chinas Exporte von Solaranlagen, Batterien und anderer sauberer Technik auf Rekordniveau: einmal installiert könnten sie jährlich rund 450 Millionen Tonnen CO2 vermeiden — etwa so viel wie Brasiliens Jahres-Emissionen.</description>
+    <category>Klima &amp; Umwelt</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://techxplore.com/news/2026-10-china-exports-tech-big-dent.html"></r724:quelle>
+    <r724:quelle url="https://www.usnews.com/news/business/articles/2026-10-29/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Amazon verpasst die Erwartungen: AWS wächst so schnell wie seit Jahren nicht — Aktie gibt dennoch nach</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</guid>
+    <description>Umsatz und Gewinn blieben im dritten Quartal unter den Prognosen, die Aktie verlor im Nachthandel mehr als fünf Prozent. Die Cloud-Sparte AWS legte dagegen um 39,3 Prozent zu — die schnellste Rate seit fast fünf Jahren.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"></r724:quelle>
+    <r724:quelle url="https://de.qz.com/amazon-aws-cloud-wachstum-schnellstes-ergebnisse-102926"></r724:quelle>
+    <r724:quelle url="https://ms-aktuell.de/welt/amazon-aktie-aws-29-10-2026/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Deutschland und Südkorea starten Tech-Partnerschaft: KI-Sicherheitsinstitute und Halbleiter-Kooperation geplant</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-4</guid>
+    <description>Kanzler Merz stieß auf seiner Asienreise ein Rahmenabkommen mit Südkorea an — geplant sind eine Halbleiter-Partnerschaft und eine engere Zusammenarbeit der KI-Sicherheitsinstitute. Südkorea wird Partnerland des deutschen Digital-Gipfels 2027.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/kanzler-pk-suedkorea-2459098"></r724:quelle>
+    <r724:quelle url="https://www.n-tv.de/politik/Merz-will-strategische-Partnerschaft-mit-Suedkorea-ausbauen-id31472215.html"></r724:quelle>
+    <r724:quelle url="https://www.deutschland.de/de/news/deutschland-und-sudkorea-vertiefen-partnerschaft"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>USA sondieren per Brief neue Iran-Gespräche — Trump lässt Golf-Partner zugleich kampfbereit machen</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-5</guid>
+    <description>US-Vizepräsident Vance hat einen Brief an Irans Sicherheitsratschef Rezaei geschrieben, um einen Verhandlungsrahmen auszuloten. Parallel berichtet das Wall Street Journal von Kriegsvorbereitungen Trumps mit den Golf-Staaten für die Zeit nach den Zwischenwahlen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"></r724:quelle>
+    <r724:quelle url="https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks"></r724:quelle>
+    <r724:quelle url="https://www.rte.ie/news/middle-east/2026/1028/1597144-israel-iran/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Update: Israel vor dem amtlichen Endergebnis — Eisenkot wirft Netanjahu Delegitimierungs-Kampagne vor</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-6</guid>
+    <description>Die Briefwahlstimmen werden gezählt, das amtliche Endergebnis sollte das Patt bestätigen. Eisenkot wirft Netanjahu eine Kampagne zur Delegitimierung des Wahlergebnisses vor; die Wahlkommission ließ Vorwürfe ausländischer Einflussnahme prüfen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.jpost.com/israel-election-2026/article-913268"></r724:quelle>
+    <r724:quelle url="https://www.rte.ie/news/2026/1029/1597180-israeli-election/"></r724:quelle>
+    <r724:quelle url="https://www.al-monitor.com/originals/2026/10/israel-piles-pressure-arab-parties-netanyahu-seeks-government"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Lokale Waffenruhe im ukrainischen Oleshky hält den dritten Tag — Hilfsgüter vor dem Eintritt</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-7</guid>
+    <description>Die lokal begrenzte Waffenruhe zwischen Russland und der Ukraine hält einer Hilfsmission zufolge den dritten Tag mit mehr als 30 Stunden ohne Verstöße. Ärzte, Medikamente und Lebensmittel sollen in die Stadt gebracht werden, bevor Evakuierungskorridore öffnen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day"></r724:quelle>
+    <r724:quelle url="https://abcnews.com/International/wireStory/aid-mission-set-enter-oleshky-localized-russia-ukraine-137667797"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Putin nennt Elon Musk „wahrlich ein Genie“ — Moskau jagt einem eigenen Satelliten-Internet hinterher</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-8</guid>
+    <description>Putin würzte SpaceX-Gründer Musk bei einem Ausstellungsbesuch als „wahrlich ein Genie“ und treibt parallel ein russisches Satelliten-Internet voran. Hintergrund ist der Streit über Starlink-Zugangsbeschränkungen für die Ukraine.</description>
+    <category>Space &amp; Forschung</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.themoscowtimes.com/2026/10/28/a-real-genius-putin-showers-elon-musk-with-praise-a94109"></r724:quelle>
+    <r724:quelle url="https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html"></r724:quelle>
+    <r724:quelle url="https://www.channelnewsasia.com/world/putin-elon-musk-russia-starlink-6501276"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>US-Militärprüfer lehnt Untersuchung der Starlink-Drosselung für die Ukraine ab</title>
+    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-9</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-9</guid>
+    <description>Der Pentagon-Generalinspekteur will die abrupte Verlangsamung von Starlink in der Ukraine nicht untersuchen. Offen bleibt, wer die Drosselung des militärisch genutzten Netzes angeordnet hat.</description>
+    <category>Space &amp; Forschung</category>
+    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://abcnews.com/international/pentagon-inspector-general-declines-investigate-starlink-disruptions-ukraine/story?id=137662539"></r724:quelle>
+    <r724:quelle url="https://eutoday.net/pentagon-watchdog-starlink-investigation-musk-ukraine/"></r724:quelle>
+    <r724:quelle url="https://www.usnews.com/news/politics/articles/2026-10-28/pentagon-watchdog-tells-lawmakers-it-wont-investigate-starlink-slowdowns-to-ukraine"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
     <title>Update: EZB pausiert — Leitzins bleibt trotz gestiegener Energiepreise bei 2,5 Prozent</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-1</guid>
@@ -19,7 +134,7 @@
     <r724:quelle url="https://www.oenb.at/news-und-events/news/oenb-aktuell/2026-10-29-geldpolitische-beschluesse.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>DAX zum Donnerstag: 1,36 Prozent im Plus — Schluss bei 26.052 Punkten</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-2</guid>
@@ -30,7 +145,7 @@
     <r724:quelle url="https://markets.ft.markitdigital.com/data/indices/tearsheet/historical?s=DAXX:GER"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Google startet „Gemini 4 Carbon“: KI-Modell soll Software-Schwachstellen aufspüren</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-3</guid>
@@ -41,7 +156,7 @@
     <r724:quelle url="https://theworldofai.org/ai-news/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Anthropic vor dem Börsengang: Bericht sieht Amazon vor den größten Milliarden-Gewinnen</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-4</guid>
@@ -52,7 +167,7 @@
     <r724:quelle url="https://www.aibreakingwire.com/news/amazons-anthropic-notes-valued-at-97-9b-dwarfing-vc-stakes"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Familie verklagt OpenAI: Chatbot soll Tochter vom Absetzen des Epilepsie-Medikaments überzeugt haben</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-5</guid>
@@ -63,7 +178,7 @@
     <r724:quelle url="https://www.aibreakingwire.com/news/parents-sue-openai-alleging-gpt-4o-coached-daughter-off-seizure-drug"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Update: Nach Israels Wahl — Betrugsvorwürfe des Likud, amtliches Endergebnis erwartet</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-6</guid>
@@ -75,7 +190,7 @@
     <r724:quelle url="https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Fünf Tage bis zu den US-Midterms: Demokraten in Umfragen vorn, Senats-Rennen knapp</title>
     <link>https://radar724.de/posts/2026-10-29-abends.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-abends.html#artikel-7</guid>
@@ -507,118 +622,6 @@
     <r724:quelle url="https://www.onvista.de/news/2026/10-28-dax-hoeher-erwartet-fed-entscheid-und-bilanzen-im-blick-0-20-26569164"></r724:quelle>
     <r724:quelle url="https://www.comdirect.de/inf/indizes/DE0008467440"></r724:quelle>
     <r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>GfK-Konsumklima: Kauflaune im November bei minus 30,8 Punkten — Erwartungen steigen, Anschaffungsneigung nicht</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-8</guid>
-    <description>Das GfK-Konsumklima fällt für November auf minus 30,8 Punkte. Während die Konjunkturerwartungen steigen, geht die Anschaffungsneigung weiter zurück — für den Einzelhandel beginnt die Vorweihnachtszeit unter erschwerten Bedingungen.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.nim.org/en/consumer-climate/detail-consumer-climate/konsumklima-konjunkturerwartungen-steigen-kauflaue-zieht-nicht-mit"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Größter Börsengang des Jahres: tk accelis debütiert mit rund zwei Milliarden Dollar Bewertung</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-9</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-9</guid>
-    <description>Der frühere Thyssenkrupp-Werkstoffhändler tk accelis ist mit knapp zwei Milliarden US-Dollar Bewertung in den Prime Standard gewechselt — der größte deutsche Börsengang des Jahres und ein sichtbarer Termin im Thyssenkrupp-Konzernumbau.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tkaccelis.com/en/press-detail/tk-accelis-makes-its-stock-market-debut:-one-of-the-leading-materials-distributors-and-service-providers-steps-into-independence-2546"></r724:quelle>
-    <r724:quelle url="https://live.euronext.com/en/financial-news/thyssenkrupps-tk-accelis-valued-close-2-billion-german-market-debut"></r724:quelle>
-    <r724:quelle url="https://www.thyssenkrupp.com/en/press-detail/thyssenkrupp-ag-announces-planned-date-for-stock-market-listing-of-tk-accelis-96050"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Auszählung in Israel bestätigt Patt — Netanjahus Block bleibt sechs Sitze von der Mehrheit entfernt</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-1</guid>
-    <description>Nach vorläufigen Auszählungen kommt Netanjahus Block auf etwa 55 von 120 Knesset-Sitzen — sechs Mandate fehlen zur Mehrheit. Eisenkots Lager liegt bei rund 50 Sitzen, beide Seiten beginnen mit Gesprächen zur Regierungsbildung.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html"></r724:quelle>
-    <r724:quelle url="https://www.n-tv.de/politik/Netanjahu-strebt-neue-Rechts-Regierung-an-id31465351.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>James-Webb-Teleskop entdeckt Lava-Planeten mit reflektierendem „Riesensonnenschirm“</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-2</guid>
-    <description>Der Lava-Planet TOI-561 b wirft demnach rund 75 Prozent des Sternlichts zurück — vermutlich über helle Silikatwolken. Die Studie zeigt, wie Steinplaneten unter extremen Bedingungen Atmosphären bewahren.</description>
-    <category>Space &amp; Forschung</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Flávio Bolsonaro ist unter Missachtung eines Ausreiseverbots in den USA eingetroffen</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-3</guid>
-    <description>Der brasilianische Senator hat das Land trotz gerichtlichen Ausreiseverbots verlassen; ihm und seiner Familie stellt das US-Außenministerium Visa aus. Bolsonaro verweigert weiter ein Einlenken nach der Wahlniederlage.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html"></r724:quelle>
-    <r724:quelle url="https://www.bbc.co.uk/news/articles/ckly0xpxp243o"></r724:quelle>
-    <r724:quelle url="https://www.n-tv.de/politik/Flavio-Bolsonaro-flieht-aus-Brasilien-in-die-USA-id31464948.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Endlager-Suche wird konkret: Fünf Bundesländer scheiden aus — rund fünf Prozent der Fläche bleiben im Rennen</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-4</guid>
-    <description>Rheinland-Pfalz, Hessen, Berlin, Sachsen und das Saarland kommen nicht mehr infrage; der Norden bleibt möglicher Schwerpunkt. Bis 2031 soll die Standortauswahl stehen.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/deutschland/atommuell-endlager-suche-bundeslaender-100.html"></r724:quelle>
-    <r724:quelle url="https://taz.de/Endlagersuche-11-von-16-Bundeslaendern-haben-potenziell-geeignete-Gebiete/!6225307/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Vor dem 31. Oktober: Angriffe auf „Gen Z regelt“-Demonstrierende häufen sich</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-5</guid>
-    <description>Drei Tage vor den angekündigten Jugendprotesten mehren sich Berichte über Angriffe auf Demonstrierende. Die Bundesschülerkonferenz unterstützt den Aufruf, die Polizei bereitet einen Schutzrahmen vor.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.zdfheute.de/politik/deutschland/gen-z-regelt-proteste-deutschland-100.html"></r724:quelle>
-    <r724:quelle url="https://taz.de/Angriffe-auf-Gen-Z-regelt-Proteste/!6225340/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Anthropic leitet den Börsengang ein — 333-Seiten-Prospekt voller außergewöhnlicher KI-Warnungen</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-6</guid>
-    <description>Bei der SEC liegt ein 333 Seiten starker Prospekt für das Nasdaq-Debüt unter dem Kürzel ANT vor. Ein erheblicher Teil warnt vor den eigenen Produkten — von KI-Erpressung bis selbstbewahrenden Modellen.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://de.euronews.com/2026/10/27/anthropic-vor-borsengang-unternehmen-warnt-anleger-vor-risiken-durch-ki-cyberangriffe-und"></r724:quelle>
-    <r724:quelle url="https://www.aktien.news/anthropic-beantragt-borsengang-und-warnt-vor-ki-risiken"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/geld/2026-10/anthropic-boerse-unternehmen-kuenstliche-intelligenz-risiken"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Apple legt iMac und MacBook Pro mit M6-Chip neu auf — Vorbestellung startet heute</title>
-    <link>https://radar724.de/posts/2026-10-28-morgens.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-morgens.html#artikel-7</guid>
-    <description>iMac und 14-Zoll-MacBook Pro erhalten den M6 mit zwölf CPU- und zwölf GPU-Kernen sowie zwei Neural Engines. Der iMac ist ab 1.499 US-Dollar gelistet, die Auslieferung beginnt am 6. November.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"></r724:quelle>
-    <r724:quelle url="https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797"></r724:quelle>
-    <r724:quelle url="https://www.thurrott.com/apple/343261/apple-announces-new-14-macbook-pro-and-imac-with-m6-chips"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
   </channel>
