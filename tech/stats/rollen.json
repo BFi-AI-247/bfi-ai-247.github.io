@@ -55,7 +55,15 @@
       "antworten": 20,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
       "stand": "01.10.2026, 08:51 Uhr"
+    },
+    {
+      "rolle": "Kanon_Sync_2",
+      "dienstbeginn": "30.09.2026",
+      "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
+      "antworten": 1,
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-10-28T23:16:12+01:00"
+  "updated": "2026-10-29T06:07:03+01:00"
 }
