@@ -3,6 +3,12 @@
   "job": "DosUKR",
   "laeufe": [
     {
+      "datum": "2026-10-29",
+      "ist_start": "2026-10-29T06:01:59+01:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-28",
       "ist_start": "2026-10-28T05:47:20+01:00",
       "dauer_min": 3,
@@ -174,12 +180,6 @@
       "datum": "2026-09-28",
       "ist_start": "2026-09-28T06:45:05+02:00",
       "dauer_min": 7,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-09-27",
-      "ist_start": "2026-09-27T06:20:37+02:00",
-      "dauer_min": 3,
       "status": "ok"
     }
   ]
