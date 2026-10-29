@@ -6,7 +6,13 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:18:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:36:00 +0100</lastBuildDate>
+<item>
+    <title>Ausgabe #171 — Update: EZB lässt die Zinsen trotz Energiepreis-Sorge unverändert · DAX schließt 1,36 Prozent höher · Google startet Sicherheits-KI „Gemini 4 Carbon“</title>
+    <link>https://radar724.de/posts/2026-10-29-abends.html</link>
+    <guid>https://radar724.de/posts/2026-10-29-abends.html</guid>
+    <description>Donnerstag, 29. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Weltgeschehen · erstellt um 18:34 Uhr (Europe/Berlin)</description>
+    <pubDate>Thu, 29 Oct 2026 18:34:00 +0100</pubDate></item>
 <item>
     <title>Ausgabe #170 — EZB-Chefin Lagarde tritt im Februar vorzeitig zurück · Volkswagen rutscht ins Milliardenminus · Microsoft übertrifft mit KI-Geschäft die Erwartungen</title>
     <link>https://radar724.de/posts/2026-10-29-mittags.html</link>
@@ -97,13 +103,6 @@
 <guid>https://radar724.de/posts/2026-10-26-morgens.html</guid>
 <description>Montag, 26. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 07:01 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 26 Oct 2026 07:01:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #156 — Update: Studentenliste gewinnt Parlamentswahl in Serbien — Vučić räumt Niederlage ein — Israel weitet Westjordanland-Offensive vor der Wahl aus</title>
-<link>https://radar724.de/posts/2026-10-25-nachts.html</link>
-<guid>https://radar724.de/posts/2026-10-25-nachts.html</guid>
-<description>Sonntag, 25. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Gesundheit &amp; Medizin · erstellt um 23:06 Uhr (Europe/Berlin)</description>
-<pubDate>Sun, 25 Oct 2026 23:06:00 +0100</pubDate></item>
-
 
   </channel>
 </rss>
