@@ -6,7 +6,97 @@
     <atom:link href="https://radar724.de/borkum_kurier/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:34:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:06:00 +0100</lastBuildDate>
+    <item>
+      <title>NORDLICHT II kehrt heute in den Regelbetrieb zurück — Ersatzfahrplan endet</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-1</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Die AG Ems beendet den Ersatzfahrplan für den beschädigten Katamaran: Bis 07:15 Uhr lief die MS Westfalen, danach übernimmt die NORDLICHT wieder den regulären Fahrplan. Gebuchte Gäste wurden umgebucht, Tickets gelten alternativ für Fährfahrten.</description>
+      <category>Meldung des Tages</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Rossmann schließt — Insel verliert ihre Drogerie-Filiale</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-2</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Lokale Medien berichten übereinstimmend von der Schließung der Rossmann-Filiale auf Borkum. Damit verschärft sich die Versorgungslage — die einzige Insel-Drogerie war bereits vorübergehend geschlossen. Details liegen hinter der Paywall.</description>
+      <category>Insel-Wirtschaft</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Telefonbetrüger bleiben im Visier — Polizei warnt weiter</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-3</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Die Polizeiinspektion Emsland/Grafschaft Bentheim wiederholt ihre Warnung vor falschen Polizeibeamten, nachdem auch Borkumer anvisiert worden waren. Echte Dienststellen fragen nie nach Wertsachen — auflegen und melden.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ostwind-Nachgang: Schifffahrt kehrt zum normalen Takt zurück</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-4</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Die Folgen der Ostwindlage für die Schifffahrt klingen ab, der Fährbetrieb läuft wieder regelrecht. Rückblickend wird der Fall des wiedergefundenen Surfers aufgearbeitet; neue Schadensmeldungen liegen nicht vor.</description>
+      <category>Wetter &amp; Küstenschutz</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Gezeitenland startet ab November neue Monats-Abos</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-5</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Das Borkumer Gezeitenland bietet ab November Monats-Abos für Fitnessbereich und Erlebnisbad an. Die Borkumer Zeitung widmet dem Abogeschäft eine Aufmacher-Meldung; Details liegen hinter der Paywall.</description>
+      <category>Inselleben</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>MVZ-Debatte: Kassenpatienten-Versorgung bleibt Dauerthema</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-6</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Die Debatte um die Versorgung von Kassenpatienten im medizinischen Versorgungszentrum bleibt bestehen. Eine neue Entscheidung ist nicht ersichtlich — die Wattpost verfolgt den Vorgang.</description>
+      <category>Inselleben</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>„Bye Bye Plastik“ läuft bis 30. November — Leony-Konzert bleibt vorgemerkt</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-29-morgens.html#artikel-7</guid>
+      <pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+      <description>Die Inselsäuberungs-Kampagne „Borkum räumt auf — Das Meer braucht Dich“ läuft bis zum 30. November. Parallel bleibt das Leony-Open-Air bei den Beach Days vom 13. bis 16. August 2027 vorgemerkt.</description>
+      <category>Inselleben &amp; Kultur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>NORDLICHT II nach Mole-Zwischenfall in der Überholung — MS Westfalen als Ersatz</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-1</link>
@@ -545,43 +635,6 @@
       <category>Borkum</category>
       <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Borkumerin im Rennen um den Deutschen Engagementpreis — Voting läuft bis Ende Oktober</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-7</guid>
-      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
-      <description>Ana-Maria Andrei ist weiterhin im Rennen um den Deutschen Engagementpreis 2026. Das Publikums-Voting läuft noch bis Ende Oktober.</description>
-      <category>Insel &amp; Vereine</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>„Bye Bye Plastik“: Inselsäuberungs-Kampagne läuft bis Ende November</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-8</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-8</guid>
-      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
-      <description>Die Inselsäuberungs-Kampagne „Bye Bye Plastik“ läuft vom 1. April bis 30. November 2026 — jede gesammelte Tasche Müll zählt für das Wattenmeer vor der Haustür.</description>
-      <category>Nationalpark &amp; Natur</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Energie-Kompakt: Alpha Ventus bleibt am Netz — He Dreiht auf voller Kapazität</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-9</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-22-morgens.html#artikel-9</guid>
-      <pubDate>Thu, 22 Oct 2026 05:51:00 +0200</pubDate>
-      <description>Das Offshore-Testfeld Alpha Ventus soll weiterbetrieben werden, der Windpark He Dreiht erreicht volle Kapazität — BP stellt das Projekt Oceanbeat dagegen ein.</description>
-      <category>Blick über die Insel hinaus</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
