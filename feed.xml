@@ -6,7 +6,13 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:19:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:26:00 +0100</lastBuildDate>
+<item>
+    <title>Ausgabe #175 — Deutsche Wirtschaft wächst, Inflation fällt auf 2,8 Prozent · DAX schließt 0,85 Prozent tiefer · Trauer um Patrick Stewart und Elke Sommer</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html</link>
+    <guid>https://radar724.de/posts/2026-10-30-abends.html</guid>
+    <description>Freitag, 30. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 18:26 Uhr (Europe/Berlin)</description>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate></item>
 <item>
     <title>Ausgabe #174 — KI-Sorgen bremsen die Börsen von Tokio bis Frankfurt · Israel: Rechte fordert Festnahme arabischer Parteichefs · Gold rutscht unter 4.000 Dollar</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html</link>
@@ -97,12 +103,6 @@
 <guid>https://radar724.de/posts/2026-10-27-morgens.html</guid>
 <description>Dienstag, 27. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 06:47 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 27 Oct 2026 06:47:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #160 — Anthropic reicht Anmeldung für Rekord-Börsengang ein — Harry Kane gewinnt den Ballon d'Or — Israel wählt am Dienstag zwischen Netanjahu und Eisenkot</title>
-<link>https://radar724.de/posts/2026-10-26-nachts.html</link>
-<guid>https://radar724.de/posts/2026-10-26-nachts.html</guid>
-<description>Montag, 26. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 23:56 Uhr (Europe/Berlin)</description>
-<pubDate>Mon, 26 Oct 2026 23:56:00 +0100</pubDate></item>
 
-  </channel>
+</channel>
 </rss>
