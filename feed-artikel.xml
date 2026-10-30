@@ -6,8 +6,117 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:58:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:37:00 +0100</lastBuildDate>
   <item>
+    <title>Update: Amtliches Ergebnis in Israel — Netanjahu-Block mit 53 Sitzen vorn, aber weit von der Mehrheit entfernt</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-1</guid>
+    <description>Nach Auszählung aller Stimmen kommt Netanjahus Block auf 53 Sitze, die Opposition auf 48, die arabischen Listen auf 19 — niemand erreicht die Mehrheit von 61. Präsident Herzog dürfte nun einen Kandidaten mit der Regierungsbildung betrauen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"></r724:quelle>
+    <r724:quelle url="news-afp-20261029-129cf45e"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Waffenruhe um Oleshky hält an — Hilfslieferung für rund 2.000 Menschen steht bevor</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-2</guid>
+    <description>Die lokal begrenzte Waffenruhe um Oleshky hilt laut beiden Menschenrechtsbeauftragten seit 54 Stunden ohne Verstöße, die Hilfslieferung sollte am Freitag beginnen. Russische Ingenieure deminen Straßen für den Konvoi.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="news-ap-20261029-4f274008"></r724:quelle>
+    <r724:quelle url="https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Update: Vor den „Gen Z regelt“-Protesten am Samstag — Behörden bereiten sich vor, Schülerorganisation distanziert sich</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-3</guid>
+    <description>In rund 30 Städten sind Demonstrationen angekündigt, die Behörden rüsten sich nach den Erfahrungen in Frankreich. Die Bundesschülerkonferenz distanziert sich und ruft für den 20. November eine eigene Demo mit GEW, Elternrat und Fridays for Future auf.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html"></r724:quelle>
+    <r724:quelle url="news-afp-20261029-adef5380"></r724:quelle>
+    <r724:quelle url="https://taz.de/Verfassungsschutz/!6225645/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Kurz vor den US-Zwischenwahlen: Trump sagt letzte Auftritte ab — Republikaner setzen auf „Tele-Rallies“</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-4</guid>
+    <description>Wenige Tage vor dem 3. November streicht Trump Auftritte in Iowa und Kansas; der RNC-Plan sieht virtuelle Tele-Rallies in fast 20 Bundesstaaten vor. Der letzte persönliche Auftritt ist Freitag in Daytona Beach.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies"></r724:quelle>
+    <r724:quelle url="news-afp-20261029-5ad9dbb1"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>US-Wirtschaft wächst im Sommerquartal überraschend kräftig — Bruttoinlandsprodukt steigt um 3,4 Prozent</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-5</guid>
+    <description>Die amtliche Erste Schätzung zeigt 3,4 Prozent annualisiertes Wachstum nach 2,2 Prozent im Vorquartal, getragen von Investitionen, Konsum und Staatsausgaben. Ein starkes Signal für Konjunktur — mit Risiko für die Geldpolitik.</description>
+    <category>Wirtschaft & Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Nach EU-Energiegipfel: Gaspreis an der 100-Euro-Marke — Speicher unter Vorjahresniveau</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-6</guid>
+    <description>Die EU-Energieminister berieten in Luxemburg über die Winterversorgung, nachdem der TTF-Preis zeitweise wieder 100 Euro pro Megawattstunde erreichte. Die Speicher sind zu rund 75 Prozent gefüllt — vor einem Jahr waren es 83 Prozent.</description>
+    <category>Wirtschaft & Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://nexuswild.com/news/eu-energy-ministers-winter-gas-prices-storage/"></r724:quelle>
+    <r724:quelle url="https://www.zeit.de/wirtschaft/2026-10/gaspreis-europa-ttf-iran-krieg-gasspeicher"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Nach Schlusskurs: Amazon-Aktie rutscht nach Zahlen zweistellig ab — KI-Investitionen machen Anlegern Sorgen</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-7</guid>
+    <description>Amazons Aktie gab nachbörslich zeitweise um mehr als zehn Prozent nach; Umsatz und Gewinn verfehlten die Erwartungen. Ein Silberstreif: AWS wächst mit 39,3 Prozent so schnell wie seit fast fünf Jahren nicht.</description>
+    <category>Wirtschaft & Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.boerse-online.de/nachrichten/aktien/amazon-aktie-stuerzt-ab-warum-die-neuen-quartalszahlen-anleger-enttaeuschen-20428710.html"></r724:quelle>
+    <r724:quelle url="https://de.qz.com/amazon-aws-cloud-wachstum-schnellstes-ergebnisse-102926"></r724:quelle>
+    <r724:quelle url="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Samsung meldet Rekord-Quartalsgewinn dank KI-Chips — die Aktie fällt trotzdem</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-8</guid>
+    <description>Der Betriebsgewinn kletterte auf 107,4 Billionen Won — mehr als 780 Prozent im Jahresvergleich. Weil die Halbleiter-Sparte die hohen Erwartungen verfehlte, gab die Aktie trotzdem um mehr als fünf Prozent nach.</description>
+    <category>Tech & KI</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://de.qz.com/samsung-aktie-fllt-trotz-rekordgewinn-aufgrund-von-ki-chip-nachfrage"></r724:quelle>
+    <r724:quelle url="news-afp-20261029-fc7db1f7"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>EU legt Österreichs Social-Media-Verbot für Kinder auf Eis — Brüssel will einheitliche Regeln zuerst</title>
+    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-9</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-9</guid>
+    <description>Die EU-Kommission verlängerte die Stillhaltefrist für Wiens Verbot für unter 14-Jährige auf zwölf Monate. Zuerst soll der EU-weite Kids Act kommen; Vizekanzler Babler kritisierte die Verzögerung.</description>
+    <category>Tech & KI</category>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.derstandard.at/story/3000000346532/eu-legt-oesterreichs-social-media-verbot-auf-eis"></r724:quelle>
+    <r724:quelle url="news-afp-20261029-2b7f25de"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
     <title>Update: Historischer Alphabet-Absturz — rund zwölf Prozent Minus ziehen die Wall Street nach unten</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</guid>
@@ -20,7 +129,7 @@
     <r724:quelle url="https://metro.newschannelnebraska.com/story/370523431/how-major-us-stock-indexes-fared-thursday-10292026"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Chinas Rekord-Exporte sauberer Technik dürften weltweit deutlich Emissionen dämpfen</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</guid>
@@ -32,7 +141,7 @@
     <r724:quelle url="https://www.usnews.com/news/business/articles/2026-10-29/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Amazon verpasst die Erwartungen: AWS wächst so schnell wie seit Jahren nicht — Aktie gibt dennoch nach</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</guid>
@@ -45,7 +154,7 @@
     <r724:quelle url="https://ms-aktuell.de/welt/amazon-aktie-aws-29-10-2026/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Deutschland und Südkorea starten Tech-Partnerschaft: KI-Sicherheitsinstitute und Halbleiter-Kooperation geplant</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-4</guid>
@@ -58,7 +167,7 @@
     <r724:quelle url="https://www.deutschland.de/de/news/deutschland-und-sudkorea-vertiefen-partnerschaft"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>USA sondieren per Brief neue Iran-Gespräche — Trump lässt Golf-Partner zugleich kampfbereit machen</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-5</guid>
@@ -71,7 +180,7 @@
     <r724:quelle url="https://www.rte.ie/news/middle-east/2026/1028/1597144-israel-iran/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Update: Israel vor dem amtlichen Endergebnis — Eisenkot wirft Netanjahu Delegitimierungs-Kampagne vor</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-6</guid>
@@ -84,7 +193,7 @@
     <r724:quelle url="https://www.al-monitor.com/originals/2026/10/israel-piles-pressure-arab-parties-netanyahu-seeks-government"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Lokale Waffenruhe im ukrainischen Oleshky hält den dritten Tag — Hilfsgüter vor dem Eintritt</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-7</guid>
@@ -96,7 +205,7 @@
     <r724:quelle url="https://abcnews.com/International/wireStory/aid-mission-set-enter-oleshky-localized-russia-ukraine-137667797"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Putin nennt Elon Musk „wahrlich ein Genie“ — Moskau jagt einem eigenen Satelliten-Internet hinterher</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-8</guid>
@@ -109,7 +218,7 @@
     <r724:quelle url="https://www.channelnewsasia.com/world/putin-elon-musk-russia-starlink-6501276"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>US-Militärprüfer lehnt Untersuchung der Starlink-Drosselung für die Ukraine ab</title>
     <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-9</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-9</guid>
@@ -513,115 +622,6 @@
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle>https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html</r724:quelle>
     <r724:quelle>https://portfolio-terminal.com/markets/stock-market-close</r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Ölpreis zieht an: Huthi-Angriff auf saudische Raffinerie befeuert Lieferängste</title>
-    <link>https://radar724.de/posts/2026-10-28-nachts.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-nachts.html#artikel-8</guid>
-    <description>Ein Barrel Brent kostet zuletzt rund 112 Dollar, 2,3 Prozent mehr als am Vortag. Ein Huthi-Angriff auf eine saudische Raffinerie und Berichte über eine mögliche US-Kampagne nach den Zwischenwahlen befeuern die Lieferängste.</description>
-    <pubDate>Wed, 28 Oct 2026 23:16:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle>https://www.wallstreet-online.de/nachricht/21596856-rohstoffpreise-ueberblick-goldpreis-silberpreis-oel-brent-wti-rohstoffe-28-10-2026</r724:quelle>
-    <r724:quelle>https://apnews.com/article/stock-markets-ai-earnings-oil-b07c5abe1fbaacc7618aeb610eaa91e0</r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Bei 80 Prozent ausgezählten Stimmen führt Netanjahus Block mit 54 Sitzen — Patt bleibt</title>
-    <link>https://radar724.de/posts/2026-10-28-abends.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-abends.html#artikel-1</guid>
-    <description>Knapp 80 Prozent der Stimmen sind gezählt: Netanjahus rechtskonservativer Block kommt auf 54 Sitze, das Lager um Eisenkot auf 49. Eine Regierungsbildung bleibt offen, auch weil Eisenkot eine Kooperation mit den arabischen Parteien nicht erklärt hat.</description>
-    <pubDate>Wed, 28 Oct 2026 18:49:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Netanjahu-Lager baut Vorsprung aus — arabische Parteien bieten sich als Mehrheitsbeschaffer an</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-1</guid>
-    <description>Kein Block erreicht die Mehrheit der 120 Knesset-Sitze, doch Netanjahus Lager baut bei über 70 Prozent ausgezählten Stimmen den Vorsprung aus. Arabische Parteien kommen auf rund 19 Mandate und bieten sich als Mehrheitsbeschaffer an; das vorläufige Ergebnis wird erst am Freitag erwartet.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/wahl-israel-netanjahu-eisenkot-liveblog-100.html"></r724:quelle>
-    <r724:quelle url="https://www.n-tv.de/politik/Netanjahu-strebt-neue-Rechts-Regierung-an-id31465351.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>EU will Frontex massiv ausbauen — dreimal so viel Personal, doppelt so viel Geld</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-2</guid>
-    <description>Die EU-Kommission schlägt vor, die ständige Frontex-Reserve auf 30.000 Kräfte zu verdreifachen und das Budget auf rund zwölf Milliarden Euro zu verdoppeln. Hinzu kommen ein Koordinationszentrum für Rückführungen und ein Social-Media-Monitoring als Lehre aus der Ceuta-Krise.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/eu-frontex-grenzschutz-abschiebungen-100.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Weltnaturkonferenz in Jerewan geht in die entscheidende Finalwoche — 1,8 Milliarden Dollar mobilisiert</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-3</guid>
-    <description>Die COP 17 tritt in ihre letzte Verhandlungswoche: Bis Freitag sollen die Beschlüsse stehen, das Hochrangige Segment tagt mit rund 1.500 Teilnehmenden. Laut Konferenzleitung wurden bereits mehr als 1,8 Milliarden Dollar für den Arten- und Naturschutz mobilisiert.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.cbd.int/doc/press/2026/pr-2026-10-26-cop17-en.pdf"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Bitkom-Umfrage: 7 Prozent der Lehrkräfte haben schon ungeprüft Noten durch KI vergeben</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-4</guid>
-    <description>Laut Bitkom-Befragung nutzt rund die Hälfte der Lehrkräfte KI im Schulalltag — 7 Prozent haben KI-Ergebnisse ungeprüft in die Benotung einfließen lassen. 70 Prozent halten die KI-Nutzung von Schülern kaum noch kontrollierbar, nur 57 Prozent haben klare Regeln an ihrer Schule.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.bitkom.org/Presse/Presseinformation/7-Prozent-Lehrkraefte-haben-ungeprueft-Noten-durch-KI-vergeben"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Infineon investiert 1,1 Milliarden Euro in Villach — weltweite Premiere für Galliumnitrid-Fertigung</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-5</guid>
-    <description>Infineon baut seinen Kärntner Standort mit 1,1 Milliarden Euro aus und errichtet dort die weltweit erste Hochvolumenfertigung für Galliumnitrid-Leistungshalbleiter auf 300-Millimeter-Wafern. GaN gilt als Schlüsselmaterial für effiziente Stromelektronik in Ladetechnik und Energieversorgung.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.infineon.com/press-release/2026/infpr202610-021"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"></r724:quelle>
-    <r724:quelle url="https://kaernten.orf.at/stories/3376935/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Apple lädt zum „Pro and Tell“-Event — OLED-MacBook Pro mit Touchscreen erwartet</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-6</guid>
-    <description>Zum Apple-Event am Mittwoch erwarten Fachmedien die neue MacBook-Pro-Generation mit OLED-Display — Berichten zufolge erstmals mit Touchscreen. Offizielle Angaben zu Technik und Preisen fehlen bislang; der Livestream am Nachmittag zeigt, was tatsächlich vorgestellt wird.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/"></r724:quelle>
-    <r724:quelle url="https://www.macworld.com/article/2931833/touchscreen-macbook-pro-design-processor-specs-release.html"></r724:quelle>
-    <r724:quelle url="https://tech.yahoo.com/ai/apple-intelligence/articles/latest-macbook-pro-oled-rumors-175912698.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Dax lauert vor dem Fed-Entscheid — Experten erwarten Zinspause nach September-Erhöhung</title>
-    <link>https://radar724.de/posts/2026-10-28-mittags.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-28-mittags.html#artikel-7</guid>
-    <description>Der Dax verbrachte den Mittag bei rund 25.570 Punkten kaum bewegt. Heute Abend entscheidet die Fed über den Leitzins — nach der September-Erhöhung erwarten Fachleute eine Pause. Daneben treiben Quartalszahlen von BASF, Airbus, Mercedes und der Deutschen Bank die Kurse.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Wed, 28 Oct 2026 12:14:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.onvista.de/news/2026/10-28-dax-hoeher-erwartet-fed-entscheid-und-bilanzen-im-blick-0-20-26569164"></r724:quelle>
-    <r724:quelle url="https://www.comdirect.de/inf/indizes/DE0008467440"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
   </channel>
