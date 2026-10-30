@@ -6,7 +6,124 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:19:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:26:00 +0100</lastBuildDate>
+  <item>
+    <title>Inflation fällt auf 2,8 Prozent — der Tankrabatt dämpft die Teuerung spürbar</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-1</guid>
+    <description>Nach 3,3 Prozent im September liegt die erste Schätzung für Oktober bei 2,8 Prozent — niedriger als erwartet. Grund ist die gesenkte Energiesteuer auf Sprit; die Kerninflation beträgt 2,1 Prozent.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"></r724:quelle>
+    <r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"></r724:quelle>
+    <r724:quelle url="https://www.boersennews.de/nachrichten/artikel/dpa-afx/aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche/5332807/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Erste Evakuierungen in Oleschky — die bemerkenswerteste Waffenruhe des Krieges hält am ersten Tag</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-2</guid>
+    <description>Eine Kolonne mit 25 Bussen und Hilfsgütern erreicht die besetzte Stadt am Dnjepr, in der noch rund 2.000 Menschen leben. Grund ist die von US-First Lady Melania Trump vermittelte, örtlich begrenzte Feuerpause.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/"></r724:quelle>
+    <r724:quelle url="https://www.pbs.org/newshour/world/aid-operation-and-evacuations-in-oleshky-amid-brief-truce-agreed-to-by-russia-and-ukraine"></r724:quelle>
+    <r724:quelle url="news-afp-20261030-2fabc9cd"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>DAX schließt bei 25.818 Punkten — schwächeres Ende einer starken Börsenwoche</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-3</guid>
+    <description>Der Leitindex verliert am Freitag 0,85 Prozent auf 25.818,21 Punkte; Ölpreis-Sorgen und Tech-Schwäche drücken. In Woche und Monat bleibt der DAX mit je 2,5 Prozent im Plus.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.boersennews.de/nachrichten/artikel/dpa-afx/aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche/5332807/"></r724:quelle>
+    <r724:quelle url="https://www.mmnews.de/boerse/258867-dax-laesst-deutlich-nach-tech-zahlen-und-energiepreise-belasten"></r724:quelle>
+    <r724:quelle url="https://www.boerse.de/historische-kurse-monate/Dax/DE0008469008"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Konjunktur wächst weiter: Deutschlands BIP legt im Sommerquartal um 0,2 Prozent zu</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-4</guid>
+    <description>Das Bruttoinlandsprodukt steigt von Juli bis September um 0,2 Prozent — nach 0,4 und 0,3 Prozent in den Vorquartalen. In der Eurozone wächst die Wirtschaft um 0,4 Prozent, Frankreich schrumpft.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="news-afp-20261030-526e04a1"></r724:quelle>
+    <r724:quelle url="news-afp-20261030-7f204cca"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Fast drei Millionen Arbeitslose — die Herbstbelebung auf dem Arbeitsmarkt bleibt aus</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-5</guid>
+    <description>2,955 Millionen Menschen sind im Oktober arbeitslos gemeldet, die Quote sinkt auf 6,3 Prozent. Nur 40 Prozent der Ausbildungsbewerber fanden bis Ende September eine Stelle — ein Negativrekord seit der Wiedervereinigung.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html"></r724:quelle>
+    <r724:quelle url="https://www.ad-hoc-news.de/wirtschaft/arbeitsmarkt-2-955-millionen-arbeitslose-im-oktober-2026/70433376"></r724:quelle>
+    <r724:quelle url="https://www.arbeitsagentur.de/vor-ort/rd-bw/presse/2026-15-arbeitsmarkt-im-oktober-2026"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Größter Krypto-Diebstahl aller Zeiten: Angriff auf Binance läuft auf bis zu 6,3 Milliarden Dollar</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-6</guid>
+    <description>Die weltgrößte Kryptobörse bestätigt einen komplexen Angriff; rund drei Milliarden Dollar wurden eingefroren. TRM Labs schreibt den Coup mit hoher Wahrscheinlichkeit der nordkoreanischen Gruppe TraderTraitor zu.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.heise.de/news/6-3-Milliarden-US-Dollar-Neuer-groesster-Krypto-Coup-aller-Zeiten-trifft-Binance-11505601.html"></r724:quelle>
+    <r724:quelle url="https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html"></r724:quelle>
+    <r724:quelle url="https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Wall Street: Tech-Ausverkauf verschärft sich — Amazon und Intel drücken den S&P 500 um 1,2 Prozent</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-7</guid>
+    <description>Der S&P 500 gibt im Freitaghandel 1,2 Prozent nach und tilgt damit nahezu seinen Oktober-Gewinn. Der Nasdaq rutscht um 2,2 Prozent ab; die Renditen langlaufender US-Anleihen sinken.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="news-ap-20261030-99bd9bbe"></r724:quelle>
+    <r724:quelle url="https://www.boersennews.de/nachrichten/artikel/dpa-afx/aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche/5332807/"></r724:quelle>
+    <r724:quelle url="https://www.mmnews.de/boerse/258867-dax-laesst-deutlich-nach-tech-zahlen-und-energiepreise-belasten"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Trauer um Patrick Stewart: „Star Trek“-Captain und „X-Men“-Star stirbt mit 86 Jahren</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-8</guid>
+    <description>Der Brite starb nach kurzer Alzheimer- und Lewy-Body-Erkrankung in Los Angeles. Als Captain Picard und Professor Xavier wurde er weltberühmt; Kollegen wie William Shatner und George Takei trauern öffentlich.</description>
+    <category>Kultur &amp; Medien</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"></r724:quelle>
+    <r724:quelle url="https://variety.com/2026/tv/obituaries-people-news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/"></r724:quelle>
+    <r724:quelle url="https://www.cbc.ca/news/entertainment/star-trek-patrick-stewart-dead-9.7401818"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Auch Elke Sommer ist tot: Hollywood-Star aus Franken stirbt mit 85 Jahren</title>
+    <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-9</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-9</guid>
+    <description>Die Schauspielerin starb am Mittwoch in ihrem Haus in Bel Air. Die gebürtige Berlinerin war eines der bekanntesten Gesichter des deutschen „Fräuleinwunders“ in Hollywood und erhielt 1964 den Golden Globe.</description>
+    <category>Kultur &amp; Medien</category>
+    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.tagesschau.de/kultur/schauspielerin-elke-sommer-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zdfheute.de/panorama/prominente/elke-sommer-tod-schauspielerin-beruehmt-100.html"></r724:quelle>
+    <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/schauspielerin-elke-sommer-mit-85-jahren-gestorben,VZQVApD"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
   <item>
     <title>KI-Nervosität trifft Asiens Börsen — Südkoreas Kospi verliert im Frühhandel 5,4 Prozent</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-1</link>
@@ -516,119 +633,6 @@
     <r724:quelle url="https://ms-aktuell.de/welt/samsung-quartalszahlen-29-10-2026/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-<item>
-    <title>Chinas Clean-Tech-Exporte dämpfen Welt-Emissionen</title>
-    <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-7</guid>
-    <description>Eine Analyse rechnet hoch, dass Chinas Exporte sauberer Technologien 2026 über ihre Lebensdauer rund 8.400 Millionen Tonnen CO2 vermeiden könnten — so viel wie Brasilien pro Jahr ausstößt. Es bleibt eine Hochrechnung, kein Messwert.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Thu, 29 Oct 2026 12:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year"></r724:quelle>
-    <r724:quelle url="https://www.usnews.com/news/business/articles/2026-10-29/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says"></r724:quelle>
-    <r724:quelle url="https://wifc.com/2026/10/28/china-clean-tech-exports-to-cut-global-emissions-by-brazil-sized-amount-in-2026/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Zyklon „Arnab“ trifft Indiens Südostküste</title>
-    <link>https://radar724.de/posts/2026-10-29-mittags.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-mittags.html#artikel-8</guid>
-    <description>Mindestens drei Tote und rund 180.000 evakuierte Menschen: Der Zyklon erreichte die Küste Andhra Pradeshs mit Windböen und sintflutartigen Regenfällen. Die Aufräumarbeiten laufen.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Thu, 29 Oct 2026 12:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"></r724:quelle>
-    <r724:quelle url="https://www.abc.net.au/news/2026-10-29/cyclone-arnab-hits-india-east-coast/107321328"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update Zugunglück Spanien: Ermittler sehen menschliches Versagen als Ursache</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-1</guid>
-    <description>Nach der Kollision zweier Hochgeschwindigkeitszüge mit Dutzenden Toten gehen spanische Ermittler von menschlichem Versagen aus. Die Aufarbeitung läuft, Spanien trauert weiter.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/mobilitaet/2026-10/zugunglueck-spanien-hochgeschwindigkeitszug-madrid-andalusien-gxe"></r724:quelle>
-    <r724:quelle url="https://www.derstandard.at/story/3000000346290/hochgeschwindigkeitszuege-in-spanien-kollidiert"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Frankreich erlaubt Champagner des Jahrgangs 2026 erstmals mit mehr als 13 Prozent Alkohol</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-2</guid>
-    <description>Die Rekordhitze des Jahres lässt mehr Alkohol im Wein entstehen: Frankreich gestattet für den Jahrgang 2026 erstmals Gehalte über der 13-Prozent-Grenze, teils bis zu 15 Prozent.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Kultur &amp; Medien</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.vinetur.com/en/20261028109928/france-lets-some-2026-champagne-exceed-the-13-alcohol-limit.html"></r724:quelle>
-    <r724:quelle url="https://www.france24.com/en/france/20260909-france-s-record-heatwave-pushes-champagne-alcohol-levels-to-historic-high"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update Israel: Nach dem Patt beanspruchen beide Blöcke die Regierungsbildung</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-3</guid>
-    <description>Kein Lager erreicht die Mehrheit in der Knesset — trotzdem beanspruchen sowohl Netanjahus Block als auch das Lager um Eisenkot die Regierungsbildung. Die Gespräche dauern an.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="news-afp-20261028-822268f0"></r724:quelle>
-    <r724:quelle url="https://de.wikipedia.org/wiki/Parlamentswahl_in_Israel_2026"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Bundeskanzler Merz zu Gesprächen in Tokio</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-4</guid>
-    <description>Merz setzt seine Asienreise in Japan fort und trifft in Tokio auf die japanische Führung. Im Zentrum stehen Wirtschaftskontakte und sicherheitspolitische Abstimmung.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-takaichi-japan-2458896"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/wirtschaft/weltwirtschaft/merz-asienbesuch-japan-100.html"></r724:quelle>
-    <r724:quelle url="https://japan.kantei.go.jp/105/diplomatic/202610/1028meeting.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update Gen-Z-Proteste: Verfassungsschutz warnt vor linksextremer Unterwanderung der Jugendproteste</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-5</guid>
-    <description>Vor den für Samstag angekündigten Jugendprotesten warnt der Verfassungsschutz vor einer Unterwanderung durch Linksextreme. Die Bundesschülerkonferenz unterstützt die Anliegen der Proteste weiter.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Weltgeschehen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://taz.de/Verfassungsschutz/!6225645/"></r724:quelle>
-    <r724:quelle url="https://www.fr.de/politik/gen-z-proteste-verfassungsschutz-warnt-vor-linksextremisten-zr-94562460.html"></r724:quelle>
-    <r724:quelle url="https://www.n-tv.de/ticker/Verfassungsschutz-warnt-vor-Aufrufen-zu-Jugendprotesten-durch-Linksextreme-id31466113.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Hurun-Liste: Bytedance-Gründer Zhang Yiming erobert die Spitze der reichsten Chinesen zurück</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-6</guid>
-    <description>Der KI-Schub seiner Firmen katapultiert Zhang Yiming wieder an die Spitze der Hurun-Liste der reichsten Chinesen. Der Technologiesektor prägt die Rangliste 2026 deutlich.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.hurun.net/zh-CN/Info/Detail?num=XA79PGPSQSXH"></r724:quelle>
-    <r724:quelle url="https://wtop.com/world/2026/10/bytedance-founder-zhang-yiming-reclaims-top-spot-in-chinas-rich-list-thanks-to-his-firms-ai-push/"></r724:quelle>
-    <r724:quelle url="news-afp-20261028-f4292de9"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Jio Platforms feiert starkes Börsendebüt in Mumbai</title>
-    <link>https://radar724.de/posts/2026-10-29-morgens.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-morgens.html#artikel-7</guid>
-    <description>Der Börsengang von Jio Platforms startet mit deutlichen Kursgewinnen. Der Debutant gehört zu den größten Erstnotierungen Indiens und zieht große Anlegeraufmerksamkeit auf sich.</description>
-    <pubDate>Thu, 29 Oct 2026 06:13:00 +0100</pubDate>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.financialexpress.com/market/ipo-news-jio-platforms-ipo-listing-live-updates-reliance-jio-share-price-bse-nse-live-blog-4370422/"></r724:quelle>
-    <r724:quelle url="https://www.cnbctv18.com/market/jio-platforms-ipo-listing-date-today-reliance-jio-share-price-live-updates-20020862.htm"></r724:quelle>
-    <r724:quelle url="https://www.moneycontrol.com/news/business/ipo/jio-share-price-live-jio-platforms-ipo-listing-reliance-jio-ipo-latest-news-and-updates-14061676.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
+
   </channel>
 </rss>
