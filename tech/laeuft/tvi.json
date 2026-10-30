@@ -3,6 +3,12 @@
   "job": "DosTVI",
   "laeufe": [
     {
+      "datum": "2026-10-30",
+      "ist_start": "2026-10-30T05:51:39+01:00",
+      "dauer_min": 62,
+      "status": "ok"
+    },
+    {
       "datum": "2026-10-26",
       "ist_start": "2026-10-26T05:49:54+01:00",
       "dauer_min": 2,
