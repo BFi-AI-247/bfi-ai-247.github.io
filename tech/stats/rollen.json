@@ -1,12 +1,12 @@
 {
   "rollen": [
     {
-      "rolle": "PM_R1.3",
-      "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "30.10.2026, 16:12 Uhr",
-      "antworten": 105,
+      "rolle": "PM_R1.4",
+      "dienstbeginn": "30.10.2026",
+      "letzte_aktivitaet": "30.10.2026, 23:17 Uhr",
+      "antworten": 5,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.10.2026, 16:12 Uhr"
+      "stand": "30.10.2026, 23:17 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
@@ -19,10 +19,10 @@
     {
       "rolle": "Design_R3.3",
       "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "30.09.2026, 22:06 Uhr",
-      "antworten": 7,
+      "letzte_aktivitaet": "30.10.2026, 23:02 Uhr",
+      "antworten": 8,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.09.2026, 22:06 Uhr"
+      "stand": "30.10.2026, 23:02 Uhr"
     },
     {
       "rolle": "Mom_0",
@@ -65,5 +65,5 @@
       "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-10-30T18:28:02+01:00"
+  "updated": "2026-10-30T23:47:00+01:00"
 }
