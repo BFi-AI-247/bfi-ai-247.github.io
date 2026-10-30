@@ -6,7 +6,12 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:37:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:19:00 +0100</lastBuildDate><item>
+    <title>Ausgabe #174 — KI-Sorgen bremsen die Börsen von Tokio bis Frankfurt · Israel: Rechte fordert Festnahme arabischer Parteichefs · Gold rutscht unter 4.000 Dollar</title>
+    <link>https://radar724.de/posts/2026-10-30-mittags.html</link>
+    <guid>https://radar724.de/posts/2026-10-30-mittags.html</guid>
+    <description>Freitag, 30. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:19 Uhr (Europe/Berlin)</description>
+    <pubDate>Fri, 30 Oct 2026 12:19:00 +0100</pubDate></item>
 <item>
     <title>Ausgabe #173 — Update: Israel bleibt ohne Mehrheit — Netanjahus Block vorn · US-Wirtschaft wächst im Sommerquartal mit 3,4 Prozent · Amazon rutscht nach Zahlen zweistellig ab</title>
     <link>https://radar724.de/posts/2026-10-30-morgens.html</link>
@@ -97,12 +102,6 @@
 <guid>https://radar724.de/posts/2026-10-26-nachts.html</guid>
 <description>Montag, 26. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 23:56 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 26 Oct 2026 23:56:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #159 — DAX beendet den Montag mit Über-Prozent-Aufschlag — Iran erklärt Israels Wahlausgang für gleichgültig — Sturmflut überflutet den Hamburger Fischmarkt</title>
-<link>https://radar724.de/posts/2026-10-26-abends.html</link>
-<guid>https://radar724.de/posts/2026-10-26-abends.html</guid>
-<description>Montag, 26. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Klima &amp; Umwelt · erstellt um 18:37 Uhr (Europe/Berlin)</description>
-<pubDate>Mon, 26 Oct 2026 18:37:00 +0100</pubDate></item>
 
   </channel>
 </rss>
