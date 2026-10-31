@@ -3,10 +3,10 @@
     {
       "rolle": "PM_R1.4",
       "dienstbeginn": "30.10.2026",
-      "letzte_aktivitaet": "30.10.2026, 23:17 Uhr",
-      "antworten": 5,
+      "letzte_aktivitaet": "31.10.2026, 08:51 Uhr",
+      "antworten": 6,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.10.2026, 23:17 Uhr"
+      "stand": "31.10.2026, 08:51 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
@@ -23,6 +23,14 @@
       "antworten": 8,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
       "stand": "30.10.2026, 23:02 Uhr"
+    },
+    {
+      "rolle": "Framework_R6.1",
+      "dienstbeginn": "27.09.2026",
+      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
+      "antworten": 20,
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)",
+      "stand": "01.10.2026, 08:51 Uhr"
     },
     {
       "rolle": "Mom_0",
@@ -57,5 +65,5 @@
       "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-10-31T05:58:15.977+01:00"
+  "updated": "2026-10-31T08:12:27.523Z"
 }
