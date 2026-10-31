@@ -6,8 +6,68 @@
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:14:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:06:55 +0100</lastBuildDate>
+        <item>
+      <title>Landkreis Gifhorn untersagt Nikotin-Pouches — Allgemeinverfügung schützt Kinder und Jugendliche</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-1</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:55 +0100</pubDate>
+      <description>Der Landkreis Gifhorn untersagt per Allgemeinverfügung das Inverkehrbringen der tabakfreien Nikotinbeutel im Kreisgebiet. Grund ist der Jugendschutz; das BfR weist auf gesundheitliche Risiken hin.</description>
+      <category>Meldung des Tages</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.landkreis-gifhorn.de/Service/Landkreis-Gifhorn-sch%C3%BCtzt-Kinder-und-Jugendliche-vor-Nikotin-Pouches.php?object=tx,4083.7214.1" />
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
+      <title>Isenbüttel: Imker-Infoabend — „Ist Imkern ein Hobby für mich?“</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-2</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:55 +0100</pubDate>
+      <description>Die Samtgemeinde Isenbüttel lädt Interessierte zu einem Kursabend über das Imkern als Hobby ein — ein erster Einblick in Haltung, Pflege und Voraussetzungen für ein eigenes Bienenvolk.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.isenbuettel.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>A 2 bei Helmstedt: Baustelle läuft weiter — B 4 zwischen Gifhorn und Braunschweig bleibt ruhig</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-3</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:55 +0100</pubDate>
+      <description>Die amtliche VMZ-Liste zeigt weiterhin Arbeiten auf der A 2 zwischen Helmstedt-West und Marienborn/Helmstedt; auf der B 4 Richtung Braunschweig gibt es keine nennenswerten Sperrungen.</description>
+      <category>Verkehr</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Reformationstag heute: Behörden und Geschäfte bleiben geschlossen</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-4</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:55 +0100</pubDate>
+      <description>Reformationstag ist in Niedersachsen gesetzlicher Feiertag — Rathäuser, Behörden und die meisten Geschäfte bleiben zu. Weil der Tag auf einen Samstag fällt, wird er nicht nachgeholt.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.kalenderpedia.de/feiertage/reformationstag.html" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kindertheater „Ritter Rost“ heute um 15 Uhr im Schloss Gifhorn</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-5</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:55 +0100</pubDate>
+      <description>Der Kulturverein Gifhorn lädt zum musikalischen Kindertheater mit „Ritter Rost“ ins Schloss — mit Patricia Prawit als Burgfräulein Bö, der Originalstimme der Ritter-Rost-Bücher.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kulturverein-gifhorn.com/events/kindertheater-ritter-rost/" />
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Polizei warnt vor falschen Bankmitarbeitern — Täter wollen Bankkarte und Bargeld „prüfen“</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-1</guid>
@@ -559,66 +619,5 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
-      <title>Skoda-Betriebsrat droht mit Großstreik — Tarifstreit im VW-Konzern weitet sich aus</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html</guid>
-      <pubDate>Fri, 23 Oct 2026 05:40:00 +0200</pubDate>
-      <description>Wolfsburger Nachrichten melden (Headline/Teaser) eine Großstreik-Drohung des Skoda-Betriebsrats wegen eingefrorener Gehälter. VW meldet als Absender-Quelle rund 6 Millionen Auslieferungen bis September.</description>
-      <category>Wirtschaft &amp; Arbeit</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.wolfsburger-nachrichten.de/" />
-      <r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>K 56 Lagesbüttel: Ausbau der Ortsdurchfahrt startet später</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-1</guid>
-      <pubDate>Fri, 23 Oct 2026 05:40:00 +0200</pubDate>
-      <description>Der Landkreis Gifhorn bestätigt: Der Baubeginn für die K 56-Ortsdurchfahrt Lagesbüttel verschiebt sich organisatorisch — ein neuer Starttermin ist der Mitteilung nicht zu entnehmen.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Isenbüttel: Zehntes elektronisches Verkündigungsblatt 2026 veröffentlicht</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-2</guid>
-      <pubDate>Fri, 23 Oct 2026 05:40:00 +0200</pubDate>
-      <description>Die Samtgemeinde Isenbüttel hat ihr 10. elektronisches Verkündigungsblatt 2026 veröffentlicht, unter anderem mit Satzungsänderungen.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.isenbuettel.de/" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Isenbüttel: Kraftradfahrer entkommt polizeilicher Kontrolle nur kurz</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-3</guid>
-      <pubDate>Fri, 23 Oct 2026 05:40:00 +0200</pubDate>
-      <description>Polizei Meine nahm auf der Mittelstraße in Isenbüttel ein unbeleuchtetes Kraftrad mit frei liegenden Kabeln wahr; der Fahrer versuchte zu fliehen und wurde gestellt.</description>
-      <category>Feuerwehr &amp; Blaulicht</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Computer-Betrug: 69-Jähriger aus dem Landkreis um mehr als 1.000 Euro gebracht</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-23-morgens.html#artikel-4</guid>
-      <pubDate>Fri, 23 Oct 2026 05:40:00 +0200</pubDate>
-      <description>Schwarzer Bildschirm, Pieptöne, vermeintliche Hilfsnummer: Ein 69-Jähriger im Landkreis Gifhorn fiel auf die Masche herein. Die Polizei warnt vor solchen Anrufen.</description>
-      <category>Feuerwehr &amp; Blaulicht</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
-      <r724:ki>true</r724:ki>
-    </item>
-  </channel>
+      </channel>
 </rss>
