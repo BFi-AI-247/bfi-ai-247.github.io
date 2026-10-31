@@ -6,8 +6,105 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:24:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:08:00 +0100</lastBuildDate>
   <item>
+    <title>Update: Tumult vor Polens Verfassungsgericht — Polizei riegelt Areal ab, drei Festnahmen</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-1</guid>
+    <description>Nach Protesten vor dem Warschauer Verfassungsgericht riegelte die Polizei das Gelände ab; drei Menschen wurden festgenommen. Präsident Nawrocki brach seine Senegal-Reise ab — Auslöser ist die umstrittene Suspendierung der Gerichtsführung.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-krise-polizei-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Update: „Gen Z regelt“ — Demos in 34 Städten gestartet, mehr als 160.000 Zusagen</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-2</guid>
+    <description>Junge Menschen demonstrieren in 34 Städten für Bildung, bezahlbares Leben und Klimaschutz — über 160.000 Teilnahmen sind zugesagt. Behörden und Verfassungsschutz haben sich auf mögliche Ausschreitungen vorbereitet.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/zehntausende-bei-jugendprotesten-in-ganz-deutschland-erwartet,VZbl4bj"></r724:quelle>
+    <r724:quelle url="https://www.tagesschau.de/inland/regional/hamburg/gen-z-regelt-demo-was-heute-in-hamburg-geplant-ist,genz-132.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Selenskyj zu Gast bei Erdoğan: Istanbul berät Ukraine-Krieg und Energiesicherheit</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-3</guid>
+    <description>Selenskyj traf Erdoğan im Istanbuler Dolmabahçe-Palast. Themen sind Friedensbemühungen, die Schifffahrt im Schwarzen Meer und die Energiesicherheit — im Hintergrund der Gazprom-Vorwurf eines Drohnenangriffs auf Turkstream.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.trtdeutsch.com/article/ef4eec673adc"></r724:quelle>
+    <r724:quelle url="https://de.h.ua/2026/10/30/selenskyj-besucht-tuerkei-zusammenkunft-erdogan"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Nach gegenseitigen Vetos: UN-Friedensmission in Westsahara verliert ihr Mandat</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-4</guid>
+    <description>Nach einem russischen Veto gegen einen US-Entwurf und dem Scheitern des russischen Gegenentwurfs läuft das Minurso-Mandat aus. Die USA kündigen einen geordneten Abzug an, die Polisario begrüßt das Veto.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"></r724:quelle>
+    <r724:quelle url="https://press.un.org/en/2026/sc16498"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Strafanzeigen und drei Jahre Sperre: Südkorea geht gegen Smart-Glasses-Betrug vor</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-5</guid>
+    <description>Betrug mit KI-Smart-Brillen an der Suneung-Prüfung soll künftig Strafanzeigen und eine dreijährige Sperre nach sich ziehen. An 1.312 Prüfungsorten werden eigens geschulte Kräfte eingesetzt, Funksignal-Detektoren folgen.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://m.koreaherald.com/article/10920487"></r724:quelle>
+    <r724:quelle url="https://www.rte.ie/news/2026/1030/1597312-south-korea-smart-glasses/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>„Ein echtes Genie“: Putin lobt Elon Musk — während Kiew um gedrosseltes Starlink ringt</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-6</guid>
+    <description>Putin nannte Musk ein Genie und betonte einen engen Kontakt zu US-Partnern im Orbit. Hintergrund ist die vor Wochen gedrosselte und inzwischen wiederhergestellte Starlink-Versorgung der ukrainischen Armee.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.independent.co.uk/news/world/europe/elon-musk-putin-starlink-russia-ukraine-b3075175.html"></r724:quelle>
+    <r724:quelle url="https://kyivindependent.com/putin-calls-musk-genius-as-ukraine-recovers-from-starshield-throttling/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Update: Ecuador richtet COP18 2028 aus — Geheimwahl entscheidet mit 55:53</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-7</guid>
+    <description>Ecuador richtet 2028 die COP18 aus — eine Geheimwahl auf der COP17 in Jerewan entschied mit 55:53 gegen Panama. Quito empfängt damit die nächste UN-Biodiversitätskonferenz samt Protokoll-Treffen.</description>
+    <category>Klima &amp; Umwelt</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.eleconomista.com.mx/internacionales/ecuador-elegido-presidir-cop18-sobre-biodiversidad-onu-20261030-841490.html"></r724:quelle>
+    <r724:quelle url="https://www.ambienteyenergia.gob.ec/ecuador-sera-sede-de-la-conferencia-sobre-biodiversidad-mas-importante-del-mundo/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+  <item>
+    <title>Neun gerettete Orang-Utans finden in Borneos Wäldern ein neues Zuhause</title>
+    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-8</guid>
+    <description>Neun bei Waldbränden gerettete Orang-Utans wurden im Schutzgebiet Batu Nyambu auf Borneo ausgewildert. Seit August kamen mehr als 51 Tiere in Rettungsprogramme; die Feuer zerstörten laut Monitor 1,9 Millionen Hektar.</description>
+    <category>Klima &amp; Umwelt</category>
+    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+    <r724:quelle url="https://www.france24.com/en/live-news/20261030-new-home-for-orangutans-rescued-from-indonesia-s-burning-forests"></r724:quelle>
+    <r724:quelle url="https://news.mongabay.com/2026/10/scorched-sanctuaries-the-race-to-save-borneos-orangutans-from-fires/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
     <title>Staatskrise in Polen: Nawrocki dringt im Streit ums Verfassungsgericht mit Körpereinsatz ins Gebäude ein</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-1</guid>
@@ -18,7 +115,7 @@
     <r724:quelle url="https://www.n-tv.de/politik/Polens-Praesident-Nawrocki-stuermt-ins-Verfassungsgericht-id31478895.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Weltgrößte Catrina: Mexiko-Stadt stellt Rekord-Skelettfigur zum Tag der Toten auf</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-2</guid>
@@ -29,7 +126,7 @@
     <r724:quelle url="https://mexiconewsdaily.com/culture/mexico-city-tallest-catrina-record-day-of-the-dead/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Ein Signal für alle: OpenAI will gemeinsames robots.txt-Zeichen für KI-Trainings-Wünsche beachten</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-3</guid>
@@ -40,7 +137,7 @@
     <r724:quelle url="https://openai.com/index/helping-websites-express-ai-training-preferences/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Schlechtester Tag seit 1974: Intel verliert rund 29 Prozent und 140 Milliarden Dollar Börsenwert</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-4</guid>
@@ -51,7 +148,7 @@
     <r724:quelle url="https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Grünes Licht aus Washington: 500 Patriot-Raketen für die Ukraine — bezahlt von den Partnern</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-5</guid>
@@ -62,7 +159,7 @@
     <r724:quelle url="https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Update: „Gen Z regelt&quot; — bundesweiter Jugendprotest beginnt, Polizei will Gewalttätern die Anreise verwehren</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-6</guid>
@@ -73,7 +170,7 @@
     <r724:quelle url="https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Generalstreik-Aktionstag in Italien: Hunderttausende protestieren gegen die Meloni-Regierung</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-7</guid>
@@ -84,7 +181,7 @@
     <r724:quelle url="https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>„Her Story&quot;: Wiener Albertina holt über 130 vergessene Künstlerinnen aus dem Depot</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-8</guid>
@@ -95,7 +192,7 @@
     <r724:quelle url="https://www.albertina.at/en/exhibitions/women-artists-of-the-albertina/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Weltpremiere bei der Berlinale: immersives Konzerterlebnis mit unveröffentlichtem David-Bowie-Material</title>
     <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-9</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-9</guid>
@@ -106,7 +203,7 @@
     <r724:quelle url="https://www.tagesschau.de/inland/regional/berlin/rbb-berlinale-zeigt-unveroeffentlichtes-konzertmaterial-von-bowie-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>„Sie haben uns getötet": Kremlkritische Zeitung Nowaja Gaseta muss nach 33 Jahren schließen</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-1</guid>
@@ -118,7 +215,7 @@
     <r724:quelle url="https://www.berliner-zeitung.de/article/russland-nowaja-gaseta-schliessung-pressefreiheit-10546868"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Nach Marathon-Verhandlungen: COP17 in Eriwan beschließt in der Verlängerung zwei Schlüssel-Abkommen</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-2</guid>
@@ -130,7 +227,7 @@
     <r724:quelle url="https://www.rfi.fr/fr/environnement/20261030-cop17-biodiversit%C3%A9-%C3%A0-erevan-pas-d-accord-%C3%A0-l-horizon-au-dernier-jour-de-la-conf%C3%A9rence"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Update: Größter Krypto-Diebstahl aller Zeiten — Analysten machen Nordkoreas „TraderTraitor" für den Binance-Raub verantwortlich</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-3</guid>
@@ -143,7 +240,7 @@
     <r724:quelle url="https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Südkorea kündigt Strafanzeigen an: Künftig bloßgestellt, wer bei der „Suneung" mit KI-Datenbrillen schummelt</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-4</guid>
@@ -155,7 +252,7 @@
     <r724:quelle url="https://www.rte.ie/news/2026/1030/1597312-south-korea-smart-glasses/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>„Die Party ist vorbei": KI-Werbung flutet den US-Wahlkampf — Forscher zählen 220 manipulierte Spots</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-5</guid>
@@ -167,7 +264,7 @@
     <r724:quelle url="https://www.rte.ie/brainstorm/2026/1023/1596154-us-midterms-ai-ad-campaigns-republicans-democrats-regulation/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Berlin vor Koalitionsentscheid: Giffey sagt Verhandlungen mit Linken und Grünen ab</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-6</guid>
@@ -178,7 +275,7 @@
     <r724:quelle url="https://www.berliner-zeitung.de/article/streit-um-eralp-belastet-koalitionsverhandlungen-in-berlin-10546091"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Ukraine beendet Angriffspause: Drohnen legen Raffinerie in Samara in Brand</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-7</guid>
@@ -190,7 +287,7 @@
     <r724:quelle url="https://uawire.org/ukraine-resumes-strikes-on-russian-oil-refineries-rosneft-plant-ablaze-in-samara-region"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>„Gen Z regelt": Bundesweiter Jugendprotest am Samstag — Polizei und Schülerräte warnen vor Gewalt</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-8</guid>
@@ -202,7 +299,7 @@
     <r724:quelle url="https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-protest-demonstration-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Naturschutz auf Rekordniveau: 252 Millionen Hektar Land werden weltweit wiederhergestellt</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-9</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-9</guid>
@@ -214,7 +311,7 @@
     <r724:quelle url="https://news.un.org/en/story/2026/10/1168700"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Wissenschaft unter Druck: Vier Länder blockieren am COP17-Endspiel die Anerkennung der IPBES-Berichte</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html#artikel-10</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-nachts.html#artikel-10</guid>
@@ -226,7 +323,7 @@
     <r724:quelle url="https://information.tv5monde.com/international/biodiversite-pas-daccord-lhorizon-au-dernier-jour-de-la-cop17-2843714"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Inflation fällt auf 2,8 Prozent — der Tankrabatt dämpft die Teuerung spürbar</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-1</guid>
@@ -239,7 +336,7 @@
     <r724:quelle url="https://www.boersennews.de/nachrichten/artikel/dpa-afx/aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche/5332807/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Erste Evakuierungen in Oleschky — die bemerkenswerteste Waffenruhe des Krieges hält am ersten Tag</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-2</guid>
@@ -252,7 +349,7 @@
     <r724:quelle url="news-afp-20261030-2fabc9cd"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>DAX schließt bei 25.818 Punkten — schwächeres Ende einer starken Börsenwoche</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-3</guid>
@@ -265,7 +362,7 @@
     <r724:quelle url="https://www.boerse.de/historische-kurse-monate/Dax/DE0008469008"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Konjunktur wächst weiter: Deutschlands BIP legt im Sommerquartal um 0,2 Prozent zu</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-4</guid>
@@ -277,7 +374,7 @@
     <r724:quelle url="news-afp-20261030-7f204cca"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Fast drei Millionen Arbeitslose — die Herbstbelebung auf dem Arbeitsmarkt bleibt aus</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-5</guid>
@@ -290,7 +387,7 @@
     <r724:quelle url="https://www.arbeitsagentur.de/vor-ort/rd-bw/presse/2026-15-arbeitsmarkt-im-oktober-2026"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Größter Krypto-Diebstahl aller Zeiten: Angriff auf Binance läuft auf bis zu 6,3 Milliarden Dollar</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-6</guid>
@@ -303,7 +400,7 @@
     <r724:quelle url="https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Wall Street: Tech-Ausverkauf verschärft sich — Amazon und Intel drücken den S&amp;P 500 um 1,2 Prozent</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-7</guid>
@@ -316,7 +413,7 @@
     <r724:quelle url="https://www.mmnews.de/boerse/258867-dax-laesst-deutlich-nach-tech-zahlen-und-energiepreise-belasten"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Trauer um Patrick Stewart: „Star Trek“-Captain und „X-Men“-Star stirbt mit 86 Jahren</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-8</guid>
@@ -329,7 +426,7 @@
     <r724:quelle url="https://www.cbc.ca/news/entertainment/star-trek-patrick-stewart-dead-9.7401818"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Auch Elke Sommer ist tot: Hollywood-Star aus Franken stirbt mit 85 Jahren</title>
     <link>https://radar724.de/posts/2026-10-30-abends.html#artikel-9</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-abends.html#artikel-9</guid>
@@ -342,8 +439,7 @@
     <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/schauspielerin-elke-sommer-mit-85-jahren-gestorben,VZQVApD"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
-  <item>
+<item>
     <title>KI-Nervosität trifft Asiens Börsen — Südkoreas Kospi verliert im Frühhandel 5,4 Prozent</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-1</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-1</guid>
@@ -356,7 +452,7 @@
     <r724:quelle url="https://www.aktien.news/alphabet-aktie-sturzt-ab-nasdaq-futures-unter-druck-nach-quartalszahlen"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Update: Harte Töne nach Israels Wahl — Ben Gvir verlangt Festnahmen, Netanjahu wird Delegitimierung vorgeworfen</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-2</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-2</guid>
@@ -369,7 +465,7 @@
     <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/arabische-parteien-israel-raum-vereinte-liste-netanjahu-gxe"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Spanien trauert — Suche nach Opfern des Zugunglücks geht weiter</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-3</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-3</guid>
@@ -382,7 +478,7 @@
     <r724:quelle url="https://www.zdfheute.de/panorama/spanien-zugunglueck-suche-opfer-vermisste-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>EU-Kanada-Gipfel endet ohne den großen Titel — „Assoziierte Mitgliedschaft“ vorerst vom Tisch</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-4</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-4</guid>
@@ -395,7 +491,7 @@
     <r724:quelle url="https://www.srf.ch/news/international/eu-kanada-gipfel-warum-die-eu-und-kanada-staerker-zusammenruecken-wollen"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Vor den US-Midterms: Mehr als 13 Millionen Stimmen schon abgegeben</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-5</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-5</guid>
@@ -408,7 +504,7 @@
     <r724:quelle url="news-afp-20261030-8fcaeec8"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Bank of Japan lässt den Leitzins bei 1,25 Prozent — Inflationsziel erstmals seit 2013 für erreicht erklärt</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-6</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-6</guid>
@@ -421,7 +517,7 @@
     <r724:quelle url="https://de.tradingeconomics.com/japan/interest-rate/news/596555"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Goldpreis fällt erneut unter 4.000 Dollar — der Tech-Ausverkauf erfasst auch den Preis des Edelmetalls</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-7</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-7</guid>
@@ -434,7 +530,7 @@
     <r724:quelle url="https://goldoilprice.com/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>DAX zum Handelsmittag leicht im Minus — KI-Sorgen aus den USA bremsen auch Frankfurt</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-8</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-8</guid>
@@ -446,7 +542,7 @@
     <r724:quelle url="https://www.boerse.de/indizes/Dax/DE0008469008"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>Merz wirbt in Seoul um KI-Partner — Deutschland und Südkorea bauen ihre Tech-Allianz aus</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-9</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-9</guid>
@@ -459,7 +555,7 @@
     <r724:quelle url="https://www.ad-hoc-news.de/ausland/merz-wirbt-in-seoul-fuer-globale-freihandels-allianz/70432089"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-  <item>
+<item>
     <title>„Slopaganda“: KI-generierte Wahlwerbung boomt vor den US-Midterms — Republikaner geben am meisten aus</title>
     <link>https://radar724.de/posts/2026-10-30-mittags.html#artikel-10</link>
     <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-mittags.html#artikel-10</guid>
@@ -521,104 +617,5 @@
     <r724:quelle url="news-afp-20261029-5ad9dbb1"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-<item>
-    <title>US-Wirtschaft wächst im Sommerquartal überraschend kräftig — Bruttoinlandsprodukt steigt um 3,4 Prozent</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-5</guid>
-    <description>Die amtliche Erste Schätzung zeigt 3,4 Prozent annualisiertes Wachstum nach 2,2 Prozent im Vorquartal, getragen von Investitionen, Konsum und Staatsausgaben. Ein starkes Signal für Konjunktur — mit Risiko für die Geldpolitik.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Nach EU-Energiegipfel: Gaspreis an der 100-Euro-Marke — Speicher unter Vorjahresniveau</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-6</guid>
-    <description>Die EU-Energieminister berieten in Luxemburg über die Winterversorgung, nachdem der TTF-Preis zeitweise wieder 100 Euro pro Megawattstunde erreichte. Die Speicher sind zu rund 75 Prozent gefüllt — vor einem Jahr waren es 83 Prozent.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://nexuswild.com/news/eu-energy-ministers-winter-gas-prices-storage/"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/wirtschaft/2026-10/gaspreis-europa-ttf-iran-krieg-gasspeicher"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Nach Schlusskurs: Amazon-Aktie rutscht nach Zahlen zweistellig ab — KI-Investitionen machen Anlegern Sorgen</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-7</guid>
-    <description>Amazons Aktie gab nachbörslich zeitweise um mehr als zehn Prozent nach; Umsatz und Gewinn verfehlten die Erwartungen. Ein Silberstreif: AWS wächst mit 39,3 Prozent so schnell wie seit fast fünf Jahren nicht.</description>
-    <category>Wirtschaft &amp; Finanzen</category>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.boerse-online.de/nachrichten/aktien/amazon-aktie-stuerzt-ab-warum-die-neuen-quartalszahlen-anleger-enttaeuschen-20428710.html"></r724:quelle>
-    <r724:quelle url="https://de.qz.com/amazon-aws-cloud-wachstum-schnellstes-ergebnisse-102926"></r724:quelle>
-    <r724:quelle url="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Samsung meldet Rekord-Quartalsgewinn dank KI-Chips — die Aktie fällt trotzdem</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-8</guid>
-    <description>Der Betriebsgewinn kletterte auf 107,4 Billionen Won — mehr als 780 Prozent im Jahresvergleich. Weil die Halbleiter-Sparte die hohen Erwartungen verfehlte, gab die Aktie trotzdem um mehr als fünf Prozent nach.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://de.qz.com/samsung-aktie-fllt-trotz-rekordgewinn-aufgrund-von-ki-chip-nachfrage"></r724:quelle>
-    <r724:quelle url="news-afp-20261029-fc7db1f7"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>EU legt Österreichs Social-Media-Verbot für Kinder auf Eis — Brüssel will einheitliche Regeln zuerst</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html#artikel-9</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-30-morgens.html#artikel-9</guid>
-    <description>Die EU-Kommission verlängerte die Stillhaltefrist für Wiens Verbot für unter 14-Jährige auf zwölf Monate. Zuerst soll der EU-weite Kids Act kommen; Vizekanzler Babler kritisierte die Verzögerung.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.derstandard.at/story/3000000346532/eu-legt-oesterreichs-social-media-verbot-auf-eis"></r724:quelle>
-    <r724:quelle url="news-afp-20261029-2b7f25de"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Historischer Alphabet-Absturz — rund zwölf Prozent Minus ziehen die Wall Street nach unten</title>
-    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-1</guid>
-    <description>Alphabet gab am Donnerstag rund zwölf Prozent nach — ein historisch seltener Tagesverlust. S&amp;P 500, Nasdaq und Dow schlossen im Minus, während Small Caps und die europäischen Börsen zulegten.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://portfolio-terminal.com/markets/stock-market-close"></r724:quelle>
-    <r724:quelle url="https://www.centrien.com/markethawk-market-close-2026-10-29/"></r724:quelle>
-    <r724:quelle url="https://metro.newschannelnebraska.com/story/370523431/how-major-us-stock-indexes-fared-thursday-10292026"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Chinas Rekord-Exporte sauberer Technik dürften weltweit deutlich Emissionen dämpfen</title>
-    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-2</guid>
-    <description>Eine CREA-Analyse sieht Chinas Exporte von Solaranlagen, Batterien und anderer sauberer Technik auf Rekordniveau: einmal installiert könnten sie jährlich rund 450 Millionen Tonnen CO2 vermeiden — etwa so viel wie Brasiliens Jahres-Emissionen.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://techxplore.com/news/2026-10-china-exports-tech-big-dent.html"></r724:quelle>
-    <r724:quelle url="https://www.usnews.com/news/business/articles/2026-10-29/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Amazon verpasst die Erwartungen: AWS wächst so schnell wie seit Jahren nicht — Aktie gibt dennoch nach</title>
-    <link>https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-29-nachts.html#artikel-3</guid>
-    <description>Umsatz und Gewinn blieben im dritten Quartal unter den Prognosen, die Aktie verlor im Nachthandel mehr als fünf Prozent. Die Cloud-Sparte AWS legte dagegen um 39,3 Prozent zu — die schnellste Rate seit fast fünf Jahren.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"></r724:quelle>
-    <r724:quelle url="https://de.qz.com/amazon-aws-cloud-wachstum-schnellstes-ergebnisse-102926"></r724:quelle>
-    <r724:quelle url="https://ms-aktuell.de/welt/amazon-aktie-aws-29-10-2026/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
   </channel>
 </rss>
-
