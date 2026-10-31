@@ -6,7 +6,14 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:08:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:16:00 +0100</lastBuildDate>
+<item>
+    <title>Ausgabe #179 — Nawrocki beruft nach der Eskalation Eil-Konsultationen mit allen Parteien ein · „Gen Z regelt“-Protesttag läuft in 34 Städten · Nach gescheitertem Rettungsmanöver: NASA-Teleskop Swift stürzt auf die Erde</title>
+    <link>https://radar724.de/posts/2026-10-31-abends.html</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html</guid>
+    <description>Samstag, 31. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:16 Uhr (Europe/Berlin)</description>
+    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
+  </item>
 <item>
     <title>Ausgabe #178 — Polens Justizstreit eskaliert: Tumult vor dem Verfassungsgericht · Jugendproteste in 34 Städten laufen an · UN-Mission in Westsahara vor dem Aus</title>
     <link>https://radar724.de/posts/2026-10-31-mittags.html</link>
@@ -94,14 +101,6 @@
     <description>Mittwoch, 28. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 06:59 Uhr (Europe/Berlin)</description>
     <pubDate>Wed, 28 Oct 2026 06:59:00 +0100</pubDate>
   </item>
-<item>
-    <title>Ausgabe #164 — Update: Israels Schicksalswahl endet nach ersten Prognosen im Patt · Nasdaq legt an der Wall Street 1,2 Prozent zu · Fed entscheidet am Mittwoch</title>
-    <link>https://radar724.de/posts/2026-10-27-nachts.html</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-nachts.html</guid>
-    <description>Dienstag, 27. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 00:00 Uhr (Europe/Berlin)</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0100</pubDate>
-  </item>
 
-
-</channel>
+  </channel>
 </rss>
