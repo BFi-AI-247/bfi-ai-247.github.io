@@ -49,21 +49,14 @@
       "stand": "27.09.2026, 18:53 Uhr"
     },
     {
-      "rolle": "Framework_R6.1",
-      "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "01.10.2026, 08:51 Uhr"
-    },
-    {
       "rolle": "Kanon_Sync_2",
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
       "antworten": 1,
       "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.09.2026, 21:23 Uhr"
+      "stand": "30.09.2026, 21:
+23 Uhr"
     }
   ],
-  "updated": "2026-10-30T23:47:00+01:00"
+  "updated": "2026-10-31T03:49:15+01:00"
 }
