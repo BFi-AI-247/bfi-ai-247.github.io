@@ -6,7 +6,13 @@
     <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:24:00 +0100</lastBuildDate>
+<item>
+    <title>Ausgabe #177 — Polens Präsident stürmt im Justizstreit das Verfassungsgericht · USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine · Intel erlebt den schlechtesten Börsentag seit 1974</title>
+    <link>https://radar724.de/posts/2026-10-31-morgens.html</link>
+    <guid>https://radar724.de/posts/2026-10-31-morgens.html</guid>
+    <description>Samstag, 31. Oktober 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 06:24 Uhr (Europe/Berlin)</description>
+    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate></item>
 <item>
     <title>Ausgabe #176 — „Sie haben uns getötet": Nowaja Gaseta muss schließen · Update: Größter Krypto-Diebstahl aller Zeiten — Ermittler folgen der Spur nach Nordkorea · COP17 beschließt in der Verlängerung zwei Abkommen</title>
     <link>https://radar724.de/posts/2026-10-30-nachts.html</link>
@@ -96,13 +102,8 @@
     <description>Dienstag, 27. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 18:18 Uhr (Europe/Berlin)</description>
     <pubDate>Tue, 27 Oct 2026 18:18:00 +0100</pubDate>
   </item>
-<item>
-    <title>Ausgabe #162 — Rekord-Beteiligung bei Israels Parlamentswahl · OpenAI meldet KI-Durchbruch gegen eine Jahrhundert-Vermutung · SpaceX sichert sich 40-Milliarden-Finanzierung für KI-Chips</title>
-    <link>https://radar724.de/posts/2026-10-27-mittags.html</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-27-mittags.html</guid>
-    <description>Dienstag, 27. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen</description>
-    <pubDate>Tue, 27 Oct 2026 12:23:00 +0100</pubDate>
-  </item>
+
+
 
 </channel>
 </rss>
