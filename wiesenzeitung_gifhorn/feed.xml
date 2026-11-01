@@ -4,10 +4,84 @@
     <title>Wiesenzeitung Gifhorn</title>
     <link>https://radar724.de/wiesenzeitung_gifhorn/</link>
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
-    <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 724).</description>
+    <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 247).</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:06:55 +0100</lastBuildDate>
-        <item>
+    <lastBuildDate>Sun, 01 Nov 2026 05:26:57 +0100</lastBuildDate>
+    <item>
+      <title>Neue Johanna-Menke-Hauptschule in Gifhorn feierlich eröffnet</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-1</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Mit Festakt und Tag der offenen Tür hat die Stadt den rund 31 Millionen Euro teuren Neubau in der Südstadt übergeben. Kollegium und Schülerschaft wechseln aus der Freiherr-vom-Stein-Schule in die neue Schule.</description>
+      <category>Meldung des Tages</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/pressemitteilungen" />
+      <r724:quelle url="https://kurt-gifhorn.de/tag-der-offenen-tur-gifhorns-neue-johanna-menke-schule-ladt-am-30-oktober-alle-ein" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Foto-Ausstellung „Aufwärts“ startet am Mittwoch im Gifhorner Rathaus</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-2</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Die FotoAG der KVHS zeigt ab dem 4. November Arbeiten von dreizehn Fotografinnen und Fotografen; zur Vernissage um 19 Uhr führt Matthias Ullrich ein. Die Ausstellung läuft bis zum 30. April 2027 und ist kostenfrei zu sehen.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/aktuelles-details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2723&amp;cHash=85782401598d295e0e07a0f24e7bceb5" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Runder Tisch für Kinder und Jugendliche: 89. Treffen am Dienstag in Gifhorn</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-3</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Am 3. November treffen sich ab 16.30 Uhr junge Menschen mit Politik und Verwaltung in der Jugendbegegnungsstätte Ludwig-Jahn-Straße 10. Ideen, Wünsche und Kritik sind ausdrücklich gefragt.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/aktuelles-details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2720&amp;cHash=bbfea86bb20c9ef838e4e3cab0a8c852" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kitajahr 2027/2028: Online-Antrag der Stadt Gifhorn läuft bis Ende Januar</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-4</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Für das Kita-Jahr ab August 2027 ist der Online-Antrag bis zum 31. Januar 2027 möglich; Eltern können zwei Wunscheinrichtungen angeben. Vorab empfehlen sich Besichtigungstage in den 26 Kitas.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/pressemitteilungen/pressemitteilungen-detailansicht?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2713&amp;cHash=3620a946a619795972594f7e8c103f9b" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Allerheiligen: Katholisches Hochfest — in Niedersachsen kein Feiertag</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-5</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Der 1. November ist nur in fünf Bundesländern arbeitsfrei; weil Allerheiligen 2026 auf einen Sonntag fällt, entfällt dort auch kein freier Tag. Morgen folgt Allerseelen mit dem Gedächtnis der Verstorbenen.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.kalenderpedia.de/feiertage/allerheiligen.html" />
+      <r724:quelle url="https://www.kath-kirche-kaernten.at/kalenderblatt/2026/11/01" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Stadtbücherei Gifhorn im November: Bilderbuchkino, Strickkino und Bookogami</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-6</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:57 +0100</pubDate>
+      <description>Am 4. November zeigt die Bücherei das Bilderbuchkino vom kleinen Siebenschläfer, am 12. November läuft „Nowhere Boy“ im Strickkino. Zum Vorlesetag und zu „Bookogami“ wird ebenfalls eingeladen.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/pressemitteilungen/pressemitteilungen-detailansicht?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2714&amp;cHash=58575cf20e7199184337aee17718c720" />
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Landkreis Gifhorn untersagt Nikotin-Pouches — Allgemeinverfügung schützt Kinder und Jugendliche</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-1</guid>
@@ -19,7 +93,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Service/Landkreis-Gifhorn-sch%C3%BCtzt-Kinder-und-Jugendliche-vor-Nikotin-Pouches.php?object=tx,4083.7214.1" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Isenbüttel: Imker-Infoabend — „Ist Imkern ein Hobby für mich?“</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-2</guid>
@@ -31,7 +105,7 @@
       <r724:quelle url="https://www.isenbuettel.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>A 2 bei Helmstedt: Baustelle läuft weiter — B 4 zwischen Gifhorn und Braunschweig bleibt ruhig</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-3</guid>
@@ -43,7 +117,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Reformationstag heute: Behörden und Geschäfte bleiben geschlossen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-4</guid>
@@ -55,7 +129,7 @@
       <r724:quelle url="https://www.kalenderpedia.de/feiertage/reformationstag.html" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Kindertheater „Ritter Rost“ heute um 15 Uhr im Schloss Gifhorn</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-31-morgens.html#artikel-5</guid>
@@ -79,7 +153,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/pm/56517/6380126" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Papenteich: Standesamt heute zuletzt eingeschränkt — Rathaus öffnet am Montag erst ab 10:30 Uhr</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-2</guid>
@@ -91,7 +165,7 @@
       <r724:quelle url="https://www.papenteich.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>E-Scooter ohne Kennzeichen auf dem Gehweg — Flucht vor der Polizei währte nur kurz</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-3</guid>
@@ -103,7 +177,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/pm/56517/6380193" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>VMZ-Baustellenlage: A 2 und A 7 arbeiten weiter — B 4 Richtung Braunschweig bleibt ruhig</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-4</guid>
@@ -115,7 +189,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Isenbüttel: Ausstellung „EINGÄNGE“ nach der Vernissage nun zu besichtigen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-5</guid>
@@ -127,7 +201,7 @@
       <r724:quelle url="https://www.isenbuettel.de/Rathaus-und-Politik/Nachrichten/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Wochenend-Vorschau: Reformationstag, Wochenmarkt und ruhiges Herbstwetter</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-30-morgens.html#artikel-6</guid>
@@ -139,7 +213,7 @@
       <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>812 Euro für das „Bündnis gegen Depression“ — Sparkasse fördert Seelensorge-Arbeit</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-1</guid>
@@ -151,7 +225,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Landkreis erinnert an die Grippe-Impfung — „BildungsImpulse 2027“ mit Anmeldung</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-2</guid>
@@ -163,7 +237,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Papenteich: Standesamt heute und morgen eingeschränkt erreichbar</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-3</guid>
@@ -175,7 +249,7 @@
       <r724:quelle url="https://www.papenteich.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>POL-GF wirbt für „Sehen und gesehen werden“ — Aufmerksamkeit im dunklen Berufsverkehr</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-4</guid>
@@ -187,7 +261,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>VMZ listet Baustellen auf A 2 und A 7 — B 4 Richtung Braunschweig ruhig</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-5</guid>
@@ -199,7 +273,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Isenbüttel: Vernissage „EINGÄNGE“ heute um 18 Uhr</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-29-morgens.html#artikel-6</guid>
@@ -211,7 +285,7 @@
       <r724:quelle url="https://www.isenbuettel.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>VW und IG Metall starten das Tarif-Überprüfungsverfahren</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-1</guid>
@@ -224,7 +298,7 @@
       <r724:quelle url="https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Landkreis Gifhorn startet Veranstaltungsformat „BildungsImpulse 2027“</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-2</guid>
@@ -236,7 +310,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Papenteich: Rathaus war am Dienstag nur eingeschränkt erreichbar</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-3</guid>
@@ -248,7 +322,7 @@
       <r724:quelle url="https://www.papenteich.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>B 4-Baustellen zwischen Gifhorn und Braunschweig bleiben — auch die K 54 ist betroffen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-4</guid>
@@ -260,7 +334,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Mittwoch: Wochenmarkt in der Gifhorner Fußgängerzone</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-5</guid>
@@ -272,7 +346,7 @@
       <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Isenbüttel: Selbsthilfegruppen-Auftakt heute im Ratssaal — neues e-Verkündungsblatt online</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-28-morgens.html#artikel-6</guid>
@@ -284,7 +358,7 @@
       <r724:quelle url="https://www.isenbuettel.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Bitcoin-Betrug: Unbekannte erbeuten von einem Mann aus Gifhorn rund 100.000 Euro</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-1</guid>
@@ -297,7 +371,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Landkreis Gifhorn empfiehlt die Grippe-Impfung rechtzeitig zur Grippesaison</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-2</guid>
@@ -309,7 +383,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>B 4-Baustelle zwischen Gifhorn und Braunschweig läuft weiter – Sperrung Richtung Braunlage kommt hinzu</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-3</guid>
@@ -321,7 +395,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>NDR-Wettbewerb sucht Dorf-Ideen junger Menschen – auch für Kommunen im Raum Gifhorn anschlussfähig</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-4</guid>
@@ -333,7 +407,7 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/wettbewerb-ideen-junge" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Dienstag: Kein Wochenmarkt in der Gifhorner Innenstadt – nächste Chance am Mittwoch</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-27-morgens.html#artikel-5</guid>
@@ -346,7 +420,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Tarifrunde bei Volkswagen: Verhandlungen mit IG Metall starten am 24. November in Emden</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html</guid>
@@ -359,7 +433,7 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ruhige Woche in der Kreisverwaltung: Führerschein-Frist, K 56 und Termine bleiben die Themen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-2</guid>
@@ -371,7 +445,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ruhige Lage: Polizeiinspektion Gifhorn meldet keine neuen Pressemeldungen seit dem 21. Oktober</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-3</guid>
@@ -383,7 +457,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Montags-Pendler: Parkplatz an der A 2 bleibt gesperrt — B 4-Baustelle in Gifhorn läuft weiter</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-4</guid>
@@ -395,7 +469,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Sturmtief „Manja“ hat den Norden durchquert — im Raum Gifhorn blieben die Schäden begrenzt</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-5</guid>
@@ -409,7 +483,7 @@
       <r724:quelle url="https://www.n-tv.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Montag: Erster Schultag nach den Herbstferien — kein Wochenmarkt, nächste Chance am Mittwoch</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-26-morgens.html#artikel-6</guid>
@@ -422,7 +496,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Herbststurm „Manja“ zieht weiter — Unwetterwarnung für die Küste bleibt bestehen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html</guid>
@@ -434,7 +508,7 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Landrat Raulfs übergibt der Kreisfeuerwehr Ausstattung im Wert von rund 730.000 Euro</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-1</guid>
@@ -446,7 +520,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Führerscheinumtausch: Karten der Jahrgänge 2002 bis 2004 bis Januar 2027 umtauschen</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-2</guid>
@@ -458,7 +532,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Polizei-Wochenrückblick: Ruhige Tage nach dem 21. Oktober — ein Blick auf sieben Tage</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-3</guid>
@@ -470,7 +544,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Herbstferien-Ende: ADAC erwartet auch am Sonntag Staus — A 2, A 39 und B 4 im Blick</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-4</guid>
@@ -483,7 +557,7 @@
       <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Schulübergang nach der vierten Klasse: Termine für Info-Abende und Schnuppertage</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-5</guid>
@@ -495,7 +569,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Psychische Gesundheit junger Menschen: Lesung und Dienst-Vorstellung am 5. November</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-6</guid>
@@ -507,7 +581,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Sonntag: Kein Wochenmarkt — nächste Chance am Mittwoch; Vormerken: Lesung am 5. November</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-7</guid>
@@ -520,7 +594,7 @@
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>VW und IG Metall einigen sich auf Tarifverhandlungsstart — Runde eins am 24. November in Emden</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html</guid>
@@ -533,7 +607,7 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Isenbüttel und Calberlah: Landwirtschaftliche Flächen zur Verpachtung ausgeschrieben</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-1</guid>
@@ -545,79 +619,5 @@
       <r724:quelle url="https://www.isenbuettel.de/" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
-      <title>Papenteich: Rentenberatung kurzzeitig geändert — Herbstferienprogramm endet heute</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-2</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Die Samtgemeinde Papenteich weist auf eine kurzzeitige Änderung der Rentenberatung hin; das Herbstferienprogramm der Jugendförderung endet heute.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.papenteich.de/" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Die Jahreszeit der Einbrecher: Polizei erinnert nach Einbruch in Eischott an Einbruchschutz</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-3</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Mit dem früheren Dunkelwerden erinnert die PI Gifhorn an Einbruchschutz — Anlass ist ein Einbruch in ein Wohnhaus in Eischott.</description>
-      <category>Feuerwehr &amp; Blaulicht</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Herbstferienende: ADAC erwartet Staus — auch auf A 2 und A 39</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-4</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Der ADAC rechnet am Ferienende mit Staus und vollen Autobahnen; auch Rückreisende über A 2 und A 39 im Raum Gifhorn/Wolfsburg sind betroffen.</description>
-      <category>Verkehr</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.ndr.de/nachrichten/info/herbstferienende-im-norden-adac-erwartet-staus-am-wochenende,stau-320.html" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>VMZ: Parkplatz an der A 2 gesperrt — B 4-Baustelle bei Gifhorn läuft weiter</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-5</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Das VMZ Niedersachsen meldet einen geschlossenen Parkplatz an der A 2 Richtung Hannover; die B 4 zwischen Gifhorn-Mitte und Gifhorn-Süd bleibt Baustelle.</description>
-      <category>Verkehr</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Herbststurm mit Orkanböen und Sturmflut droht im Norden</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-6</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Der NDR meldet eine Unwetterwarnung: Am Wochenende wird es stürmisch, für den Brocken gilt eine Unwetterwarnung, an der Küste fallen Fähren aus.</description>
-      <category>Wetter &amp; Region</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html" />
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Termine: Wochenmarkt am Samstag — letzter Tag des Papenteicher Ferienprogramms</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-7</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Heute Samstag öffnet der Wochenmarkt in der Gifhorner Fußgängerzone; in Papenteich endet das Herbstferienprogramm. Zum Vormerken: Schnuppertage an weiterführenden Schulen.</description>
-      <category>Termine</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
-      <r724:quelle url="https://www.papenteich.de/" />
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-      </channel>
+  </channel>
 </rss>
