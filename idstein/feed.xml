@@ -6,8 +6,143 @@
     <atom:link href="https://radar724.de/idstein/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Idstein (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:07:00 +0100</lastBuildDate>
-        <item>
+    <lastBuildDate>Sun, 01 Nov 2026 05:42:00 +0100</lastBuildDate>
+    <item>
+      <title>TVI-Damen unterliegen Wettenberg im Hexenturm — die zweite November-Woche bringt Wiesbaden und Wetzlar</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-1</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Die TVI-Damen 1 verloren das Oberliga-Heimspiel gegen die HSG Wettenberg mit 26:39. Am 8. November geht es zur HSG Wiesbaden, am 6. November gastiert die HSG Wetzlar zu einem Benefizspiel am Hexenturm.</description>
+      <category>Sport</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
+      <r724:quelle url="https://www.tv1844idstein.de/startseite-2/ballsport/handball/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Hessentag 2027: Große Infoveranstaltung am Mittwoch in der Stadthalle</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-2</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Am 4. November, 19 Uhr, stellt die Stadt in der Stadthalle die Hessentag-Planungen vor — besonders Innenstadt-Anwohner und Gewerbetreibende sind angesprochen. Die Anmeldung zum Tag der Musik ist offen.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
+      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Vollsperrung Taubenberg/Ecke Grunerstraße weiterhin in Kraft</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-3</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Der Verkehrshinweis der Stadt vom 26. Oktober ist unverändert gültig: Der Taubenberg bleibt an der Ecke Grunerstraße vollgesperrt, Umleitungen sind ausgeschildert.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Tiefgarage Löherplatz vor der Wiedereröffnung im November</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-4</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Vor der Wiedereröffnung im November laufen noch Restarbeiten an der Tiefgarage Löherplatz. Die Sanierung geht in die Endphase.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kostenlose Energieberatung für vermietete Mehrfamilienhäuser startet jetzt</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-5</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Die Kampagne „Energiesparen und Sanieren im Mietwohnungsbau“ startet im November. Eigentümer vermieteter Mehrfamilienhäuser können eine kostenlose Energieberatung nutzen.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Einbruch im Feuerwehrgerätehaus Heftrich — Ermittlungen laufen weiter</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-6</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>14 Heizkörper wurden Ende Oktober aus dem Gerätehaus im Tennweg entwendet; der Fall bleibt im Dienststellen-Feed der Polizei geführt. Hinweise nimmt jede Polizeidienststelle entgegen.</description>
+      <category>Blaulicht</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6380255">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>E-Scooter vom Löherplatz entwendet — Hinweise willkommen</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-7</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Der Diebstahl eines E-Scooters am Löherplatz (26. Oktober, 16:45 bis 19:15 Uhr) ist erneut im Dienststellen-Feed bestätigt.</description>
+      <category>Blaulicht</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6379658">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Auseinandersetzung am Bahnhof — weiter keine neuen Details</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-8</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Zur Auseinandersetzung am Idsteiner Bahnhof vom 26. Oktober (ein 35-Jähriger verletzt) lag keine neue Detailmeldung vor; gegen einen Beteiligten wird ermittelt.</description>
+      <category>Blaulicht</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6378941">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Letzte Stadtführung der Saison: Altstadt mit Apfelweinprobe</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-9</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Zum Saisonabschluss lädt am Sonntag die Altstadtführung mit Apfelweinprobe durch die Fachwerk-Altstadt ein — nach den Gartenweibern am Samstag.</description>
+      <category>Termine</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Stadtteile: Heftricher Ortsbeirat tagt am 16. November — Kröfteler Mehrgenerationenplatz fertig</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-10</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-10</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Die nächste OBR-Sitzung in Heftrich steht für den 16. November, 19 Uhr, an. In Kröftel ist der Mehrgenerationenplatz mit Tischkicker und Outdoor-Fitnessgeräten freigegeben.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.heftrich-online.de/">Originalquelle</r724:quelle>
+      <r724:quelle url="https://www.kroeftel.de/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Bundesliga-Schießsport im Stadtteil Dasbach — Termin übers Auge merken</title>
+      <link>https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-11</link>
+      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-01-morgens.html#artikel-11</guid>
+      <pubDate>Sun, 01 Nov 2026 05:42:00 +0100</pubDate>
+      <description>Am 28. und 29. November richtet der Nachbarverein im Stadtteil Dasbach einen Bundesligawettkampf im Schießsport aus.</description>
+      <category>Sport</category>
+      <category>Idstein</category>
+      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>TVI-Heimspieltag unterm Hexenturm — Halloween in der Halle, Fotokunst in der Mensa</title>
       <link>https://radar724.de/idstein/posts/2026-10-31-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-31-morgens.html#artikel-1</guid>
@@ -488,141 +623,6 @@
       <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
       <description>Die Stadt Idstein weist auf eine Vollsperrung an der Ecke Taubenberg/Grunerstraße hin (Verkehrshinweis vom 26.10.). Anwohner und Gewerbetreibende sollten die ausgeschilderten Umleitungen beachten.</description>
       <category>Meldung des Tages</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Hessentag 2027: Große Infoveranstaltung in der Stadthalle</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-2</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>Die Stadt Idstein lädt Innenstadt-Anwohner und Gewerbetreibende zu einer großen Infoveranstaltung in die Stadthalle ein. Der Hessentag findet vom 11. bis 20. Juni 2027 in Idstein statt.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/hessentag-2027/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>„Hessen a la carte“: Auszeichnung für das Gasthaus Zum Haubental</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-3</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>Der Rheingau-Taunus-Kreis zeichnet das Gasthaus Zum Haubental in Idstein mit dem Qualitätssiegel „Hessen a la carte“ aus. Gratulation für regionale Küche und Gastfreundschaft.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.rheingau-taunus.de/aktuelles/pressemitteilungen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>POL-RTK: weiterhin keine neue Meldung mit Idstein-Ereignisort</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-4</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>Im RSS-Fenster des Polizeipräsidiums Rheingau-Taunus gibt es keine neue Meldung mit Tat- oder Ereignisort Idstein; auch die Feuerwehr-Kreisebene meldet keine neue Lage.</description>
-      <category>Blaulicht</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Kröfteler Feuerwehr übt heute – Gartenweiber-Führung am 31.10.</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-5</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>In Kröftel steht der Übungsabend der Freiwilligen Feuerwehr an, am 31. Oktober läuft die Stadtführung „Unterwegs mit den Gartenweibern“ mit Apfelweinprobe. Die Abdeckreisig-Vorbestellfrist ist abgelaufen.</description>
-      <category>Termine heute</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kroeftel.de/">Originalquelle</r724:quelle>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>TV 1844 Idstein: Bewegungskurse ab Oktober</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-6</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>Der TV 1844 Idstein öffnet seine Herbstkurs-Reihe, darunter „Beweglich bleiben – ein Workshop rund um die Wirbelsäule“. Anmeldung je nach Kurs noch möglich.</description>
-      <category>Vereine &amp; Ehrenamt</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>TVI Damen 1 ohne Punkte in Kriftel – Heimspiel am 31.10. gegen Wettenberg</title>
-      <link>https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-27-morgens.html#artikel-7</guid>
-      <pubDate>Tue, 27 Oct 2026 06:33:00 +0100</pubDate>
-      <description>Die Damen 1 des TV 1844 Idstein blieben in Kriftel erfolglos. Nächster Spieltag: Samstag, 31. Oktober, Heimspiel gegen Wettenberg in der Hexenturmhalle.</description>
-      <category>Sport</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tv1844idstein.de/startseite-2/ballsport/handball">Originalquelle</r724:quelle>
-      <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Unterwegs mit den Gartenweibern: Halloween-Stadtführung mit Apfelweinprobe</title>
-      <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-1</guid>
-      <pubDate>Mon, 26 Oct 2026 06:16:45 +0100</pubDate>
-      <description>Die Stadt Idstein bietet am 31.10. und 1.11. die Stadtführung „Unterwegs mit den Gartenweibern“ durch die Altstadt an, kombiniert mit einer Apfelweinprobe. Anmeldung über die Stadt-Information.</description>
-      <category>Termine</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>POL-RTK kompakt: keine neue Idstein-Lage, Heftrich-Kirmes bleibt letzte Meldung</title>
-      <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-2</guid>
-      <pubDate>Mon, 26 Oct 2026 06:16:45 +0100</pubDate>
-      <description>Die neueste Polizei-Meldung (25.10.) betrifft Eltville/Rüdesheim ohne Idstein-Bezug. Die letzte Idstein-Lage bleibt die Kirmes-Auseinandersetzung in Heftrich vom 23./24. Oktober.</description>
-      <category>Blaulicht</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Letzter Tag: Vorbestellung Abdeckreisig läuft heute ab</title>
-      <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-3</guid>
-      <pubDate>Mon, 26 Oct 2026 06:16:45 +0100</pubDate>
-      <description>Die Stadt Idstein nimmt noch bis heute, 26. Oktober, Vorbestellungen für die Abgabe von Abdeckreisig entgegen. Danach schließt die Frist.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Kompetenzzentrum Pflege weiterhin im WIR-Café im Einsatz</title>
-      <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-4</guid>
-      <pubDate>Mon, 26 Oct 2026 06:16:45 +0100</pubDate>
-      <description>Das Kompetenzzentrum Pflege des Rheingau-Taunus-Kreises berät im WIR-Café zu allen Fragen rund um die Pflege – auch für pflegende Angehörige.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Idstein</category>
-      <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Tiefgarage Löherplatz: Wiedereröffnung im November rückt näher</title>
-      <link>https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-10-26-morgens.html#artikel-5</guid>
-      <pubDate>Mon, 26 Oct 2026 06:16:45 +0100</pubDate>
-      <description>Vor der Wiedereröffnung der Tiefgarage am Löherplatz im November stehen noch Restarbeiten an. Für die Innenstadt die wichtigste Park-Nachricht der Woche.</description>
-      <category>Aus dem Rathaus</category>
       <category>Idstein</category>
       <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
