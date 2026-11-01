@@ -27,10 +27,10 @@
     {
       "rolle": "Framework_R6.1",
       "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log (Dienstbeginn); Eigenmessung (Aktivitaet/Antworten)",
-      "stand": "01.10.2026, 08:51 Uhr"
+      "letzte_aktivitaet": "27.09.2026, 14:24 Uhr",
+      "antworten": 13,
+      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "stand": "27.09.2026, 14:24 Uhr"
     },
     {
       "rolle": "Mom_0",
@@ -65,5 +65,5 @@
       "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-10-31T08:12:27.523Z"
+  "updated": "2026-11-01T04:43:31.682Z"
 }
