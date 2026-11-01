@@ -4,8 +4,8 @@
   "laeufe": [
     {
       "datum": "2026-11-01",
-      "ist_start": "2026-11-01T04:53:24+01:00",
-      "dauer_min": 1,
+      "ist_start": "2026-11-01T03:53:24+01:00",
+      "dauer_min": 2,
       "status": "fehler"
     },
     {
