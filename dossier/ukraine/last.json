@@ -1,15 +1,15 @@
 {
   "format": "dossier_ukraine",
-  "ausgabe": "Ukraine #34",
-  "titel": "Dossier Ukraine-Krieg — 01.11.2026",
-  "link": "posts/2026-11-01.html",
+  "ausgabe": "Ukraine #35",
+  "titel": "Dossier Ukraine-Krieg — 02.11.2026",
+  "link": "posts/2026-11-02.html",
   "kicker": [
-    "Update Oleschky: Evakuierte erreichen ukrainisches Gebiet — ISW nennt die Feuerpause den längsten eingehaltenen lokalen Waffenstillstand seit 2022",
-    "Russische Nachtangriffe: Ein Toter in Kyiv — bis zu 350.000 Menschen in Dnipro ohne Strom",
-    "Nowaja Gaseta stellt ihr Erscheinen ein — Repression beendet über 30 Jahre unabhängigen Journalismus",
-    "Analyse (LibMod): Russlands Kriegswirtschaft ist zahlungsfähig, aber nicht nachhaltig"
+    "Feuerpause in Oleschky ausgelaufen — Russland lehnt Verlängerung ab",
+    "Hack-Alarm: Ukrainische Luftwarn-App versendet falsche Atom- und Chemie-Warnungen",
+    "Selenskyj bietet einmonatigen Stopp der Raffinerien-Angriffe — im Tausch gegen Patriot-Raketen",
+    "Bulgarien bestätigt Russland-freundliche Präsidentin Jotowa im Amt"
   ],
-  "datum": "2026-11-01",
-  "uhrzeit": "06:10",
+  "datum": "2026-11-02",
+  "uhrzeit": "06:15",
   "fertig_um": "07:45"
 }
