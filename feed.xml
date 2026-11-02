@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 02 Nov 2026 18:43:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:38:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #187 — Wahlnacht in den USA: Midterms entscheiden am Dienstag über Trumps Kongress · Iran verkürzt Zeitplan für die Straße von Hormuz · Apple legt unter neuem Chef ein Rekordquartal hin</title>
+<link>https://radar724.de/posts/2026-11-02-nachts.html</link>
+<guid>https://radar724.de/posts/2026-11-02-nachts.html</guid>
+<description>Montag, 2. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 23:38 Uhr (Europe/Berlin)</description>
+<pubDate>Mon, 02 Nov 2026 23:38:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #186 — Update: Trump beendet Midterms-Wahlkampf in Iowa und Kansas · Ölpreis rutscht auf Iran-Diplomatie-Hoffnungen ab · NASA sondiert private Rettung für Hubble</title>
 <link>https://radar724.de/posts/2026-11-02-abends.html</link>
@@ -97,12 +103,5 @@
     <link>https://radar724.de/posts/2026-10-30-morgens.html</link>
     <guid>https://radar724.de/posts/2026-10-30-morgens.html</guid>
     <description>Freitag, 30. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 06:36 Uhr (Europe/Berlin)</description>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #172 — Update: Alphabet-Absturz drückt die Wall Street · USA sondieren per Brief neue Gespräche mit dem Iran · Israel vor dem amtlichen Endergebnis</title>
-    <link>https://radar724.de/posts/2026-10-29-nachts.html</link>
-    <guid>https://radar724.de/posts/2026-10-29-nachts.html</guid>
-    <description>Donnerstag, 29. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 23:39 Uhr (Europe/Berlin)</description>
-    <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate></item>
-</channel>
+    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate></item></channel>
 </rss>
