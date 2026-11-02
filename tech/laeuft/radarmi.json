@@ -3,6 +3,12 @@
   "job": "RadarMi",
   "laeufe": [
     {
+      "datum": "2026-11-02",
+      "ist_start": "2026-11-02T12:11:34+01:00",
+      "dauer_min": 8,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-01",
       "ist_start": "2026-11-01T12:14:09+01:00",
       "dauer_min": 7,
