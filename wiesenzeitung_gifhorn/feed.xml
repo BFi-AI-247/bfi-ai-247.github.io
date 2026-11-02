@@ -6,8 +6,106 @@
     <atom:link href="https://radar724.de/wiesenzeitung_gifhorn/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Gifhorn (Ableger von RADAR 247).</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:26:57 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:17:00 +0100</lastBuildDate>
     <item>
+      <title>Wohnungsbrand nahe Isenbüttel: Bei den Löscharbeiten wird eine tote Person entdeckt</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-1</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Nahe Isenbüttel ist am Sonntag ein Wohnungsbrand ausgebrochen; beim Löschen entdeckten die Einsatzkräfte eine tote Person. Die Polizeiinspektion Gifhorn ermittelt zu Todes- und Brandursache.</description>
+      <category>Meldung des Tages</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Papenteich: Rathaus bleibt heute vormittag geschlossen — erst ab 10:30 Uhr geöffnet</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-2</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Wegen einer internen Veranstaltung öffnet das Rathaus der Samtgemeinde Papenteich am Montag erst ab 10:30 Uhr. Anliegen lassen sich vorab über das Serviceportal oder telefonisch klären.</description>
+      <category>Aus dem Rathaus</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.papenteich.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Polizei meldet Fahrten unter Alkohol- und Drogeneinfluss — zugleich Einbrüche in Leiferde, Osloß und Brechtorf</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-3</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Die Polizeiinspektion Gifhorn registrierte mehrere Fahrten unter Alkohol- und Drogeneinfluss im Landkreis sowie Einbrüche in Leiferde, Osloß und Brechtorf. Hinweise nimmt die Polizei über den Notruf 110 entgegen.</description>
+      <category>Blaulicht</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>„Die Jahreszeit der Einbrecher“: Polizei rät zur Wachsamkeit in den dunklen Monaten</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-4</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Mit den länger werdenden Nächten warnt die Polizeiinspektion Gifhorn vor Einbrüchen. Gute Nachbarschaft, Beleuchtung und Zeitschaltuhren gehören zu den empfohlenen Gegenmaßnahmen.</description>
+      <category>Blaulicht</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Allerseelen heute: Gedenktag für die Verstorbenen — in Niedersachsen kein Feiertag</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-5</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Der 2. November ist der katholische Gedenktag für die Verstorbenen; viele Familien besuchen die Gräber. Gesetzlicher Feiertag ist der Tag in keinem Bundesland — Namenstage: Angela, Margarethe, Tobias.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://feiertage-ferien.com/feiertag/allerseelen/" />
+      <r724:quelle url="https://www.kath-kirche-kaernten.at/kalenderblatt/2026/11/02" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Erste-Hilfe-Kurs für junge Menschen: Jugendhaus Gleis 2 in Meine bietet wieder Platz</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-6</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Das Jugendhaus Gleis 2 in Meine bietet erneut einen Erste-Hilfe-Kurs für junge Menschen an — von Seitenlage bis Herzdruckmassage. Anmeldung und Details laufen über das Jugendhaus.</description>
+      <category>Termine heute</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.papenteich.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Abbesbüttel: Neubau des Feuerwehrhauses nimmt Form an</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-7</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Im Neubau des Feuerwehrhauses Abbesbüttel laufen laut Samtgemeinde Papenteich die Dachdeckerarbeiten; Sektionaltore, Fenster und Türen werden eingebaut. Ein Bezugsdatum steht noch nicht fest.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.papenteich.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Isenbüttel: Herbstball der Singgemeinschaft am Samstag in der Gaststätte Brauner</title>
+      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-02-morgens.html#artikel-8</guid>
+      <pubDate>Mon, 02 Nov 2026 05:17:00 +0100</pubDate>
+      <description>Die Singgemeinschaft Isenbüttel lädt am Samstag, 7. November, ab 20 Uhr zum öffentlichen Herbstball in die Gaststätte Brauner ein — Gäste sind auch ohne Mitgliedschaft willkommen.</description>
+      <category>Vereine &amp; Ehrenamt</category>
+      <category>Gifhorn</category>
+      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.isenbuettel.de/" />
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Neue Johanna-Menke-Hauptschule in Gifhorn feierlich eröffnet</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-1</guid>
@@ -20,7 +118,7 @@
       <r724:quelle url="https://kurt-gifhorn.de/tag-der-offenen-tur-gifhorns-neue-johanna-menke-schule-ladt-am-30-oktober-alle-ein" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Foto-Ausstellung „Aufwärts“ startet am Mittwoch im Gifhorner Rathaus</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-2</guid>
@@ -32,7 +130,7 @@
       <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/aktuelles-details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2723&amp;cHash=85782401598d295e0e07a0f24e7bceb5" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Runder Tisch für Kinder und Jugendliche: 89. Treffen am Dienstag in Gifhorn</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-3</guid>
@@ -44,7 +142,7 @@
       <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/aktuelles-details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2720&amp;cHash=bbfea86bb20c9ef838e4e3cab0a8c852" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Kitajahr 2027/2028: Online-Antrag der Stadt Gifhorn läuft bis Ende Januar</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-4</guid>
@@ -56,7 +154,7 @@
       <r724:quelle url="https://www.stadt-gifhorn.de/politik-verwaltung/aktuelles/pressemitteilungen/pressemitteilungen-detailansicht?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=2713&amp;cHash=3620a946a619795972594f7e8c103f9b" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Allerheiligen: Katholisches Hochfest — in Niedersachsen kein Feiertag</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-5</guid>
@@ -69,7 +167,7 @@
       <r724:quelle url="https://www.kath-kirche-kaernten.at/kalenderblatt/2026/11/01" />
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Stadtbücherei Gifhorn im November: Bilderbuchkino, Strickkino und Bookogami</title>
       <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-11-01-morgens.html#artikel-6</guid>
@@ -519,105 +617,5 @@
       <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
       <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Führerscheinumtausch: Karten der Jahrgänge 2002 bis 2004 bis Januar 2027 umtauschen</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-2</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Bis zum 19. Januar 2027 müssen Kartenführerscheine der Ausstellungsjahre 2002 bis 2004 umgetauscht werden. Der Landkreis Gifhorn rechnet mit erhöhter Terminnachfrage und erklärt, wie Bürger einen Termin erhalten.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Polizei-Wochenrückblick: Ruhige Tage nach dem 21. Oktober — ein Blick auf sieben Tage</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-3</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Der POL-GF-Newsroom zeigt seit dem 21. Oktober keine neuen Meldungen. Im Wochenfenster bestätigt: Fluchtversuch in Isenbüttel, Betrugsmasche gegen eine 69-Jährige, Einbruchssaison-Warnung nach Eischott sowie Kontrollen in Leiferde und Gifhorn.</description>
-      <category>Feuerwehr &amp; Blaulicht</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/56517" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Herbstferien-Ende: ADAC erwartet auch am Sonntag Staus — A 2, A 39 und B 4 im Blick</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-4</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Mit dem Ferienende rechnet der ADAC auch am Sonntag mit Staus; im Raum Gifhorn/Wolfsburg sind A 2 und A 39 betroffen. Die B 4 bleibt zwischen Gifhorn-Mitte und Gifhorn-Süd Baustelle, ein Parkplatz an der A 2 ist gesperrt.</description>
-      <category>Verkehr</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/index~rss2.xml" />
-      <r724:quelle url="https://www.vmz-niedersachsen.de/niedersachsen/baustellen-aktuell/" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Schulübergang nach der vierten Klasse: Termine für Info-Abende und Schnuppertage</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-5</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Familien können weiterführende Schulen im Landkreis kennenlernen: Der Kreis nennt Termine für Informationsveranstaltungen und Schnuppertage zum Übergang in den 5. Jahrgang.</description>
-      <category>Bildung</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Psychische Gesundheit junger Menschen: Lesung und Dienst-Vorstellung am 5. November</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-6</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Am 5. November stellt der Sozialpsychiatrische Dienst für Kinder und Jugendliche in Gifhorn bei einer Lesung seine Arbeit vor — eine niedrigschwellige, kostenfreie Anlaufstelle der Kreisverwaltung.</description>
-      <category>Soziales &amp; Gesundheit</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Sonntag: Kein Wochenmarkt — nächste Chance am Mittwoch; Vormerken: Lesung am 5. November</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-25-morgens.html#artikel-7</guid>
-      <pubDate>Sun, 25 Oct 2026 05:34:00 +0100</pubDate>
-      <description>Der Gifhorner Wochenmarkt öffnet mittwochs und samstags — heute Sonntag steht kein Markt an. Zum Vormerken: die Lesung zum Thema psychische Gesundheit junger Menschen am 5. November in Gifhorn.</description>
-      <category>Termine</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.stadt-gifhorn.de/sv_gifhorn/Aktuell/Veranstaltungen/" />
-      <r724:quelle url="https://www.landkreis-gifhorn.de/Aktuelles/Pressemitteilungen/" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>VW und IG Metall einigen sich auf Tarifverhandlungsstart — Runde eins am 24. November in Emden</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Volkswagen und IG Metall eröffnen die Tarifverhandlungen am 24. November in Emden, Fortsetzung am 15. Dezember in Zwickau. Ziel des Konzerns ist die Senkung der Arbeitskosten im Zukunftsplan 2030 (Absender-Mitteilung).</description>
-      <category>Wirtschaft &amp; Arbeit</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen" />
-      <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html" />
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Isenbüttel und Calberlah: Landwirtschaftliche Flächen zur Verpachtung ausgeschrieben</title>
-      <link>https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/wiesenzeitung_gifhorn/posts/2026-10-24-morgens.html#artikel-1</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
-      <description>Die Samtgemeinde Isenbüttel schreibt rund 41.665 Quadratmeter in Isenbüttel und 28.820 Quadratmeter in Calberlah/Allenbüttel zur Verpachtung aus.</description>
-      <category>Aus dem Rathaus</category>
-      <category>Gifhorn</category>
-      <dc:creator>Wiesenzeitung Gifhorn Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.isenbuettel.de/" />
-      <r724:ki>true</r724:ki>
-    </item>
-  </channel>
+    </item>  </channel>
 </rss>
