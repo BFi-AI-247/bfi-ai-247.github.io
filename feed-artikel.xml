@@ -6,7 +6,108 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 23:44:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:35:00 +0100</lastBuildDate>
+<item>
+    <title>Update: Letzter Sprint vor den US-Midterms — Umfragen sehen die Demokraten im Aufwind, teuerste Zwischenwahl der US-Geschichte</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-1</guid>
+    <description>Einen Tag vor der Kongresswahl am Dienstag liegen die Demokraten in den aggregierten Umfragen für das Repräsentantenhaus klar vorn und holen im Senat weiter auf. Nach Agenturberichten fließen rund elf Milliarden Dollar in den Wahlkampf — ein Rekord.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/midterms-2026-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zdfheute.de/politik/ausland/usa-midterms-2026-zeitplan-szenarien-senat-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Update: Polen-Streit — EU-Kommission stellt sich hinter Tusk und drängt Nawrocki zur Vereidigung der Richter</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-2</guid>
+    <description>Brüssel erkennt die vom Parlament beschlossenen Richterwahlen an und fordert Präsident Nawrocki öffentlich zum Nachgeben. Tusk kündigt an, die Amtsübernahme der Richter mit allen verfassungsrechtlichen Mitteln durchzusetzen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"></r724:quelle>
+    <r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-tusk-nawrocki-eskalation-warschau-richter-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Update: Iran-Konflikt — Trump bringt Angriff auf Atomkomplex „Pickaxe Mountain“ ins Spiel</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-3</guid>
+    <description>Trump droht mit einem Schlag auf den mutmaßlichen unterirdischen Atomkomplex und spricht von zehn Minuten. Teheran hatte zuvor mit geografisch unbeschränkter Vergeltung gedroht; der Ölpreis reagiert mit Aufschlag.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/Trump-bringt-Angriff-auf-Irans-Atomanlage-Pickaxe-Mountain-ins-Spiel-id31482098.html"></r724:quelle>
+    <r724:quelle url="https://www.fr.de/politik/trumps-neues-iran-ziel-der-mutmassliche-atomkomplex-pickaxe-mountain-zr-94568682.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Westsahara: UN beendet nach 35 Jahren offiziell die Friedensmission MINURSO</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-4</guid>
+    <description>Nach dem russischen Veto leitet die UNO die Liquidationsphase der Mission ein, die seit 1991 das Waffenstillstandsabkommen überwachte. Guterres betont, die UN bleibe bereit, die Friedensbemühungen zu unterstützen.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://news.un.org/en/story/2026/11/1168717"></r724:quelle>
+    <r724:quelle url="https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Börsen-Wochenausblick: Midterms und Golf-Spannungen geben die Richtung vor</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-5</guid>
+    <description>DAX 25.818 Punkte (−0,85 Prozent) und S&P 500 7.580 Punkte (−1,82 Prozent) schlossen die Woche schwach. Die neue Woche dominieren die US-Zwischenwahl am Dienstag und die Ölpreis-Prämie aus dem Golf-Konflikt.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Nach dem Rekord-Hack: Binance öffnet die Auszahlungen wieder — Bitcoin stabilisiert sich um 70.000 Euro</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-6</guid>
+    <description>Die Kryptobörse nimmt Kundenauszahlungen unter verschärften Sicherheitsprüfungen schrittweise wieder auf; rund 95 Prozent der betroffenen Beträge sind abgedeckt. Bitcoin notiert bei rund 70.100 Euro.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://de.finance.yahoo.com/nachrichten/binance-setzt-auszahlungen-krypto-rekord-113528042.html"></r724:quelle>
+    <r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/binance-nimmt-bitcoin-auszahlungen-wieder-auf-nachdem-der-grossteil-der-gestohlenen-6-3-mrd-usd-ged-ce785fd8da89fe2c"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Grande Dame des deutschen Fernsehfilms: Produzentin Regina Ziegler mit 82 Jahren gestorben</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-7</guid>
+    <description>Die Berlinerin verantwortete in über fünf Jahrzehnten mehr als 500 Film- und Fernsehproduktionen. Ziegler starb nach Angaben ihrer Tochter und ihrer Firma Ziegler Film in der Nacht zum Sonntag in Berlin.</description>
+    <category>Kultur &amp; Medien</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html"></r724:quelle>
+    <r724:quelle url="https://www.zeit.de/news/2026-11/01/filmproduzentin-regina-ziegler-mit-82-jahren-gestorben"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Gute Nachricht: Toten-Parade in Mexiko-Stadt — „Día de Muertos“-Umzug verwandelt die Reforma in ein Farbfest</title>
+    <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-morgens.html#artikel-8</guid>
+    <description>Hunderttausende säumten die Paseo de la Reforma, als Skelette und elegante Catrinas durch die Innenstadt zogen. Der 2016 als Hommage an einen Bond-Film begonnene Umzug ist zum freudigsten Totengedenken der Welt geworden.</description>
+    <category>Kultur &amp; Medien</category>
+    <pubDate>Mon, 02 Nov 2026 06:33:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
 <item>
     <title>Update: Zwei Tage vor den Midterms — Bundesrichterin stopft Droh-Kampagne des US-Justizministeriums gegen Wahlbeamte</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-1</link>
@@ -543,98 +644,6 @@
     <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
     <r724:quelle url="https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"></r724:quelle>
     <r724:quelle url="https://press.un.org/en/2026/sc16498"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Strafanzeigen und drei Jahre Sperre: Südkorea geht gegen Smart-Glasses-Betrug vor</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-5</guid>
-    <description>Betrug mit KI-Smart-Brillen an der Suneung-Prüfung soll künftig Strafanzeigen und eine dreijährige Sperre nach sich ziehen. An 1.312 Prüfungsorten werden eigens geschulte Kräfte eingesetzt, Funksignal-Detektoren folgen.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://m.koreaherald.com/article/10920487"></r724:quelle>
-    <r724:quelle url="https://www.rte.ie/news/2026/1030/1597312-south-korea-smart-glasses/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>„Ein echtes Genie“: Putin lobt Elon Musk — während Kiew um gedrosseltes Starlink ringt</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-6</guid>
-    <description>Putin nannte Musk ein Genie und betonte einen engen Kontakt zu US-Partnern im Orbit. Hintergrund ist die vor Wochen gedrosselte und inzwischen wiederhergestellte Starlink-Versorgung der ukrainischen Armee.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.independent.co.uk/news/world/europe/elon-musk-putin-starlink-russia-ukraine-b3075175.html"></r724:quelle>
-    <r724:quelle url="https://kyivindependent.com/putin-calls-musk-genius-as-ukraine-recovers-from-starshield-throttling/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Ecuador richtet COP18 2028 aus — Geheimwahl entscheidet mit 55:53</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-7</guid>
-    <description>Ecuador richtet 2028 die COP18 aus — eine Geheimwahl auf der COP17 in Jerewan entschied mit 55:53 gegen Panama. Quito empfängt damit die nächste UN-Biodiversitätskonferenz samt Protokoll-Treffen.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.eleconomista.com.mx/internacionales/ecuador-elegido-presidir-cop18-sobre-biodiversidad-onu-20261030-841490.html"></r724:quelle>
-    <r724:quelle url="https://www.ambienteyenergia.gob.ec/ecuador-sera-sede-de-la-conferencia-sobre-biodiversidad-mas-importante-del-mundo/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Neun gerettete Orang-Utans finden in Borneos Wäldern ein neues Zuhause</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-8</guid>
-    <description>Neun bei Waldbränden gerettete Orang-Utans wurden im Schutzgebiet Batu Nyambu auf Borneo ausgewildert. Seit August kamen mehr als 51 Tiere in Rettungsprogramme; die Feuer zerstörten laut Monitor 1,9 Millionen Hektar.</description>
-    <category>Klima &amp; Umwelt</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.france24.com/en/live-news/20261030-new-home-for-orangutans-rescued-from-indonesia-s-burning-forests"></r724:quelle>
-    <r724:quelle url="https://news.mongabay.com/2026/10/scorched-sanctuaries-the-race-to-save-borneos-orangutans-from-fires/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Staatskrise in Polen: Nawrocki dringt im Streit ums Verfassungsgericht mit Körpereinsatz ins Gebäude ein</title>
-    <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-1</guid>
-    <description>Der Machtkampf um Polens Verfassungsgericht hat eine neue Stufe erreicht: Staatspräsident Karol Nawrocki verschaffte sich nach abgeriegeltem Gebäude Zutritt. Videos zeigen, wie er Richterinnen drängelt und ihnen abspricht, Verfassungsrichter zu sein. Hunderte Demonstranten werfen der Regierung Tusk vor, die Justiz anzugreifen.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.n-tv.de/politik/Polens-Praesident-Nawrocki-stuermt-ins-Verfassungsgericht-id31478895.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Weltgrößte Catrina: Mexiko-Stadt stellt Rekord-Skelettfigur zum Tag der Toten auf</title>
-    <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-2</guid>
-    <description>Zum Tag der Toten wurde auf dem Zócalo eine 33,41 Meter hohe Catrina aus Pappmaché eingeweiht — Guinness-zertifiziert die höchste der Welt. Die Riesenfigur ist Zentrum einer monumentalen Offernde und bis zum 2. November frei zugänglich.</description>
-    <category>Kultur &amp; Medien</category>
-    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://mexiconewsdaily.com/culture/mexico-city-tallest-catrina-record-day-of-the-dead/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Ein Signal für alle: OpenAI will gemeinsames robots.txt-Zeichen für KI-Trainings-Wünsche beachten</title>
-    <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-3</guid>
-    <description>OpenAI kündigte an, ein gemeinsames robots.txt-Signal für KI-Trainings-Präferenzen zu beachten. Website-Betreiber können damit eine Präferenz an mehrere Anbieter gleichzeitig richten. Google und Microsoft wollen 2027 folgen.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://openai.com/index/helping-websites-express-ai-training-preferences/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Schlechtester Tag seit 1974: Intel verliert rund 29 Prozent und 140 Milliarden Dollar Börsenwert</title>
-    <link>https://radar724.de/posts/2026-10-31-morgens.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-morgens.html#artikel-4</guid>
-    <description>Intels Aktie schloss fast 29 Prozent tiefer — der schlechteste Tag seit Juli 1974. Rund 140 Milliarden Dollar Börsenwert vernichtete der Rutsch nach enttäuschender Quartalsprognose. Der Ausverkauf erfasste die gesamte Chip-Branche.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
 
