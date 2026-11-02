@@ -1,13 +1,13 @@
 {
   "key": "radara",
   "job": "RADAR Abendausgabe",
-  "runs_total": 44,
+  "runs_total": 45,
   "runs_beweisbar_seit": "2026-09-16",
   "beweis": "Ausgaben-Dateien posts/*-abends.html je Lauf",
-  "instanzen": 75,
+  "instanzen": 84,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 282,
+  "laufzeit_gesamt_min": 288,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-10-31T18:16:07+01:00",
-  "updated": "2026-10-31T17:20:46.971Z"
+  "last_run": "2026-11-02T18:40:07+01:00",
+  "updated": "2026-11-02T18:46:06.615+01:00"
 }
