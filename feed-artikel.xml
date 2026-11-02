@@ -6,7 +6,109 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:18:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:43:00 +0100</lastBuildDate>
+<item>
+    <title>Update: US-Wahlkampf beendet — Trump schließt in Iowa und Kansas ab, Demokratin unterstützt Republikaner in Michigan</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-1</guid>
+    <description>Einen Tag vor den Midterms ist der Wahlkampf vorbei: Trump trat in Kansas und Iowa auf, zwei inzwischen umkämpften Staaten. In Michigan empfiehlt die unterlegene Demokratin Haley Stevens nun den Republikaner Mike Rogers.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://de.euronews.com/2026/11/02/midterms-trump-beendet-wahlkampf-in-iowa-und-kansas-streit-unter-demokraten-in-michigan"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/midterms-2026-100.html"></r724:quelle>
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/midterms-2026-usa-ergebnisse-live-grafik-karte-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Update: Polens Verfassungskrise — Fronten verhärtet, Immunitätsfrage erreicht am Dienstag den Obersten Gerichtshof</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-2</guid>
+    <description>Nawrockis Krisengespräche bringen keine Annäherung; Tusk macht den Präsidenten für das Chaos verantwortlich. Am Dienstag berät eine Generalversammlung über die Immunität des suspendierten Gerichtspräsidenten.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/polen-verfassungsgericht-eskaliation-nawrocki-richter-ernennung-2026-11-02"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"></r724:quelle>
+<r724:quelle url="https://orf.at/stories/3446768/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Ukraine meldet russische Rekordverluste im Oktober — 54.400 Soldaten in einem Monat</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-3</guid>
+    <description>Laut Generalstab in Kiew verlor Russland im Oktober rund 54.400 Soldaten — mehr als in jedem Monat seit Beginn der Invasion. Ukrainische Truppen haben nach Selenskyj zudem mehr Terrain zurückerobert, als Russland erobern konnte.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.t-online.de/nachrichten/ukraine/id_101507410/krieg-in-der-ukraine-russland-erleidet-rekordverluste-im-oktober.html"></r724:quelle>
+<r724:quelle url="https://www.pravda.com.ua/eng/news/2026/10/29/8060250/"></r724:quelle>
+<r724:quelle url="https://www.yahoo.com/news/world/articles/russia-suffers-record-troop-losses-093023954.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Tagesrückblick: DAX schließt 0,63 Prozent höher bei 25.981,09 Punkten — Erholung vor Apple-Zahlen und Midterms</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-4</guid>
+    <description>Der DAX macht den Freitagsrutsch wett und schließt bei 25.981 Punkten; MDax plus 1,26 Prozent. Fallende Ölpreise stützen, im Fokus stehen Apple-Zahlen und die US-Zwischenwahl.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-schluss-dax-legt-vor-apple-zahlen-und-12191405"></r724:quelle>
+<r724:quelle url="https://www.comdirect.de/inf/indizes/DE0008469008"></r724:quelle>
+<r724:quelle url="https://www.finanzen.net/nachricht/aktien/gute-stimmung-in-frankfurt-dax-schliesst-in-der-gewinnzone-16029779"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Wall Street auf Erholungskurs nach Tech-Ausverkauf — Apple berichtet nach Börsenschluss</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-5</guid>
+    <description>Der S&amp;P 500 notiert nach dem schlechtesten Handelstag seit Monaten rund 0,6 Prozent höher, der Dow führt an. Am Freitag hatten enttäuschende Tech-Zahlen einen KI-Ausverkauf ausgelöst.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"></r724:quelle>
+<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/gute-stimmung-in-new-york-s-p-500-in-gruen-1036701644"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Gold erholt sich um gut zwei Prozent — Brentöl rutscht auf Iran-Diplomatie-Hoffnungen um mehr als sechs Prozent ab</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-6</guid>
+    <description>Die Goldunze kostet wieder rund 3.964 Dollar, Silber klettert über 50 Dollar. Brent gibt auf Hoffnungen auf Gespräche im Iran-Konflikt und den Wechsel des Leitkontrakts deutlich nach.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.goldreporter.de/goldpreis-2-11-2026/marktbericht-gold/262730/"></r724:quelle>
+<r724:quelle url="https://www.wallstreet-online.de/nachricht/21623664-rohstoffpreise-ueberblick-goldpreis-silberpreis-oel-brent-wti-rohstoffe-02-11-2026"></r724:quelle>
+<r724:quelle url="https://www.boerse.de/rohstoffe/Brent-Rohoelpreis/XC0009677409"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>NASA fragt die Industrie nach einer privaten Rettungsmission für das Hubble-Weltraumteleskop</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-7</guid>
+    <description>Per Request for Information lotet die NASA aus, ob eine kommerzielle Service-Mission Hubbles Bahn anheben oder das Teleskop warten könnte. Antworten sind bis 30. November möglich.</description>
+    <category>Space &amp; Forschung</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"></r724:quelle>
+<r724:quelle url="https://www.astronews.com/news/artikel/2026/11/2611-002.shtml"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+<item>
+    <title>Fernrekord auf dem Mars: Perseverance überholt mit 45,22 Kilometern die Marke von Opportunity</title>
+    <link>https://radar724.de/posts/2026-11-02-abends.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-abends.html#artikel-8</guid>
+    <description>Der Rover hat als erstes Fahrzeug mehr als 28 Meilen auf einem anderen Himmelskörper zurückgelegt und dabei den 22 Jahre alten Rekord von Opportunity übertroffen. Die Autonomie-Software macht den Unterschied.</description>
+    <category>Space &amp; Forschung</category>
+    <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.jpl.nasa.gov/news/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"></r724:quelle>
+<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261101010536.htm"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
 <item>
     <title>Selenskyj knüpft Stopp ukrainischer Angriffe auf russische Öl-Anlagen an US-Raketenlieferungen</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-1</link>
@@ -20,7 +122,6 @@
 <r724:quelle url="news-afp-20261102-c3231d1d"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Nach dem Wahlerfolg: Rot-grün-rote Koalitionsgespräche in Berlin starten</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-2</link>
@@ -33,7 +134,6 @@
 <r724:quelle url="https://www.rbb24.de/politik/beitrag/2026/11/berlin-koalitionsverhandlungen-linke-gruene-spd-beginn.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Steinmeier warnt nach China-Reise vor KI-Risiken für die Demokratie</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-3</link>
@@ -45,7 +145,6 @@
 <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Tarifstreit eskaliert: Warnstreiks in der Metall- und Elektroindustrie</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-4</link>
@@ -58,7 +157,6 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>DAX leicht im Plus vor den US-Midterms — Anleger warten auf ISM-Daten und Apple-Zahlen</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-5</link>
@@ -72,7 +170,6 @@
 <r724:quelle url="https://de.marketscreener.com/kurs/index/DAX-7395/kurse/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>19. Digitalgipfel in Berlin: „Shaping AI“ — KI-Souveränität im Mittelpunkt</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-6</link>
@@ -85,7 +182,6 @@
 <r724:quelle url="https://bmds.bund.de/aktuelles/digital-gipfel"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Junge Menschen vertrauen KI-Chatbots ihre Sorgen an — vzbv fordert verbindliche Vorgaben</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-7</link>
@@ -97,7 +193,6 @@
 <r724:quelle url="https://www.vzbv.de/pressemitteilungen/ki-als-riskanter-ratgeber-fuer-junge-menschen"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Südkorea verdoppelt KI- und Halbleiter-Ausgaben für 2027</title>
     <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-8</link>
@@ -110,7 +205,6 @@
 <r724:quelle url="https://www.rfi.fr/en/international-news/20261102-south-korea-to-double-spending-on-ai-and-chips-in-2027"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Update: Letzter Sprint vor den US-Midterms — Umfragen sehen die Demokraten im Aufwind, teuerste Zwischenwahl der US-Geschichte</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-1</link>
@@ -123,7 +217,6 @@
     <r724:quelle url="https://www.zdfheute.de/politik/ausland/usa-midterms-2026-zeitplan-szenarien-senat-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Update: Polen-Streit — EU-Kommission stellt sich hinter Tusk und drängt Nawrocki zur Vereidigung der Richter</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-2</link>
@@ -136,7 +229,6 @@
     <r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-tusk-nawrocki-eskalation-warschau-richter-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Update: Iran-Konflikt — Trump bringt Angriff auf Atomkomplex „Pickaxe Mountain“ ins Spiel</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-3</link>
@@ -149,7 +241,6 @@
     <r724:quelle url="https://www.fr.de/politik/trumps-neues-iran-ziel-der-mutmassliche-atomkomplex-pickaxe-mountain-zr-94568682.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Westsahara: UN beendet nach 35 Jahren offiziell die Friedensmission MINURSO</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-4</link>
@@ -162,7 +253,6 @@
     <r724:quelle url="https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Börsen-Wochenausblick: Midterms und Golf-Spannungen geben die Richtung vor</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-5</link>
@@ -174,7 +264,6 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Nach dem Rekord-Hack: Binance öffnet die Auszahlungen wieder — Bitcoin stabilisiert sich um 70.000 Euro</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-6</link>
@@ -187,7 +276,6 @@
     <r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/binance-nimmt-bitcoin-auszahlungen-wieder-auf-nachdem-der-grossteil-der-gestohlenen-6-3-mrd-usd-ged-ce785fd8da89fe2c"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Grande Dame des deutschen Fernsehfilms: Produzentin Regina Ziegler mit 82 Jahren gestorben</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-7</link>
@@ -200,7 +288,6 @@
     <r724:quelle url="https://www.zeit.de/news/2026-11/01/filmproduzentin-regina-ziegler-mit-82-jahren-gestorben"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Gute Nachricht: Toten-Parade in Mexiko-Stadt — „Día de Muertos“-Umzug verwandelt die Reforma in ein Farbfest</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-8</link>
@@ -225,7 +312,6 @@
     <r724:quelle url="https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Update: Polens Krise vertieft sich — Nawrocki berät ohne Tusks Lager, Tusk spricht von „Zerstörern der Demokratie“</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-2</link>
@@ -239,7 +325,6 @@
     <r724:quelle url="https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Irans Revolutionsführer droht den USA mit „geografisch unbegrenzter“ Vergeltung — während Washington auf Verhandlungen setzt</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-3</link>
@@ -253,7 +338,6 @@
     <r724:quelle url="https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>UNO: Mehr als 300.000 Menschen sind vor den Kämpfen im West-Jemen geflohen</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-4</link>
@@ -267,7 +351,6 @@
     <r724:quelle url="https://theinsightinternational.com/iom-300000-displaced-western-yemen-fighting-november-1/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>KI-Chatbots fluten den US-Wahlkampf mit Fehlinformationen — Forscher warnen vor „Informationschaos“</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-5</link>
@@ -281,7 +364,6 @@
     <r724:quelle url="https://thereport.live/international/ai-chatbots-spread-election-misinformation-ahead-of-us-midterms/42446"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Meta baut mit Chinas Fourier den Humanoid-Roboter „Max“ — Prototyp in drei Monaten fertig</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-6</link>
@@ -295,7 +377,6 @@
     <r724:quelle url="https://theoutpost.ai/news-story/meta-humanoid-robot-max-built-with-china-s-fourier-robotics-in-just-three-months-32962/"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-
 <item>
     <title>Delhi startet in den Winter-Smog — Stufe-1-Maßnahmen greifen, Belastung zeitweise 20-fach über WHO-Grenzwert</title>
     <link>https://radar724.de/posts/2026-11-01-nachts.html#artikel-7</link>
@@ -550,107 +631,5 @@
     <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/un-mission-westsahara-marokko-minurso-mandat-russland-gxe"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
-<item>
-    <title>Update: Berliner Linke macht den Weg frei — rot-grün-rote Koalitionsverhandlungen starten am Montag</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-4</guid>
-    <description>Der Berliner Landesparteitag der Linken stimmte mehrheitlich für Koalitionsverhandlungen mit Grünen und SPD. Die Gespräche beginnen am Montag; Fraktionschefin Eralp verteidigte das Projekt gegen die Kritik aus der Bundespolitik.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/politik/deutschland/2026-10/berliner-linke-stimmt-fuer-aufnahme-von-koalitionsverhandlungen"></r724:quelle>
-    <r724:quelle url="https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101505446/berliner-linke-stimmt-fuer-koalitionsverhandlungen-trotz-streit.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Papst Leo XIV. gibt seine Stimme für die US-Zwischenwahlen ab — per Briefwahl aus Rom</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-5</guid>
-    <description>Der erste US-amerikanische Papst hat per Briefwahl an den Kongresswahlen seines Heimatlandes teilgenommen, wie der Vatikan bestätigte. Am Dienstag werden Repräsentantenhaus und ein Drittel des Senats neu gewählt.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-votes-usa-midterm-elections.html"></r724:quelle>
-    <r724:quelle url="https://www.usatoday.com/story/news/politics/elections/2026/10/30/pope-leo-voting-in-midterms-vatican-confirms/92512905007/"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Krypto-Markt nach Binance-Schock gefasst — Bitcoin verteidigt die 77.000-Dollar-Marke</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-6</guid>
-    <description>Bitcoin notierte am Samstag stabil um 77.000 Dollar, Ethereum zog im Tagesverlauf zu. Die Nachwirkungen des Rekord-Hacks bleiben aber spürbar: hohe Liquidationen und ETF-Abflüsse.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.coingabbar.com/en/crypto-news-october-31-bitcoin-eth-price-binance-hack-update"></r724:quelle>
-    <r724:quelle url="https://www.cryptotimes.io/2026/10/31/bitcoin-price-today-btc-falls-to-77k-as-427m-in-crypto-liquidations-hit-etfs-see-643m-outflow/"></r724:quelle>
-    <r724:quelle url="https://coinstats.app/ai/a/latest-news-for-bitcoin"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Chip im Kopf: Wie Gehirnimplantate und KI Gelähmten die Steuerung von Computern per Gedanke ermöglichen</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-7</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-7</guid>
-    <description>An der TU München steuert ein gelähmter Patient über Hirnimplantate und trainierte KI einen Computer. Ziel ist die Gedanken-Steuerung eines Roboterarms — während Ethiker vor Risiken warnen.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html"></r724:quelle>
-    <r724:quelle url="https://www.nature.com/articles/s41467-026-75213-3"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>KI als Finanzberater: Jeder vierte Deutsche fragt schon Chatbots zu Geldfragen — Studien sehen Potenzial und Grenzen</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-8</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-8</guid>
-    <description>Bitkom zufolge hat jeder vierte Deutsche KI schon in Geldfragen um Rat gefragt. Studien attestieren den Modellen brauchbare Grundempfehlungen — entscheidend bleibt die richtige Frage-Formulierung.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html"></r724:quelle>
-    <r724:quelle url="https://bitkom-research.de/news/ein-viertel-will-ki-ueber-die-eigenen-finanzen-entscheiden-lassen"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Ebola-Ausbruch im Kongo: Zahl der Toten übersteigt erstmals 5.000 — Nigeria meldet ersten Fall</title>
-    <link>https://radar724.de/posts/2026-10-31-nachts.html#artikel-9</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-nachts.html#artikel-9</guid>
-    <description>Im Kongo starben seit Mai mehr als 5.000 Menschen an Ebola, über 10.000 gelten als infiziert. Mit Nigeria meldete ein viertes Land einen Fall — der Ausbruch ist bereits der zweitgrößte der Geschichte.</description>
-    <category>Gesundheit &amp; Medizin</category>
-    <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html"></r724:quelle>
-    <r724:quelle url="https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"></r724:quelle>
-    <r724:quelle url="https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Polens Präsident beruft Eil-Konsultationen ein — vor dem Verfassungsgericht protestieren erneut Hunderte</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-1</guid>
-    <description>Karol Nawrocki beruft nach der nächtlichen Eskalation im Streit ums Verfassungsgericht „dringende Konsultationen“ aller Parlamentkräfte ein — ausgelöst von einer „Bedrohung der inneren Sicherheit“. Vor dem Gerichtsgebäude protestieren erneut Hunderte, die Partei von Premier Tusk wollte zunächst nicht teilnehmen.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-krise-polizei-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: „Gen Z regelt“-Protesttag — fast 180.000 Zusagen, Sprecherin wehrt sich gegen das „Gewaltnarrativ“</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-2</guid>
-    <description>Am Protesttag selbst wehrt sich „Gen Z regelt“-Sprecherin Veronika Dinter gegen die Deutung der Demos als Gewaltprojektion: Stimmung werde gegen die Proteste geschürt. Fast 180.000 Zusagen liegen vor, das Innenministerium unterscheidet friedliche Schülerproteste von einer gewaltbereiten Szene.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="news-afp-20261031-08efd415"></r724:quelle>
-    <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/zehntausende-bei-jugendprotesten-in-ganz-deutschland-erwartet,VZbl4bj"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/inland/regional/hamburg/gen-z-regelt-demo-was-heute-in-hamburg-geplant-ist,genz-132.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-
 </channel>
 </rss>
