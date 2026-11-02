@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 02 Nov 2026 12:18:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 18:43:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #186 — Update: Trump beendet Midterms-Wahlkampf in Iowa und Kansas · Ölpreis rutscht auf Iran-Diplomatie-Hoffnungen ab · NASA sondiert private Rettung für Hubble</title>
+<link>https://radar724.de/posts/2026-11-02-abends.html</link>
+<guid>https://radar724.de/posts/2026-11-02-abends.html</guid>
+<description>Montag, 2. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:43 Uhr (Europe/Berlin)</description>
+<pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
+</item>
 <item>
 <title>Ausgabe #185 — Selenskyj knüpft Stopp der Öl-Angriffe an US-Raketenlieferungen · Rot-grün-rote Gespräche in Berlin starten · DAX leicht im Plus vor den US-Midterms</title>
 <link>https://radar724.de/posts/2026-11-02-mittags.html</link>
@@ -97,12 +104,5 @@
     <guid>https://radar724.de/posts/2026-10-29-nachts.html</guid>
     <description>Donnerstag, 29. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 23:39 Uhr (Europe/Berlin)</description>
     <pubDate>Thu, 29 Oct 2026 23:39:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #171 — Update: EZB lässt die Zinsen trotz Energiepreis-Sorge unverändert · DAX schließt 1,36 Prozent höher · Google startet Sicherheits-KI „Gemini 4 Carbon“</title>
-    <link>https://radar724.de/posts/2026-10-29-abends.html</link>
-    <guid>https://radar724.de/posts/2026-10-29-abends.html</guid>
-    <description>Donnerstag, 29. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Weltgeschehen · erstellt um 18:34 Uhr (Europe/Berlin)</description>
-    <pubDate>Thu, 29 Oct 2026 18:34:00 +0100</pubDate></item>
-
-  </channel>
+</channel>
 </rss>
