@@ -6,7 +6,111 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:35:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:18:00 +0100</lastBuildDate>
+<item>
+    <title>Selenskyj knüpft Stopp ukrainischer Angriffe auf russische Öl-Anlagen an US-Raketenlieferungen</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-1</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-1</guid>
+    <description>Ukraines Präsident bietet im Fox-Interview an, Angriffe auf russische Öl-Raffinerien zu stoppen, wenn die USA Raketen für Patriot-Systeme liefern. Trump hatte die Schläge wegen der Ölpreise kritisiert.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/selenskyj-usa-raketenlieferungen-bedingung-angriff-oelanlagen-ukraine-krieg-russland-100.html"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/politik/21-15-Selenskyj-Brauchen-Raketen-fuer-Patriot-Systeme-id30859357.html"></r724:quelle>
+<r724:quelle url="news-afp-20261102-c3231d1d"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Nach dem Wahlerfolg: Rot-grün-rote Koalitionsgespräche in Berlin starten</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-2</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-2</guid>
+    <description>SPD, Grüne und Linke beginnen am Montag erstmals gemeinsame Gespräche über eine Koalition. Im Raum steht das erste rot-grün-rote Bündnis in einem Flächenland seit Jahren.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"></r724:quelle>
+<r724:quelle url="https://www.rbb24.de/politik/beitrag/2026/11/berlin-koalitionsverhandlungen-linke-gruene-spd-beginn.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Steinmeier warnt nach China-Reise vor KI-Risiken für die Demokratie</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-3</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-3</guid>
+    <description>Der Bundespräsident fordert internationale Regeln für Künstliche Intelligenz, etwa im UN-Rahmen. Manipulation und Deepfakes gefährdeten demokratische Gesellschaften.</description>
+    <category>Weltgeschehen</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Tarifstreit eskaliert: Warnstreiks in der Metall- und Elektroindustrie</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-4</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-4</guid>
+    <description>Nach gescheiterter zweiter Tarifrunde rufen IG Metall und Bezirke seit dem 1. November zu Warnstreiks auf. Das Arbeitgeberangebot lag zuletzt bei 1,3 Prozent.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro/aktionen-zur-metall-tarifrunde"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>DAX leicht im Plus vor den US-Midterms — Anleger warten auf ISM-Daten und Apple-Zahlen</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-5</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-5</guid>
+    <description>Der DAX notierte am Vormittag rund 0,3 Prozent über dem Freitagsschluss. Die Woche wird von den US-Zwischenwahlen am Dienstag bestimmt.</description>
+    <category>Wirtschaft &amp; Finanzen</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://ms-aktuell.de/welt/dax-futures-midterms-02-11-2026/"></r724:quelle>
+<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-dax-legt-zum-monatsanfang-im-unsicheren-12190694"></r724:quelle>
+<r724:quelle url="https://de.marketscreener.com/kurs/index/DAX-7395/kurse/"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>19. Digitalgipfel in Berlin: „Shaping AI“ — KI-Souveränität im Mittelpunkt</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-6</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-6</guid>
+    <description>Das ausverkaufte Treffen steht unter dem Motto „Shaping AI: safe, sovereign, competitive“. Wildberger eröffnet, Merz spricht am Nachmittag; Gäste kommen aus Europa und Kanada.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"></r724:quelle>
+<r724:quelle url="https://bmds.bund.de/aktuelles/digital-gipfel"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Junge Menschen vertrauen KI-Chatbots ihre Sorgen an — vzbv fordert verbindliche Vorgaben</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-7</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-7</guid>
+    <description>Laut forsa-Umfrage sprechen 28 Prozent der nutzenden 14- bis 25-Jährigen mit KI-Chatbots über Sorgen und Gesundheit. Der vzbv fordert verbindliche Schutzvorgaben.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.vzbv.de/pressemitteilungen/ki-als-riskanter-ratgeber-fuer-junge-menschen"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
+<item>
+    <title>Südkorea verdoppelt KI- und Halbleiter-Ausgaben für 2027</title>
+    <link>https://radar724.de/posts/2026-11-02-mittags.html#artikel-8</link>
+    <guid isPermaLink="true">https://radar724.de/posts/2026-11-02-mittags.html#artikel-8</guid>
+    <description>Seoul plant 21,3 Billionen Won (rund 14,3 Milliarden Euro) für KI und Chips — doppelt so viel wie zuvor. Der Verteidigungshaushalt wächst um acht Prozent.</description>
+    <category>Tech &amp; KI</category>
+    <pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
+    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://german.korea.net/NewsFocus/Policies/view?articleId=298886"></r724:quelle>
+<r724:quelle url="https://www.rfi.fr/en/international-news/20261102-south-korea-to-double-spending-on-ai-and-chips-in-2027"></r724:quelle>
+    <r724:ki>true</r724:ki>
+  </item>
+
 <item>
     <title>Update: Letzter Sprint vor den US-Midterms — Umfragen sehen die Demokraten im Aufwind, teuerste Zwischenwahl der US-Geschichte</title>
     <link>https://radar724.de/posts/2026-11-02-morgens.html#artikel-1</link>
@@ -545,105 +649,6 @@
     <r724:quelle url="news-afp-20261031-08efd415"></r724:quelle>
     <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/zehntausende-bei-jugendprotesten-in-ganz-deutschland-erwartet,VZbl4bj"></r724:quelle>
     <r724:quelle url="https://www.tagesschau.de/inland/regional/hamburg/gen-z-regelt-demo-was-heute-in-hamburg-geplant-ist,genz-132.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Oleschky — Moskau erklärt die „humanitäre Mission“ für beendet, Waffenruhe läuft bis Sonntagabend</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-3</guid>
-    <description>Russland kündigt die „Fertigstellung der humanitären Mission“ in der besetzten Stadt am Dnjepr an; ein Konvoi mit Ausreisewilligen sei unterwegs. Die von Melania Trump vermittelte, örtlich begrenzte Feuerpause läuft Berichten zufolge bis Sonntagabend.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="news-afp-20261030-621c3469"></r724:quelle>
-    <r724:quelle url="news-ap-20261030-e6f9b510"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Binance reserviert mehr als 6,3 Milliarden Dollar — Trump bestätigt US-Ermittlungen zum Rekord-Hack</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-4</guid>
-    <description>US-Präsident Trump bestätigte Ermittlungen zum vermutlich größten Krypto-Diebstahl der Geschichte; zu einer Beteiligung Nordkoreas sagte er: „Wir wissen es nicht.“ Binance hat über 6,34 Milliarden Dollar reserviert und mit Partnern rund drei Milliarden Dollar einfrieren lassen.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://apnews.com/article/binance-cryptocurrency-security-hack-north-korea-550e9b876550f71f07098494fe735beb"></r724:quelle>
-    <r724:quelle url="https://www.heise.de/news/6-3-Milliarden-US-Dollar-Neuer-groesster-Krypto-Coup-aller-Zeiten-trifft-Binance-11505601.html"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Britische Wettbewerbsbehörde eröffnet Verfahren gegen Metas neue Geschäftsbedingungen für Verlage</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-5</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-5</guid>
-    <description>Die CMA prüft, ob Meta Verlagen und Werbekunden „ausbeuterische Bedingungen“ auferlegt, die ein Abrufen von Nachrichteninhalten für eigene KI-Produkte ohne echte Wahl ermöglichen. Die eigentlich zum 20. November geplanten Bedingungen hatte Meta nach Beschwerden auf unbestimmte Zeit verschoben.</description>
-    <category>Tech &amp; KI</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2"></r724:quelle>
-    <r724:quelle url="https://www.euronews.com/2026/10/30/uk-probes-meta-over-exploitative-new-terms-for-media-as-global-pushback-mounts"></r724:quelle>
-    <r724:quelle url="news-afp-20261030-ac226dc5"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Nach gescheitertem Rettungsmanöver: Das Gamma-Teleskop Swift stürzt nach 22 Jahren auf die Erde</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html#artikel-6</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html#artikel-6</guid>
-    <description>Das Neil-Gehrels-Swift-Observatorium der NASA verglüht nach 22 Jahren in der Erdatmosphäre; der Versuch des Start-ups Katalyst, das Teleskop mit dem Roboter Link in eine höhere Umlaufbahn zu hieven, war gescheitert. Trümmer aus dichtem Wolfram könnten den Wiedereintritt überstehen — vermutlich landen sie im Ozean.</description>
-    <category>Space &amp; Forschung</category>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://science.nasa.gov/blogs/swift/2026/10/23/nasas-swift-mission-ends-ahead-of-re-entry/"></r724:quelle>
-    <r724:quelle url="news-ap-20261031-313ad598"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: Tumult vor Polens Verfassungsgericht — Polizei riegelt Areal ab, drei Festnahmen</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-1</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-1</guid>
-    <description>Nach Protesten vor dem Warschauer Verfassungsgericht riegelte die Polizei das Gelände ab; drei Menschen wurden festgenommen. Präsident Nawrocki brach seine Senegal-Reise ab — Auslöser ist die umstrittene Suspendierung der Gerichtsführung.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-krise-polizei-100.html"></r724:quelle>
-    <r724:quelle url="https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Update: „Gen Z regelt“ — Demos in 34 Städten gestartet, mehr als 160.000 Zusagen</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-2</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-2</guid>
-    <description>Junge Menschen demonstrieren in 34 Städten für Bildung, bezahlbares Leben und Klimaschutz — über 160.000 Teilnahmen sind zugesagt. Behörden und Verfassungsschutz haben sich auf mögliche Ausschreitungen vorbereitet.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/zehntausende-bei-jugendprotesten-in-ganz-deutschland-erwartet,VZbl4bj"></r724:quelle>
-    <r724:quelle url="https://www.tagesschau.de/inland/regional/hamburg/gen-z-regelt-demo-was-heute-in-hamburg-geplant-ist,genz-132.html"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Selenskyj zu Gast bei Erdoğan: Istanbul berät Ukraine-Krieg und Energiesicherheit</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-3</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-3</guid>
-    <description>Selenskyj traf Erdoğan im Istanbuler Dolmabahçe-Palast. Themen sind Friedensbemühungen, die Schifffahrt im Schwarzen Meer und die Energiesicherheit — im Hintergrund der Gazprom-Vorwurf eines Drohnenangriffs auf Turkstream.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.trtdeutsch.com/article/ef4eec673adc"></r724:quelle>
-    <r724:quelle url="https://de.h.ua/2026/10/30/selenskyj-besucht-tuerkei-zusammenkunft-erdogan"></r724:quelle>
-    <r724:ki>true</r724:ki>
-  </item>
-<item>
-    <title>Nach gegenseitigen Vetos: UN-Friedensmission in Westsahara verliert ihr Mandat</title>
-    <link>https://radar724.de/posts/2026-10-31-mittags.html#artikel-4</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-mittags.html#artikel-4</guid>
-    <description>Nach einem russischen Veto gegen einen US-Entwurf und dem Scheitern des russischen Gegenentwurfs läuft das Minurso-Mandat aus. Die USA kündigen einen geordneten Abzug an, die Polisario begrüßt das Veto.</description>
-    <category>Weltgeschehen</category>
-    <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate>
-    <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-    <r724:quelle url="https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"></r724:quelle>
-    <r724:quelle url="https://press.un.org/en/2026/sc16498"></r724:quelle>
     <r724:ki>true</r724:ki>
   </item>
 
