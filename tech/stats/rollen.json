@@ -25,14 +25,6 @@
       "stand": "30.10.2026, 23:02 Uhr"
     },
     {
-      "rolle": "Framework_R6.1",
-      "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "01.10.2026, 08:51 Uhr"
-    },
-    {
       "rolle": "Mom_0",
       "dienstbeginn": "16.09.2026",
       "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
@@ -65,5 +57,5 @@
       "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-11-02T03:30:25+00:00"
+  "updated": "2026-11-02T18:46:28.224+01:00"
 }
