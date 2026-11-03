@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 03 Nov 2026 06:17:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:49:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #189 — Update: Midterms laufen — Amerika wählt über Trumps Kongress · DAX schwächelt vor dem Wahlausgang · Apple überzeugt mit dem iPhone, Aktie trotzdem im Minus</title>
+<link>https://radar724.de/posts/2026-11-03-mittags.html</link>
+<guid>https://radar724.de/posts/2026-11-03-mittags.html</guid>
+<description>Dienstag, 03. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:49 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 03 Nov 2026 12:49:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #188 — Wahltag in den USA: Midterms über Trumps Kongress beginnen · Iran stellt Öffnung der Straße von Hormus binnen zwei Tagen in Aussicht · Alstom senkt Gewinnprognose drastisch</title>
 <link>https://radar724.de/posts/2026-11-03-morgens.html</link>
@@ -98,11 +104,5 @@
     <guid>https://radar724.de/posts/2026-10-30-abends.html</guid>
     <description>Freitag, 30. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 18:26 Uhr (Europe/Berlin)</description>
     <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #174 — KI-Sorgen bremsen die Börsen von Tokio bis Frankfurt · Israel: Rechte fordert Festnahme arabischer Parteichefs · Gold rutscht unter 4.000 Dollar</title>
-    <link>https://radar724.de/posts/2026-10-30-mittags.html</link>
-    <guid>https://radar724.de/posts/2026-10-30-mittags.html</guid>
-    <description>Freitag, 30. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:19 Uhr (Europe/Berlin)</description>
-    <pubDate>Fri, 30 Oct 2026 12:19:00 +0100</pubDate></item>
 </channel>
 </rss>
