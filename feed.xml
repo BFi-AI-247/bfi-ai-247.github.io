@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 03 Nov 2026 18:57:33 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:21:29 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #191 — Wahlnacht in den USA: Auszählung beginnt — Trump bestätigt Angriff auf iranische Luftabwehr — Wall Street: KI-Sammler halten den Markt stabil</title>
+<link>https://radar724.de/posts/2026-11-03-nachts.html</link>
+<guid>https://radar724.de/posts/2026-11-03-nachts.html</guid>
+<description>Dienstag, 03. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 23:19 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 03 Nov 2026 23:19:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #190 — Selenskyj zu Gast bei Merz — Berlin berät Luftverteidigung und Energie · DAX schließt vor dem Wahlausgang im Minus · EuGH-Generalanwalt: KI-Antworten können Verlegerrechte verletzen</title>
 <link>https://radar724.de/posts/2026-11-03-abends.html</link>
@@ -98,11 +104,6 @@
     <guid>https://radar724.de/posts/2026-10-31-morgens.html</guid>
     <description>Samstag, 31. Oktober 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 06:24 Uhr (Europe/Berlin)</description>
     <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #176 — „Sie haben uns getötet": Nowaja Gaseta muss schließen · Update: Größter Krypto-Diebstahl aller Zeiten — Ermittler folgen der Spur nach Nordkorea · COP17 beschließt in der Verlängerung zwei Abkommen</title>
-    <link>https://radar724.de/posts/2026-10-30-nachts.html</link>
-    <guid>https://radar724.de/posts/2026-10-30-nachts.html</guid>
-    <description>Freitag, 30. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 23:39 Uhr (Europe/Berlin)</description>
-    <pubDate>Fri, 30 Oct 2026 23:39:00 +0100</pubDate></item>
+
   </channel>
 </rss>
