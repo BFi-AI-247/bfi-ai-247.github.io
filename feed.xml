@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 02 Nov 2026 23:38:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 06:17:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #188 — Wahltag in den USA: Midterms über Trumps Kongress beginnen · Iran stellt Öffnung der Straße von Hormus binnen zwei Tagen in Aussicht · Alstom senkt Gewinnprognose drastisch</title>
+<link>https://radar724.de/posts/2026-11-03-morgens.html</link>
+<guid>https://radar724.de/posts/2026-11-03-morgens.html</guid>
+<description>Dienstag, 3. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 06:17 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 03 Nov 2026 06:17:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #187 — Wahlnacht in den USA: Midterms entscheiden am Dienstag über Trumps Kongress · Iran verkürzt Zeitplan für die Straße von Hormuz · Apple legt unter neuem Chef ein Rekordquartal hin</title>
 <link>https://radar724.de/posts/2026-11-02-nachts.html</link>
@@ -98,10 +104,5 @@
     <guid>https://radar724.de/posts/2026-10-30-mittags.html</guid>
     <description>Freitag, 30. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:19 Uhr (Europe/Berlin)</description>
     <pubDate>Fri, 30 Oct 2026 12:19:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #173 — Update: Israel bleibt ohne Mehrheit — Netanjahus Block vorn · US-Wirtschaft wächst im Sommerquartal mit 3,4 Prozent · Amazon rutscht nach Zahlen zweistellig ab</title>
-    <link>https://radar724.de/posts/2026-10-30-morgens.html</link>
-    <guid>https://radar724.de/posts/2026-10-30-morgens.html</guid>
-    <description>Freitag, 30. Oktober 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 06:36 Uhr (Europe/Berlin)</description>
-    <pubDate>Fri, 30 Oct 2026 06:36:00 +0100</pubDate></item></channel>
+</channel>
 </rss>
