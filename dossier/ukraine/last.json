@@ -1,15 +1,15 @@
 {
   "format": "dossier_ukraine",
-  "ausgabe": "Ukraine #35",
-  "titel": "Dossier Ukraine-Krieg — 02.11.2026",
-  "link": "posts/2026-11-02.html",
+  "ausgabe": "Ukraine #36",
+  "titel": "Dossier Ukraine-Krieg — 03.11.2026",
+  "link": "posts/2026-11-03.html",
   "kicker": [
-    "Feuerpause in Oleschky ausgelaufen — Russland lehnt Verlängerung ab",
-    "Hack-Alarm: Ukrainische Luftwarn-App versendet falsche Atom- und Chemie-Warnungen",
-    "Selenskyj bietet einmonatigen Stopp der Raffinerien-Angriffe — im Tausch gegen Patriot-Raketen",
-    "Bulgarien bestätigt Russland-freundliche Präsidentin Jotowa im Amt"
+    "Russische Gleitbomben töten mindestens 24 Menschen bei Hilfsgüter-Ausgabe in Saporischschja",
+    "Trilaterale Verhandlungsrunde für 10./11. November in Abu Dhabi angekündigt",
+    "Selenskyj bestätigt Vergeltungs-Hack auf russisches Notfall-Warnsystem",
+    "Kreml schließt weitere humanitäre Aktionen wie Oleschky vorerst aus"
   ],
-  "datum": "2026-11-02",
-  "uhrzeit": "06:15",
+  "datum": "2026-11-03",
+  "uhrzeit": "06:30",
   "fertig_um": "07:45"
 }
