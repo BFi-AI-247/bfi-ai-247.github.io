@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:49:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 18:57:33 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #190 — Selenskyj zu Gast bei Merz — Berlin berät Luftverteidigung und Energie · DAX schließt vor dem Wahlausgang im Minus · EuGH-Generalanwalt: KI-Antworten können Verlegerrechte verletzen</title>
+<link>https://radar724.de/posts/2026-11-03-abends.html</link>
+<guid>https://radar724.de/posts/2026-11-03-abends.html</guid>
+<description>Dienstag, 03. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:55 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 03 Nov 2026 18:55:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #189 — Update: Midterms laufen — Amerika wählt über Trumps Kongress · DAX schwächelt vor dem Wahlausgang · Apple überzeugt mit dem iPhone, Aktie trotzdem im Minus</title>
 <link>https://radar724.de/posts/2026-11-03-mittags.html</link>
@@ -98,11 +104,5 @@
     <guid>https://radar724.de/posts/2026-10-30-nachts.html</guid>
     <description>Freitag, 30. Oktober 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 23:39 Uhr (Europe/Berlin)</description>
     <pubDate>Fri, 30 Oct 2026 23:39:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #175 — Deutsche Wirtschaft wächst, Inflation fällt auf 2,8 Prozent · DAX schließt 0,85 Prozent tiefer · Trauer um Patrick Stewart und Elke Sommer</title>
-    <link>https://radar724.de/posts/2026-10-30-abends.html</link>
-    <guid>https://radar724.de/posts/2026-10-30-abends.html</guid>
-    <description>Freitag, 30. Oktober 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 18:26 Uhr (Europe/Berlin)</description>
-    <pubDate>Fri, 30 Oct 2026 18:26:00 +0100</pubDate></item>
-</channel>
+  </channel>
 </rss>
