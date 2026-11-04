@@ -6,7 +6,105 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:33:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:54:04 +0100</lastBuildDate>
+    <item>
+    <item>
+      <title>Keine wesentliche neue Front-Entwicklung im Live-Fenster</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-1</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Im Datenstand-Fenster bis heute früh liegt keine von mindestens zwei unabhängigen Quellen bestätigte neue Geländeentwicklung an der Landfront vor; die taktischen OSINT-Lagedienste waren im Digest-Lauf nicht abrufbar. Verwiesen wird auf die tägliche ISW-Lagebewertung und MilitaryLand — nur als Link, ohne Übernahme fremder Grafiken.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.understandingwar.org/backgrounder/analysis">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russlands größter Massenangriff auf das Energienetz in diesem Jahr — Umspannwerk für Atomkraftwerk getroffen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-2</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Nach ukrainischen Angaben flog Russland am 3. November den größten Energie-Angriff des Jahres: Ziele in zehn Oblasten, laut Energieminister Schmyhal 289 Drohnen, 17 ballistische Raketen und 59 Marschflugkörper. Drei Drohnen galten einem für das Kernkraftwerk Chmelnyzkyj kritischen Umspannwerk; Kyiv verhängte Notstrom-Abschaltungen mit Strom- und Wasserausfällen. Alle Zahlen sind als Partei-Darstellung gekennzeichnet.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/kyiv-faces-emergency-power-cuts-widespread-water-outages-after-russias-largest-attack-on-energy-infrastructure-this-year/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Angriffe auf Hilfszentrum, Hospiz und Krankenhaus — mindestens 38 Tote binnen 24 Stunden</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-3</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Die BBC meldet mindestens 38 Tote binnen 24 Stunden nach russischen Angriffen auf ein Hilfsgüter-Verteilzentrum, ein Hospiz und ein Krankenhaus; in Charkiw wurden bei einem Angriff auf eine medizinische Einrichtung 73 Menschen verletzt. Die Opferzahlen beruhen auf ukrainischen Absender-Angaben.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.bbc.co.uk/news/articles/c65ynez5y599o">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-russia-launches-biggest-mass-attack-on-ukraines-energy-infrastructure-this-year/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://taz.de/Ukraine-unter-massivem-Beschuss/!6226985/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Drohne trifft Logistikzentrum des Onlinehändlers Ozon in Adygeja — Absender offen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-4</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Nach Unternehmensangaben traf in der Nacht zum 4. November eine Drohne ein Ozon-Logistikzentrum in der südrussischen Republik Adygeja; es brach ein Feuer aus, Verletzte gab es nach Ozon-Angaben nicht. Eine Zuordnung zur Ukraine ist nicht unabhängig bestätigt — der Angriff reiht sich in die Serie mutmaßlich ukrainischer Schläge gegen russische Logistikzentren ein.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/drone-strikes-warehouse-in-southern-russia-online-retailer-ozon-claims/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.kyivpost.com/post/89060">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukrainisches Verteidigungsministerium meldet Oktober-Bilanz seiner Tiefschlag-Operation</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-5</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Das Verteidigungsministerium in Kyiv (Partei-Angabe) meldet für Oktober sieben getroffene Betriebe der russischen Rüstungsindustrie und drei Militärflugplätze. Eine unabhängige Überprüfung liegt nicht vor; die Angaben werden nur unter Absender-Kennzeichnung wiedergegeben und sind nicht unabhängig bestätigt.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.mod.gov.ua">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Merz empfängt Selenskyj in Berlin: Winterhilfe zugesagt, Gipfel der Koalition der Willigen geplant</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-6</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Bundeskanzler Merz sagte Selenskyj kurzfristig im Kanzleramt weitere Winterhilfe bei Luftverteidigung und Energie zu — nach dpa-Informationen rund 200 Millionen Euro — und kündigte für die übernächste Woche einen Berliner Gipfel der Koalition der Willigen an. Beiden gemeinsam war die Forderung: Wer mit der Ukraine spreche, müsse auch mit Europa sprechen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-pk-selenskyj-berlin-2459660">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.zdfheute.de/politik/deutschland/merz-selenskyi-treffen-berlin-ukraine-hilfe-100.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Selenskyj lehnt Telefonat mit Putin ab — trilaterale Gespräche am 10./11. November in Abu Dhabi</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-7</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Ein Anruf bei Putin führe nur zu einer Geschichtsvorlesung statt echter Schritte, sagte Selenskyj in Berlin; nötig seien Verhandlungen am Tisch und als erster Schritt ein Feuerstillstand. Die trilateralen Gespräche mit den USA und Russland sind für den 10. und 11. November in Abu Dhabi angesetzt, zuvor treffen sich Unterhändler am 4. November in Brüssel zu Sicherheitsgarantien.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/03/8061061/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://newsukraine.rbc.ua/news/zelenskyy-responds-to-idea-of-calling-putin-1793722427.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://taz.de/Merz-empfaengt-Selenskyj/!6226981/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Hochverrats-Verdacht gegen Selenskyjs frühere Pressesprecherin Mendel — Vorwurf als Partei-Darstellung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-04.html#artikel-8</guid>
+      <pubDate>Wed, 04 Nov 2026 05:53:00 +0100</pubDate>
+      <description>SBU und Generalstaatsanwaltschaft verdächtigen die ins Ausland gegangene frühere Pressesprecherin Iuliia Mendel in Abwesenheit des Hochverrats und der Rechtfertigung der russischen Aggression; ihre Schuld müsse gerichtlich bewiesen werden. Mendel, längst scharfe Kritikerin Selenskyjs, wies die Vorwürfe zurück — beide Darstellungen stehen einander gegenüber.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-charges-zelenskys-former-press-secretary-iuliia-mendel-with-treason/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.straitstimes.com/world/europe/ukraine-accuses-zelenskys-ex-spokeswoman-of-high-treason">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Russische Gleitbomben töten mindestens 24 Menschen bei Hilfsgüter-Ausgabe in Saporischschja</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-03.html#artikel-1</link>
@@ -478,113 +576,6 @@
       <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://kyivindependent.com/netherlands-announces-500-million-euro-military-aid-package-for-ukraine/">Primär-/Grundlagenquelle</r724:quelle>
       <r724:quelle url="https://kyivindependent.com/there-cannot-be-business-as-usual-with-russia-dutch-minister-urges-europe-to-step-up-for-ukraine/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Pentagon-Aufsicht lehnt Starlink-Untersuchung ab — Putin nennt Musk „Genie“</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-7</guid>
-      <pubDate>Thu, 29 Oct 2026 06:05:41 +0100</pubDate>
-      <description>Die Pentagon-Aufsicht lehnte ein überparteiliches Ersuchen von neun US-Senatoren zur Untersuchung der Starlink-/Starshield-Störungen ab (laut AP). Parallel erholte sich die Ukraine von der Drosselung; Putin nannte Musk „Genie“ — Kreml-Statement, einseitige Parteidarstellung.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/pentagon-watchdog-rejects-bipartisan-plea-to-investigate-starlink-disruption-ap-reports/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/putin-calls-musk-genius-as-ukraine-recovers-from-starshield-throttling/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>US-Senator stellt Russland-Diesel-Tankern Ultimatum — Lawrow reist zum G20-Treffen</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-8</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-8</guid>
-      <pubDate>Thu, 29 Oct 2026 06:05:41 +0100</pubDate>
-      <description>Senator Blumenthal forderte Reedereien mit illegalem russischem Diesel zum Kurswechsel auf. Lawrow reist zum G20-Treffen am 30./31. Oktober in die USA — beides Kennzeichen erwärmter Washington-Moskau-Beziehungen.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/reverse-course-while-theres-still-time-us-senator-tells-ships-carrying-russian-diesel-to-turn-around/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/lavrov-to-travel-to-us-for-g20-meeting-amid-warming-washington-moscow-ties/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Sabotageverdacht in Bayern: Zwei Belarusen in Untersuchungshaft</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-9</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-9</guid>
-      <pubDate>Thu, 29 Oct 2026 06:05:41 +0100</pubDate>
-      <description>Die Generalstaatsanwaltschaft München ermittelt gegen zwei Belarusen, denen ein Brandanschlag im Raum Nürnberg im Auftrag einer fremden Regierung zur Last gelegt wird. Der Bund prüft bundesweit Kritische Infrastruktur auf Sabotagerisiko.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Heute ohne Verlustzahlen-Block</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-10</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-29.html#artikel-10</guid>
-      <pubDate>Thu, 29 Oct 2026 06:05:41 +0100</pubDate>
-      <description>Heute liegen keine neuen foto- oder videobewiesenen Oryx-Belege vor; der Block entfällt. Ungekennzeichnete Verlust-Zählungen der Verteidigungsministerien beider Parteien werden nicht übernommen.</description>
-      <category>Verlustzahlen</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.oryxspioenkop.com/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Update: Operation Veles — Selenskyj nennt Details der Pipeline-Offensive bei Kupjansk</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-1</guid>
-      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
-      <description>Selenskyj hat Details zur unterirdischen Pipeline-Operation Veles bei Kupjansk veröffentlicht: über 15 Kilometer Vorstoß, mehr als 100 ausgeschaltete und über 30 gefangene russische Soldaten — Partei-Angabe, nicht unabhängig verifiziert.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-zelensky-reveals-details-of-operation-veles/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/ukraines-veles-pipeline-operation-near-kupiansk-eliminates-over-100-russian-troops-zelensky-says/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.n-tv.de/politik/Gegenschlag-in-Region-Charkiw-id31465296.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Infrastruktur unter Dauerbeschuss: Konotop-Blackout am vierten Tag, Treffer auf Verlagslager in Charkiw, Ersatzquerungen über den Dnipro</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-2</guid>
-      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
-      <description>In Konotop dauert der Blackout in den vierten Tag; ein russischer Angriff traf ein Verlagslager in Charkiw, Kyiv genehmigte nach Brückentreffern alternative Dnipro-Querungen.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/blackout-in-konotop-enters-fourth-day-with-no-end-in-sight/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/on-holiday-celebrating-ukrainian-language-russia-strikes-publishers-warehouse-in-kharkiv-2/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/kyiv-approves-alternative-dnipro-crossings-after-russian-strikes-on-bridges/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Verteidigungsministerium: über 302.000 russische Soldaten seit Januar durch Drohnen getötet oder verwundet — Partei-Angabe</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-3</guid>
-      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
-      <description>Das ukrainische Verteidigungsministerium meldet über 302.000 durch Drohnen getötete oder verwundete russische Soldaten seit Januar — eine Partei-Angabe ohne unabhängige Bestätigung.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-zelensky-reveals-details-of-operation-veles/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Kyiv unter ballistischem Dauerbeschuss — über 100 Raketen seit dem 14. Oktober, Patriot-Munition knapp</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-4</guid>
-      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
-      <description>Selenskyj zählte über 100 ballistische Raketen gegen Kyiv seit dem 14. Oktober; der Angriff vom 26. Oktober traf Universität, Brücke und Kliniken — ein Toter, 15 Verletzte. Abfangmunition für Patriot-Systeme ist knapp.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russia-launched-over-100-ballistic-missiles-against-kyiv-in-past-two-weeks/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4178769-zelensky-russia-fires-over-100-ballistic-missiles-at-kyiv-region-in-two-weeks.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Lipetsk: Brände nach gemeldetem ukrainischem Angriff — nicht unabhängig bestätigt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-10-28.html#artikel-5</guid>
-      <pubDate>Wed, 28 Oct 2026 05:49:20 +0100</pubDate>
-      <description>In Lipetsk brennen mehrere Objekte nach einem mutmaßlichen ukrainischen Angriff; Details zu Zielen und Folgen sind offen, der Angriff ist nicht unabhängig bestätigt.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/fires-burn-in-russian-city-of-lipetsk-after-reported-ukrainian-attack/">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
