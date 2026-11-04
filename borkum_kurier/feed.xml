@@ -6,8 +6,113 @@
     <atom:link href="https://radar724.de/borkum_kurier/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:53:00 +0100</lastBuildDate>
-        <item>
+    <lastBuildDate>Wed, 04 Nov 2026 05:55:00 +0100</lastBuildDate>
+<item>
+      <title>Borkum lockert die Verkehrsregeln nach der Saison</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-1</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Seit dem 1. November 2026 gelten auf der Insel saisonale Änderungen der Verkehrsregeln — betroffen sind vor allem Parken, Fußgängerzonen und Ruhezeiten. Insulaner bekommen damit mehr Freiraum auf den Straßen. Details liegen hinter der Paywall der Borkumer Zeitung.</description>
+      <category>Meldung des Tages</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Polizei setzt künftig Elektro-Quads auf Borkum und Norderney ein</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-2</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Die Polizei bekommt zwei neue Elektro-Quads — je eines für Borkum und Norderney. Die leisen, emissionsfreien Fahrzeuge sollen Streifen abseits befestigter Wege ergänzen, ohne Anwohner und Tiere durch Motorenlärm zu stören.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Telefonbetrüger bleiben im Visier der Ermittler</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-3</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Die Warnung vor falschen Polizeibeamten ist auch diese Woche auf Borkum präsent: Die Täter fordern am Telefon Bargeld und Goldschmuck. Echte Dienststellen fragen niemals nach Wertsachen — auflegen und die Polizei informieren. Ein Schaden ist bislang nicht bekannt.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Borkumer Kleinbahn vereinfacht die Bus-Tarife mit zwei Zonen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-4</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Die Borkumer Kleinbahn schafft die Teilstreckenregelung in ihren Bussen ab und führt stattdessen ein einfaches Zwei-Zonen-System ein. Das soll die Ticketverkäufe an Bord beschleunigen und den Betrieb entlasten.</description>
+      <category>Insel &amp; Verkehr</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Wie steht es um die Straßenbeleuchtung auf Borkum?</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-5</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Die Borkumer Zeitung wirft einen Blick auf die Insel-Beleuchtung in den dunklen Monaten. Während in Leer die Lampen künftig länger brennen sollen, gewinnt das Thema für Fußgänger und Radfahrer auf Borkum mit dem Winteranfang again an praktischer Bedeutung.</description>
+      <category>Insel &amp; Leben</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Bye Bye Plastik: Insel-Aktion läuft bis 30. November</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-6</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Bis zum 30. November heißt es auf Borkum weiter: Müll sammeln, Natur schützen. Bei der Aktion „Bye Bye Plastik“ können Insulaner und Gäste bei Strand- und Wattgängen Plastikmüll einsammeln — jede Tasche hilft dem Wattenmeer vor der Haustür.</description>
+      <category>Nationalpark &amp; Natur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>Genuss-Pass: kulinarischer Inselbummel läuft im November weiter</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-7</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Zehn Borkumer Gastronomiebetriebe bieten im November besondere Gerichte an — mit dem Genuss-Pass gibt es zusätzlich attraktive Preise zu gewinnen. Die Aktion lädt zu einem kulinarischen Inselbummel durch die kalte Jahreszeit ein.</description>
+      <category>Termine</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
+      <title>WSA Ems-Nordsee: Bewerbungsfrist für Ausbildungsplätze läuft</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-04-morgens.html#artikel-8</guid>
+      <pubDate>Wed, 04 Nov 2026 05:55:00 +0100</pubDate>
+      <description>Das Wasserstraßen- und Schifffahrtsamt Ems-Nordsee sucht zum 1. August 2027 Auszubildende — unter anderem als Konstruktionsmechaniker, Elektroniker, Schiffsmechaniker und Wasserbauer. Bewerbungsschluss ist der 20. November 2026.</description>
+      <category>Termine</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.wsa-ems-nordsee.wsv.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
+<item>
       <title>MVZ-Streit: Inselpraxis-Team nimmt die Arbeit im Inselkrankenhaus auf</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-1</guid>
@@ -21,7 +126,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-        <item>
+<item>
       <title>Telefonbetrüger nehmen Borkum weiter ins Visier</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-2</guid>
@@ -34,7 +139,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-        <item>
+<item>
       <title>Zwei Trunkenheitsfahrten bei Kontrolle im Barbaraweg</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-3</guid>
@@ -47,7 +152,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-        <item>
+<item>
       <title>Hochzeit in Ghana: Nancy Mensahs Rückkehr rückt näher</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-4</guid>
@@ -60,7 +165,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-        <item>
+<item>
       <title>Inselbahnen auf Borkum, Wangerooge und Langeoog müssen erneuert werden</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-5</guid>
@@ -73,7 +178,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-        <item>
+<item>
       <title>Bye Bye Plastik: Insel-Aufräumaktion läuft bis 30. November</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-03-morgens.html#artikel-6</guid>
@@ -569,116 +674,6 @@
       <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
       <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/wangerooge-sturm-verschluckt-sandstrand,wangerooge-172.html"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Update — Insel-Drogerie bleibt vorerst geschlossen</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-4</guid>
-      <pubDate>Wed, 28 Oct 2026 06:34:43 +0100</pubDate>
-      <description>Die vorübergehende Schließung der einzigen Borkumer Drogerie bleibt bestehen; Grund und Wiedereröffnungstermin liegen hinter der Paywall. Für Insulaner bleibt der Einkauf vorerst über die Insel-Supermärkte oder das Festland.</description>
-      <category>Versorgung auf der Insel</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Glasfaser-Ausbau auf der Insel gestartet — Alpha-Ventus-Wende und Gasfeld-Streit</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-5</guid>
-      <pubDate>Wed, 28 Oct 2026 06:34:43 +0100</pubDate>
-      <description>Die Telekom hat mit dem Glasfaserausbau auf Borkum begonnen; Haushalte können Anschlüsse beantragen. Beim Offshore-Testfeld Alpha Ventus ist der geplante Abbau verschoben, und im Streit um die Gasförderung vor Borkum will One Dyas zwei weitere Gasfelder erschließen.</description>
-      <category>Insel-Wirtschaft</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Gezeitenland mit neuen Abos — Geothermie-Standort, Rundflüge und eine Preis-Nominierung</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-6</guid>
-      <pubDate>Wed, 28 Oct 2026 06:34:43 +0100</pubDate>
-      <description>Das Borkumer Gezeitenland bietet ab November separate Monats-Abos für Fitnessbereich und Erlebnisbad an. Für die klimaneutrale Wärmeplanung ist ein neuer Geothermie-Standort im Gespräch, Rundflüge über die Insel starten — und eine Borkumerin ist für den Deutschen Engagementpreis nominiert.</description>
-      <category>Inselleben</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Leony-Open-Air in Vorbereitung — „Bye Bye Plastik“ läuft bis Ende November</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-28-morgens.html#artikel-7</guid>
-      <pubDate>Wed, 28 Oct 2026 06:34:43 +0100</pubDate>
-      <description>Das Open-Air-Konzert von Leony bei den Beach Days Borkum ist in der Vorbereitung (13.–16. August 2027). Parallel läuft bis 30. November die Müllsammel-Aktion „Borkum räumt auf — Das Meer braucht Dich“.</description>
-      <category>Inselleben &amp; Kultur</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Telefonbetrüger nehmen Borkum ins Visier — Polizei warnt vor falschen Beamten</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-1</guid>
-      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
-      <description>Falsche Polizeibeamte haben auf Borkum per Telefon Bargeld und Goldschmuck abfragen wollen; ein Schaden ist bislang nicht bekannt. Die Polizeiinspektion Leer/Emden warnt vor der Masche mit QR-Codes und einer angeblichen Einbruchsserie.</description>
-      <category>Meldung des Tages</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Katamaran NORDLICHT II bis Donnerstag ausgefallen — MS Westfalen springt ein</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-2</guid>
-      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
-      <description>Die AG Ems streicht bis einschließlich 29. Oktober alle Katamaran-Abfahrten und setzt die MS Westfalen als Ersatz ein. Gebuchte Tickets gelten alternativ für Fährfahrten.</description>
-      <category>Fährverkehr</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
-      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Kräftiger Wind über der Nordsee — Fährfahrer sollen Zeiten prüfen</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-3</guid>
-      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
-      <description>Die Regionalmedien melden Einschränkungen für die Schifffahrt zu den ostfriesischen Inseln. Reisende sollen vor der Abfahrt den aktuellen Fahrplan prüfen.</description>
-      <category>Wetter &amp; Schifffahrt</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
-      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-
-<item>
-      <title>Update — Rossmann: Insel-Drogerie bleibt vorerst geschlossen</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-10-27-morgens.html#artikel-4</guid>
-      <pubDate>Tue, 27 Oct 2026 05:59:39 +0100</pubDate>
-      <description>Die vorübergehende Schließung der einzigen Borkumer Drogerie bleibt bestehen. Grund und Dauer liegen hinter der Paywall der Regionalmedien.</description>
-      <category>Versorgung auf der Insel</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
 
