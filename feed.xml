@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 04 Nov 2026, 12:41:08 +0100</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026, 18:49:07 +0100</lastBuildDate>
+<item>
+<title>DAX jagt nach dem Wahlausgang dem Rekord hinterher · Teheran deutet US-Wahl als „Nein zum Krieg“ — Chamenei dämpft Hoffnungen · KI-Rechenzentren in den USA vor Gegenwind</title>
+<link>https://radar724.de/posts/2026-11-04-abends.html</link>
+<guid>https://radar724.de/posts/2026-11-04-abends.html</guid>
+<description>Mittwoch, 4. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp;amp; Finanzen / Tech &amp;amp; KI · erstellt um 18:45 Uhr (Europe/Berlin)</description>
+<pubDate>Wed, 04 Nov 2026 18:45:00 +0100</pubDate>
+</item>
 <item>
 <title>Ausgabe #193 — Update: Trump akzeptiert die Wahlniederlage — Demokraten übernehmen beide Kammern · DAX springt nach dem Midterm-Ergebnis ins Plus · Europa startet mit niedrigsten Gasreserven seit 2013 in den Winter</title>
 <link>https://radar724.de/posts/2026-11-04-mittags.html</link>
@@ -98,14 +105,6 @@
     <description>Samstag, 31. Oktober 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Gesundheit &amp; Medizin · erstellt um 23:58 Uhr (Europe/Berlin)</description>
     <pubDate>Sat, 31 Oct 2026 23:58:00 +0100</pubDate>
   </item>
-<item>
-    <title>Ausgabe #179 — Nawrocki beruft nach der Eskalation Eil-Konsultationen mit allen Parteien ein · „Gen Z regelt“-Protesttag läuft in 34 Städten · Nach gescheitertem Rettungsmanöver: NASA-Teleskop Swift stürzt auf die Erde</title>
-    <link>https://radar724.de/posts/2026-10-31-abends.html</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-10-31-abends.html</guid>
-    <description>Samstag, 31. Oktober 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:16 Uhr (Europe/Berlin)</description>
-    <pubDate>Sat, 31 Oct 2026 18:16:00 +0100</pubDate>
-  </item>
-
 
   </channel>
 </rss>
