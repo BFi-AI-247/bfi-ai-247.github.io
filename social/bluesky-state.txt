@@ -246,3 +246,5 @@ posts/2026-11-03-nachts.html
 wiesenzeitung_gifhorn/posts/2026-11-04-morgens.html
 posts/2026-11-04-morgens.html
 posts/2026-11-04-mittags.html
+borkum_kurier/posts/2026-11-04-morgens.html
+idstein/posts/2026-11-04-morgens.html
