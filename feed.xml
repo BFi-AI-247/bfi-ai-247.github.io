@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 03 Nov 2026 23:21:29 +0100</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 05:32:07 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #192 — Blue Wave in den USA: Demokraten erobern Senat und Repräsentantenhaus · Schaeffler streicht 3.460 Stellen · Kühl-Hacker legen Supermärkte in sieben Ländern lahm</title>
+<link>https://radar724.de/posts/2026-11-04-morgens.html</link>
+<guid>https://radar724.de/posts/2026-11-04-morgens.html</guid>
+<description>Mittwoch, 4. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 06:25 Uhr (Europe/Berlin)</description>
+<pubDate>Wed, 04 Nov 2026 06:25:00 +0100</pubDate></item>
 <item>
 <title>Ausgabe #191 — Wahlnacht in den USA: Auszählung beginnt — Trump bestätigt Angriff auf iranische Luftabwehr — Wall Street: KI-Sammler halten den Markt stabil</title>
 <link>https://radar724.de/posts/2026-11-03-nachts.html</link>
@@ -98,12 +104,6 @@
     <guid>https://radar724.de/posts/2026-10-31-mittags.html</guid>
     <description>Samstag, 31. Oktober 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 12:08 Uhr (Europe/Berlin)</description>
     <pubDate>Sat, 31 Oct 2026 12:08:00 +0100</pubDate></item>
-<item>
-    <title>Ausgabe #177 — Polens Präsident stürmt im Justizstreit das Verfassungsgericht · USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine · Intel erlebt den schlechtesten Börsentag seit 1974</title>
-    <link>https://radar724.de/posts/2026-10-31-morgens.html</link>
-    <guid>https://radar724.de/posts/2026-10-31-morgens.html</guid>
-    <description>Samstag, 31. Oktober 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 06:24 Uhr (Europe/Berlin)</description>
-    <pubDate>Sat, 31 Oct 2026 06:24:00 +0100</pubDate></item>
 
   </channel>
 </rss>
