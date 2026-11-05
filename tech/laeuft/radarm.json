@@ -3,6 +3,12 @@
   "job": "RadarM",
   "laeufe": [
     {
+      "datum": "2026-11-05",
+      "ist_start": "2026-11-05T06:07:45+01:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-04",
       "ist_start": "2026-11-04T05:25:03+01:00",
       "dauer_min": 8,
@@ -174,18 +180,6 @@
       "datum": "2026-10-05",
       "ist_start": "2026-10-05T06:51:52+02:00",
       "dauer_min": 16,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-04",
-      "ist_start": "2026-10-04T06:17:28+02:00",
-      "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-03",
-      "ist_start": "2026-10-03T06:02:34+02:00",
-      "dauer_min": 4,
       "status": "ok"
     }
   ]
