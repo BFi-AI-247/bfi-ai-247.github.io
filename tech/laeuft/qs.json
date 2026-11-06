@@ -3,6 +3,12 @@
   "job": "QS",
   "laeufe": [
     {
+      "datum": "2026-11-06",
+      "ist_start": "2026-11-06T03:57:20+01:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-05",
       "ist_start": "2026-11-05T02:42:59+01:00",
       "dauer_min": 7,
@@ -174,18 +180,6 @@
       "datum": "2026-10-08",
       "ist_start": "2026-10-08T02:37:20+02:00",
       "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-07",
-      "ist_start": "2026-10-07T02:48:12+02:00",
-      "dauer_min": 7,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-06",
-      "ist_start": "2026-10-06T02:49:52+02:00",
-      "dauer_min": 8,
       "status": "ok"
     }
   ]
