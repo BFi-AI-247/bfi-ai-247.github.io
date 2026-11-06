@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 06 Nov 2026 18:27:08 +0100</lastBuildDate>
+<lastBuildDate>Fri, 6 Nov 2026 23:00:00 +0000</lastBuildDate>
+<item>
+<title>China stoppt Softbanks Milliarden-Deal um ABB Robotics · Iran prüft Vermittlungsangebote Katars zum Atomstreit · Mars zeigt Spuren jüngster Vulkanaktivität</title>
+<link>https://radar724.de/posts/2026-11-06-nachts.html</link>
+<guid>https://radar724.de/posts/2026-11-06-nachts.html</guid>
+<pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
+<description>Freitag, 6. November 2026 · Nachtausgabe · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
+</item>
 <item>
 <title>Update: DAX schließt im KI-Ausverkauf 2 Prozent tiefer bei 25.794 Punkten · Ilse Aigner soll Bundespräsidentin werden · Google nach Gemini-Chats eines Mädchens verklagt</title>
 <link>https://radar724.de/posts/2026-11-06-abends.html</link>
@@ -101,12 +108,6 @@
 <guid>https://radar724.de/posts/2026-11-03-mittags.html</guid>
 <description>Dienstag, 03. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:49 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 03 Nov 2026 12:49:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #188 — Wahltag in den USA: Midterms über Trumps Kongress beginnen · Iran stellt Öffnung der Straße von Hormus binnen zwei Tagen in Aussicht · Alstom senkt Gewinnprognose drastisch</title>
-<link>https://radar724.de/posts/2026-11-03-morgens.html</link>
-<guid>https://radar724.de/posts/2026-11-03-morgens.html</guid>
-<description>Dienstag, 3. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 06:17 Uhr (Europe/Berlin)</description>
-<pubDate>Tue, 03 Nov 2026 06:17:00 +0100</pubDate></item>
 
 </channel>
 </rss>
