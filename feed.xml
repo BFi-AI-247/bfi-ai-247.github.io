@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 05 Nov 2026 23:42:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:52:24 +0100</lastBuildDate>
+<item>
+<title>Trump kündigt nach Kreml-Treffen ein „großes Abkommen“ im Ukraine-Krieg an · Anleger fliehen nach dem KI-Crash weiter aus Tech-Aktien · OpenAI veröffentlicht die Sicherheits-KI GPT-6 Cyber</title>
+<link>https://radar724.de/posts/2026-11-06-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-06-morgens.html</guid>
+<pubDate>Fri, 06 Nov 2026 06:50:00 +0100</pubDate>
+<description>Freitag, 6. November 2026 · Morgenausgabe · erstellt um 06:50 Uhr (Europe/Berlin) · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
+</item>
 <item>
 <title>Ausgabe #199 — Update: Nasdaq mit schlechtestem Tag seit anderthalb Jahren — S&amp;P 500 verliert 4,4 Prozent · Tankerbrände an der Straße von Hormuz · Commerzbank meldet Rekordquartal vor der UniCredit-Übernahme</title>
 <link>https://radar724.de/posts/2026-11-05-nachts.html</link>
@@ -99,12 +106,6 @@
 <description>Montag, 2. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:43 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
 </item>
-<item>
-<title>Ausgabe #185 — Selenskyj knüpft Stopp der Öl-Angriffe an US-Raketenlieferungen · Rot-grün-rote Gespräche in Berlin starten · DAX leicht im Plus vor den US-Midterms</title>
-<link>https://radar724.de/posts/2026-11-02-mittags.html</link>
-<guid>https://radar724.de/posts/2026-11-02-mittags.html</guid>
-<description>Montag, 2. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:18 Uhr (Europe/Berlin)</description>
-<pubDate>Mon, 02 Nov 2026 12:18:00 +0100</pubDate>
-</item>
+
 </channel>
 </rss>
