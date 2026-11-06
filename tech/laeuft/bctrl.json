@@ -3,6 +3,12 @@
   "job": "Bctrl",
   "laeufe": [
     {
+      "datum": "2026-11-06",
+      "ist_start": "2026-11-06T12:19:09.866Z",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-04",
       "ist_start": "2026-11-04T12:22:29.825Z",
       "dauer_min": 1,
