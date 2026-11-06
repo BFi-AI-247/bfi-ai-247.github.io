@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:52:24 +0100</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 13:03:51 +0100</lastBuildDate>
+<item>
+<title>Update: DAX fällt im Sog der Nasdaq unter 26.000 Punkte · Rheinmetall-Aktie stürzt nach zweiter Prognosensenkung ab · Prozess gegen „Königreich Deutschland“ beginnt in Düsseldorf</title>
+<link>https://radar724.de/posts/2026-11-06-mittags.html</link>
+<guid>https://radar724.de/posts/2026-11-06-mittags.html</guid>
+<description>Freitag, 6. November 2026 · Mittagsausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 13:03 Uhr (Europe/Berlin)</description>
+<pubDate>Fri, 06 Nov 2026 13:03:51 +0100</pubDate>
+</item>
 <item>
 <title>Trump kündigt nach Kreml-Treffen ein „großes Abkommen“ im Ukraine-Krieg an · Anleger fliehen nach dem KI-Crash weiter aus Tech-Aktien · OpenAI veröffentlicht die Sicherheits-KI GPT-6 Cyber</title>
 <link>https://radar724.de/posts/2026-11-06-morgens.html</link>
@@ -99,13 +106,6 @@
 <guid>https://radar724.de/posts/2026-11-02-nachts.html</guid>
 <description>Montag, 2. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 23:38 Uhr (Europe/Berlin)</description>
 <pubDate>Mon, 02 Nov 2026 23:38:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #186 — Update: Trump beendet Midterms-Wahlkampf in Iowa und Kansas · Ölpreis rutscht auf Iran-Diplomatie-Hoffnungen ab · NASA sondiert private Rettung für Hubble</title>
-<link>https://radar724.de/posts/2026-11-02-abends.html</link>
-<guid>https://radar724.de/posts/2026-11-02-abends.html</guid>
-<description>Montag, 2. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:43 Uhr (Europe/Berlin)</description>
-<pubDate>Mon, 02 Nov 2026 18:43:00 +0100</pubDate>
-</item>
 
 </channel>
 </rss>
