@@ -6,7 +6,7 @@
     <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 7 Nov 2026 00:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 7 Nov 2026 23:02:00 +0000</lastBuildDate>
 <item>
 <title>Schwerer russischer Raketenangriff auf Kiew: Nordbrücke beschädigt, Strom- und Wasserversorgung unter Druck</title>
 <link>https://radar724.de/posts/2026-11-07-nachts.html#artikel-1</link>
@@ -421,7 +421,7 @@
 <guid>https://radar724.de/posts/2026-11-06-nachts.html#artikel-1</guid>
 <pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
 <description>Chinas Aufsichtsbehörden blockieren Softbanks 5,4-Milliarden-Dollar-Deal um die Robotik-Sparte von ABB. China ist der zweitgrößte Markt der Sparte. Der Schritt fällt in eine Zeit verschärfter chinesischer Kontrollen bei KI-Technologien und eines diplomatischen Streits mit Japan.</description>
-<category>Tech & KI</category>
+<category>Tech &amp; KI</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle>https://www.swissinfo.ch/ger/abb-verkauf-der-robotiksparte-an-softbank-durch-china-blockiert/92330850</r724:quelle>
 <r724:ki>true</r724:ki>
@@ -432,7 +432,7 @@
 <guid>https://radar724.de/posts/2026-11-06-nachts.html#artikel-2</guid>
 <pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
 <description>Die EU-Kommission kündigt ein freiwilliges Zertifikat für KI-Kompetenz an, das Lehrkräfte ab dem kommenden Schuljahr einbinden können. Verbindlich wird nichts: Bildung bleibt Sache der Mitgliedstaaten. Die Kommission will mit OECD-Leitfäden unterstützen.</description>
-<category>Tech & KI</category>
+<category>Tech &amp; KI</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle>https://de.euronews.com/2026/11/05/eu-plant-ein-ki-kompetenz-zertifikat-fur-15-jahrige-schuler-ab-2027</r724:quelle>
 <r724:ki>true</r724:ki>
@@ -443,7 +443,7 @@
 <guid>https://radar724.de/posts/2026-11-06-nachts.html#artikel-3</guid>
 <pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
 <description>Wegen des betrügerischen Diebstahls einer Milliarde Token einer Krypto-Plattform verurteilt ein Pariser Gericht einen Mann zu fünf Jahren Haft und 600.000 Euro Geldstrafe. Zwei Mitangeklagte erhielten geringere Strafen.</description>
-<category>Tech & KI</category>
+<category>Tech &amp; KI</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle>news-afp-20261106-dc39c4d5</r724:quelle>
 <r724:ki>true</r724:ki>
@@ -498,7 +498,7 @@
 <guid>https://radar724.de/posts/2026-11-06-nachts.html#artikel-8</guid>
 <pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
 <description>Eine Forschungsgruppe findet am Alba Mons rund eine Million Jahre alte Bruchzonen und darüber auffällige Chlorwasserstoff-Ausreißer in der Atmosphäre. Das deutet auf deutlich jüngeren Vulkanismus als bislang angenommen, schreiben die Autoren in Science Advances — mit Folgen für die Suche nach Leben.</description>
-<category>Space & Forschung</category>
+<category>Space &amp; Forschung</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle>https://www.esa.int/it/articoli/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars</r724:quelle>
 <r724:ki>true</r724:ki>
@@ -509,7 +509,7 @@
 <guid>https://radar724.de/posts/2026-11-06-nachts.html#artikel-9</guid>
 <pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
 <description>Anhand zweier Fossilzähne aus Thailand beschreibt ein internationales Team eine rund 30 Kilogramm schwere urzeitliche Nagetierart. Die Art Yakamys sirindhornae gehört zur ausgestorbenen Familie der Ischyromyidae und lebte vor rund 33 bis 35 Millionen Jahren.</description>
-<category>Space & Forschung</category>
+<category>Space &amp; Forschung</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle>https://science.orf.at/stories/3238065/</r724:quelle>
 <r724:ki>true</r724:ki>
