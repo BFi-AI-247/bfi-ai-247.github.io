@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 6 Nov 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 7 Nov 2026 05:27:00 +0000</lastBuildDate>
+<item>
+<title>Wärmster Oktober je gemessen — Neuseeland wählt — und in den USA gerät der KI-Rechenzentrum-Boom unter Druck</title>
+<link>https://radar724.de/posts/2026-11-07-morgens.html</link>
+<guid>https://radar724.de/posts/2026-11-07-morgens.html</guid>
+<pubDate>Sat, 07 Nov 2026 06:26:00 +0100</pubDate>
+<description>Samstag, 07. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 06:26 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>China stoppt Softbanks Milliarden-Deal um ABB Robotics · Iran prüft Vermittlungsangebote Katars zum Atomstreit · Mars zeigt Spuren jüngster Vulkanaktivität</title>
 <link>https://radar724.de/posts/2026-11-06-nachts.html</link>
@@ -102,12 +109,7 @@
 <guid>https://radar724.de/posts/2026-11-03-abends.html</guid>
 <description>Dienstag, 03. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:55 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 03 Nov 2026 18:55:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #189 — Update: Midterms laufen — Amerika wählt über Trumps Kongress · DAX schwächelt vor dem Wahlausgang · Apple überzeugt mit dem iPhone, Aktie trotzdem im Minus</title>
-<link>https://radar724.de/posts/2026-11-03-mittags.html</link>
-<guid>https://radar724.de/posts/2026-11-03-mittags.html</guid>
-<description>Dienstag, 03. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:49 Uhr (Europe/Berlin)</description>
-<pubDate>Tue, 03 Nov 2026 12:49:00 +0100</pubDate></item>
+
 
 </channel>
 </rss>
