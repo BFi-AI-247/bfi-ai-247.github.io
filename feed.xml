@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 7 Nov 2026 05:27:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 7 Nov 2026 12:29:00 +0000</lastBuildDate>
+<item>
+<title>Update: Neuseelands Messerwahl bleibt offen — 200 Jahre Haft für Kenias Sektenführer — Hunderte Aktivisten besetzen Microsoft-Baustelle in Amsterdam</title>
+<link>https://radar724.de/posts/2026-11-07-mittags.html</link>
+<guid>https://radar724.de/posts/2026-11-07-mittags.html</guid>
+<pubDate>Sat, 07 Nov 2026 12:29:00 +0100</pubDate>
+<description>Samstag, 07. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 12:29 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Wärmster Oktober je gemessen — Neuseeland wählt — und in den USA gerät der KI-Rechenzentrum-Boom unter Druck</title>
 <link>https://radar724.de/posts/2026-11-07-morgens.html</link>
@@ -103,13 +110,6 @@
 <guid>https://radar724.de/posts/2026-11-03-nachts.html</guid>
 <description>Dienstag, 03. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 23:19 Uhr (Europe/Berlin)</description>
 <pubDate>Tue, 03 Nov 2026 23:19:00 +0100</pubDate></item>
-<item>
-<title>Ausgabe #190 — Selenskyj zu Gast bei Merz — Berlin berät Luftverteidigung und Energie · DAX schließt vor dem Wahlausgang im Minus · EuGH-Generalanwalt: KI-Antworten können Verlegerrechte verletzen</title>
-<link>https://radar724.de/posts/2026-11-03-abends.html</link>
-<guid>https://radar724.de/posts/2026-11-03-abends.html</guid>
-<description>Dienstag, 03. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:55 Uhr (Europe/Berlin)</description>
-<pubDate>Tue, 03 Nov 2026 18:55:00 +0100</pubDate></item>
-
 
 </channel>
 </rss>
