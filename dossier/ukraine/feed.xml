@@ -6,9 +6,104 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:12:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:03:00 +0100</lastBuildDate>
 
     <item>
+      <title>Update Komyshuvakha: Zahl der Toten steigt auf 53 — Rettungseinsatz erreicht den fünften Tag</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-1</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Am fünften Tag nach dem russischen Doppelschlag auf eine Hilfsgüter-Ausgabe in Komyshuvakha liegt die Zahl der Toten laut ukrainischer Regionalverwaltung bei 53. Die Bergung ist noch nicht abgeschlossen; die Opferzahl ist eine Absender-Angabe, von Agenturen und Reuters übernommen.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://en.interfax.com.ua/news/general/1232268.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.usnews.com/news/world/articles/2026-11-06/death-toll-from-russian-bombing-of-ukrainian-aid-point-rises-to-53-governor-says">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Rekord für unbemannte Bodensysteme: Laut Kyiv über 30.000 Missionen im Oktober</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-2</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Ukrainische Bodendrohnen absolvierten im Oktober erstmals mehr als 30.000 Missionen — eine Angabe des Verteidigungsministeriums in Kyiv (Partei-Angabe, nicht unabhängig bestätigt). Die Systeme transportieren Munition und Verwundete, räumen Minen und übernehmen Aufklärung.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://en.lb.ua/news/2026/11/06/48242_defence_forces_ground_robots.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ballistische Nachtangriffe auf Kyiv: Mindestens sechs Raketen in mehreren Wellen — drei Verletzte, darunter ein Kind</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-3</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Russland griff Kyiv in der Nacht zum Samstag erneut mit ballistischen Raketen an: Ukrainische Stellen meldeten mindestens sechs Raketen in drei Wellen, beschädigte Wohngebäude und einen Kindergarten sowie drei Verletzte. Vorausgegangen war Selenskyjs Warnung vor einem Großangriff auf Brücken und Infrastruktur — Partei-Angaben, Abwehrzahlen nur mit Absender.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4182310-russian-ballistic-attack-injures-three-in-kyiv-including-child.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.kyivpost.com/post/89404">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Update Gegenschläge: Ukrainische Seite meldet Treffer auf Ölraffinerie und zwei Munitionsdepots in Südrussland</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-4</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Nach ukrainischen Angaben wurden neben einer Ölraffinerie zwei Munitionsdepots in Südrussland getroffen; Explosionen wurden aus mehreren Regionen gemeldet. Die Angaben sind nicht unabhängig bestätigt; Moskaus Abfangerfolge werden nur agenturvermittelt und gekennzeichnet wiedergegeben.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-komyshuvakha-search-operation-enters-5th-day-as-death-toll-rises-to-53/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Update Trump-Deal: Moskau und Brüssel dämpfen die Erwartungen — Abu-Dhabi-Runde rückt näher</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-5</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Nach Trumps Ankündigung eines großen Abkommens mit Russland halten sich Moskau und Brüssel zurück: Die EU verwahrt sich gegen eine von Moskau diktierte Sicherheitsarchitektur, die NATO fordert ein gerechtes und tragfähiges Kriegsende. Ein ukrainischer Beamte wertet die US-Zwischenwahlen als Chance auf mehr Militärhilfe — Partei-Einschätzung, unbestätigt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Umerov soll die ukrainische Delegation bei den Abu-Dhabi-Gesprächen führen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-6</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Ein ranghoher Beamter in Kyiv bestätigte, dass Ex-Verteidigungsminister Rustem Umerov die ukrainische Delegation der kommenden trilateralen Runde in Abu Dhabi anführen wird — nach widersprüchlichen Medienberichten über die Zusammetzung gilt die Personalie damit als geklärt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Streit um Kyivs Wintervorbereitung: Razzien bei Energieunternehmen vertiefen Zerwürfnis zwischen Selenskyj und Klitschko</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-7</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Polizeiliche Durchsuchungen bei einem Energieunternehmen der Hauptstadt begleiten den Schlagabtausch zwischen Selenskyj und Klitschko über Versäumnisse bei der Winter-Vorsorge nach russischen Angriffen auf das Stromnetz. Beide Darstellungen stehen einander ungeprüft gegenüber.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/police-searches-at-energy-company-deepen-zelenskyj-klitschko-tensions-over-kyivs-winter-preparations/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Selenskyj-und-Klitschko-liefern-sich-Schlagabtausch-id31505743.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russland will im Westen gestohlene Autos leichter zulassen — Kriegsfolge für den Binnenmarkt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-8</guid>
+      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Moskau plant laut n-tv-Bericht eine Gesetzesänderung, die gestohlene und nach Russland verbrachte Fahrzeuge leichter zulässt. Der Markt floriert unter den Sanktionen — eine paradox anmutende Kriegsfolge für die russische Binnenwirtschaft.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.n-tv.de/politik/Russland-will-im-Westen-gestohlene-Autos-zulassen-id31505110.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Update Komyshuvakha: Polizei meldet inzwischen 42 geborgene Tote — Zahl der Vermissten bleibt unklar</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-1</guid>
@@ -20,7 +115,7 @@
       <r724:quelle url="https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Gegenseitige Nachtangriffe: Feuer an russischer Raffinerie gemeldet — ukrainische Schläge stören die Stromversorgung der Krim</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-2</guid>
@@ -31,7 +126,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Schiffe-drehen-ab-platzt-der-US-Diesel-Deal-mit-Putin-id31498736.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>NATO startet Plattform gegen Drohnen-Bedrohung — Bündnis will günstigere Abwehr koordinieren</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-3</guid>
@@ -42,7 +137,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Schiffe-drehen-ab-platzt-der-US-Diesel-Deal-mit-Putin-id31498736.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Update Kyiv: Stromschwankungen nach russischen Angriffen stören erneut die Wasserversorgung — Metro-Betrieb zeitweise eingestellt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-4</guid>
@@ -54,7 +149,7 @@
       <r724:quelle url="https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Trump trifft Kreml-Unterhändler Dmitriew im Weißen Haus — kündigt „großen Deal“ über die Ukraine hinaus an</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-5</guid>
@@ -66,7 +161,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Schiffe-drehen-ab-platzt-der-US-Diesel-Deal-mit-Putin-id31498736.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Premiere im Weißen Haus: Ukraine und Russland erstmals gemeinsam auf einer Bühne — Melania Trump fordert dauerhafte Waffenruhe</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-6</guid>
@@ -78,7 +173,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Schiffe-drehen-ab-platzt-der-US-Diesel-Deal-mit-Putin-id31498736.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Selenskyj wirbt in Madrid um Hilfe: Spanien stellt laut Selenskyj 490 Millionen Dollar Militärhilfe bereit — im ZDF spricht er über ein „würdevolles Ende“</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-7</guid>
@@ -90,7 +185,7 @@
       <r724:quelle url="https://www.zdfheute.de/politik/ausland/selenskyj-boehmermann-zdf-magazin-royale-100.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Diesel-Deal mit Russland wackelt: Zwei Tanker drehen ab — Moskau widerspricht</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-8</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-8</guid>
@@ -101,7 +196,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Schiffe-drehen-ab-platzt-der-US-Diesel-Deal-mit-Putin-id31498736.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ukraine-Korruption: Zwei hochrangige SBU-Beamte nach Callcenter-Ermittlungen entlassen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-9</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-06.html#artikel-9</guid>
@@ -498,98 +593,6 @@
       <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.zdfheute.de/politik/ausland/selenskyj-usa-raketenlieferungen-bedingung-angriff-oelanlagen-ukraine-krieg-russland-100.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:quelle url="https://www.rferl.org/a/zelenskyy-patriot-missile-russia-refinery-trump/33888449.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Stichwahl in Bulgarien: Russland-freundliche Jotowa im Amt bestätigt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-8</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-8</guid>
-      <pubDate>Mon, 02 Nov 2026 06:15:00 +0100</pubDate>
-      <description>Amtsinhaberin Ilijana Jotowa setzt sich bei der bulgarischen Präsidentschaftsstichwahl laut Hochrechnungen klar gegen Andrej Gjurow durch. Die Wahl galt als Richtungsentscheid mit Blick auf Kiew und Moskau.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Steinmeier nach Peking-Gespräch: China nicht bereit für Ukraine-Gipfel</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-9</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-9</guid>
-      <pubDate>Mon, 02 Nov 2026 06:15:00 +0100</pubDate>
-      <description>Bundespräsident Steinmeier hat Xi Jinping in Peking auf mögliche Gespräche zwischen China, Russland und den USA angesprochen; Xi reagierte seinen Worten nach abweisend, die Ukraine soll kein Thema des Formats sein. Kein Beleg für konkrete Gipfel-Planung.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.zdfheute.de/politik/ausland/steinmeier-china-russland-usa-gipfel-ukraine-krieg-russland-100.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.n-tv.de/politik/Steinmeier-Xi-stand-die-Irritation-in-seinem-Gesicht-id31481697.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Heute ohne Verlustzahlen-Ausgabe — keine neuen Oryx-Belege</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-10</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-02.html#artikel-10</guid>
-      <pubDate>Mon, 02 Nov 2026 06:15:00 +0100</pubDate>
-      <description>Im Erhebungsfenster liegen keine neuen foto- oder videobewiesenen Oryx-Belege vor; die Oryx-Quelle lieferte im Zentral-Scrape keine Daten. MoD-Zählungen beider Parteien werden nicht ungekennzeichnet übernommen.</description>
-      <category>Verlustzahlen</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.oryxspioenkop.com/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Update Oleschky: Evakuierte erreichen ukrainisches Gebiet — Wiedervereinigung in der Region Tschernihiw</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-1</guid>
-      <pubDate>Sun, 01 Nov 2026 06:09:00 +0100</pubDate>
-      <description>Bewohner der von Russland besetzten Stadt Oleschky sind nach AP-Berichten in ukrainisch kontrolliertes Gebiet gelangt — die erste größere Evakuierung unter der lokal begrenzten Feuerpause. Die ISW nennt die Mission bemerkenswert erfolgreich und die Feuerpause den längsten eingehaltenen lokalen Waffenstillstand seit 2022.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-31-2026/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>ISW-Lagebewertung vom 31.10.: Humanitäre Mission im Fokus — Frontverlauf-Detail nur verlinkt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-2</guid>
-      <pubDate>Sun, 01 Nov 2026 06:09:00 +0100</pubDate>
-      <description>Die tägliche ISW-Bewertung vom 31. Oktober stellt die Oleschky-Mission an die Spitze; die detaillierte Frontbewertung ist beim ISW verlinkt. Im Erhebungsfenster liegt keine von zwei unabhängigen Quellen bestätigte Änderung der Frontlinie vor — Leerraum-Vermerk.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-31-2026/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Russische Nachtangriffe: Ein Toter in Kyiv — bis zu 350.000 Menschen in Dnipro ohne Strom</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-3</guid>
-      <pubDate>Sun, 01 Nov 2026 06:09:00 +0100</pubDate>
-      <description>Russische Angriffe in der Nacht zum 30. Oktober töten laut Kyiv Independent im Raum Kyiv einen Menschen; im Gebiet Dnipro verlieren nach Angaben des Gouverneurs bis zu 350.000 Menschen zeitweise den Strom. Zahlen sind ukrainische Behördenangaben, Absender kenntlich gemacht.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russian-night-attacks-kill-1-in-kyiv-leave-350-000-in-dnipro-without-power/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Nowaja Gaseta stellt ihr Erscheinen ein — Repression beendet über 30 Jahre unabhängigen Journalismus</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-4</guid>
-      <pubDate>Sun, 01 Nov 2026 06:09:00 +0100</pubDate>
-      <description>Nach Hausdurchsuchungen, gesperrten Konten und der Verhaftung ihres Chefredakteurs stellt Russlands oppositionelle Nowaja Gaseta nach über 30 Jahren ihr Erscheinen ein. RU-Innenpolitik; Statuswechsel: Verhaftung → Betriebseinstellung.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://taz.de/Aus-fuer-russische-Nowaja-Gaseta/!6226297/">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:quelle url="https://www.sueddeutsche.de/medien/nowaja-gaseta-putin-anna-politkowskaja-sergej-sokolow-dmitrij-muratow-li.3571591">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Analyse (LibMod): Russlands Kriegswirtschaft ist zahlungsfähig, aber nicht nachhaltig</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-01.html#artikel-5</guid>
-      <pubDate>Sun, 01 Nov 2026 06:09:00 +0100</pubDate>
-      <description>Alexander Kolyandr schreibt in einer Analyse des Zentrums Liberale Moderne: Sanktionen zeigen Wirkung, doch könnte Russland den Krieg noch jahrelang finanzieren — die Frage sei, ob Moskau dafür zunehmend seine Zukunft verpfändet. Kennzeichnung: Think-Tank-Analyse, Absender LibMod.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://russlandverstehen.eu/">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
