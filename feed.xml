@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 08 Nov 2026 12:47:15 +0100</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 18:51:00 +0100</lastBuildDate>
+<item>
+<title>Update: Hunderttausende Ukrainer ohne Strom — Israel warnt: Mission gegen den Iran ist „noch nicht abgeschlossen" — Erster Ausländer soll zur chinesischen Raumstation fliegen</title>
+<link>https://radar724.de/posts/2026-11-08-abends.html</link>
+<guid>https://radar724.de/posts/2026-11-08-abends.html</guid>
+<description>Sonntag, 08. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:49 Uhr (Europe/Berlin)</description>
+<pubDate>Sun, 08 Nov 2026 18:49:00 +0100</pubDate>
+</item>
 <item>
 <title>Zwei Öltanker laufen in der Straße von Hormus auf Minen · Trump lässt Demokraten wegen Drohungen untersuchen · Saudische Luftangriffe nahe Sanaa: Huthis melden 33 Tote</title>
 <link>https://radar724.de/posts/2026-11-08-mittags.html</link>
@@ -105,12 +112,5 @@
     <pubDate>Thu, 05 Nov 2026 06:09:00 +0100</pubDate>
     <description>Donnerstag, 5. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 06:09 Uhr (Europe/Berlin)</description>
   </item>
-<item>
-<title>Ausgabe #195 — Schlusskurs-Rally nach der US-Wahl: Dow mit bestem Tag seit April 2025 · Weißes Haus: „Trump ist immer noch euer Präsident“ · NASAs Swift-Teleskop verglüht nach 22 Jahren</title>
-<link>https://radar724.de/posts/2026-11-04-nachts.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-04-nachts.html</guid>
-<pubDate>Wed, 04 Nov 2026 23:08:00 +0100</pubDate>
-<description>Mittwoch, 4. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:08 Uhr (Europe/Berlin)</description>
-</item>
 </channel>
 </rss>
