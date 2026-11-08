@@ -270,3 +270,4 @@ borkum_kurier/posts/2026-11-07-morgens.html
 idstein/posts/2026-11-07-morgens.html
 posts/2026-11-07-abends.html
 posts/2026-11-07-nachts.html
+idstein/posts/2026-11-08-morgens.html
