@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 08 Nov 2026 18:51:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 8 Nov 2026 23:37:00 +0100</lastBuildDate>
+<item>
+<title>Merz will Ilse Aigner als erste Bundespräsidentin vorschlagen · Nvidia-Chef Huang gesteht Affäre ein — Aufsichtsgremium startet Untersuchung · Nach Rekord-Hack: Binance-Finanzchef tritt ab</title>
+<link>https://radar724.de/posts/2026-11-08-nachts.html</link>
+<guid>https://radar724.de/posts/2026-11-08-nachts.html</guid>
+<description>Sonntag, 08. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 23:52 Uhr (Europe/Berlin)</description>
+<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
+</item>
 <item>
 <title>Update: Hunderttausende Ukrainer ohne Strom — Israel warnt: Mission gegen den Iran ist „noch nicht abgeschlossen" — Erster Ausländer soll zur chinesischen Raumstation fliegen</title>
 <link>https://radar724.de/posts/2026-11-08-abends.html</link>
@@ -105,12 +112,5 @@
 <pubDate>Thu, 05 Nov 2026 12:56:00 +0100</pubDate>
 <description>Donnerstag, 5. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 12:56 Uhr (Europe/Berlin)</description>
 </item>
-<item>
-    <title>Ausgabe #196 — Nach der US-Wahl: Peking versichert Washington weitere Zusammenarbeit · Börsen-Super-Donnerstag mit Commerzbank, Rheinmetall und Bank-of-England-Entscheid · Brasilien stoppt Metas KI-Datensammeln</title>
-    <link>https://radar724.de/posts/2026-11-05-morgens.html</link>
-    <guid isPermaLink="true">https://radar724.de/posts/2026-11-05-morgens.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:09:00 +0100</pubDate>
-    <description>Donnerstag, 5. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 06:09 Uhr (Europe/Berlin)</description>
-  </item>
 </channel>
 </rss>
