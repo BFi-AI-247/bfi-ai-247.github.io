@@ -3,6 +3,12 @@
   "job": "WZG — Morgenausgabe Wiesenzeitung Gifhorn",
   "laeufe": [
     {
+      "datum": "2026-11-09",
+      "ist_start": "2026-11-09T07:12:36+01:00",
+      "dauer_min": 35,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-08",
       "ist_start": "2026-11-08T06:12:06+01:00",
       "dauer_min": 7,
@@ -173,12 +179,6 @@
     {
       "datum": "2026-10-09",
       "ist_start": "2026-10-09T05:49:59+02:00",
-      "dauer_min": 4,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-08",
-      "ist_start": "2026-10-08T05:18:23+02:00",
       "dauer_min": 4,
       "status": "ok"
     }
