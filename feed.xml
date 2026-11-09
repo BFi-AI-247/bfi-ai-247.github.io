@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 09 Nov 2026 13:03:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 18:21:25 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #214 — Frankreich macht Irans Revolutionsgarden für Cyberangriffe auf Kühlanlagen verantwortlich — Update: EU entsendet eigenes Team zu den Ukraine-Gesprächen — DAX schließt 1,7 Prozent höher</title>
+<link>https://radar724.de/posts/2026-11-09-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html</guid>
+<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
+<description>Montag, 9. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 18:11 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #213 &mdash; Update: CDU nominiert Aigner offiziell &middot; G7 beraten in Paris &uuml;ber Ukraine und Iran &middot; DAX freundlich in die neue Woche</title>
 <link>https://radar724.de/posts/2026-11-09-mittags.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-06-morgens.html</guid>
 <pubDate>Fri, 06 Nov 2026 06:50:00 +0100</pubDate>
 <description>Freitag, 6. November 2026 · Morgenausgabe · erstellt um 06:50 Uhr (Europe/Berlin) · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen</description>
-</item>
-<item>
-<title>Ausgabe #199 — Update: Nasdaq mit schlechtestem Tag seit anderthalb Jahren — S&amp;P 500 verliert 4,4 Prozent · Tankerbrände an der Straße von Hormuz · Commerzbank meldet Rekordquartal vor der UniCredit-Übernahme</title>
-<link>https://radar724.de/posts/2026-11-05-nachts.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-05-nachts.html</guid>
-<pubDate>Thu, 05 Nov 2026 23:39:00 +0100</pubDate>
-<description>Donnerstag, 5. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:39 Uhr (Europe/Berlin)</description>
 </item>
 
 </channel>
