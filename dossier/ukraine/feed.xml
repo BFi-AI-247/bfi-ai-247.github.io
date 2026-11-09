@@ -6,8 +6,91 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:51:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:28:00 +0100</lastBuildDate>
 
+    <item>
+      <title>Front ohne bestätigte Bewegungen — Oblast Saporischschja nach ukrainischen Angaben über 700-mal beschossen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Im Datenfenster sind keine unabhängig bestätigten Geländeveränderungen gemeldet. Ukrainische Stellen geben acht Tote und 19 Verletzte binnen 24 Stunden sowie über 700 Einschlagstellen im Oblast Saporischschja — Partei-Angaben, nicht unabhängig bestätigt. ISW- und MilitaryLand-Lagebewertungen sind verlinkt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russische Angriffe auf das Stromnetz: Hunderttausende ohne Strom — drei Tote durch Notstrom-Generator</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Die russischen Angriffsserien gegen die ukrainische Energieinfrastruktur lassen erneut Hunderttausende ohne Strom zurück; Al Jazeera beziffert rund 850.000 Betroffene. Im Oblast Kyjiw sterben drei Menschen durch unsachgemäß betriebene Generatoren.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html">tagesschau.de</r724:quelle>
+      <r724:quelle url="https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity">Al Jazeera</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>AKW Saporischschja: Netzanschluss unterbrochen und wiederhergestellt — Reaktor zwischenzeitlich auf Notstrom</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Die Außenstromversorgung des besetzten Atomkraftwerks Saporischschja wurde nach IAEA-Angaben erneut unterbrochen; die Anlage lief vorübergehend im Notstrom-Modus, bevor die Leitung wiederhergestellt wurde. Es ist eine von mehreren Unterbrechungen in diesem Herbst.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404">Deutsche Welle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukrainische Drohnen treffen Brücke über den Mius an Russlands Nachschub-Route — Verkehr gestoppt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Nach Angaben des Regionalgouverneurs (russische Parteiquelle) beschädigten ukrainische Drohnen eine strategische Brücke über den Mius an der Route R-280 im Oblast Rostow; der Verkehr wurde gestoppt, auch Kraftwerke wurden getroffen. Kyiv Post und Ukrinform bestätigen die Beschädigung.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukrainian-drones-hit-key-bridge-power-stations-in-russias-rostov-oblast-governor-says/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.kyivpost.com/post/89470">Kyiv Post</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Abu Dhabi: Europäische Beteiligung an den Gesprächen am 10./11. November bestätigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Frankreichs Außenminister Barrot erklärt, die Europäer werden bei den US-vermittelten Gesprächen in Abu Dhabi vertreten sein — entgegen den Einwänden des Kremls. Zum Statuswechsel gegenüber dem Vortag: angekündigt, jetzt bestätigt. France 24 und NPR bestätigen unabhängig.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html">tagesschau.de</r724:quelle>
+      <r724:quelle url="https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says">France 24</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Moskau: Razzien mit über 200 Festnahmen — Festgenommene berichten von Militärvertrag-Angeboten</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Im Moskauer Zentrum nimmt die Polizei laut Meduza etwa 200 Menschen fest; mehrere Festgenommene berichten von Angeboten, Militärverträge zu unterschreiben. Die Behörden äußern sich nicht; die Berichte sind nicht unabhängig bestätigt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/08/v-moskve-na-kitay-gorode-politsiya-zaderzhala-okolo-200-chelovek-v-otdeleniyah-po-slovam-zaderzhannyh-im-predlagali-podpisat-kontrakt-na-voennuyu-sluzhbu">Meduza</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/moscow-police-detain-over-200-people-reportedly-forcing-some-to-sign-military-contracts/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Selenskyj ordnet kostenlosen Nahverkehr in Kyiv an — weitere SBU-Entscheidungen angekündigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</guid>
+      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Wegen der russischen Brückenangriffe beauftragt Selenskyj den Ministerpräsidenten mit einem Programm für kostenlosen Nahverkehr in der Hauptstadt. Nach SBU-Entlassungen wegen Verbindungen zu einer kriminellen Vereinigung kündigt er weitere Personalentscheidungen an.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Front ohne bestätigte Bewegungen — HUR nennt Su-34-Besatzungen des Komyshuvakha-Angriffs</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-1</link>
