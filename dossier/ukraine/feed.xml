@@ -6,7 +6,91 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:28:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:18:00 +0100</lastBuildDate>
+
+    <item>
+      <title>Keine bestätigten Geländegewinne — Analysten sehen Russlands Angriffstempo "von Woche zu Woche" steigen, Rekord-Verluste laut Generalstab</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-1</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Im Datenfenster sind keine unabhängig bestätigten Geländeveränderungen gemeldet. Laut ukrainischem Generalstab erlitt Russland am 8. November mit 2.980 Soldaten einen Rekordverlust an einem Tag — Partei-Angabe, nicht unabhängig bestätigt. OSINT-Analyst Kastehelmi erwartet ohne taktische Änderungen weiter steigende Verluste.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.n-tv.de/politik/Russland-steigert-seine-Angriffe-von-Woche-zu-Woche-id31513459.html">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-russia-suffers-record-daily-losses-for-2nd-time-in-a-month/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://www.understandingwar.org/analysis">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russischer Schlag auf Kraftwerk Trypillia bei Kyiv — Energiekonzern warnt vor "extrem ernsten" Folgen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-2</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Russische Streitkräfte haben nach Angaben des Staatskonzerns Centrenergo das Wärmekraftwerk Trypillia südlich von Kyiv getroffen. Konzernchef Isatschenko warnt vor veränderten Angriffsmethoden mit ballistischen Raketen und Drohnen in Kombination; das Schadensausmaß ist noch unklar.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/energy-company-warns-of-extremely-serious-consequences-after-russian-forces-strike-trypillia-thermal-power-plant/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>IAEA: Drohnenangriff tötet Beschäftigten am AKW Saporischschja</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-3</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Nach IAEA-Angaben ist bei einem Drohnenangriff auf das russisch besetzte Atomkraftwerk Saporischschja ein Beschäftigter getötet worden. Es ist der zweite Zwischenfall am Standort binnen wenigen Tagen nach der zeitweisen Unterbrechung der Außenstromversorgung.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/drone-strike-kills-worker-at-zaporizhzhia-nuclear-power-plant-iaea-says/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://orf.at/stories/3447731/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Belgorod: Zwei Tote nach ukrainischem Drohnenangriff — russische Behördenangaben, nicht unabhängig überprüfbar</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-4</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Der regionale Zivilschutzstab meldet, eine Drohne habe ein Auto im Kreis Borissowka getroffen und zwei Männer getötet. Der ORF weist ausdrücklich darauf hin, dass sich die Angaben nicht unabhängig überprüfen lassen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://orf.at/stories/3447737/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Abu Dhabi: Trilaterale Gespräche beginnen — Kiew mit gedämpften Erwartungen, Rubio verlangt Russland-Akzeptanz für Sicherheitsgarantien</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-5</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Die trilateralen Gespräche zwischen den USA, der Ukraine und Russland beginnen in Abu Dhabi, mit europäischer Beteiligung. Kiew reist unter Geheimdienstchef Umjerow an und erwartet Verhandlungen über konkrete Schritte wie sektorale Waffenruhen. Rubio betont, Sicherheitsgarantien müssten auch für Russland akzeptabel sein.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/security-guarantees-for-ukraine-must-also-be-acceptable-to-russia-rubio-says/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>EU plant neuen 45-Milliarden-Kredit für Kiew 2027 — Merz kritisiert unfaire Lastenteilung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-6</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>EU-Wirtschaftskommissar Dombrovskis kündigt einen neuen 45-Milliarden-Euro-Kredit für 2027 an, von EU-Diplomaten bestätigt. Selbst damit bliebe eine Lücke von rund 25 Milliarden Euro. Bundeskanzler Merz fordert eine prioritäre Behandlung des Kredits und eine fairere Lastenteilung.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/eu-plans-to-send-a-new-45-billion-euros-to-kyiv-in-2027/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/germanys-merz-complains-about-unfair-burden-sharing-calls-eu-to-prioritize-new-ukraine-loan/">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Bericht-Merz-knuepft-Ja-zu-EU-Haushalt-an-neue-Ukraine-Hilfen-id31513856.html">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Nowaja Gaseta stellt Betrieb ein — Russlands letzte unabhängige Tageszeitung verstummt, Muratow fordert Waffenruhe</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-7</guid>
+      <pubDate>Tue, 10 Nov 2026 06:18:00 +0100</pubDate>
+      <description>Die Nowaja Gaseta hat nach der Einstufung als "ausländischer Agent" und blockierten Spenden ihren Betrieb eingestellt. Friedensnobelpreisträger Muratow erklärte, die verfassungsmäßigen Grundrechte funktionierten praktisch nicht mehr, und forderte eine umfassende Waffenruhe.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html">Grundlagen-/Zweitquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
 
     <item>
       <title>Front ohne bestätigte Bewegungen — Oblast Saporischschja nach ukrainischen Angaben über 700-mal beschossen</title>
