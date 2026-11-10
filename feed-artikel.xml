@@ -1,12 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:r724="https://radar724.de/ns/r724/" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>RADAR 724 — Artikel</title>
-    <link>https://radar724.de/</link>
-    <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
-    <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
-    <language>de-de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:55:00 +0100</lastBuildDate>
+<item>
+<title>Update: Ukraine-Dreiergespräche in Abu Dhabi laufen — Kampf um Klima und Bedingungen</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-1</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>In Abu Dhabi verhandeln die USA, Russland und die Ukraine zwei Tage lang im Dreierformat. Trump kündigt ein „sehr großes Abkommen“ an, Kushner fordert direkte Gespräche zwischen Europa und Russland.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/news/2026-11/10/ukraine-verhandlungen-in-abu-dhabi-haben-begonnen"></r724:quelle>
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach Nvidia-Affäre warnt Verfassungsschutz vor „Honigfallen“ — Trump: FBI ermittelt</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-2</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Deutsche Verfassungsschützer warnen Manager nach der Nvidia-Affäre vor Anwerbeversuchen fremder Dienste. Trump bestätigt FBI-Ermittlungen und äußert Mitgefühl für Jensen Huang.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/deutschland/verfassungsschutz-warnung-spione-manager-100.html"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-affaere-china-spionage"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Anthropic stellt Claude Fable 5.2 und Claude Mythos 5.2 vor — eine Woche vor dem Börsengang</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Anthropic veröffentlicht zwei überarbeitete Claude-Modelle, die rund 30 Prozent schneller sein und 20 Prozent weniger kosten sollen. Der Börsengang des Unternehmens steht bevor.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/technology/ai/articles/anthropic-launches-fable-5-2-193609974.html"></r724:quelle>
+<r724:quelle url="https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Telekom baut Münchner „KI-Fabrik“ auf 20 Megawatt aus</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Die Deutsche Telekom erweitert ihre KI-Fabrik in München für knapp eine Viertelmilliarde Euro auf 20 Megawatt und rüstet auf Nvidias Blackwell Ultra um.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/11/ki-nachfrage-steigt-telekom-erweitert-ki-fabrik-in-muenchen"></r724:quelle>
+<r724:quelle url="https://www.computerbase.de/news/prozessoren/telekom-x-nvidia-ki-fabrik-wird-mit-blackwell-ultra-auf-20-megawatt-erweitert.100241/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>COP31 in Antalya gestartet — erster Tag, erster Konflikt um Klimafinanzierung</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Die UN-Klimakonferenz COP31 ist in Antalya eröffnet worden, geleitet von der Türkei und Australien. Erster Streitpunkt ist die Klimafinanzierung für ärmere Staaten.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/cop-136.html"></r724:quelle>
+<r724:quelle url="https://news.un.org/en/story/2026/11/1168763"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>„Koalicja 2026“: Ukraine-Truppe übt erstmals in Polen — auch Bundeswehr dabei</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Rund 2.800 Soldatinnen und Soldaten aus elf Ländern üben bis zum 22. November in Polen, darunter die Bundeswehr. Geübt werden Verlegung, Ostflanken-Verteidigung und Zusammenarbeit.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/multinationale-ukraine-truppe-manoever-koalicja-26-2-polen-bundeswehr"></r724:quelle>
+<r724:quelle url="https://de.euronews.com/2026/11/03/ukraine-truppe-europaeische-soldaten-proben-polen"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Möglicher neuer Zwergplanet: Objekt 2026 ED138 am Rand des Sonnensystems entdeckt</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Am äußeren Rand des Sonnensystems wurde ein Objekt entdeckt, das die Kriterien eines Zwergplaneten erfüllen könnte. Weitere Beobachtungen sollen Größe und Bahn bestätigen.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html"></r724:quelle>
+<r724:quelle url="https://www.wissenschaft.de/artikel/neuer-zwergplanet-im-sonnensystem-entdeckt/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>BepiColombo erreicht Ende November den Merkur</title>
+<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</guid>
+<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
+<description>Die ESA-JAXA-Sonde BepiColombo wird Ende November in eine Merkur-Umlaufbahn einschwenken. Nach jahrelanger Reise beginnt damit die wissenschaftliche Mission.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.dlr.de/de/wr/forschung-transfer/projekte/planetenforschung/bepicolombo-1"></r724:quelle>
+<r724:quelle url="https://www.esa.int/es/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: Ukraine-Gespräche in Abu Dhabi beginnen — Europäer doch mit am Tisch</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-1</link>
@@ -540,106 +631,5 @@
 <r724:quelle url="https://www.zeit.de/news/2026-11/08/merz-aigner-soll-bundespraesidentin-werden"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Update: Russische Drohnen treffen Krementschuk und Odessa — Angriffe auf die Energieversorgung gehen weiter</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-2</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Am Sonntagabend trafen russische Drohnen ein Wohngebäude und ein Hotel in Krementschuk sowie Stromverteiler in Odessa; mindestens vier Menschen wurden verletzt. Am Dienstag wollen Russland, die Ukraine und die USA in Abu Dhabi über ein Ende des Kriegs verhandeln.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-02-november-bis-8-november,VZt6HUS"></r724:quelle>
-<r724:quelle url="https://orf.at/stories/3447643/"></r724:quelle>
-<r724:quelle url="https://newsukraine.rbc.ua/news/russian-drones-strike-apartment-building-1794170925.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik — Organisatoren sprechen von 200.000 Menschen</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-3</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Unter dem Motto „Rote Linie“ gingen in Amsterdam zehntausende Menschen auf die Straße; Amnesty zufolge beteiligten sich mehr als 200.000. Gefordert werden schärfere Sanktionen und ein Stopp der Waffenverkäufe an Israel.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/proteste-amsterdam-israel-gazastreifen-niederlande"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Mehr als 20 Verletzte nach Erdbeben der Stärke 5,7 in Zentraljapan</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-4</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Ein Beben der Stärke 5,7 mit Epizentrum in der Präfektur Shizuoka verletzte in der Nacht mindestens 24 Menschen, am stärksten in der Präfektur Aichi. Es kam zu Verspätungen im Bahnverkehr; eine Tsunami-Gefahr bestand nicht.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people"></r724:quelle>
-<r724:quelle url="https://www.zdfheute.de/panorama/japan-erdbeben-nachbeben-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nvidia-Chef Jensen Huang gesteht Affäre ein — Aufsichtsgremium leitet Untersuchung ein</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-5</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Nach Berichten über eine Beziehung zu einer mutmaßlichen chinesischen Agentin räumte Huang die Affäre in einem Mitarbeiter-Schreiben ein. Nvidias Aufsichtsgremium leitet eine Untersuchung mit externen Beratern ein; Hinweise auf kompromittierte Geschäftsgeheimnisse sieht es bislang nicht.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/news/2026-11/08/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef"></r724:quelle>
-<r724:quelle url="https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Apple rüstet MacBook Pro und iMac mit dem M6-Chip aus — Einstiegs-MacBook-Pro wechselt auf den neuen Prozessor</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-6</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Das Einstiegs-MacBook Pro und der 24-Zoll-iMac erhalten Apples ersten 2-Nanometer-Chip M6 mit bis zu zwölf CPU-Kernen und verstärkter Neural Engine. Beide Reihen sind seit dem 6. November erhältlich; M6 Pro und M6 Max fehlen bislang.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/MacBook-Pro-und-iMac-2026-jetzt-mit-Apple-M6-11501941.html"></r724:quelle>
-<r724:quelle url="https://www.computerbase.de/news/notebooks/macbook-pro-der-m6-zieht-in-das-neue-basismodell-fuer-2-299-euro-ein.100033/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Rekord-Diebstahl von 6,3 Milliarden Dollar: Binance-Finanzchef tritt zurück</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-7</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Eine Woche nach dem größten Diebstahl der Weltgeschichte verlässt CFO Kaiser Ng die Krypto-Börse; Nachfolger wird Justin Yek. Binance soll Kunden rund 98 Prozent der gestohlenen Summe erstattet haben.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/Rekord-Kryptodiebstahl-bei-Binance-Finanzchef-sucht-sich-neuen-Job-11516605.html"></r724:quelle>
-<r724:quelle url="https://www.channelnewsasia.com/business/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-6533351"></r724:quelle>
-<r724:quelle url="https://www.straitstimes.com/business/companies-markets/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Aktienkauf um drei Uhr nachts: Deutsche Börse ermöglicht DAX-Handel rund um die Uhr</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-nachts.html#artikel-8</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Die 40 DAX-Werte sollen künftig auf der Plattform 360X rund um die Uhr handelbar sein — mit echten Papieren, aber ohne den Status einer regulierten Börse. Für Privatanleger fehlen laut tagesschau bislang Partner, damit das Angebot praktisch nutzbar wird.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html"></r724:quelle>
-<r724:quelle url="https://www.n-tv.de/broker-vergleich/aktuelles/24-stunden-boerse/"></r724:quelle>
-<r724:quelle url="https://www.finanzen.net/nachricht/aktien/fast-rund-um-die-uhr-22-stunden-am-tag-nyse-plant-ausweitung-der-handelszeiten-13955589"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Hunderttausende Ukrainer sitzen nach neuen russischen Angriffen im Dunkeln — AKW Saporischschja auf Notstrom</title>
-<link>https://radar724.de/posts/2026-11-08-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-08-abends.html#artikel-1</guid>
-<pubDate>Sun, 08 Nov 2026 18:49:00 +0100</pubDate>
-<description>Russische Luftangriffe haben die ukrainische Energieversorgung erneut getroffen; allein in der Region Dnipropetrowsk sind rund 600.000 Menschen ohne Strom. Das besetzte Atomkraftwerk Saporischschja verlor die Netzverbindung und muss mit Notstrom gekühlt werden. Selenskyj wirft Moskau vor, vor den Gesprächen in Abu Dhabi den Druck erhöhen zu wollen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-  </channel>
+</channel>
 </rss>
