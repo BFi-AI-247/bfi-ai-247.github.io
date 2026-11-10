@@ -6,8 +6,80 @@
     <atom:link href="https://radar724.de/idstein/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Idstein (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:54:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:02:00 +0100</lastBuildDate>
+                <item>
+          <title>Stadt öffnet erneut Mietzuschuss — Förderprogramm „Zukunft Innenstadt" richtet sich auch an Gründer</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-1</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-1</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>Die Stadt Idstein eröffnet erneut einen Mietzuschuss aus dem Förderprogramm „Zukunft Innenstadt" — unter anderem für Gründerinnen und Gründer. Antragsfristen und Förderbedingungen veröffentlicht die Stadtverwaltung in ihren Presseinformationen.</description>
+          <category>Meldung des Tages</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Presseinformation vom 09.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
         <item>
+          <title>Notwendige Fällungen auf dem Idsteiner Friedhof</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-2</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-2</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>Die Stadt Idstein teilt notwendige Fällungen auf dem Friedhof mit. Die Maßnahmen dienen nach Stadtangabe der Sicherheit an Wegen und Grabfeldern; betroffene Familien können sich an die Friedhofsverwaltung wenden.</description>
+          <category>Aus dem Rathaus</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Pressemitteilung vom 09.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>POL-RTK meldet: Auseinandersetzung mit Pfefferspray in der Wiesbadener Straße</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-3</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-3</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>Am Sonntagabend kam es in und vor einem Fastfood-Restaurant in der Idsteiner Wiesbadener Straße zu einer Auseinandersetzung mit Pfefferspray. Im selben Polizeibericht: ein Einbruchsversuch und die Entwendung von zwei E-Bikes.</description>
+          <category>Blaulicht</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6387044">POL-RTK via Presseportal, Meldung vom 09.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>Update: EAW-Wertstoffhöfe am 10. November geschlossen</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-4</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-4</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>Alle Wertstoffhöfe des Eigenbetriebs Abfallwirtschaft bleiben am Dienstag geschlossen — auch die Idsteiner Standorte. Grund ist eine Betriebsversammlung; ab dem 11. November gelten wieder die üblichen Öffnungszeiten.</description>
+          <category>Termine heute</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Hinweis vom 09.11.2026; Rheingau-Taunus-Kreis</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>Kröfteler Woche: Feuerwehr übt heute, SG-Heimspiel am Freitag, Volkstrauertag am Sonntag</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-5</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-5</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>In Kröftel übt die Freiwillige Feuerwehr am Dienstagabend, am Freitag spielt die SG Kröftel in der Bezirksliga. Am Volkstrauertag legt der Ortsbeirat einen Kranz auf dem Friedhof Kröftel nieder.</description>
+          <category>Termine heute</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://kroeftel.de/">kroeftel.de (DIE.NEWS Kröftel), selbst publiziert</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>TV 1844 Idstein: Indoor Cycling startet am 16. November</title>
+          <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-6</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-6</guid>
+          <pubDate>Tue, 10 Nov 2026 06:02:00 +0100</pubDate>
+          <description>Ab dem 16. November startet beim TVI das gemeinsame Indoor Cycling. Dazu kommen neue Powerstretch- und Fitnessboxen-Kurse sowie ein Faszienkurs im Fitnessbereich.</description>
+          <category>Vereine &amp; Ehrenamt</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.tv1844idstein.de/">TV 1844 Idstein, Abteilungs-News, selbst publiziert</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+<item>
           <title>Starkregenvorsorgekonzept: Infoabend mit Bürgerversammlung am Donnerstag in der Stadthalle</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-1</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-1</guid>
@@ -540,80 +612,6 @@
           <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
           <r724:quelle url="https://kroeftel.de/">Originalquelle</r724:quelle>
           <r724:quelle url="https://heftrich-online.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>TVI-Damen nach der Wettenberg-Pleite weiter gefordert — Auswärtsspiel in Wiesbaden</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-8</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-8</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Nach dem 26:39 gegen Wettenberg steht am 8. November das Auswärtsspiel bei der HSG Wiesbaden an — laut HR-Ergebnisdienst und Vereinsangabe.</description>
-          <category>Sport</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
-          <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Bundesliga-Schießsport im Stadtteil Dasbach — Termin fürs Auge merken</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-9</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-9</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Am 28. und 29. November richtet der Nachbarverein aus Dasbach einen Bundesligawettkampf im Schießsport aus.</description>
-          <category>Sport</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Hessentag 2027: Take That ist der erste Main Act — Idstein bekommt einen Paukenschlag</title>
-          <link>https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-1</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-1</guid>
-          <pubDate>Tue, 03 Nov 2026 06:23:34 +0100</pubDate>
-          <description>Die Hessentagbeauftragte hat Take That als ersten Main Act verkündet — die Band gastiert im Festjahr vom 11. bis 20. Juni 2027 in Idstein. FFH bestätigt die Meldung, morgen informiert die Stadt die Innenstadt in der Stadthalle.</description>
-          <category>Meldung des Tages</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-          <r724:quelle url="https://www.ffh.de/nachrichten/orte/idstein.html">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Hessentag-Infoabend für die Innenstadt: morgen, 19 Uhr, Stadthalle</title>
-          <link>https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-2</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-2</guid>
-          <pubDate>Tue, 03 Nov 2026 06:23:34 +0100</pubDate>
-          <description>Die Stadt lädt Anwohner und Gewerbetreibende der Innenstadt am 4. November, 19 Uhr, in die Stadthalle zum Hessentag-Infoabend. Die Hessentagspaare trafen sich zur Jahreshauptversammlung in Idstein.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Update: Energieberatung für Vermieter startet in den November</title>
-          <link>https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-3</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-3</guid>
-          <pubDate>Tue, 03 Nov 2026 06:23:34 +0100</pubDate>
-          <description>Die Kampagne „Energiesparen und Sanieren im Mietwohnungsbau“ startet im November. Eigentümer vermieteter Mehrfamilienhäuser in Idstein können eine kostenlose Energieberatung nutzen.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Alle EAW-Wertstoffhöfe am 10. November geschlossen</title>
-          <link>https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-4</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-03-morgens.html#artikel-4</guid>
-          <pubDate>Tue, 03 Nov 2026 06:23:34 +0100</pubDate>
-          <description>Der Eigenbetrieb Abfallwirtschaft schließt am 10. November 2026 alle Wertstoffhöfe im Kreis — auch die für Idstein relevanten Standorte. Wertstoffabgabe entsprechend einplanen.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.rheingau-taunus.de/aktuelles/pressemitteilungen/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
   </channel>
