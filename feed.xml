@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 09 Nov 2026 23:41:35 +0100</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 06:55:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #216 — Update: Ukraine-Gespräche in Abu Dhabi beginnen mit Europäern am Tisch — Hegseth droht Amtsenthebungsverfahren — Nowaja Gaseta stellt sich ab</title>
+<link>https://radar724.de/posts/2026-11-10-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html</guid>
+<description>Dienstag, 10. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 06:50 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 10 Nov 2026 06:50:00 +0100</pubDate>
+</item>
 <item>
 <title>Ausgabe #215 — Update: Nvidia-Ermittlungen gehen an das US-Justizministerium — Trump erklärt Iran-Krieg für „militärisch effektiv vorüber“ — Wall Street feiert besten Tag seit April</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-06-abends.html</guid>
 <pubDate>Fri, 06 Nov 2026 18:24:00 +0100</pubDate>
 <description>Freitag, 6. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:24 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Update: DAX fällt im Sog der Nasdaq unter 26.000 Punkte · Rheinmetall-Aktie stürzt nach zweiter Prognosensenkung ab · Prozess gegen „Königreich Deutschland“ beginnt in Düsseldorf</title>
-<link>https://radar724.de/posts/2026-11-06-mittags.html</link>
-<guid>https://radar724.de/posts/2026-11-06-mittags.html</guid>
-<description>Freitag, 6. November 2026 · Mittagsausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 13:03 Uhr (Europe/Berlin)</description>
-<pubDate>Fri, 06 Nov 2026 13:03:51 +0100</pubDate>
 </item>
 </channel>
 </rss>
