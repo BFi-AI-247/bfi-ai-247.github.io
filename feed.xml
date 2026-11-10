@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 10 Nov 2026 12:26:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:57:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #218 — Update: Erster Verhandlungstag in Abu Dhabi ohne Durchbruch — DAX schließt fester trotz US-Inflations-Schock — SoftBank rutscht tief in die roten Zahlen</title>
+<link>https://radar724.de/posts/2026-11-10-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html</guid>
+<description>Dienstag, 10. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:57 Uhr (Europe/Berlin)</description>
+<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
+</item>
 <item>
 <title>Ausgabe #217 — Update: Ukraine-Dreiergespräche laufen in Abu Dhabi — Verfassungsschutz warnt nach Nvidia-Affäre vor „Honigfallen“ — Anthropic stellt neue Claude-Modelle vor Börsengang vor</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html</link>
@@ -104,13 +111,6 @@
 <guid>https://radar724.de/posts/2026-11-07-morgens.html</guid>
 <pubDate>Sat, 07 Nov 2026 06:26:00 +0100</pubDate>
 <description>Samstag, 07. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 06:26 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>China stoppt Softbanks Milliarden-Deal um ABB Robotics · Iran prüft Vermittlungsangebote Katars zum Atomstreit · Mars zeigt Spuren jüngster Vulkanaktivität</title>
-<link>https://radar724.de/posts/2026-11-06-nachts.html</link>
-<guid>https://radar724.de/posts/2026-11-06-nachts.html</guid>
-<pubDate>Fri, 6 Nov 2026 23:59:00 +0100</pubDate>
-<description>Freitag, 6. November 2026 · Nachtausgabe · Tech &amp; KI / Weltgeschehen / Space &amp; Forschung</description>
 </item>
 </channel>
 </rss>
