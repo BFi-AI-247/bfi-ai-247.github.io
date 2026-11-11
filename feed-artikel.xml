@@ -1,3 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:r724="https://radar724.de/rss/1.0">
+<channel>
+<title>RADAR 724 - Artikel-Feed</title>
+<link>https://radar724.de/</link>
+<atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
+<description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
+<language>de-de</language>
+<lastBuildDate>Wed, 11 Nov 2026 06:28:00 +0100</lastBuildDate>
+<item>
+<title>Update: Anthropic-Borsengang konnte rund 64 Milliarden Dollar einsammeln</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-1</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Anthropic reicht bei der US-Borsenaufsicht Preisdetails ein: 825 Millionen Aktien zu je 70 bis 78 Dollar sollen rund 64 Milliarden Dollar einbringen - das zweitgroesste Aktiendebuet nach SpaceX. Der Handelsstart an der Nasdaq wird fuer kommende Woche erwartet.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"></r724:quelle>
+<r724:quelle url="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/technology/ai/articles/anthropic-plans-raise-62-5-183601737.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>303 Millionen Euro fuer die Tschernobyl-Schutzhuelle zugesagt</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-2</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Bei einer Geberkonferenz in Paris haben 14 Laender und Organisationen 303 Millionen Euro fuer die Reparatur der beschaedigten Schutzhuelle ueber dem Atomruine-Reaktor von Tschernobyl zugesagt. Insgesamt werden rund 500 Millionen Euro benoetigt; die Hauptarbeiten sollen 2028 beginnen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/Millionenhilfe-fuer-Tschernobyl-Schutzhuelle-nach-Drohneneinschlag-id31518493.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/tschernobyl-schutzhuelle-atomruine-reparatur-drohnenangriff"></r724:quelle>
+<r724:quelle url="https://www.derstandard.de/story/3000000348612/303-millionen-euro-f252r-reparatur-von-tschernobyl-schutzh252lle-zugesagt"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Aktionaere reichen Sammelklage gegen Nvidia-Chef Jensen Huang ein</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-3</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Nach der Affaere um eine mutmasslich chinesische Spionin reicht die Kanzlei Rosen Law eine Wertpapier-Sammelklage gegen Huang und den Konzern ein - der Vorwurf: verschwiegene Informationen und kuenstlich aufgeblahte Kurse. Die Aktie gab am Dienstag zeitweise um 6,3 Prozent nach.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/ticker/Nvidia-Chef-Huang-wegen-mutmasslicher-Spionageaffaere-mit-Sammelklage-konfrontiert-id31516505.html"></r724:quelle>
+<r724:quelle url="https://orf.at/stories/3447791/"></r724:quelle>
+<r724:quelle url="https://www.cbsnews.com/news/nvidia-jensen-huang-shareholder-lawsuit-affair-chinese-spy/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Vor Gipfeltreffen in Dublin: Streit ueber die Ukraine-Finanzierung entzweit die EU</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-4</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Bundeskanzler Merz fordert, die Ukraine-Unterstuetzung als vorrangiges Thema auf den EU-Gipfel am Freitag zu setzen - Widerstand kommt unter anderem aus Ungarn, der Slowakei und Tschechien. Kiew braucht nach Bruesseler Einschaetzungen im kommenden Jahr mindestens 70 Milliarden Euro.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/eu-ukraine-finanzierung-streit-fico-merz-100.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/news/2026-11/09/merz-will-bei-eu-gipfel-ueber-ukraine-hilfe-sprechen"></r724:quelle>
+<r724:quelle url="https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Multinationale Ukraine-Truppe uebt erstmals gemeinsam - Manoeuver Koalicja in Polen</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-5</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Rund 2.800 Soldaten aus mehr als zehn Laendern trainieren bis zum 22. November in Suedostpolen Verlegung, Nachschub und Luftraumsicherung fuer die Zeit nach dem Krieg. Deutschland beteiligt sich mit Transportflugzeugen; eine Friedenstruppe soll die Truppe laut Kommandeur nicht sein.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"></r724:quelle>
+<r724:quelle url="https://www.diepresse.com/41414082/multinationale-truppe-uebt-ukraine-einsatz-echte-streitmacht-die-bereit"></r724:quelle>
+<r724:quelle url="https://de.euronews.com/2026/11/03/ukraine-truppe-europaeische-soldaten-proben-polen"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>COP31 in Antalya: Gastgeber Erdogan kuendigt zur Konferenz-Eroeffnung neue Oelfelder an</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-6</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Zur Eroeffnung der UN-Klimakonferenz im eigenen Land verkkuendet der tuerkische Praesident die Erschliessung zweier neuer Oelfelder im Suedosten der Tuerkei - ab der zweiten Jahreshaelfte 2027 sollen ueber 100.000 Barrel taeglich gefoerdert werden. Klimaschuetzer sprechen von fossiler Ignoranz des Gastgebers.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://taz.de/UN-Klimakonferenz-in-der-Tuerkei/!6228894/"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/news/2026-11/10/erdogan-verkuendet-neue-oelfoerderung-zum-auftakt-der-cop31"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/ticker/Erdogan-kuendigt-Ausbau-der-Oelfoerderung-in-der-Tuerkei-an-id31515725.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Bund uebernimmt fuer 6,6 Milliarden Euro die Wegmann-Anteile am Panzerbauer KNDS</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-7</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Der Hersteller des Kampfpanzers Leopard 2 geht mit dem Einstieg des Bundes vorerst vollstaendig in Staatsbesitz. Ein urspruenglich geplanter Boersengang war wegen des schwierigen Marktumfelds fuer Ruestungsaktien nicht weiter verfolgt worden.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/regional/hessen/hr-bericht-bund-zahlt-66-milliarden-fuer-einstieg-bei-ruestungskonzern-knds-100.html"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/ticker/Bund-will-fuer-Panzerbauer-KNDS-Anteile-6-6-Milliarden-Euro-zahlen-id31517390.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Boersenausblick: Siemens-Bilanz startet den Tag - US-Teuerung bleibt im Blick</title>
+<link>https://radar724.de/posts/2026-11-11-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html#artikel-8</guid>
+<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
+<description>Die US-Verbraucherpreise stiegen im Oktober um 0,4 Prozent zum Vormonat und lagen damit ueber den Prognosen; eine Jahresrate wurde wegen der Haushaltssperre nicht mitgeteilt. Der Handelstag beginnt mit der Siemens-Bilanzpressekonferenz; der DAX schloss am Dienstag 0,31 Prozent fester.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bls.gov/news.release/archives/cpi_11102026.htm"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/economy/articles/us-consumer-prices-rise-0-141056002.html"></r724:quelle>
+<r724:quelle url="https://www.usinflationcalculator.com/inflation/us-inflation-slows-to-0-4-in-october-exceeds-forecasts/100073397/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Wall Street zum Dienstagsschluss: Inflationsdaten dämpfen — Fed-Debatte über eine kräftige Zinserhöhung erwacht</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-1</link>
@@ -10,8 +122,7 @@
 <r724:quelle url="https://apnews.com/article/wall-street-stocks-dow-nasdaq-a97eb31c415811065561f2c2ac552cd7"></r724:quelle>
 <r724:quelle url="https://www.ariva.de/news/aktien-new-york-schluss-aussicht-auf-steigende-zinsen-12202359"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>COP31 in Antalya: Guterres dringt auf beschleunigte Abkehr von fossilen Brennstoffen — Thunberg nennt Klimakonferenzen „Greenwashing-Zirkusse“</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-2</guid>
@@ -23,8 +134,7 @@
 <r724:quelle url="https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html"></r724:quelle>
 <r724:quelle url="https://media.un.org/unifeed/en/asset/d368/d3684706"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Ägypten: Mada-Masr-Chefredakteurin Attalah wehrt sich vor Neuverhandlung — „Wir sind nicht das Problem“</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-3</guid>
@@ -35,8 +145,7 @@
 <r724:quelle url="https://apnews.com/article/egypt-mada-masr-lina-attalah-press-freedom-df2669732f84c109426585f82e2ac4c1"></r724:quelle>
 <r724:quelle url="https://cpj.org/2026/11/how-egypts-laws-are-used-to-choke-its-independent-press/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Chinas Handelsüberschuss knackt erneut die Billionen-Schwelle — Exporte legen um mehr als ein Drittel zu</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-4</guid>
@@ -48,8 +157,7 @@
 <r724:quelle url="https://www.finanzen.net/nachricht/aktien/roundup-chinas-handelsueberschuss-knackt-erneut-die-billion-schwelle-16052158"></r724:quelle>
 <r724:quelle url="https://de.euronews.com/2026/11/10/china-handelsuberschuss-uber-1-billion-dollar-ki-boom-treibt-exporte"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Infineon meldet Rekordjahr mit kräftigem Gewinnplus — und peilt 20-Milliarden-Umsatz an</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-5</guid>
@@ -60,8 +168,7 @@
 <r724:quelle url="https://www.infineon.com/press-release/2026/infpr202611-025"></r724:quelle>
 <r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169468096"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Global Carbon Budget 2026: Fossile CO2-Emissionen sinken erstmals — doch das 1,5-Grad-Budget schrumpft weiter</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-6</guid>
@@ -72,8 +179,7 @@
 <r724:quelle url="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/"></r724:quelle>
 <r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261109205358.htm"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Polarwirbel schwächelt so früh wie nie — Meteorologen starren auf einen ungewissen Winter</title>
 <link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-7</guid>
@@ -85,8 +191,7 @@
 <r724:quelle url="https://www.n-tv.de/panorama/Polarwirbel-und-El-Nino-bringen-Wetter-durcheinander-id31495173.html"></r724:quelle>
 <r724:quelle url="https://www.science.lu/de/fruehe-stoerung-des-polarwirbels-einzigartig-aber-nicht-unbedingt-besorgniserregend"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Erster Verhandlungstag in Abu Dhabi ohne Durchbruch — Gespräche gehen am Mittwoch weiter</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-1</guid>
@@ -98,8 +203,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"></r724:quelle>
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Selenskyj in Kopenhagen: Dänemark sagt der Ukraine weitere 642 Millionen Euro Militärhilfe zu</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-2</guid>
@@ -110,8 +214,7 @@
 <r724:quelle url="https://www.n-tv.de/ticker/Daenemark-sagt-Ukraine-weitere-Militaerhilfen-von-642-Millionen-Euro-zu-id31516272.html"></r724:quelle>
 <r724:quelle url="https://www.euronews.com/2026/11/10/denmark-pledges-643-million-in-military-aid-as-zelenskyy-meets-nordic-leaders"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Israel: Neue Knesset konstituiert sich — Netanjahu ohne Mehrheit, Eisenkot erhält Regierungsauftrag</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-3</guid>
@@ -123,8 +226,7 @@
 <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/israel-knesset-parlamentswahl-gadi-eisenkot-izchak-herzog-gxe"></r724:quelle>
 <r724:quelle url="https://www.al-monitor.com/originals/2026/11/new-israeli-parliament-take-aim-netanyahu-eisenkot-seeks-government"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Erdogans Öl-Poker überschattet Klimakonferenz in Antalya</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-4</guid>
@@ -135,8 +237,7 @@
 <r724:quelle url="https://www.n-tv.de/ticker/Erdogan-kuendigt-Ausbau-der-Oelfoerderung-in-der-Tuerkei-an-id31515725.html"></r724:quelle>
 <r724:quelle url="https://www.tagesschau.de/ausland/cop-136.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Tagesrückblick Börse: DAX schließt fester — Rekordmarke nur knapp verfehlt</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-5</guid>
@@ -147,8 +248,7 @@
 <r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-10-November-2026-id31514439.html"></r724:quelle>
 <r724:quelle url="https://www.finanzen.net/nachricht/aktien/heute-im-fokus-10-11-2026-16052131"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>US-Inflation überrascht nach oben — Wall Street unter Druck, Zinswende-Debatte kippt</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-6</guid>
@@ -159,8 +259,7 @@
 <r724:quelle url="https://www.finanzen.net/nachricht/aktien/heute-im-fokus-10-11-2026-16052131"></r724:quelle>
 <r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-10-November-2026-id31514439.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Porsche SE wertet VW-Beteiligung kräftig ab — Milliardenverlust nach neun Monaten</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-7</guid>
@@ -171,8 +270,7 @@
 <r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-10-November-2026-id31514439.html"></r724:quelle>
 <r724:quelle url="https://www.finanzen.net/nachricht/aktien/heute-im-fokus-10-11-2026-16052131"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>SoftBank schreibt tiefrote Zahlen: Erster Quartalsverlust seit fast zwei Jahren</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-8</guid>
@@ -184,8 +282,7 @@
 <r724:quelle url="https://www.channelnewsasia.com/business/softbank-books-us7-billion-quarterly-loss-us-data-centre-hit-6538511"></r724:quelle>
 <r724:quelle url="https://www.morningstar.com/news/dow-jones/202611104264/softbank-posts-multibillion-dollar-loss-linked-to-us-data-center-equipment-update"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Anthropic drängt zum Börsengang — asiatische Tech-Börsen legen zu</title>
 <link>https://radar724.de/posts/2026-11-10-abends.html#artikel-9</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-9</guid>
@@ -196,8 +293,7 @@
 <r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-10-November-2026-id31514439.html"></r724:quelle>
 <r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/teure-ki-wette-softbank-macht-sieben-milliarden-dollar-verlust-ce785edadd89f125"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Ukraine-Dreiergespräche in Abu Dhabi laufen — Kampf um Klima und Bedingungen</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-1</guid>
@@ -209,8 +305,7 @@
 <r724:quelle url="https://www.zeit.de/news/2026-11/10/ukraine-verhandlungen-in-abu-dhabi-haben-begonnen"></r724:quelle>
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach Nvidia-Affäre warnt Verfassungsschutz vor „Honigfallen“ — Trump: FBI ermittelt</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-2</guid>
@@ -222,8 +317,7 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html"></r724:quelle>
 <r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-affaere-china-spionage"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Anthropic stellt Claude Fable 5.2 und Claude Mythos 5.2 vor — eine Woche vor dem Börsengang</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</guid>
@@ -235,8 +329,7 @@
 <r724:quelle url="https://finance.yahoo.com/technology/ai/articles/anthropic-launches-fable-5-2-193609974.html"></r724:quelle>
 <r724:quelle url="https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Telekom baut Münchner „KI-Fabrik“ auf 20 Megawatt aus</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</guid>
@@ -247,8 +340,7 @@
 <r724:quelle url="https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/11/ki-nachfrage-steigt-telekom-erweitert-ki-fabrik-in-muenchen"></r724:quelle>
 <r724:quelle url="https://www.computerbase.de/news/prozessoren/telekom-x-nvidia-ki-fabrik-wird-mit-blackwell-ultra-auf-20-megawatt-erweitert.100241/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>COP31 in Antalya gestartet — erster Tag, erster Konflikt um Klimafinanzierung</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</guid>
@@ -259,8 +351,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/cop-136.html"></r724:quelle>
 <r724:quelle url="https://news.un.org/en/story/2026/11/1168763"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>„Koalicja 2026“: Ukraine-Truppe übt erstmals in Polen — auch Bundeswehr dabei</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</guid>
@@ -272,8 +363,7 @@
 <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/multinationale-ukraine-truppe-manoever-koalicja-26-2-polen-bundeswehr"></r724:quelle>
 <r724:quelle url="https://de.euronews.com/2026/11/03/ukraine-truppe-europaeische-soldaten-proben-polen"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Möglicher neuer Zwergplanet: Objekt 2026 ED138 am Rand des Sonnensystems entdeckt</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</guid>
@@ -284,8 +374,7 @@
 <r724:quelle url="https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html"></r724:quelle>
 <r724:quelle url="https://www.wissenschaft.de/artikel/neuer-zwergplanet-im-sonnensystem-entdeckt/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>BepiColombo erreicht Ende November den Merkur</title>
 <link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</guid>
@@ -296,8 +385,7 @@
 <r724:quelle url="https://www.dlr.de/de/wr/forschung-transfer/projekte/planetenforschung/bepicolombo-1"></r724:quelle>
 <r724:quelle url="https://www.esa.int/es/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Ukraine-Gespräche in Abu Dhabi beginnen — Europäer doch mit am Tisch</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-1</guid>
@@ -309,8 +397,7 @@
 <r724:quelle url="https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"></r724:quelle>
 <r724:quelle url="https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Aldi Süd und Lidl zahlen ab Dezember mindestens 16 Euro pro Stunde</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-2</guid>
@@ -321,8 +408,7 @@
 <r724:quelle url="https://www.n-tv.de/ticker/Aldi-Sued-und-Lidl-erhoehen-Mindestlohn-ab-Dezember-id31512773.html"></r724:quelle>
 <r724:quelle url="https://www.rtl.de/news/aldi-sued-und-lidl-mindestlohn-steigt-ab-dezember-auf-16-euro-id31513030.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach Midterms: Amtsenthebungs-Artikel gegen Pentagon-Chef Hegseth eingereicht</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-3</guid>
@@ -334,8 +420,7 @@
 <r724:quelle url="https://www.zeit.de/news/2026-11/09/us-repraesentantenhaus-behandelt-amtsenthebung-hegseths"></r724:quelle>
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Dublin wird zum Europa-Treff: Politische Gemeinschaft berät über Ukraine und KI</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-4</guid>
@@ -346,8 +431,7 @@
 <r724:quelle url="https://www.consilium.europa.eu/de/meetings/international-summit/2026/11/12/"></r724:quelle>
 <r724:quelle url="https://orf.at/stories/3445058/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Deutsche Ausfuhren legen im September stärker als erwartet zu</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-5</guid>
@@ -359,8 +443,7 @@
 <r724:quelle url="https://www.zeit.de/wirtschaft/2026-11/deutsche-exporte-aussenhandel-september-statistisches-bundesamt-gxe"></r724:quelle>
 <r724:quelle url="https://www.bme.de/news/deutsche-exporte-legen-im-september-weiter-zu-importe-steigen-noch-staerker/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Börsen-Ausblick: DAX nach Erholungs-Tag zwischen KI-Sorgen und Iran-Entspannung</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-6</guid>
@@ -372,8 +455,7 @@
 <r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-10-November-2026-id31514439.html"></r724:quelle>
 <r724:quelle url="https://www.finanzen.at/nachrichten/aktien/tagesvorschau-dienstag-10-november-vorlaufige-fassung-1036736968"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach 30 Jahren: Nowaja Gaseta beendet als letzte große unabhängige Zeitung Russlands ihre Arbeit</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-7</guid>
@@ -385,8 +467,7 @@
 <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/nowaja-gaseta-russland-dmitri-muratow"></r724:quelle>
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/russland-pressefreiheit-presse-nowaja-gaseta-opposition-100.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Untreue-Prozess gegen Ex-RBB-Intendantin Schlesinger beginnt vor Landgericht Berlin</title>
 <link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-8</guid>
@@ -398,8 +479,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/deutschland/rbb-intendantin-schlesinger-prozess-100.html"></r724:quelle>
 <r724:quelle url="https://berlin.t-online.de/region/berlin/id_101457364/rbb-in-berlin-prozess-gegen-ex-intendantin-patricia-schlesinger-startet.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Ermittlungen zu Chip-Händler Megaspeed wechseln zum US-Justizministerium</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-1</guid>
@@ -410,8 +490,7 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html"></r724:quelle>
 <r724:quelle url="https://de.qz.com/megaspeed-chip-untersuchung-auf-justizministerium-verlegt-nvidia-110926"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Anthropic kauft Gasturbinen für 3,4 Milliarden Dollar</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-2</guid>
@@ -422,8 +501,7 @@
 <r724:quelle url="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"></r724:quelle>
 <r724:quelle url="https://aibriefs.news/ai-news-today"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach den Midterms: US-Wähler bremsen den Rechenzentrums-Boom</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-3</guid>
@@ -434,8 +512,7 @@
 <r724:quelle url="https://www.shrm.org/mena/topics-tools/news/ai-unlocked-4-essential-things-to-know-this-week-november-9"></r724:quelle>
 <r724:quelle url="https://ai-news-brief.com/"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Vor Abu-Dhabi-Gesprächen warnt Wadephul vor russischer „Verhandlungsshow“</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-4</guid>
@@ -447,8 +524,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/09/europa-entsendet-team-zu-ukraine-friedensverhandlungen-in-abu-dhabi"></r724:quelle>
 <r724:quelle url="https://www.zdfheute.de/video/zdfheute-xpress/g7-aussenminister-wadephul-rubio-ukraine-verhandlungen-europa-video-100.html"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Trump erklärt den Iran-Krieg für „militärisch effektiv vorüber“</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-5</guid>
@@ -460,8 +536,7 @@
 <r724:quelle url="https://www.zeit.de/news/2026-11/09/trump-iran-krieg-ist-militaerisch-effektiv-vorueber"></r724:quelle>
 <r724:quelle url="https://www.derstandard.at/story/3000000348078/us-milit228r-frachter-im-golf-von-oman-untauglich-gemacht"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Erstmals baut ein Roboter autonom eine Struktur im Weltraum</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-6</guid>
@@ -472,8 +547,7 @@
 <r724:quelle url="https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space"></r724:quelle>
 <r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261108233043.htm"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>ESA-Sonde Hera erreicht Asteroiden-Duo — Ergebnisse am 25. November in Berlin</title>
 <link>https://radar724.de/posts/2026-11-09-nachts.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html#artikel-7</guid>
@@ -483,8 +557,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.esa.int/media-advisories/four-years-after-nasa-s-asteroid-impact-esa-s-hera-reveals-what-happened-to-dimorphos"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlanlagen verantwortlich</title>
 <link>https://radar724.de/posts/2026-11-09-abends.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-1</guid>
@@ -496,8 +569,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/frankreich-kuehlsysteme-attacken-iran-revolutionsgarden-100.html"></r724:quelle>
 <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/frankreich-sieht-iran-hinter-angriffen-auf-supermarkt-kuehlsysteme"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: EU entsendet gemeinsames Team zu den Ukraine-Gesprächen in Abu Dhabi</title>
 <link>https://radar724.de/posts/2026-11-09-abends.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-2</guid>
@@ -509,8 +581,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html"></r724:quelle>
 <r724:quelle url="https://www.berliner-zeitung.de/article/von-der-leyen-bestaetigt-eu-bei-ukraine-gespraechen-in-abu-dhabi-vertreten-10578797"></r724:quelle>
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Todesschütze von Krakau ist gestorben — Staatsanwaltschaft fand vier Waffen und 500 Schuss Munition</title>
 <link>https://radar724.de/posts/2026-11-09-abends.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-3</guid>
@@ -523,106 +594,5 @@
 <r724:quelle url="https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_101519166/todesschuetze-von-krakau-ist-tot-ermittlungen-dauern-an.html"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Tagesrückblick Börse: DAX schließt bei 26.266 Punkten — Ölpreis-Rutsch entlastet nach zwei Verlusttagen</title>
-<link>https://radar724.de/posts/2026-11-09-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-4</guid>
-<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
-<description>Der DAX schloss beim Xetra-Schluss 1,72 Prozent höher bei 26.266 Punkten. Als wichtigsten Treiber nannten Marktbeobachter den deutlich gefallenen Ölpreis; Brent kostete zeitweise nur noch rund 94 US-Dollar, der niedrigste Stand seit Ende August.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.boerse.de/nachrichten/Aktien-Frankfurt-Schluss-Dax-erholt-mit-Oelpreisrutsch/38712624"></r724:quelle>
-<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/freundlicher-handel-in-frankfurt-dax-zum-handelsende-in-der-gewinnzone-1036737985"></r724:quelle>
-<r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-dax-erholt-mit-oelpreisrutsch-ce785fd3df8ef221"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Nvidia-Affäre erschüttert die Börse — Aktie gibt im ersten Handel nach Spionage-Berichten rund 5 Prozent nach</title>
-<link>https://radar724.de/posts/2026-11-09-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-5</guid>
-<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
-<description>Die Spionage-Affäre um Nvidia-Chef Jensen Huang belastet den Chiphersteller: Die Aktie gab am Montag rund 5 Prozent nach. Das Unternehmen hatte eine unabhängige Untersuchung durch sein Aufsichtsgremium eingeleitet; in Washington prüfen Berichten zufolge auch Abgeordnete aufsichtsrechtliche Schritte.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html"></r724:quelle>
-<r724:quelle url="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"></r724:quelle>
-<r724:quelle url="https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-affaere-china-spionage-aktien-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wall Street im Aufwind: Dow legt um über 600 Punkte zu — nur Nvidia bremst den KI-Rallye-Nachmittag</title>
-<link>https://radar724.de/posts/2026-11-09-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-6</guid>
-<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
-<description>Nach dem KI-Ausverkauf der Vorwoche begann die Wall Street den Montag deutlich freundlich: Der Dow Jones legte um mehr als 600 Punkte zu, der S&amp;P 500 stand rund 2 Prozent höher. Einziger Ausnehmer blieb Nvidia, das wegen der Affäre um seinen Chef nachgab.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.qz.com/dow-steigt-um-600-punkte-l-fllt-nvidia-aktie-110926"></r724:quelle>
-<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/zuversicht-in-new-york-s-p-500-am-montagmittag-im-aufwind-1036738005"></r724:quelle>
-<r724:quelle url="https://tradingeconomics.com/united-states/stock-market"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Psoriasis: Vitamin-B5-Derivat Pantethin könnte überaktive Immunzellen beruhigen</title>
-<link>https://radar724.de/posts/2026-11-09-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-7</guid>
-<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
-<description>Forschende aus China berichten, dass Pantethin, ein Abkömmling von Vitamin B5, überaktive Immunzellen beruhigt und in Tierversuchen Psoriasis-Symptome deutlich linderte. Erste Hinweise beim Menschen stammen aus einer kleinen Begleitstudie; größere kontrollierte Studien müssen die Daten bestätigen.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261108233057.htm"></r724:quelle>
-<r724:quelle url="https://www.news-medical.net/news/20261027/Vitamin-B5-derivative-pantethine-helps-prevent-and-alleviate-psoriasis-symptoms-in-mice.aspx"></r724:quelle>
-<r724:quelle url="https://www.genengnews.com/topics/drug-discovery/vitamin-derivative-pantethine-alleviates-psoriasis-symptoms-in-small-human-trial/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>ETH Zürich: Strömung erzeugende Mikroboter sollen Blutgerinnsel auflösen</title>
-<link>https://radar724.de/posts/2026-11-09-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-abends.html#artikel-8</guid>
-<pubDate>Mon, 09 Nov 2026 18:11:00 +0100</pubDate>
-<description>Ein Team der ETH Zürich stellt winzige Roboter vor, die im Blutgefäß gezielt Strömung erzeugen und verstopfte Stellen wieder durchströmbar machen, damit gerinnselauflösende Medikamente ihr Ziel erreichen. Die Entwicklung steht noch in der Grundlagenforschung.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2026/11/stroemung-erzeugende-winzige-bots-helfen-blutgerinnsel-aufzuloesen.html"></r724:quelle>
-<r724:quelle url="https://www.deutschesgesundheitsportal.de/category/gesundheitsnachrichten/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: CDU-Führung nominiert Ilse Aigner offiziell als Bundespräsidenten-Kandidatin</title>
-<link>https://radar724.de/posts/2026-11-09-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-mittags.html#artikel-1</guid>
-<pubDate>Mon, 09 Nov 2026 13:03:00 +0100</pubDate>
-<description>Präsidium und Bundesvorstand der CDU haben Ilse Aigner offiziell als Unions-Kandidatin für das Amt des Bundespräsidenten nominiert. Die Bundesversammlung wählt am 30. Januar; Aigner wäre die erste Frau im höchsten Staatsamt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/politik/CDU-Fuehrung-schlaegt-Aigner-offiziell-als-Bundespraesidentin-vor-id31511234.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/news/2026-11/09/kandidatin-mit-besten-chancen-cdu-will-aigner-nominieren"></r724:quelle>
-<r724:quelle url="https://www.br.de/nachrichten/bayern/bundespraesidentin-merz-legt-sich-auf-aigner-fest,VaOzvCH"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>G7-Außenminister in Paris: Ukraine und Iran im Zentrum — Wadephul warnt vor Eskalation</title>
-<link>https://radar724.de/posts/2026-11-09-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-mittags.html#artikel-2</guid>
-<pubDate>Mon, 09 Nov 2026 13:03:00 +0100</pubDate>
-<description>Die G7-Außenminister beraten in Paris über die Rolle Europas bei einer Lösung des Ukraine-Kriegs und über den Iran-Konflikt. Bundesaußenminister Wadephul warnte vor einer Eskalation mit Teheran.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/g7-paris-100.html"></r724:quelle>
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/g7-aussenministertreffen-paris-wadephul-100.html"></r724:quelle>
-<r724:quelle url="https://www.onvista.de/news/2026/11-09-g7-treffen-in-paris-wadephul-warnt-vor-eskalation-im-iran-konflikt-0-20-26574120"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Rubio meldet Fortschritte bei der „Sicherheitsinfrastruktur“ für die Zeit nach dem Ukraine-Krieg</title>
-<link>https://radar724.de/posts/2026-11-09-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-mittags.html#artikel-3</guid>
-<pubDate>Mon, 09 Nov 2026 13:03:00 +0100</pubDate>
-<description>US-Außenminister Rubio sieht Fortschritte beim Aufbau einer Sicherheitsinfrastruktur für die Ukraine und Europa nach dem Krieg. Die Gespräche in Abu Dhabi beginnen an diesem Dienstag.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/politik/02-25-Rubio-Fortschritte-bei-Sicherheitsinfrastruktur-nach-Ukraine-Krieg-id30859357.html"></r724:quelle>
-<r724:quelle url="https://newsukraine.rbc.ua/news/rubio-reveals-key-issue-in-ukraine-peace-1794208583.html"></r724:quelle>
-<r724:quelle url="https://gulfnews.com/world/europe/rubio-says-progress-made-on-security-infrastructure-after-ukraine-war-1.500740633"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
+</channel>
+</rss>
