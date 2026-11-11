@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #223 — Mittwoch, 11.11.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #223</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Mittwoch, 11. November 2026 &middot; Nachtausgabe &middot; erstellt um 23:36 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen</p>
+<h1 class="post-title">AI-Rally beflügelt den New Yorker Mittwochsschluss — Update: US-Gesandte treffen Putin in Moskau — Nvidia rutscht unter die Billionen-Bewertung</h1>
+
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item" id="artikel-1">
+<span class="rubrik-ref">Rubrik: Wirtschaft &amp; Finanzen</span>
+<h3>Wall Street zum Mittwochsschluss: AI-Handel feiert Comeback — CoreWeave-Rally entfacht den Nasdaq</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026" rel="noopener">Original lesen</a> — TheStreet, Live-Berichterstattung zum Handelstag.</span>
+<p>Der US-Aktienmarkt hat den Mittwoch mit klaren Gewinnen beendet: Der S&amp;P 500 kletterte um 1,31 Prozent auf 7.619,38 Punkte, der Dow Jones legte um 0,49 Prozent auf 52.486,49 Punkte zu, und der technologie-lastige Nasdaq Composite stieg um 1,60 Prozent auf 25.466,19 Punkte. Treiber war vor allem der KI-Komplex: Der Cloud-Anbieter CoreWeave zog nach starken Quartalszahlen um rund 25 Prozent an, Nvidia erholte sich nach den Rücksetzern der Vortage um 2,87 Prozent, und Micron Technology legte gar 11,89 Prozent zu. Apple erreichte derweil ein neues Allzeithoch. Auf der Verliererseite standen unter anderem Microsoft, Amazon und Meta. Für den Schlussgang des US-Handelstages bleibt festzuhalten: Der Anleihenmarkt war wegen des Veterans-Day-Feiertags geschlossen, die Aktienbörsen handelten regulär. (Datenstand: Mittwoch, 11.11.2026, US-Schluss 22:00 Uhr MEZ.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweaves-25-rally-reignites-the-ai-trade/" rel="noopener">The Motley Fool</a> — <a href="https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html" rel="noopener">Yahoo Finance</a>.</span>
+</div>
+
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>in der Nacht leichter Regen bei 8 bis 9 Grad — Donnerstag bleibt trüb und mild.</li>
+<li><b>Sonne</b>auf 07:32, unter 16:45 Uhr (Donnerstag) — die Wintertage bleiben kurz.</li>
+<li><b>DAX</b>26.642 Punkte <span class="pos">+1,12 %</span> — Xetra-Schluss vom Mittwoch, rund 50 Punkte unter dem Allzeithoch vom 5. November.</li>
+<li><b>S&amp;P 500</b>7.619,38 Punkte <span class="pos">+1,31 %</span> — Mittwochsschluss, AI-Rally nach CoreWeave-Zahlen.</li>
+<li><b>Öl (Brent)</b>rund 92,60 USD <span class="pos">leicht erholt</span> — Erholung nach dem Kursrutsch der Vortage.</li>
+<li><b>EUR / USD</b>1,1127 — EZB-Referenzkurs vom Mittwoch, der Euro gibt um rund 0,8 Prozent nach.</li>
+<li><b>Gold</b>rund 3.988 USD/Unze <span class="neg">unter 4.000</span> — hawkische Fed-Töne drücken den Preis.</li>
+<li><b>Bitcoin</b>rund 67.100 EUR (6h +0,3 % &middot; 24h +1,6 %) — Deltas aus RADAR-Ausgaben #222 (66.900 EUR) und #219 (66.050 EUR).</li>
+<li><b>Heute ist ...</b>Mittwoch — der 315. Tag des Jahres, Kalenderwoche 46.</li>
+</ul>
+<span class="glance-src">Datenstand 11.11.2026, ca. 23:36 Uhr &middot; Wetter: wetterdienst.de &middot; Kurse: portfolio-terminal.com, finanzen.at, TradingEconomics, EZB, Yahoo Finanzen &middot; Bitcoin-Referenzen: RADAR 724, Ausgaben #222 und #219 &middot; Heute ist .../Sonne: welcher-tag-ist-heute.org/timeanddate.com</span>
+</div>
+
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item" id="artikel-2">
+<h3>Update: Anthropic legt Preisspanne fest — bis zu 64 Milliarden Dollar Einsprung, Bewertung bis zu 1,4 Billionen</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/" rel="noopener">Original lesen</a> — TechCrunch, Berichterstattung zur IPO-Einreichung.</span>
+<p>Der Chatbot-Hersteller Anthropic hat den nächsten Schritt zu seinem Börsengang gezogen: In der Einreichung nennt das Unternehmen eine Preisspanne von 70 bis 78 Dollar je Aktie. Am oberen Ende ergäbe das eine Bewertung von rund 1,4 Billionen Dollar — und einen Frischkapitalbedarf von bis zu 64 Milliarden Dollar. Damit könnte der IPO des Machers von Claude einer der größten der Geschichte werden. Der Schritt folgt Wochen der Spekulation über die Bewertung des KI-Unternehmens, das zuletzt auch für den AI-Handel an den Märkten mitbestimmend war. (Datenstand: Mittwoch, 11.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.euronews.com/business/2026/11/11/anthropic-targets-valuation-of-up-to-14-trillion-for-blockbuster-ipo" rel="noopener">Euronews</a> — <a href="https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut" rel="noopener">Al Jazeera</a>.</span>
+</div>
+<div class="item" id="artikel-3">
+<h3>Update: Nvidias schlimmste Fünf-Tage-Serie seit 2022 — Börsenwert rutscht von fünf auf vier Billionen Dollar</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.derstandard.at/story/3000000348674/nvidia-aktie-auf-tiefstem-stand-seit-m228rz" rel="noopener">Original lesen</a> — derStandard.at, Börsenbericht zur Nvidia-Aktie.</span>
+<p>Die Skandal-Wochen um Nvidia-Chef Jensen Huang haben sich im Börsenwert des Chipkonzerns niedergeschlagen: Der Marktwert ist von rund fünf Billionen auf etwa vier Billionen Dollar geschrumpft, die Aktie notierte zuletzt auf dem tiefsten Stand seit März. Börsenanalysten sprechen von der schlechtesten Fünf-Tage-Serie seit 2022 — noch schlechter als beim DeepSeek-Schock. Am Mittwoch zeigte sich eine erste Gegenbewegung: Nach zwei schweren Verlusttagen erholte sich das Papier um 2,87 Prozent, auch weil die Zahlen von CoreWeave den AI-Handel neu entfachten. Unterdessen drückt die Affäre auch die Politik: In Washington fordern Stimmen aus dem Handel Ministerium eine härtere China-Linie, diskutiert werden unter anderem Einschränkungen des chinesischen Fernzugriffs auf fortschrittliche KI-Chips. Analystenhaus Baird senkte unterdessen sein Kursziel drastisch. (Datenstand: Mittwoch, 11.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://247wallst.com/investing/2026/11/11/nvidia-just-had-its-worst-5-days-since-2022-worse-than-the-deepseek-crash/" rel="noopener">24/7 Wall St.</a> — <a href="https://www.fool.com/investing/2026/11/11/nvidia-stock-just-had-its-price-target-slashed-60-others-still-say-buy-who-s-right/" rel="noopener">The Motley Fool</a>.</span>
+</div>
+
+<h2 class="section">Weltgeschehen</h2>
+<div class="item" id="artikel-4">
+<h3>Update: US-Sondergesandte zu Putin-Gesprächen in Moskau angekommen — danach Debriefing bei Selenskyj in Dublin</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html" rel="noopener">Original lesen</a> — tagesschau.de, Bericht zu den Gesandten-Reisen.</span>
+<p>Der diplomatische Marathon nach den Abu-Dhabi-Gesprächen geht weiter: Die US-Sondergesandten Steve Witkoff und Jared Kushner sind zu Gesprächen mit Russlands Präsident Wladimir Putin in Moskau eingetroffen; der Kreml sprach anschließend von nützlichen Gesprächen. Anschließend wollen die beiden zu einem Treffen mit dem ukrainischen Präsidenten Wolodymyr Selenskyj nach Dublin weiterreisen. Aus den zweitägigen Verhandlungen in Abu Dhabi war zuvor die Zusage des bislang größten Gefangenenaustauschs zwischen Russland und der Ukraine hervorgegangen. Die Kämpfe an den Fronten gingen derweil weiter. (Datenstand: Mittwoch, 11.11.2026, Redaktionsschluss.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.sn.at/politik/weltpolitik/us-gesandte-besuchen-moskau-und-dublin-art-683489" rel="noopener">SN.at</a> — <a href="https://www.n-tv.de/politik/09-56-Russland-verliert-laut-Ukraine-innerhalb-von-24-Stunden-ueber-1500-Soldaten-id30859357.html" rel="noopener">n-tv.de</a>.</span>
+</div>
+<div class="item" id="artikel-5">
+<h3>Update: COP31-Chefetag mit auffälligen Absenzen — Guterres verlangt Ende der fossilen Brennstoffe</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.derstandard.at/story/3000000348807/cop31-uno-chef-warnt-sind-auf-dem-weg-der-garantierten-zerst246rung" rel="noopener">Original lesen</a> — derStandard.at, Bericht vom Klimagipfel in Antalya.</span>
+<p>Auf der UN-Klimakonferenz im türkischen Antalya sind die Staats- und Regierungschefs aufgetreten — doch mehrere prominente Namen fehlten. UN-Generalsekretär António Guterres nutzte seinen Auftritt für eine unmissverständliche Botschaft: Fossile Brennstoffe müssten wie die Dinosaurier aussterben, sagte er mit Blick auf die Öl- und Gas-Lobby. Sein Fazit: Die Welt sei auf dem Weg in eine garantierte Zerstörung. Türkies Präsident Recep Tayyip Erdoğan warf in seiner Rede den Kriegen vor, die der Natur schwer zusetzten. Auch Brasilien Staatschef Lula beklagte, dass der Klimawandel aus den Reden der Regierungschefs weitgehend verschwunden sei. (Datenstand: Mittwoch, 11.11.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.rfi.fr/en/environment/20261111-un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31" rel="noopener">RFI</a> — <a href="https://www.lematin.ch/story/antonio-guterres-comme-les-dinosaures-les-energies-fossiles-doivent-disparaitre-103665565" rel="noopener">Le Matin</a>.</span>
+</div>
+
+<h2 class="section">Wirtschaft &amp; Finanzen</h2>
+<div class="item" id="artikel-6">
+<h3>EZB-Chefökonom Lane stimmt den Markt auf Zinserhöhung im Dezember ein</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.cash-online.de/a/ezb-zinsentscheid-im-dezember-lane-haelt-erhoehung-fuer-vernuenftig-729984/" rel="noopener">Original lesen</a> — Cash, Berichterstattung zu den Äußerungen Philip Lanes.</span>
+<p>Die Europäische Zentralbank könnte ihre Leitzinsen noch in diesem Jahr erneut anheben: EZB-Chefökonom Philip Lane hielt eine Erhöhung im Dezember für vernünftig und reihte sich damit in die wachsende Zahl der Notenbanker ein, die eine dritte Anhebung 2026 unterstützen. Als Begründung nannte er die gestiegenen Energiepreise, die seit dem Iran-Krieg auf die Teuerung drücken. Der Euro gab am Mittwoch auf 1,1127 Dollar nach. Für Anleger stellt sich die Frage nach dem Kursverlauf deutscher Anleihen und der Auswirkung auf Konjunktur und Kreditkosten in der Eurozone. (Datenstand: Mittwoch, 11.11.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.derstandard.de/story/3000000348416/ezb-chefvolkswirt-stimmt-finanzm228rkte-auf-weitere-zinserh246hung-ein" rel="noopener">derStandard</a> — <a href="https://www.globalbankingandfinance.com/ecb-hike-dec-chief-economist/" rel="noopener">Global Banking &amp; Finance</a>.</span>
+</div>
+<div class="item" id="artikel-7">
+<h3>Gold rutscht unter die 4.000-Dollar-Marke — hawkische Fed-Töne drücken den Edelmetallpreis</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.finanzen.ch/nachrichten/rohstoffe/goldpreis-gaspreis-oelpreis-und-co-im-ueberblick-1036751276" rel="noopener">Original lesen</a> — finanzen.ch, Rohstoff-Marktbericht vom 11.11.2026.</span>
+<p>Der Goldpreis hat die psychologisch wichtige Marke von 4.000 Dollar je Unze gerissen: Rund 3.988 Dollar kostete das Edelmetall am Mittwoch, nachdem es in der Vorwoche noch zeitweise über 4.100 Dollar notiert hatte. Als Belastung nennen Beobachter die Äußerungen mehrerer US-Notenbanker, die einen hawkischen Ton anschlugen und die Erwartung weiterer Straffungen nährten — das drückt auf das zinslose Gold. Zugleich zeigte sich der Rohölmarkt erholt: Der Brent-Preis notierte bei rund 92,60 Dollar. (Datenstand: Mittwoch, 11.11.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://tradingeconomics.com/commodity/gold" rel="noopener">TradingEconomics</a>.</span>
+</div>
+
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #223 &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
