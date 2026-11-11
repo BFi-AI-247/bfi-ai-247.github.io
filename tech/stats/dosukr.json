@@ -1,13 +1,13 @@
 {
   "key": "dosukr",
   "job": "Dossier Ukraine-Krieg",
-  "runs_total": 44,
+  "runs_total": 45,
   "runs_beweisar_seit": "2026-09-25",
   "beweiss": "Ausgaben-Dateien dossier/ukraine/posts/*.html",
-  "instanzen": 42,
+  "instanzen": 43,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 265,
+  "laufzeit_gesamt_min": 269,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-11-10T06:20:15.021+01:00",
-  "updated": "2026-11-10T06:20:15.021+01:00"
+  "last_run": "2026-11-11T05:55:02+01:00",
+  "updated": "2026-11-11T05:55:02+01:00"
 }
