@@ -6,8 +6,90 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:18:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:52:00 +0100</lastBuildDate>
 
+    <item>
+      <title>Keine bestätigten Geländegewinne — ukrainischer Kommandeur: Russland versucht, Saporischschja durch Brücken- und Staudamm-Angriffe zu isolieren</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-1</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Im Datenfenster sind keine unabhängig bestätigten frontalen Geländeveränderungen gemeldet. Ein ukrainischer Kommandeur sagt, russische Kräfte versuchten, Saporischschja durch Angriffe auf Brücken und Staudämme zu isolieren — Partei-Angabe, nicht unabhängig bestätigt. ISW- und MilitaryLand-Lagebewertungen sind verlinkt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-rubio-says-security-guarantees-for-ukraine-must-also-be-acceptable-to-russia/">Kyiv Independent (Tagesübersicht)</r724:quelle>
+      <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russische Nachtangriffe auf zehn Regionen: Zwei Tote, fünf Umspannwerke getroffen — Stromausfälle in sechs Gebieten</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-2</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Nach ukrainischen Regierungsangaben wurden bei russischen Luftangriffen zwei Menschen in Winnyzja getötet; fünf Umspannwerke seien getroffen worden, in sechs Gebieten fiel der Strom aus. Der tagesschau zufolge fehlen der Ukraine zunehmend Abwehrwaffen gegen ballistische Raketen und Düsen-Drohnen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html">tagesschau.de</r724:quelle>
+      <r724:quelle url="https://www.zdfheute.de/politik/ausland/ukraine-verhandlungen-abu-dhabi-selenskyj-bilanz-gefangenenaustausch-100.html">ZDFheute</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukrainischer Gegenschlag: Drohnen treffen Berichten zufolge den Ostsee-Hafen Ust-Luga — nicht unabhängig bestätigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-3</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Monitoring-Kanäle melden ukrainische Drohnentreffer auf den Ostsee-Hafen Ust-Luga in der Oblast Leningrad mit Bränden und Explosionen; weitere Drohnen über mehreren russischen Regionen. Die Angaben sind nicht unabhängig bestätigt. Ust-Luga ist wegen Schattenflotten-Ölexporten sanktioniert.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-reportedly-strikes-ust-luga-baltic-sea-port-as-drones-attack-regions-across-russia/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukraine schlägt Drohnen-Standort am besetzten Flughafen Donezk</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-4</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Die ukrainische 412. Brigade meldet die Zerstörung einer Drohnen-Startplattform am besetzten Flughafen Donezk — eine Partei-Angabe der ukrainischen Seite, die nicht unabhängig bestätigt ist.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-strikes-drone-port-at-occupied-donetsk-airport/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Abu Dhabi: Erster Tag ohne offizielles Ergebnis — großer Gefangenenaustausch offenbar vereinbart, Selenskyj nennt Energie und Schwarzes Meer als Themen des „Haupttags“</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-5</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Die rund viereinhalbstündige erste Runde der trilateralen Gespräche endet ohne offizielles Ergebnis. Ukrainische Medien berichten von einem vereinbarten großen Gefangenenaustausch — offiziell nicht bestätigt, die russische Seite zurückhaltend. Selenskyj hofft auf 1.000 bis 1.500 Gefangene je Seite; der zweite Tag soll um Deeskalation im Energiebereich und im Schwarzen Meer gehen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html">tagesschau.de</r724:quelle>
+      <r724:quelle url="https://www.zdfheute.de/politik/ausland/ukraine-verhandlungen-abu-dhabi-selenskyj-bilanz-gefangenenaustausch-100.html">ZDFheute</r724:quelle>
+      <r724:quelle url="https://www.sn.at/politik/weltpolitik/russland-und-ukraine-verhandeln-in-abu-dhabi-ueber-frieden-art-683013">SN.at</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Streit über EU-Hilfen spitzt sich zu: Fico wirft Merz „Erpressung“ vor — EU-Rechnungshof kritisiert löchrige Sanktionsumsetzung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-6</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Merz fordert mehr Engagement aller EU-Staaten für die Ukraine; Fico wirft ihm „Erpressung“ vor, Slowakei und Tschechien lehnen weitere Beiträge ab. Zeitgleich kritisiert der EU-Rechnungshof die ungleiche Umsetzung der Russland-Sanktionen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.zdfheute.de/politik/ausland/eu-ukraine-finanzierung-streit-fico-merz-100.html">ZDFheute</r724:quelle>
+      <r724:quelle url="https://orf.at/stories/3447825/">ORF (Rechnungshof)</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Polen und Ukraine vereinbaren Drohnen-Kooperation — zwei MiG-29 im Tausch gegen Drohnentechnologie in Finalisierung</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-7</guid>
+      <pubDate>Wed, 11 Nov 2026 06:52:00 +0100</pubDate>
+      <description>Polen und die Ukraine unterzeichnen ein Abkommen über gemeinsame Arbeitsgruppen zu Drohnen- und Anti-Drohnen-Technologien. Die Übergabe zweier polnischer MiG-29 im Gegenzug für ukrainische Drohnentechnologie wird nach Monaten der Verhandlungen finalisiert — Angabe des polnischen Vizenehmungsministers.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/poland-may-transfer-2-mig-29-jets-to-ukraine-in-exchange-for-drone-technology-polish-official-says/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Keine bestätigten Geländegewinne — Analysten sehen Russlands Angriffstempo "von Woche zu Woche" steigen, Rekord-Verluste laut Generalstab</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-1</link>
@@ -350,5 +432,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Russland-will-im-Westen-gestohlene-Autos-zulassen-id31505110.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+  </channel>
+</rss>
   </channel>
 </rss>
