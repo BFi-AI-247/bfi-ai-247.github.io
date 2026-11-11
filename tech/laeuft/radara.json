@@ -3,6 +3,12 @@
   "job": "RadarA",
   "laeufe": [
     {
+      "datum": "2026-11-11",
+      "ist_start": "2026-11-11T18:54:58+01:00",
+      "dauer_min": 9,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-10",
       "ist_start": "2026-11-10T18:51:00+01:00",
       "dauer_min": 15,
@@ -174,24 +180,6 @@
       "datum": "2026-10-10",
       "ist_start": "2026-10-10T18:23:35+02:00",
       "dauer_min": 4,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-09",
-      "ist_start": "2026-10-09T18:39:00+02:00",
-      "dauer_min": 8,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-08",
-      "ist_start": "2026-10-08T19:00:00+02:00",
-      "dauer_min": 4,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-07",
-      "ist_start": "2026-10-07T18:34:02+02:00",
-      "dauer_min": 5,
       "status": "ok"
     }
   ]
