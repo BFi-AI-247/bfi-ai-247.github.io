@@ -6,7 +6,97 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 11 Nov 2026 19:02:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 23:36:00 +0100</lastBuildDate>
+<item>
+<title>Wall Street zum Mittwochsschluss: AI-Handel feiert Comeback — CoreWeave-Rally entfacht den Nasdaq</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-1</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>S&amp;P 500 (+1,31 Prozent auf 7.619,38 Punkte), Dow Jones und Nasdaq schließen klar im Plus. CoreWeave zieht nach Quartalszahlen um rund 25 Prozent an, Nvidia legt 2,87 Prozent zu, Apple erreicht ein Allzeithoch.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"></r724:quelle>
+<r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweaves-25-rally-reignites-the-ai-trade/"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Anthropic legt Preisspanne fest — bis zu 64 Milliarden Dollar Einsprung, Bewertung bis zu 1,4 Billionen</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-2</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>Anthropic nennt in seiner IPO-Einreichung eine Preisspanne von 70 bis 78 Dollar je Aktie. Am oberen Ende ergäbe das eine Bewertung von rund 1,4 Billionen Dollar und einen Kapitalbedarf von bis zu 64 Milliarden Dollar.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"></r724:quelle>
+<r724:quelle url="https://www.euronews.com/business/2026/11/11/anthropic-targets-valuation-of-up-to-14-trillion-for-blockbuster-ipo"></r724:quelle>
+<r724:quelle url="https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Nvidias schlimmste Fünf-Tage-Serie seit 2022 — Börsenwert rutscht von fünf auf vier Billionen Dollar</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-3</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>Nach der Affäre um Chef Jensen Huang ist Nvidias Marktwert von rund fünf auf etwa vier Billionen Dollar geschrumpft. Am Mittwoch erholte sich die Aktie um 2,87 Prozent; Analystenhaus Baird senkte sein Kursziel drastisch.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.at/story/3000000348674/nvidia-aktie-auf-tiefstem-stand-seit-m228rz"></r724:quelle>
+<r724:quelle url="https://247wallst.com/investing/2026/11/11/nvidia-just-had-its-worst-5-days-since-2022-worse-than-the-deepseek-crash/"></r724:quelle>
+<r724:quelle url="https://www.fool.com/investing/2026/11/11/nvidia-stock-just-had-its-price-target-slashed-60-others-still-say-buy-who-s-right/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: US-Sondergesandte zu Putin-Gesprächen in Moskau angekommen — danach Debriefing bei Selenskyj in Dublin</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-4</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>Steve Witkoff und Jared Kushner treffen in Moskau Wladimir Putin, anschließend reisen sie zu Wolodymyr Selenskyj nach Dublin. Aus den Abu-Dhabi-Gesprächen war zuvor der bislang größte Gefangenenaustausch zugesagt worden.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html"></r724:quelle>
+<r724:quelle url="https://www.sn.at/politik/weltpolitik/us-gesandte-besuchen-moskau-und-dublin-art-683489"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/politik/09-56-Russland-verliert-laut-Ukraine-innerhalb-von-24-Stunden-ueber-1500-Soldaten-id30859357.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: COP31-Chefetag mit auffälligen Absenzen — Guterres verlangt Ende der fossilen Brennstoffe</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-5</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>Auf dem Chefetag der Klimakonferenz in Antalya fehlen mehrere prominente Staatschefs. UN-Generalsekretär Guterres sagte, fossile Brennstoffe müssten wie die Dinosaurier aussterben; Erdoğan warf den Kriegen schwere Schäden für die Natur vor.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.at/story/3000000348807/cop31-uno-chef-warnt-sind-auf-dem-weg-der-garantierten-zerst246rung"></r724:quelle>
+<r724:quelle url="https://www.rfi.fr/en/environment/20261111-un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31"></r724:quelle>
+<r724:quelle url="https://www.lematin.ch/story/antonio-guterres-comme-les-dinosaures-les-energies-fossiles-doivent-disparaitre-103665565"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>EZB-Chefökonom Lane stimmt den Markt auf Zinserhöhung im Dezember ein</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-6</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>EZB-Chefökonom Philip Lane hält eine Leitzinserhöhung im Dezember für vernünftig. Als Grund nennt er die seit dem Iran-Krieg gestiegenen Energiepreise, die auf die Teuerung drücken.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cash-online.de/a/ezb-zinsentscheid-im-dezember-lane-haelt-erhoehung-fuer-vernuenftig-729984/"></r724:quelle>
+<r724:quelle url="https://www.derstandard.de/story/3000000348416/ezb-chefvolkswirt-stimmt-finanzm228rkte-auf-weitere-zinserh246hung-ein"></r724:quelle>
+<r724:quelle url="https://www.globalbankingandfinance.com/ecb-hike-dec-chief-economist/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Gold rutscht unter die 4.000-Dollar-Marke — hawkische Fed-Töne drücken den Edelmetallpreis</title>
+<link>https://radar724.de/posts/2026-11-11-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-nachts.html#artikel-7</guid>
+<pubDate>Wed, 11 Nov 2026 23:36:00 +0100</pubDate>
+<description>Rund 3.988 Dollar kostete eine Unze Gold am Mittwoch, nachdem der Preis in der Vorwoche noch über 4.100 Dollar notierte. Hawkische Äußerungen mehrerer US-Notenbanker nähren Erwartungen weiterer Straffungen.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.finanzen.ch/nachrichten/rohstoffe/goldpreis-gaspreis-oelpreis-und-co-im-ueberblick-1036751276"></r724:quelle>
+<r724:quelle url="https://tradingeconomics.com/commodity/gold"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: Ukraine-Gespräche in Abu Dhabi enden mit Zusage eines großen Gefangenenaustauschs</title>
 <link>https://radar724.de/posts/2026-11-11-abends.html#artikel-1</link>
@@ -544,92 +634,5 @@
 <r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-affaere-china-spionage"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Anthropic stellt Claude Fable 5.2 und Claude Mythos 5.2 vor — eine Woche vor dem Börsengang</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-3</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Anthropic veröffentlicht zwei überarbeitete Claude-Modelle, die rund 30 Prozent schneller sein und 20 Prozent weniger kosten sollen. Der Börsengang des Unternehmens steht bevor.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"></r724:quelle>
-<r724:quelle url="https://finance.yahoo.com/technology/ai/articles/anthropic-launches-fable-5-2-193609974.html"></r724:quelle>
-<r724:quelle url="https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Telekom baut Münchner „KI-Fabrik“ auf 20 Megawatt aus</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-4</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Die Deutsche Telekom erweitert ihre KI-Fabrik in München für knapp eine Viertelmilliarde Euro auf 20 Megawatt und rüstet auf Nvidias Blackwell Ultra um.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/11/ki-nachfrage-steigt-telekom-erweitert-ki-fabrik-in-muenchen"></r724:quelle>
-<r724:quelle url="https://www.computerbase.de/news/prozessoren/telekom-x-nvidia-ki-fabrik-wird-mit-blackwell-ultra-auf-20-megawatt-erweitert.100241/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>COP31 in Antalya gestartet — erster Tag, erster Konflikt um Klimafinanzierung</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-5</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Die UN-Klimakonferenz COP31 ist in Antalya eröffnet worden, geleitet von der Türkei und Australien. Erster Streitpunkt ist die Klimafinanzierung für ärmere Staaten.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/cop-136.html"></r724:quelle>
-<r724:quelle url="https://news.un.org/en/story/2026/11/1168763"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>„Koalicja 2026“: Ukraine-Truppe übt erstmals in Polen — auch Bundeswehr dabei</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-6</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Rund 2.800 Soldatinnen und Soldaten aus elf Ländern üben bis zum 22. November in Polen, darunter die Bundeswehr. Geübt werden Verlegung, Ostflanken-Verteidigung und Zusammenarbeit.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/multinationale-ukraine-truppe-manoever-koalicja-26-2-polen-bundeswehr"></r724:quelle>
-<r724:quelle url="https://de.euronews.com/2026/11/03/ukraine-truppe-europaeische-soldaten-proben-polen"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Möglicher neuer Zwergplanet: Objekt 2026 ED138 am Rand des Sonnensystems entdeckt</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-7</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Am äußeren Rand des Sonnensystems wurde ein Objekt entdeckt, das die Kriterien eines Zwergplaneten erfüllen könnte. Weitere Beobachtungen sollen Größe und Bahn bestätigen.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html"></r724:quelle>
-<r724:quelle url="https://www.wissenschaft.de/artikel/neuer-zwergplanet-im-sonnensystem-entdeckt/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>BepiColombo erreicht Ende November den Merkur</title>
-<link>https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html#artikel-8</guid>
-<pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
-<description>Die ESA-JAXA-Sonde BepiColombo wird Ende November in eine Merkur-Umlaufbahn einschwenken. Nach jahrelanger Reise beginnt damit die wissenschaftliche Mission.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.dlr.de/de/wr/forschung-transfer/projekte/planetenforschung/bepicolombo-1"></r724:quelle>
-<r724:quelle url="https://www.esa.int/es/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Ukraine-Gespräche in Abu Dhabi beginnen — Europäer doch mit am Tisch</title>
-<link>https://radar724.de/posts/2026-11-10-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html#artikel-1</guid>
-<pubDate>Tue, 10 Nov 2026 06:50:00 +0100</pubDate>
-<description>In Abu Dhabi verhandeln Unterhändler Russlands und der Ukraine unter US-Vermittlung zwei Tage lang über ein Ende des Krieges. Frankreichs Außenminister Barrot und die EU-Kommission kündigen eine Teilnahme der Europäer an; Trump bringt im CBS-Interview veränderte Grenzen der Ukraine ins Spiel.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html"></r724:quelle>
-<r724:quelle url="https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"></r724:quelle>
-<r724:quelle url="https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-</channel>
+  </channel>
 </rss>
