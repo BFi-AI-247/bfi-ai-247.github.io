@@ -6,8 +6,94 @@
     <atom:link href="https://radar724.de/idstein/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für Idstein (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:02:00 +0100</lastBuildDate>
-                <item>
+    <lastBuildDate>Wed, 11 Nov 2026 04:58:00 +0100</lastBuildDate>
+        <item>
+          <title>Update: Starkregenvorsorgekonzept — Infoabend mit Bürgerversammlung am Donnerstag in der Stadthalle</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-1</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-1</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Am Donnerstag, 12. November, stellt die Hochschulstadt Idstein ihr Starkregenvorsorgekonzept in der Stadthalle vor und schließt eine Bürgerversammlung an. Themen sind Regenwasser-Wege, Rückhalteflächen und schutzbedürftige Straßenzüge — bei dem Regenwetter der Woche das Thema der Stadt.</description>
+          <category>Meldung des Tages</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Presseinformation vom 06.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>Stadt öffnet erneut Mietzuschuss — Förderprogramm „Zukunft Innenstadt" richtet sich auch an Gründer</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-2</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-2</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Die Stadt Idstein eröffnet erneut einen Mietzuschuss aus dem Förderprogramm „Zukunft Innenstadt" — unter anderem für Gründerinnen und Gründer. Antragsfristen und Bedingungen veröffentlicht die Stadtverwaltung in ihren Presseinformationen.</description>
+          <category>Aus dem Rathaus</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Presseinformation</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>Update: Notwendige Fällungen auf dem Idsteiner Friedhof</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-3</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-3</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Die Stadt Idstein teilt notwendige Fällungen auf dem Friedhof mit. Hintergrund und Umfang nennt die Pressemitteilung vom 09. November; betroffene Angehörige finden die Einzelheiten bei der Stadtverwaltung.</description>
+          <category>Aus dem Rathaus</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Pressemitteilung vom 09.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>POL-RTK meldet: Einbruch am Vorderlenzen — Ermittlungen laufen weiter</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-4</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-4</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Unbekannte brachen am 4. November in ein Einfamilienhaus Am Vorderlenzen in Idstein ein; im selben Bericht ist die Entwendung eines E-Scooters aufgeführt. Die Polizei bittet weiter um Hinweise.</description>
+          <category>Blaulicht</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6384826">POL-RTK via Presseportal, Meldung vom 05.11.2026</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>Kröfteler Woche: Entsorgung morgen, SG-Heimspiel am Freitag, Volkstrauertag am Sonntag</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-5</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-5</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>In Kröftel stehen morgen Entsorgungstermine an, am Freitag spielt die SG Kröftel 1973 ein Bezirksliga-Heimspiel. Am Volkstrauertag legt der Ortsbeirat einen Kranz nieder, am 20. November folgt der Spritzenhaus-Abend des Heimatvereins.</description>
+          <category>Termine heute</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://kroeftel.de/">kroeftel.de (DIE.NEWS Kröftel), Veranstaltungskalender, selbst publiziert</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>HessentagTelefon geschaltet — und Heftrich weist auf seine Info-Kanäle hin</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-6</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-6</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Das HessentagTelefon ist unter 06126 78-910 die offizielle Anlaufstelle für Bürgerfragen zum Hessentag 2027. Der Ortsbeirat Heftrich weist zudem auf seine Info-Kanäle hin und plant die Volkstrauertags-Beteiligung.</description>
+          <category>Vereine &amp; Ehrenamt</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">hessentag-idstein.de, offizielle Hessentag-Site</r724:quelle>
+          <r724:quelle url="https://heftrich-online.de/">heftrich-online.de, Ortsbeirat Heftrich, selbst publiziert</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+        <item>
+          <title>TVI-Handballer patzen nach der Gala — nächste Chance am Samstag gegen HSG EppLa</title>
+          <link>https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-7</link>
+          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-11-morgens.html#artikel-7</guid>
+          <pubDate>Wed, 11 Nov 2026 04:58:00 +0100</pubDate>
+          <description>Nach dem ausverkauften Benefiz-Wochenende verloren die TVI-Damen bei der HSG Wiesbaden mit 20:27; auch Herren 1 und Herren 2 patzten. Am Samstag, 14. November, empfangen die Damen die HSG EppLa in der Hexenturmhalle.</description>
+          <category>Sport</category>
+          <category>Idstein</category>
+          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
+          <r724:quelle url="https://www.tv1844idstein.de/handball/">TV 1844 Idstein, Vereinsnachricht vom 09.11.2026</r724:quelle>
+          <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">hessenschau.de, Oberliga Mitte (Team-ID 1746)</r724:quelle>
+          <r724:ki>true</r724:ki>
+        </item>
+<item>
           <title>Stadt öffnet erneut Mietzuschuss — Förderprogramm „Zukunft Innenstadt" richtet sich auch an Gründer</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-1</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-1</guid>
@@ -19,7 +105,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Presseinformation vom 09.11.2026</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Notwendige Fällungen auf dem Idsteiner Friedhof</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-2</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-2</guid>
@@ -31,7 +118,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Pressemitteilung vom 09.11.2026</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>POL-RTK meldet: Auseinandersetzung mit Pfefferspray in der Wiesbadener Straße</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-3</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-3</guid>
@@ -43,7 +131,8 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6387044">POL-RTK via Presseportal, Meldung vom 09.11.2026</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Update: EAW-Wertstoffhöfe am 10. November geschlossen</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-4</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-4</guid>
@@ -55,7 +144,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Stadt Idstein, Hinweis vom 09.11.2026; Rheingau-Taunus-Kreis</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Kröfteler Woche: Feuerwehr übt heute, SG-Heimspiel am Freitag, Volkstrauertag am Sonntag</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-5</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-5</guid>
@@ -67,7 +157,8 @@
           <r724:quelle url="https://kroeftel.de/">kroeftel.de (DIE.NEWS Kröftel), selbst publiziert</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>TV 1844 Idstein: Indoor Cycling startet am 16. November</title>
           <link>https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-6</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-10-morgens.html#artikel-6</guid>
@@ -79,6 +170,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">TV 1844 Idstein, Abteilungs-News, selbst publiziert</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Starkregenvorsorgekonzept: Infoabend mit Bürgerversammlung am Donnerstag in der Stadthalle</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-1</link>
@@ -91,7 +183,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">www.idstein.de/rathaus-politik/aktuelles/presseinformationen</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Kostenlose Energieberatung für vermietete Mehrfamilienhäuser — Kampagne startet im November</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-2</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-2</guid>
@@ -103,7 +196,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">www.idstein.de/rathaus-politik/aktuelles/presseinformationen</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>POL-RTK meldet Kellerbrand in Mehrfamilienhaus — Verkehrskontrollen bei der Polizeistation Idstein</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-3</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-3</guid>
@@ -115,7 +209,8 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/r/Idstein">www.presseportal.de/blaulicht/r/Idstein</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Wertstoffhöfe des EAW am Dienstag geschlossen</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-4</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-4</guid>
@@ -127,7 +222,8 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">www.idstein.de/rathaus-politik/aktuelles/presseinformationen</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>Indoor Cycling beim TVI — und Bundesliga-Schießsport in Dasbach am 28./29. November</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-5</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-5</guid>
@@ -139,7 +235,8 @@
           <r724:quelle url="https://www.tv1844idstein.de/">www.tv1844idstein.de</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-        <item>
+        
+<item>
           <title>TVI-Damen bleiben in Wiesbaden ohne Punkt — Heimspiel am 14.11. gegen HSG EppLa</title>
           <link>https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-6</link>
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-09-morgens.html#artikel-6</guid>
@@ -151,6 +248,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Hessentag-Infoabend: Über 1.100 Interessierte — Stadt stellt Veranstaltungsbereiche vor</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-1</link>
@@ -163,6 +261,7 @@
           <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Starkregenvorsorgekonzept — Infoabend am Donnerstag in der Stadthalle</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-2</link>
@@ -175,6 +274,7 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Einbruch am Vorderlenzen — Polizei bittet weiter um Hinweise</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-3</link>
@@ -187,6 +287,7 @@
           <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Damen heute in Wiesbaden gefordert — Anpfiff um 16:30 Uhr</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-4</link>
@@ -199,6 +300,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Kröftel — Jubiläumsartikel nachgeordert, Reste noch erhältlich</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-5</link>
@@ -211,6 +313,7 @@
           <r724:quelle url="https://kroeftel.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Ausverkauftes Benefizspiel, Punktjagd in Wiesbaden — der Handball-Herbst am Hexenturm</title>
           <link>https://radar724.de/idstein/posts/2026-11-08-morgens.html#artikel-6</link>
@@ -224,6 +327,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Stadt stellt Starkregenvorsorgekonzept vor — Infoabend am 12. November</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-1</link>
@@ -236,6 +340,7 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: HessentagTelefon läuft — Projektbüro wirbt um Anrufe</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-2</link>
@@ -248,6 +353,7 @@
           <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Einbruch im Feuerwehrhaus Heftrich — 14 Heizkörper entwendet</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-3</link>
@@ -260,6 +366,7 @@
           <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Einbruch am Vorderlenzen — Polizei ermittelt weiter</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-4</link>
@@ -272,6 +379,7 @@
           <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Benefizspiel am Hexenturm: TVI-Handballer gegen HSG Wetzlar — ausverkauft</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-5</link>
@@ -284,6 +392,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Novemberwanderung am 7. November entfallen</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-6</link>
@@ -296,6 +405,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Verein der Hessentagspaare hält Jahreshauptversammlung in Idstein</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-7</link>
@@ -308,6 +418,7 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Bundesliga im Schießsport: Dasbach richtet Wettkampf am 28./29. November aus</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-8</link>
@@ -320,6 +431,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Damen am Sonntag auswärts bei der HSG Wiesbaden</title>
           <link>https://radar724.de/idstein/posts/2026-11-07-morgens.html#artikel-9</link>
@@ -332,6 +444,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>HessentagArena am Zissenbach eröffnet mit Take That</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-1</link>
@@ -344,6 +457,7 @@
           <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>HessentagTelefon ab sofort geschaltet</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-2</link>
@@ -356,6 +470,7 @@
           <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Kreisverwaltung am 10. November ganztags geschlossen</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-3</link>
@@ -368,6 +483,7 @@
           <r724:quelle url="https://www.rheingau-taunus.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Einbruch in Einfamilienhaus am Vorderlenzen — Polizei sucht Zeugen</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-4</link>
@@ -380,6 +496,7 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Diebstähle aus Fahrzeugen in Wörsdorf — Fall bleibt aktuell</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-5</link>
@@ -392,6 +509,7 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Benefizspiel am Hexenturm: TVI-Handballer empfangen die HSG Wetzlar</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-6</link>
@@ -404,6 +522,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Neuigkeiten: Wanderung fällt aus, Indoor Cycling bringt den November in Bewegung</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-7</link>
@@ -416,6 +535,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Handball-Wochenende: Benefizspiel heute, Damen auswärts am Sonntag</title>
           <link>https://radar724.de/idstein/posts/2026-11-06-morgens.html#artikel-8</link>
@@ -429,6 +549,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Rund 50 Unternehmerinnen und Unternehmer bei Serviceware: Idstein als Treffpunkt für Wirtschaft und Wissenschaft</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-1</link>
@@ -441,6 +562,7 @@
           <r724:quelle url="https://www.rheingau-taunus.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Hessentag 2027 — Take That bleibt die Main-Act-Schlagzeile, Infoabend ist über die Bühne</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-2</link>
@@ -453,6 +575,7 @@
           <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Diebstähle aus Fahrzeugen in Wörsdorf — Polizei bittet weiter um Hinweise</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-3</link>
@@ -465,6 +588,7 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6381757">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Einbruch bei der Feuerwehr Heftrich — 14 Heizkörper gestohlen, Ermittlungen laufen</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-4</link>
@@ -477,6 +601,7 @@
           <r724:quelle url="https://www.presseportal.de/blaulicht/pm/47764/6380255">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Ruhiger Donnerstag — das Wochenende bringt Benefizspiel und Auswärtsspiel</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-5</link>
@@ -490,6 +615,7 @@
           <r724:quelle url="https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-126~team_id-1746.html">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Neuigkeiten: November-Wanderung fällt aus, Indoor Cycling lockt ins Warme</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-6</link>
@@ -502,6 +628,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>TVI-Damen weiter gefordert: Auswärtsaufgabe bei der HSG Wiesbaden steht an</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-7</link>
@@ -515,6 +642,7 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
+
 <item>
           <title>Update: Bundesliga-Schießsport im Stadtteil Dasbach — Termin fürs Auge merken</title>
           <link>https://radar724.de/idstein/posts/2026-11-05-morgens.html#artikel-8</link>
@@ -527,92 +655,6 @@
           <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-<item>
-          <title>Benefizspiel am Hexenturm: Bundesligist HSG Wetzlar gastiert am Freitag in Idstein</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-1</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-1</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Der TV 1844 Idstein empfängt am 6. November die HSG Wetzlar zum Benefizspiel — Oberligist gegen Bundesligist im Hexenturm. Parallel öffnet ein Spielzeug-Flohmarkt am Himmelsbornweg.</description>
-          <category>Meldung des Tages</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Heute Abend: Hessentag-Infoabend für die Innenstadt, 19 Uhr, Stadthalle</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-2</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-2</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Die Stadt lädt Anwohnerinnen, Anwohner und Gewerbetreibende der Innenstadt heute um 19 Uhr in die Stadthalle ein — Thema sind die Planungen zum Hessentag 2027.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Verein der Hessentagspaare kam zur Jahreshauptversammlung nach Idstein</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-3</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-3</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Der Verein der Hessentagspaare hat in Idstein seine Jahreshauptversammlung gehalten und das Idsteiner Paar in seine Mitte aufgenommen.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Update: Energieberatung für vermietete Mehrfamilienhäuser startet im November</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-4</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-4</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Eigentümer vermieteter Mehrfamilienhäuser in Idstein können laut Stadt eine kostenlose Energieberatung in Anspruch nehmen — das Angebot ist unverändert gültig.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Songrevue eröffnet die Theatersaison 2026/27 in der Idsteiner Stadthalle</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-5</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-5</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Mit einer mitreißenden Songrevue ist die Theatersaison 2026/27 in der Stadthalle eröffnet worden, teilt die Stadtverwaltung mit.</description>
-          <category>Aus dem Rathaus</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.idstein.de/rathaus-politik/aktuelles/presseinformationen/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Mittwoch mit Infoabend und Boule — das Wochenende schon im Blick</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-6</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-6</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Heute: Hessentag-Infoabend (19 Uhr, Stadthalle) und Boule am Himmelsbornweg. Freitag folgt das Benefizspiel gegen Wetzlar, Sonntag die TVI-Damen in Wiesbaden.</description>
-          <category>Termine heute</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.hessentag-idstein.de/aktuelles/">Originalquelle</r724:quelle>
-          <r724:quelle url="https://www.tv1844idstein.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-<item>
-          <title>Stadtteile: Kröfteler Jubiläumsartikel nachbestellt — Heftricher Ortsbeirat auch per eMail erreichbar</title>
-          <link>https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-7</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-04-morgens.html#artikel-7</guid>
-          <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
-          <description>Der Kröfteler Heimatverein hat Jubiläumsartikel nachbestellt, Reste sind erhältlich. Der Ortsbeirat Heftrich ist auch per eMail erreichbar.</description>
-          <category>Vereine &amp; Ehrenamt</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://kroeftel.de/">Originalquelle</r724:quelle>
-          <r724:quelle url="https://heftrich-online.de/">Originalquelle</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
+
   </channel>
 </rss>
