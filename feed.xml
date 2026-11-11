@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 11 Nov 2026 06:28:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:06:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #221 — Deutschland rutscht im Klima-Ranking auf Platz 22 ab — Nvidia-Aktie gibt weiter nach — Israels neue Knesset nimmt ihre Arbeit auf</title>
+<link>https://radar724.de/posts/2026-11-11-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-mittags.html</guid>
+<pubDate>Wed, 11 Nov 2026 12:06:00 +0100</pubDate>
+<description>Mittwoch, 11. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 12:06 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #220 — Update: Anthropic peilt zweitgrößten Börsengang der Geschichte an — Aktionäre reichen Sammelklage gegen Nvidia-Chef Huang ein — EU-Streit um Ukraine-Milliarden überschattet Gipfelwoche in Dublin</title>
 <link>https://radar724.de/posts/2026-11-11-morgens.html</link>
@@ -104,13 +111,6 @@
 <guid>https://radar724.de/posts/2026-11-07-nachts.html</guid>
 <pubDate>Sat, 07 Nov 2026 23:59:00 +0100</pubDate>
 <description>Samstag, 07 November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:59 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Trump ersetzt Stabschefin Wiles durch Hardliner Miller — Update: Union und SPD einigen sich auf Ilse Aigner — Rekordinvestitionen in deutsche Rechenzentren</title>
-<link>https://radar724.de/posts/2026-11-07-abends.html</link>
-<guid>https://radar724.de/posts/2026-11-07-abends.html</guid>
-<pubDate>Sat, 07 Nov 2026 18:52:00 +0100</pubDate>
-<description>Samstag, 07 November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:52 Uhr (Europe/Berlin)</description>
 </item>
 
 </channel>
