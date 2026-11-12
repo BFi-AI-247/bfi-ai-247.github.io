@@ -6,7 +6,116 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 12 Nov 2026 06:16:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:39:35 +0100</lastBuildDate>
+<item>
+<title>Update: Nach Abu Dhabi — US-Vermittler bringen Gesprächsergebnisse nach Moskau, großangelegter Gefangenenaustausch zugesagt</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-1</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Die ersten direkten Gespräche der Kriegsparteien seit Februar endeten mit der Zusage eines großangelegten Gefangenenaustauschs und vier Grundsätzen für weitere Verhandlungen. US-Unterhändler reisen nun mit den Ergebnissen nach Moskau.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html"></r724:quelle>
+<r724:quelle url="https://orf.at/stories/3447922/"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/politik/18-49-Machtgleichgewicht-Selenskyj-rechnet-nach-Midterms-mit-mehr-US-Hilfe-id30859357.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>15. Integrationsbericht: Integration in Deutschland „so erfolgreich wie nie“</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-2</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Der Bericht der Bundesregierung zeigt einen verdoppelten Hochschulabschluss-Anteil bei jungen Menschen mit Migrationsgeschichte und starke Zuwächse am Arbeitsmarkt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/integrationsbericht-kabinett-2459076"></r724:quelle>
+<r724:quelle url="https://www.integrationsbeauftragte.de/service/presse/pressemitteilungen-und-zitate/staatsministerin-natalie-pawlik-zum-15-integrationsbericht"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>NOAA setzt KI-Modelle für Hurrikan-Vorhersagen ein — Google DeepMind öffnet WeatherNext</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-3</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Das US-Hurrikanzentrum nutzt das KI-Modell WeatherNext, das Zyklonen teils eine Woche früher erkennt; DeepMind hat es als Open Source freigegeben.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.weather.gov/news/261102-AI-Hurricane-Forecasting"></r724:quelle>
+<r724:quelle url="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Nvidia-Aktie legt um rund 3,8 Prozent zu — CoreWeave-Ausblick entfacht neue Chip-Rally</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-4</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>CoreWeaves hoher Umsatz-Ausblick von 13,3 Milliarden Dollar hat Nvidia um rund 3,8 Prozent steigen lassen und den Chip-Sektor belebt.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"></r724:quelle>
+<r724:quelle url="https://finance.yahoo.com/technology/ai/articles/nvidia-backed-coreweave-surging-means-223603255.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>UN-Klimakonferenz in Antalya: Staatschefs fordern Taten statt Absichtserklärungen</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-5</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Beim Leaders’ Summit der COP31 in Antalya forderten gut hundert Staatschefs die Umsetzung bestehender Zusagen; Klimafinanzierung und Methan-Reduktion dominieren.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action"></r724:quelle>
+<r724:quelle url="https://www.straitstimes.com/world/world-leaders-speak-at-cop31-climate-conference"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Oberverwaltungsgericht weist Eilanträge gegen Brennelemente-Fabrik in Lingen ab</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-6</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Das OVG Niedersachsen ließ die Erweiterung der Brennelementefabrik in Lingen zu; Manipulations- und Sabotagerisiko sei von den Klägern nicht hinreichend eingegrenzt worden.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/regional/niedersachsen/lingen-eilantrag-gegen-brennelemente-fabrik-abgelehnt,brennstaebe-100.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>DAX knackt erstmals die 27.000-Punkte-Marke — Siemens treibt die Rally</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-7</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Der DAX stand erstmals über 27.000 Punkten (Hoch: 27.001,67), rutschte danach wieder darunter; Siemens war einer der wichtigsten Treiber.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101525244/dax-heute-auf-rekordhoch-siemens-aktie-treibt-boersenrally.html"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/news/2026-11/12/dax-erstmals-ueber-27-000-punkten"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Tarifrunde Metall — IG-Metall-Bezirke beantragen 24-Stunden-Warnstreiks, Vorstand entscheidet heute</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-8</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Mehrere IG-Metall-Bezirke, darunter NRW, haben ganztägige Warnstreiks beantragt; der Vorstand berät am Donnerstag darüber.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://nordrhein-westfalen.igmetall.de/Tarif/metall-und-elektroindustrie.html"></r724:quelle>
+<r724:quelle url="https://www.mainpost.de/wirtschaft/tarifkonflikt-metallindustrie-bezirke-der-ig-metall-wollen-ganztaegige-warnstreiks-115674950"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Tourismus-Rekord: 389,8 Millionen Übernachtungen bis September — so viele wie nie zuvor</title>
+<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-9</guid>
+<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
+<description>Destatis meldet 389,8 Millionen Übernachtungen von Januar bis September; im September stiegen die Übernachtungen um 0,8 Prozent auf 48,9 Millionen.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.firmenpresse.de/pressinfo2285440-tourismus-in-deutschland-im-september-2026-0-8-mehr-bernachtungen-als-im-vorjahresmonat.html"></r724:quelle>
+<r724:quelle url="https://statistiken-aktuell.de/tourismus-september-2026-datenmonitor/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Spanische Recherche: TikTok ließ über 1.000 Videos mit Kindesmissbrauch stehen — 48 Millionen Aufrufe, nur jedes zehntes gelöscht</title>
 <link>https://radar724.de/posts/2026-11-12-morgens.html#artikel-1</link>
@@ -525,118 +634,5 @@
 <r724:quelle url="https://media.un.org/unifeed/en/asset/d368/d3684706"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Ägypten: Mada-Masr-Chefredakteurin Attalah wehrt sich vor Neuverhandlung — „Wir sind nicht das Problem“</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-3</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Ein Gericht hatte Ende Oktober die Schließung des unabhängigen Portals Mada Masr und eine Geldstrafe von drei Millionen ägyptischen Pfund angeordnet; am Mittwoch wird ein in Abwesenheit ergangenes Urteil über ein Jahr Haft neu verhandelt. Im AP-Gespräch sagte Chefredakteurin Lina Attalah: „Wir sind nicht das Problem. Ich denke, unser Verschwinden ist ein Problem.“</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://apnews.com/article/egypt-mada-masr-lina-attalah-press-freedom-df2669732f84c109426585f82e2ac4c1"></r724:quelle>
-<r724:quelle url="https://cpj.org/2026/11/how-egypts-laws-are-used-to-choke-its-independent-press/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Chinas Handelsüberschuss knackt erneut die Billionen-Schwelle — Exporte legen um mehr als ein Drittel zu</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-4</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Chinas Handelsüberschuss ist in diesem Jahr erneut über die Marke von einer Billion Dollar geklettert. Im Oktober stiegen die Exporte um 35,2 Prozent auf rund 412 Milliarden Dollar, die Importe um 41,6 Prozent. Mit der EU fuhr Peking von Januar bis Oktober einen Überschuss von rund 310 Milliarden Dollar ein; Trump und Xi treffen sich Mitte November am Rande des APEC-Gipfels.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html"></r724:quelle>
-<r724:quelle url="https://www.finanzen.net/nachricht/aktien/roundup-chinas-handelsueberschuss-knackt-erneut-die-billion-schwelle-16052158"></r724:quelle>
-<r724:quelle url="https://de.euronews.com/2026/11/10/china-handelsuberschuss-uber-1-billion-dollar-ki-boom-treibt-exporte"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Infineon meldet Rekordjahr mit kräftigem Gewinnplus — und peilt 20-Milliarden-Umsatz an</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-5</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Der Münchener Halbleiterkonzern Infineon hat sein Geschäftsjahr 2026 mit Rekordwerten abgeschlossen: Der Umsatz stieg um zwölf Prozent auf rund 16,4 Milliarden Euro, der Gewinn nach Steuern um die Hälfte auf rund 1,5 Milliarden Euro. Für das kommende Geschäftsjahr kündigt der Konzern Umsatz von rund 20 Milliarden Euro an.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.infineon.com/press-release/2026/infpr202611-025"></r724:quelle>
-<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169468096"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Global Carbon Budget 2026: Fossile CO2-Emissionen sinken erstmals — doch das 1,5-Grad-Budget schrumpft weiter</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-6</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Die globalen fossilen CO2-Emissionen sind im Jahr 2026 erstmals gesunken — um 0,4 Prozent auf rund 38,2 Milliarden Tonnen, wie das Global Carbon Budget berichtet. Der Gesamtausstoß inklusive Landnutzung steigt jedoch weiter um etwa 0,5 Prozent auf rund 43,3 Milliarden Tonnen. Das verbleibende CO2-Budget für die 1,5-Grad-Grenze ist im aktuellen Tempo in rund vier Jahren aufgebraucht.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/"></r724:quelle>
-<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261109205358.htm"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Polarwirbel schwächelt so früh wie nie — Meteorologen starren auf einen ungewissen Winter</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-nachts.html#artikel-7</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Der Polarwirbel über der Arktis schwächt sich bereits Anfang November ab — so früh wie nie seit Beginn der Aufzeichnungen in den 1950er-Jahren. Der britische Wetterdienst Met Office hält das Ereignis für außergewöhnlich und einzigartig, aber nicht zwingend beunruhigend; ein Zusammenhang mit dem außergewöhnlich starken El Niño gilt als möglich. Die Folgen für den Winter auf der Nordhalbkugel sind offen.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/06/fruhe-schwachung-des-polarwirbels-erhoht-risiko-fur-kaltewellen-in-europa-nordamerika-und"></r724:quelle>
-<r724:quelle url="https://www.n-tv.de/panorama/Polarwirbel-und-El-Nino-bringen-Wetter-durcheinander-id31495173.html"></r724:quelle>
-<r724:quelle url="https://www.science.lu/de/fruehe-stoerung-des-polarwirbels-einzigartig-aber-nicht-unbedingt-besorgniserregend"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Erster Verhandlungstag in Abu Dhabi ohne Durchbruch — Gespräche gehen am Mittwoch weiter</title>
-<link>https://radar724.de/posts/2026-11-10-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-1</guid>
-<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
-<description>In Abu Dhabi haben die USA, Russland und die Ukraine erstmals seit Februar wieder im Dreierformat verhandelt. Rund vier Stunden traf man sich unter US-Vermittlung; ein Durchbruch blieb aus, die Gespräche gehen am Mittwoch weiter. Im Zentrum stehen Sicherheitsgarantien, das Schwarze Meer und die Energieinfrastruktur.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Selenskyj in Kopenhagen: Dänemark sagt der Ukraine weitere 642 Millionen Euro Militärhilfe zu</title>
-<link>https://radar724.de/posts/2026-11-10-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-2</guid>
-<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
-<description>Während in Abu Dhabi verhandelt wurde, sprach Selenskyj in Kopenhagen mit den Nordics über Sicherheitsfragen. Dänemark kündigte sein 32. Hilfspaket an: rund 642 Millionen Euro für Militärzwecke. Etwa 20 Millionen Euro fließen zusätzlich in den ukrainischen Energiesektor.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/ticker/Daenemark-sagt-Ukraine-weitere-Militaerhilfen-von-642-Millionen-Euro-zu-id31516272.html"></r724:quelle>
-<r724:quelle url="https://www.euronews.com/2026/11/10/denmark-pledges-643-million-in-military-aid-as-zelenskyy-meets-nordic-leaders"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Israel: Neue Knesset konstituiert sich — Netanjahu ohne Mehrheit, Eisenkot erhält Regierungsauftrag</title>
-<link>https://radar724.de/posts/2026-11-10-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-3</guid>
-<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
-<description>Die 120 Abgeordneten der neuen Knesset sind vereidigt worden. Netanjahu verfügt über keine Mehrheit mehr; Präsident Herzog hat Gadi Eisenkot mit der Regierungsbildung betraut. Dafür hat er 28 Tage Zeit.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/israel-knesset-parlamentswahl-gadi-eisenkot-izchak-herzog-gxe"></r724:quelle>
-<r724:quelle url="https://www.al-monitor.com/originals/2026/11/new-israeli-parliament-take-aim-netanyahu-eisenkot-seeks-government"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Erdogans Öl-Poker überschattet Klimakonferenz in Antalya</title>
-<link>https://radar724.de/posts/2026-11-10-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html#artikel-4</guid>
-<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
-<description>Zum Auftakt von COP31 kündigt Gastgeber Erdogan den weiteren Ausbau der Ölförderung am Feld Gabar an. Klimaschützer sprechen von fossiler Ignoranz, der EU-Kommissar dämpft die Gipfelerwartungen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/ticker/Erdogan-kuendigt-Ausbau-der-Oelfoerderung-in-der-Tuerkei-an-id31515725.html"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/ausland/cop-136.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-
   </channel>
 </rss>
