@@ -3,6 +3,12 @@
   "job": "Hexen",
   "laeufe": [
     {
+      "datum": "2026-11-12",
+      "ist_start": "2026-11-12T06:30:20+01:00",
+      "dauer_min": 3,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-11",
       "ist_start": "2026-11-11T05:56:27+01:00",
       "dauer_min": 3,
