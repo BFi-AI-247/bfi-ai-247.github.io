@@ -6,9 +6,59 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:26:00 +0100</lastBuildDate>
 
+        <item>
+      <title>Kämpfe laufen parallel zu den Verhandlungen weiter: Jet-Drohne tötet drei Menschen auf einem Markt in Tschornomorsk — Nachtangriffe auf Saporischschja und Charkiw</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-1</guid>
+      <pubDate>Thu, 12 Nov 2026 06:26:00 +0100</pubDate>
+      <description>Im Datenfenster sind keine unabhängig bestätigten frontalen Geländeveränderungen gemeldet; ISW- und MilitaryLand-Lagebewertungen sind verlinkt. Eine russische Drohne mit Düsenantrieb traf laut Regionalverwaltung Odessa einen belebten Markt in Tschornomorsk: drei Tote, elf Verletzte. Ukrainische Behörden melden zudem Nachtangriffe auf die Region Saporischschja und die Stadt Charkiw mit sieben Verletzten — Partei-Angaben.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.kyivpost.com/post/89814">Kyiv Post (Meldung auf Basis der Regionalverwaltung Odessa)</r724:quelle>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64">AP (Agenturmeldung)</r724:quelle>
+      <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
+      <title>Update Ust-Luga: Feuer nach Drohnenangriff auf den Ostsee-Hafen — ukrainischer Generalstab bekennt sich zu dem Schlag</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-2</guid>
+      <pubDate>Thu, 12 Nov 2026 06:26:00 +0100</pubDate>
+      <description>Der Gouverneur der Region Leningrad meldet Drohnentreffer, einen Großbrand und drei verletzte Arbeiter im Hafen Ust-Luga; demnach seien über der Region 150 Drohnen abgefangen worden (russische Partei-Angaben). Der ukrainische Generalstab erklärte, den Angriff auf die Öl-Infrastruktur selbst durchgeführt zu haben; fünf Tankbehälter seien beschädigt — ukrainische Partei-Angabe. Statuswechsel gegenüber dem Vortag: von „nicht unabhängig bestätigt“ zur Bestätigung durch die ukrainische Seite.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.berliner-zeitung.de/article/ust-luga-russischer-oelhafen-von-drohnen-getroffen-10585119">Berliner Zeitung</r724:quelle>
+      <r724:quelle url="https://www.kyivpost.com/post/89741">Kyiv Post</r724:quelle>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4183614-drones-attack-russias-strategic-ustluga-port-sparking-fire.html">Ukrinform</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Abu Dhabi abgeschlossen: „größte humanitäre Freilassung“ von Gefangenen vereinbart — entscheidende Differenzen bleiben</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-3</guid>
+      <pubDate>Thu, 12 Nov 2026 06:26:00 +0100</pubDate>
+      <description>Die ersten direkten Gespräche zwischen Russland und der Ukraine seit Februar endeten ohne Durchbruch beim Kriegsende, aber mit Einigung über einen großangelegten Austausch von Kriegsgefangenen; US-Gesandter Kushner nennt ihn die bisher „größte humanitäre Freilassung“, die Zahlen sollen an diesem Donnerstag festgelegt werden. Kushner und Witkoff reisen anschließend zu Putin und Selenskyj. Der Kernkonflikt bleibt ungelöst: Kyiv verlangt das Ende der Angriffe vor Gesprächen über die Sicherheitsarchitektur, Moskau das Gegenteil.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64">AP (Agenturmeldung)</r724:quelle>
+      <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/friedrich-merz-wladimir-putin-kontakt-ukraine-gespraeche">ZEIT ONLINE</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Bundesregierung nennt vier Grundsätze für die weiteren Verhandlungen — G7 mahnen langfristige Ukraine-Finanzierung an</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-4</guid>
+      <pubDate>Thu, 12 Nov 2026 06:26:00 +0100</pubDate>
+      <description>Regierungssprecher Kornelius nannte vier mit den USA und europäischen Partnern abgestimmte Grundsätze: erst Frieden in der Ukraine, dann Gespräche über die Sicherheitsordnung („Sequenzierung“); ein geschlossener Verhandlungskontext; Konsens aller NATO-Partner; eine „No-Surprise-Policy“. Die G7-Außenminister mahnen in Paris eine koordinierte Deckung des ukrainischen Finanzbedarfs an; die EU schätzt den Bedarf auf rund 70 Milliarden Euro, über die am Donnerstag in Dublin beraten wird.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/friedrich-merz-wladimir-putin-kontakt-ukraine-gespraeche">ZEIT ONLINE (Regierungspressekonferenz)</r724:quelle>
+      <r724:quelle url="https://de.finance.yahoo.com/nachrichten/berlin-usa-%C3%BC-prinzipien-f%C3%BCr-153635731.html">dpa-AFX (über Yahoo Finance)</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Keine bestätigten Geländegewinne — ukrainischer Kommandeur: Russland versucht, Saporischschja durch Brücken- und Staudamm-Angriffe zu isolieren</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-1</guid>
