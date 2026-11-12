@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:25:52 +0100</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:16:00 +0100</lastBuildDate>
+<item>
+<title>Nvidia-Chef Huang tritt nach Spionage-Affäre zurück — Putin lehnt entmilitarisierte Zonen ab — ESA-Teleskop Euclid liefert den Grundstein für die größte 3D-Karte des Kosmos</title>
+<link>https://radar724.de/posts/2026-11-12-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-nachts.html</guid>
+<pubDate>Thu, 12 Nov 2026 23:16:00 +0100</pubDate>
+<description>Donnerstag, 12. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 23:16 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Russische Drohnenangriffe auf Kiew trotz Vermittlungsdiplomatie — DAX schließt nach Rekord-Ausflug bei 26.771,88 Punkten — EuGH weist alle polnischen Klagen gegen das EU-Klimapaket ab</title>
 <link>https://radar724.de/posts/2026-11-12-abends.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-09-mittags.html</guid>
 <pubDate>Mon, 09 Nov 2026 13:03:00 +0100</pubDate>
 <description>Montag, 9. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 13:03 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Update: Nach dem Anschlag von Krakau ermittelt Polen wegen Terrorismus · Merz schlägt Aigner offiziell als Bundespräsidentin vor · Huthis treffen Finanzviertel von Riad</title>
-<link>https://radar724.de/posts/2026-11-09-morgens.html</link>
-<guid>https://radar724.de/posts/2026-11-09-morgens.html</guid>
-<pubDate>Mon, 09 Nov 2026 06:35:00 +0100</pubDate>
-<description>Montag, 09 November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 06:35 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
