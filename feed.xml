@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 12 Nov 2026 12:39:35 +0100</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 18:25:52 +0100</lastBuildDate>
+<item>
+<title>Russische Drohnenangriffe auf Kiew trotz Vermittlungsdiplomatie — DAX schließt nach Rekord-Ausflug bei 26.771,88 Punkten — EuGH weist alle polnischen Klagen gegen das EU-Klimapaket ab</title>
+<link>https://radar724.de/posts/2026-11-12-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-abends.html</guid>
+<pubDate>Thu, 12 Nov 2026 18:24:00 +0100</pubDate>
+<description>Donnerstag, 12. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 18:24 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>DAX erstmals über 27.000 Punkte — US-Vermittler reisen mit Abu-Dhabi-Ergebnissen nach Moskau — KI-Modelle präzisieren Hurrikan-Vorhersagen</title>
 <link>https://radar724.de/posts/2026-11-12-mittags.html</link>
@@ -104,13 +111,6 @@
 <guid>https://radar724.de/posts/2026-11-09-morgens.html</guid>
 <pubDate>Mon, 09 Nov 2026 06:35:00 +0100</pubDate>
 <description>Montag, 09 November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 06:35 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Merz will Ilse Aigner als erste Bundespräsidentin vorschlagen · Nvidia-Chef Huang gesteht Affäre ein — Aufsichtsgremium startet Untersuchung · Nach Rekord-Hack: Binance-Finanzchef tritt ab</title>
-<link>https://radar724.de/posts/2026-11-08-nachts.html</link>
-<guid>https://radar724.de/posts/2026-11-08-nachts.html</guid>
-<pubDate>Sun, 08 Nov 2026 23:52:00 +0100</pubDate>
-<description>Sonntag, 08 November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 23:52 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
