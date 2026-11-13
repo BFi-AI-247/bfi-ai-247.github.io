@@ -6,7 +6,132 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 13 Nov 2026 18:23:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:41:00 +0100</lastBuildDate>
+<item>
+<title>Update: Dublin-Gipfel endet ohne Entscheidung über Friedensgesandten — Merz sieht Deutschland „gesetzt", Europa pocht auf Platz am Tisch</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-1</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Nach dem EU-Gipfel in Dublin bleibt die Frage nach einem europäischen Gesandten offen. Merz sieht Deutschland gesetzt, Kalla warnt vor Moskaus Fallen, Medinski vermisst konkrete europäische Vorschläge.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html"></r724:quelle>
+<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/europa-entsendet-diplomaten-zu-ukraine-friedensgespraechen,VasWAE4"></r724:quelle>
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bk-merz-europaeischer-rat-dublin-2461066"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Papst Leo XIV. trifft in Peru sechs Missbrauchsopfer — Kirche müsse Wiedergutmachung leisten</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-2</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Papst Leo XIV. empfing in Lima sechs Missbrauchsopfer, einige aus dem Umfeld von Sodalicio. Er betonte bei beiden Treffen dieser Reise, die Kirche müsse den Betroffenen Wiedergutmachung leisten.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.vaticannews.va/de/papst/news/2026-11/papst-leo-xiv-traf-in-peru-missbrauchsopfer.html"></r724:quelle>
+<r724:quelle url="https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>FBI zerschlägt „FaceStealer"-Schema: Nordkoreanische Hacker erpressten Krypto-Anleger mit heimlichen Webcam-Videos</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-3</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>FBI und US-Justiz zerschlugen die Cloud-Infrastruktur der Gruppe Sapphire Sleet. Über gefälschte Videokonferenzen sollen in 18 Monaten mehr als 400 Millionen Dollar erbeutet worden sein.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.fbi.gov/investigate/cyber/facestealer-cryptocurrency-theft-scheme"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Cyberangriff auf Drohnenhersteller Quantum Systems: Bundeswehr nimmt Vector-Flotte vorsorglich aus dem Betrieb</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-4</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Nach dem Angriff nimmt die Bundeswehr ihre Vector-Drohnen außer Betrieb. Malware war in einer Update-Datei auf dem Firmenserver entdeckt worden, die Täterschaft ist ungeklärt.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.at/story/3000000349069/cyberangriff-auf-drohnenhersteller-bundeswehr-laesst-flotte-von-quantum-systems-am-boden"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/digital/2026-11/cyberangriff-quantum-systems-drohnenhersteller-bundeswehr-ukraine"></r724:quelle>
+<r724:quelle url="https://www.br.de/nachrichten/bayern/cyberangriff-bei-bayerischem-drohnenhersteller-quantum-systems,Van89wU"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Microsoft meldet Entspannung nach globaler Outlook-Störung — BSI sieht Bundesverwaltung nicht betroffen</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-5</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Microsoft meldet deutliche Verbesserungen bei Outlook, die E-Mail-Warteschlangen sind reduziert. Das BSI sieht die Bundesverwaltung nicht betroffen, die deutsche Wirtschaft war breit beeinträchtigt.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Indien verweigert 115 ausländischen Rednern die Einreise zum oppositionellen „Bharat Summit"</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-6</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Indien verweigert rund 115 ausländischen Teilnehmern des Bharat Summit der Kongresspartei die Einreise. Das Außenministerium beruft sich auf visa-politische Souveränität.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://timesofindia.indiatimes.com/india/visa-matters-are-sovereign-mea-responds-after-115-foreign-speakers-denied-nod-for-congress-event/articleshow/135811416.cms"></r724:quelle>
+<r724:quelle url="https://thewire.in/politics/115-bharat-summit-speakers-denied-entry-mea-invokes-sovereign-functions"></r724:quelle>
+<r724:quelle url="https://www.news18.com/india/proud-democracy-become-insecure-shashi-tharoor-slams-centre-as-115-foreign-speakers-for-bharat-summit-denied-entry-ws-lr-10424681.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Bundestag beschließt Geheimdienst-Reform: mehr operative Befugnisse für BND und Verfassungsschutz</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-7</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Der Bundestag gab BND und Verfassungsschutz erweiterte operative Befugnisse inklusive KI-gestützter Datenauswertung. Kritiker warnen vor Grundrechtseingriffen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://de.euronews.com/2026/11/13/geheimdienstreform-mehr-macht-bnd-verfassungsschutz"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html"></r724:quelle>
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bnd-nachrichtendienste-reform-2449400"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Frankreichs Schulproteste gehen weiter: Mehr als 5.000 Festnahmen seit Montag</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-8</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Seit Beginn der Proteste an französischen Schulen wurden mehr als 5.000 Menschen festgenommen. Die Bewegung gegen verschärfte Prüfungsregeln hält an.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.de/story/3000000342540/sch252lerproteste-in-frankreich-mehr-als-5000-festnahmen-seit-montag"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/panorama/Festnahmen-und-Verletzte-bei-Protesten-an-Schulen-in-Frankreich-id31358883.html"></r724:quelle>
+<r724:quelle url="https://brf.be/international/2113479/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Rosalía dominiert die Latin Grammys: fünf Preise an einem Abend</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-9</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Rosalía gewinnt Album, Song und Video des Jahres bei den Latin Grammys. Die Ausnahme des Jahres ging überraschend an Milo J.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.de/story/3000000349102/fuenf-preise-rosalia-raeumt-bei-latin-grammys-ab"></r724:quelle>
+<r724:quelle url="https://www.zeit.de/news/2026-11/13/rosal-a-gelingt-rekord-bei-latino-musikpreis"></r724:quelle>
+<r724:quelle url="https://efe.com/cultura/2026-11-13/rosalia-gana-latin-grammy-cancion-del-ano-tema-la-perla/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Mehr als ein halbes Jahrhundert nach seinem Tod: Die Asche von Nobelpreisträger Miguel Ángel Asturias kehrt nach Guatemala zurück</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-10</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-10</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Die Urne mit der Asche des Literaturnobelpreisträgers ist in Guatemala-Stadt eingetroffen. Am Sonntag soll sie in einem nach ihm benannten Kulturzentrum beigesetzt werden.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://orf.at/stories/3448064/"></r724:quelle>
+<r724:quelle url="https://www.sn.at/kultur/allgemein/asche-von-asturias-kehrt-nach-guatemala-zurueck-art-682096"></r724:quelle>
+<r724:quelle url="https://efe.com/cultura/2026-11-13/repatriacion-miguel-angel-asturias-guatemala/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: EU-Gipfel in Dublin ringt weiter um Friedensgesandten — Selenskyj kündigt „eine Stimme" Europas an</title>
 <link>https://radar724.de/posts/2026-11-13-abends.html#artikel-1</link>
@@ -509,128 +634,6 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://unfccc.int/cop31"></r724:quelle>
 <r724:quelle url="https://public.wmo.int/media/news/cop31-leaders-summit-turn-commitments-action"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Nach Abu Dhabi — US-Vermittler bringen Gesprächsergebnisse nach Moskau, großangelegter Gefangenenaustausch zugesagt</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-1</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Die ersten direkten Gespräche der Kriegsparteien seit Februar endeten mit der Zusage eines großangelegten Gefangenenaustauschs und vier Grundsätzen für weitere Verhandlungen. US-Unterhändler reisen nun mit den Ergebnissen nach Moskau.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html"></r724:quelle>
-<r724:quelle url="https://orf.at/stories/3447922/"></r724:quelle>
-<r724:quelle url="https://www.n-tv.de/politik/18-49-Machtgleichgewicht-Selenskyj-rechnet-nach-Midterms-mit-mehr-US-Hilfe-id30859357.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>15. Integrationsbericht: Integration in Deutschland „so erfolgreich wie nie“</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-2</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Der Bericht der Bundesregierung zeigt einen verdoppelten Hochschulabschluss-Anteil bei jungen Menschen mit Migrationsgeschichte und starke Zuwächse am Arbeitsmarkt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/integrationsbericht-kabinett-2459076"></r724:quelle>
-<r724:quelle url="https://www.integrationsbeauftragte.de/service/presse/pressemitteilungen-und-zitate/staatsministerin-natalie-pawlik-zum-15-integrationsbericht"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>NOAA setzt KI-Modelle für Hurrikan-Vorhersagen ein — Google DeepMind öffnet WeatherNext</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-3</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Das US-Hurrikanzentrum nutzt das KI-Modell WeatherNext, das Zyklonen teils eine Woche früher erkennt; DeepMind hat es als Open Source freigegeben.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.weather.gov/news/261102-AI-Hurricane-Forecasting"></r724:quelle>
-<r724:quelle url="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Nvidia-Aktie legt um rund 3,8 Prozent zu — CoreWeave-Ausblick entfacht neue Chip-Rally</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-4</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>CoreWeaves hoher Umsatz-Ausblick von 13,3 Milliarden Dollar hat Nvidia um rund 3,8 Prozent steigen lassen und den Chip-Sektor belebt.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"></r724:quelle>
-<r724:quelle url="https://finance.yahoo.com/technology/ai/articles/nvidia-backed-coreweave-surging-means-223603255.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>UN-Klimakonferenz in Antalya: Staatschefs fordern Taten statt Absichtserklärungen</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-5</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Beim Leaders’ Summit der COP31 in Antalya forderten gut hundert Staatschefs die Umsetzung bestehender Zusagen; Klimafinanzierung und Methan-Reduktion dominieren.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action"></r724:quelle>
-<r724:quelle url="https://www.straitstimes.com/world/world-leaders-speak-at-cop31-climate-conference"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Oberverwaltungsgericht weist Eilanträge gegen Brennelemente-Fabrik in Lingen ab</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-6</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Das OVG Niedersachsen ließ die Erweiterung der Brennelementefabrik in Lingen zu; Manipulations- und Sabotagerisiko sei von den Klägern nicht hinreichend eingegrenzt worden.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/regional/niedersachsen/lingen-eilantrag-gegen-brennelemente-fabrik-abgelehnt,brennstaebe-100.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>DAX knackt erstmals die 27.000-Punkte-Marke — Siemens treibt die Rally</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-7</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Der DAX stand erstmals über 27.000 Punkten (Hoch: 27.001,67), rutschte danach wieder darunter; Siemens war einer der wichtigsten Treiber.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101525244/dax-heute-auf-rekordhoch-siemens-aktie-treibt-boersenrally.html"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/news/2026-11/12/dax-erstmals-ueber-27-000-punkten"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Tarifrunde Metall — IG-Metall-Bezirke beantragen 24-Stunden-Warnstreiks, Vorstand entscheidet heute</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-8</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Mehrere IG-Metall-Bezirke, darunter NRW, haben ganztägige Warnstreiks beantragt; der Vorstand berät am Donnerstag darüber.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://nordrhein-westfalen.igmetall.de/Tarif/metall-und-elektroindustrie.html"></r724:quelle>
-<r724:quelle url="https://www.mainpost.de/wirtschaft/tarifkonflikt-metallindustrie-bezirke-der-ig-metall-wollen-ganztaegige-warnstreiks-115674950"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Tourismus-Rekord: 389,8 Millionen Übernachtungen bis September — so viele wie nie zuvor</title>
-<link>https://radar724.de/posts/2026-11-12-mittags.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-mittags.html#artikel-9</guid>
-<pubDate>Thu, 12 Nov 2026 12:39:35 +0100</pubDate>
-<description>Destatis meldet 389,8 Millionen Übernachtungen von Januar bis September; im September stiegen die Übernachtungen um 0,8 Prozent auf 48,9 Millionen.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.firmenpresse.de/pressinfo2285440-tourismus-in-deutschland-im-september-2026-0-8-mehr-bernachtungen-als-im-vorjahresmonat.html"></r724:quelle>
-<r724:quelle url="https://statistiken-aktuell.de/tourismus-september-2026-datenmonitor/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Spanische Recherche: TikTok ließ über 1.000 Videos mit Kindesmissbrauch stehen — 48 Millionen Aufrufe, nur jedes zehntes gelöscht</title>
-<link>https://radar724.de/posts/2026-11-12-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-morgens.html#artikel-1</guid>
-<pubDate>Thu, 12 Nov 2026 06:16:00 +0100</pubDate>
-<description>Eine Recherche der spanischen Plattform Maldita dokumentiert auf TikTok über 1.000 Videos mit Kindesmissbrauch, die zusammen rund 48 Millionen Aufrufe erreichten. Nur etwa jedes zehnte davon war zuvor gelöscht worden. TikTok kündigt an, seine Moderation zu prüfen und zu verschärfen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://maldita.es/investigaciones/20261109/tiktok-haven-child-sexual-abuse/"></r724:quelle>
-<r724:quelle url="https://www.euronews.com/2026/11/10/spanish-investigation-finds-over-20000-suspected-paedophile-profiles-on-tiktok"></r724:quelle>
-<r724:quelle url="https://efe.com/mundo/2026-11-09/maldita-es-videos-abuso-infantil-tiktok/"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
   </channel>
