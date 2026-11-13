@@ -29,7 +29,7 @@
       "dienstbeginn": "16.09.2026",
       "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
       "antworten": 31,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
+      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
       "stand": "28.09.2026, 19:41 Uhr"
     },
     {
@@ -63,5 +63,5 @@
       "quelle": "Eigenmessung laut Aktivitaets-Log"
     }
   ],
-  "updated": "2026-11-12T23:19:48.643+01:00"
+  "updated": "2026-11-13T05:53:54+01:00"
 }
