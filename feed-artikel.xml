@@ -6,7 +6,108 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 12 Nov 2026 23:16:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:41:00 +0100</lastBuildDate>
+<item>
+<title>Update: Europa unterzeichnet Sicherheits-Erklärung — US-Gesandte reisen von Moskau nach Dublin zu Selenskyj</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-1</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Rund vierzig europäische Staaten haben in Dublin eine gemeinsame Erklärung zur Sicherheit des Kontinents unterzeichnet. Die US-Unterhändler Witkoff und Kushner trafen nach Kreml-Gesprächen Selenskyj; die EU kündigte weitere Hilfen und ein 22. Sanktionspaket an.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html"></r724:quelle>
+<r724:quelle url="https://www.consilium.europa.eu/de/meetings/international-summit/2026/11/12/"></r724:quelle>
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/eu-gipfel-irland-hilfen-ukraine-krieg-russland-100.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>KI-gestützte bionische Augen kommen näher: Forschungsteam lässt Implantat Seheindrücke gezielter erzeugen</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-2</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Ein Deep-Learning-System lernte, wie das Gehirn eines blinden Probanden auf elektrische Reize reagiert, und steuerte so ein Implantat im visuellen Cortex präziser. Die Proof-of-Concept-Studie erschien im Fachjournal Neuron.</description>
+<category>Gesundheit &amp; Medizin</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261110042553.htm"></r724:quelle>
+<r724:quelle url="https://www.dyns.ucsb.edu/news/all/2026/deep-learning-refines-how-bionic-eyes-communicate-brain"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Finanzchefin Colette Kress übernimmt bei Nvidia — Anleger reagieren nervös auf den Huang-Aus</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-3</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Nach Jensens Huangs sofortigem Rücktritt leitet Finanzchefin Colette Kress den Chipkonzern. Der Aktienkurs gab am Donnerstag zweistellig nach; am Dienstag stehen die Quartalszahlen an.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Nach-Bekanntwerden-einer-zweiten-Affaere-Nvidia-CEO-Jensen-Huang-abgetreten-11522193.html"></r724:quelle>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html"></r724:quelle>
+<r724:quelle url="https://de.euronews.com/2026/11/12/nvidia-aktien-sturzen-ab-jensen-huang-tritt-als-ceo-zuruck"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>FBI beschlagnahmt 1,2 Milliarden Dollar vom Binance-Hack — Nordkorea soll hinter dem Rekordraub stecken</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-4</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Das FBI sicherte nach eigenen Angaben mehr als 1,2 Milliarden Dollar aus dem größten Krypto-Hack der Geschichte. Für den Diebstahl von 6,3 Milliarden Dollar macht die Behörde Nordkorea verantwortlich; zugleich wurden FaceStealer-Tools zerschlagen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted"></r724:quelle>
+<r724:quelle url="https://www.zdfheute.de/wirtschaft/unternehmen/fbi-binance-nordkorea-hack-kryptoboerse-100.html"></r724:quelle>
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>„Wir brauchen kein Abkommen mit dem Iran“: Trump zieht Vizepräsident Vance aus den Verhandlungen ab</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-5</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>US-Präsident Trump erklärte, sein Land brauche kein Abkommen mit Teheran, und wies Vizepräsident Vance an, sich auf innerstaatliche Korruption zu konzentrieren. Der Schritt folgt auf Midterm-Verluste und steigende Kraftstoffpreise.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.al-monitor.com/originals/2026/11/trump-says-us-does-not-need-iran-deal-directs-vance-focus-domestic-corruption"></r724:quelle>
+<r724:quelle url="https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"></r724:quelle>
+<r724:quelle url="https://www.usatoday.com/story/news/politics/2026/11/12/trump-iran-war-peace-deal-vance-negotiations/92747890007/"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>OECD-Bericht: Zuwanderung nach Deutschland 2025 um gut sechs Prozent gesunken</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-6</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Deutschland nahm 2025 laut OECD-Migrationsausblick gut sechs Prozent weniger dauerhafte Zuwanderer auf. Internationale Studierende zählten um 45 Prozent mehr, die humanitäre Migration ging zurück.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.oecd.org/de/publications/internationaler-migrationsausblick-2025-auszugsweise-ubersetzung_c9efd755-de/full-report/component-3.html"></r724:quelle>
+<r724:quelle url="https://www.n-tv.de/ticker/Deutschland-verzeichnet-2025-weniger-Zuwanderung-id31526260.html"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>DAX nach Rekord-Ausflug über 27.000 Punkte: Freitag bringt US-Inflationsdaten</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-7</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Nach dem Rekordhoch von 27.001,67 Punkten schloss der DAX am Donnerstag bei 26.771,88 Zählern. Heute erwarten Anleger US-Inflationsdaten; ein leicht positives Eröffnungssignal deutet sich an.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Freitag-13-November-2026-id31528903.html"></r724:quelle>
+<r724:quelle url="https://www.onvista.de/news/2026/11-12-wie-es-nach-dem-allzeithoch-weitergehen-koennte-41123281-19-26575582"></r724:quelle>
+<r724:quelle url="https://www.ig.com/ch/nachrichten-und-trading-ideen/dax-rekordhoch-27000-kursziele-schlussquartal-261112"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Siemens hebt nach Rekordquartal den Ausblick an — KI-Boom beflügelt das Rechenzentrumsgeschäft</title>
+<link>https://radar724.de/posts/2026-11-13-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-morgens.html#artikel-8</guid>
+<pubDate>Fri, 13 Nov 2026 06:41:00 +0100</pubDate>
+<description>Siemens erzielte laut eigener Mitteilung im dritten Quartal eine Rekordleistung und hob die Prognose für das unverwässerte Ergebnis je Aktie an. Das Rechenzentrumsgeschäft profitiert von KI-Nachfrage.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://press.siemens.com/global/de/pressemitteilung/rekordleistung-im-dritten-quartal-ausblick-angehoben"></r724:quelle>
+<r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/siemens-knapp-unter-rekord-starkes-jahr-und-hoehere-prognose-ce785ed8dd8df427"></r724:quelle>
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: Nvidia-Chef Jensen Huang tritt nach Spionage-Affäre von allen Posten zurück — Finanzchefin Colette Kress übernimmt die Führung</title>
 <link>https://radar724.de/posts/2026-11-12-nachts.html#artikel-1</link>
@@ -530,101 +631,6 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html"></r724:quelle>
 <r724:quelle url="https://www.bmvg.de/de/dunkelfeldstudie-statement-minister-gi"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Erster Generalstreik seit 14 Jahren: Spaniens Beschäftigte legen die Arbeit nieder</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-4</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>CCOO und UGT rufen erstmals seit 2012 gemeinsam zum Streik auf. Auslöser sind Wohnungskrise und niedrige Löhne — drei Wochen vor der Neuwahl.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.srf.ch/news/international/wohnungsnot-in-spanien-generalstreik-legt-weite-teile-des-landes-lahm"></r724:quelle>
-<r724:quelle url="https://de.euronews.com/2026/11/11/spanien-generalstreik-startet-gegen-wohnkrise-und-niedrige-loehne"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Tagesrückblick Börse: DAX schließt nur rund 50 Punkte unter Rekord — Wall Street dankt der Chip-Rally</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-5</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>Der DAX beendet den Mittwoch 1,12 Prozent fester bei 26.642 Punkten, der S&amp;P 500 legt im laufenden Handel rund 1,3 Prozent zu. Anleihenmarkt wegen Veterans Day geschlossen.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/aktien-frankfurt-schluss-dax-weiter-erholt-und-knapp-unter-rekordhoch-1036750418"></r724:quelle>
-<r724:quelle url="https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben — und warnen vor Milliardenloch</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-6</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>Der Sachverständigenrat übergeben Merz sein Jahresgutachten, hebt die Prognose für 2026 an und mahnt Ausgabendisziplin an. Von einem Milliardenloch ist die Rede.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"></r724:quelle>
-<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/jahresgutachten-svr-2460534"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Inflationsrate sinkt im Oktober auf 2,8 Prozent — Energie bleibt trotz Tankrabatt Haupttreiber</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-7</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>Destatis bestätigt 2,8 Prozent Teuerung im Oktober. Energiepreise steigen um 14,9 Prozent, Lebensmittel um 0,4 Prozent.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>RKI-Erhebung: Sechs Prozent der Erwachsenen trugen sich 2024 mit Suizidgedanken</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-8</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>Aus der Jahreserhebung 2024 des RKI-Panels geht hervor: 6 Prozent der Erwachsenen hatten 2024 Suizidgedanken, 18 Prozent irgendwann im Leben.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://nachrichten.idw-online.de/2026/11/11/daten-zu-suizidgedanken-und-suizidversuchen-im-journal-of-health-monitoring"></r724:quelle>
-<r724:quelle url="https://academic.oup.com/eurpub/article/36/Supplement_5/ckag169.356/8995283"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>US-Arzneibehörde ordnet Warnhinweise für Abnehmspritzen an: Risiko eines seltenen Sehverlusts</title>
-<link>https://radar724.de/posts/2026-11-11-abends.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-abends.html#artikel-9</guid>
-<pubDate>Wed, 11 Nov 2026 19:02:00 +0100</pubDate>
-<description>Die FDA verlangt geänderte Sicherheitshinweise für GLP-1-Rezeptoragonisten wie Wegovy und Zepbound wegen eines seltenen Sehverlustrisikos.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential"></r724:quelle>
-<r724:quelle url="https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Klima-Ranking: Deutschland fällt um sechs Plätze auf Rang 22 — Dänemark führt das Feld an</title>
-<link>https://radar724.de/posts/2026-11-11-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-mittags.html#artikel-1</guid>
-<pubDate>Wed, 11 Nov 2026 12:06:00 +0100</pubDate>
-<description>Germanwatch und das New Climate Institute veröffentlichen den neuen Climate Change Performance Index: Deutschland rutscht um sechs Plätze auf Rang 22 ab, die Spitzengruppe führt Dänemark an. Bei den Treibhausgas-Emissionen, dem Ausbau erneuerbarer Energien und der Klimapolitik erreicht die Bundesrepublik nur mittlere Noten.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://ccpi.org/country/deu/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Angriffen auf Supermarkt-Kühlanlagen: EU-Cyberchef warnt vor Hackerattacken auf Router und Haushaltsgeräte</title>
-<link>https://radar724.de/posts/2026-11-11-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-mittags.html#artikel-2</guid>
-<pubDate>Wed, 11 Nov 2026 12:06:00 +0100</pubDate>
-<description>Nach der Angriffsserie auf Kühlanlagen europäischer Supermärkte warnt der Chef der EU-Cyberagentur ENISA vor Angriffen über Router und vernetzte Haushaltsgeräte. Verbraucher sollten Geräte regelmäßig aktualisieren und Standard-Passwörter ändern.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/10/enisa-chef-warnung-hacker-haushaltsgerate"></r724:quelle>
-<r724:quelle url="https://www.berliner-zeitung.de/article/cyberangriffe-router-haushaltsgeraete-enisa-chef-lepassaar-warnt-10584489"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
   </channel>
