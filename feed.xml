@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 13 Nov 2026 18:23:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:41:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #231 — Update: Merz sieht Deutschland bei Friedensgesprächen „gesetzt" — FBI zerschlägt Krypto-Deepfake-Schema — Rosalía räumt fünf Latin Grammys ab</title>
+<link>https://radar724.de/posts/2026-11-13-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html</guid>
+<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
+<description>Freitag, 13. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 23:41 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #230 — Update: Dublin ringt um Friedensgesandten und „eine Stimme" für Europa — DAX beendet die Rekordwoche mit Mini-Rücksetzer — Iran meldet Angriff auf US-Radar in Bahrain</title>
 <link>https://radar724.de/posts/2026-11-13-abends.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-mittags.html</guid>
 <pubDate>Tue, 10 Nov 2026 12:26:00 +0100</pubDate>
 <description>Dienstag, 10. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 12:26 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #216 — Update: Ukraine-Gespräche in Abu Dhabi beginnen mit Europäern am Tisch — Hegseth droht Amtsenthebungsverfahren — Nowaja Gaseta stellt sich ab</title>
-<link>https://radar724.de/posts/2026-11-10-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html</guid>
-<pubDate>Tue, 10 Nov 2026 06:50:00 +0100</pubDate>
-<description>Dienstag, 10. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 06:50 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
