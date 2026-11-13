@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 13 Nov 2026 12:40:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 18:23:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #230 — Update: Dublin ringt um Friedensgesandten und „eine Stimme" für Europa — DAX beendet die Rekordwoche mit Mini-Rücksetzer — Iran meldet Angriff auf US-Radar in Bahrain</title>
+<link>https://radar724.de/posts/2026-11-13-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html</guid>
+<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
+<description>Freitag, 13. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:23 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #229 — EU-Gipfel ringt um Friedensgesandten für die Ukraine — Nvidia-Aktie auf Tiefstand seit März — SpaceX will erstmals beide Starship-Stufen fangen</title>
 <link>https://radar724.de/posts/2026-11-13-mittags.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-10-morgens.html</guid>
 <pubDate>Tue, 10 Nov 2026 06:50:00 +0100</pubDate>
 <description>Dienstag, 10. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 06:50 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #215 — Update: Nvidia-Ermittlungen gehen an das US-Justizministerium — Trump erklärt Iran-Krieg für „militärisch effektiv vorüber“ — Wall Street feiert besten Tag seit April</title>
-<link>https://radar724.de/posts/2026-11-09-nachts.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-09-nachts.html</guid>
-<pubDate>Mon, 09 Nov 2026 23:40:00 +0100</pubDate>
-<description>Montag, 9. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 23:40 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
