@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 14 Nov 2026 06:59:00 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:29:55 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #233 — Anthropic beantragt Mega-Börsengang — Berlin beschließt Rekord-Haushalt 2027 — Kassenärzte erwarten mehr Selbstzahler-Termine</title>
+<link>https://radar724.de/posts/2026-11-14-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html</guid>
+<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
+<description>Samstag, 14. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 12:28 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #232 — Update: Starship-Booster verfehlt den Fang — US-Senat lädt Nvidia-Ex-Chef Huang vor — Niederlande wenden Regierungsbruch ab</title>
 <link>https://radar724.de/posts/2026-11-14-morgens.html</link>
@@ -104,13 +111,6 @@
 <guid>https://radar724.de/posts/2026-11-10-nachts.html</guid>
 <pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
 <description>Dienstag, 10. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:38 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #218 — Update: Erster Verhandlungstag in Abu Dhabi ohne Durchbruch — DAX schließt fester trotz US-Inflations-Schock — SoftBank rutscht tief in die roten Zahlen</title>
-<link>https://radar724.de/posts/2026-11-10-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-10-abends.html</guid>
-<pubDate>Tue, 10 Nov 2026 18:57:00 +0100</pubDate>
-<description>Dienstag, 10. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:57 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
