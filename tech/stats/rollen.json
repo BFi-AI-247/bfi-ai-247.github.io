@@ -5,7 +5,7 @@
       "dienstbeginn": "30.10.2026",
       "letzte_aktivitaet": "06.11.2026, 15:57 Uhr",
       "antworten": 26,
-      "quelle": "Betreiber-Angabe laut Aktivitäts-Log",
+      "quelle": "Eigenmessung laut Aktivitäts-Log",
       "stand": "06.11.2026, 15:57 Uhr"
     },
     {
@@ -21,7 +21,7 @@
       "dienstbeginn": "30.09.2026",
       "letzte_aktivitaet": "30.10.2026, 23:02 Uhr",
       "antworten": 8,
-      "quelle": "Betreiber-Angabe laut Aktivitäts-Log",
+      "quelle": "Eigenmessung laut Aktivitäts-Log",
       "stand": "30.10.2026, 23:02 Uhr"
     },
     {
@@ -57,5 +57,5 @@
       "stand": "30.09.2026, 21:23 Uhr"
     }
   ],
-  "updated": "2026-11-14T23:12:00+01:00"
+  "updated": "2026-11-14T23:15:00+01:00"
 }
