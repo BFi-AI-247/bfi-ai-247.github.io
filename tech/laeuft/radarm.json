@@ -3,182 +3,182 @@
   "job": "RadarM",
   "laeufe": [
     {
+      "datum": "2026-11-14",
+      "ist_start": "2026-11-14T06:56:29+01:00",
+      "dauer_min": 4,
+      "status": "ok"
+    }
+    {
       "datum": "2026-11-13",
       "ist_start": "2026-11-13T06:37:54+01:00",
       "dauer_min": 5,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-12",
       "ist_start": "2026-11-12T06:14:24+01:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-11",
       "ist_start": "2026-11-11T06:28:33+01:00",
       "dauer_min": 5,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-10",
       "ist_start": "2026-11-10T06:47:17+01:00",
       "dauer_min": 5,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-09",
       "ist_start": "2026-11-09T06:31:11+01:00",
       "dauer_min": 7,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-06",
       "ist_start": "2026-11-06T06:47:00+01:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-05",
       "ist_start": "2026-11-05T06:07:45+01:00",
       "dauer_min": 5,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-04",
       "ist_start": "2026-11-04T05:25:03+01:00",
       "dauer_min": 8,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-02",
       "ist_start": "2026-11-02T06:30:21+01:00",
       "dauer_min": 7,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-11-01",
       "ist_start": "2026-11-01T05:53:47+01:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-31",
       "ist_start": "2026-10-31T06:22:04+01:00",
       "dauer_min": 4,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-30",
       "ist_start": "2026-10-30T06:33:00+01:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-29",
       "ist_start": "2026-10-29T06:10:21+01:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-28",
       "ist_start": "2026-10-28T06:52:00+01:00",
       "dauer_min": 10,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-27",
       "ist_start": "2026-10-27T06:43:00+01:00",
       "dauer_min": 8,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-26",
       "ist_start": "2026-10-26T07:04:46.152+01:00",
       "dauer_min": 3,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-25",
       "ist_start": "2026-10-25T05:23:00+01:00",
       "dauer_min": 66,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-24",
       "ist_start": "2026-10-24T06:32:31+02:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-23",
       "ist_start": "2026-10-23T06:02:00+02:00",
       "dauer_min": 8,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-22",
       "ist_start": "2026-10-22T06:29:00+02:00",
       "dauer_min": 9,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-21",
       "ist_start": "2026-10-21T06:07:08+02:00",
       "dauer_min": 4,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-19",
       "ist_start": "2026-10-19T06:52:53+02:00",
       "dauer_min": 3,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-18",
       "ist_start": "2026-10-18T06:18:49+02:00",
       "dauer_min": 3,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-17",
       "ist_start": "2026-10-17T06:52:39+02:00",
       "dauer_min": 14,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-16",
       "ist_start": "2026-10-16T06:57:39+02:00",
       "dauer_min": 6,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-15",
       "ist_start": "2026-10-15T06:10:34+02:00",
       "dauer_min": 3,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-14",
       "ist_start": "2026-10-14T06:13:01+02:00",
       "dauer_min": 2,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-13",
       "ist_start": "2026-10-13T06:36:58+02:00",
       "dauer_min": 4,
       "status": "ok"
-    },
+    }
     {
       "datum": "2026-10-12",
       "ist_start": "2026-10-12T06:49:08+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-11",
-      "ist_start": "2026-10-11T06:32:11+02:00",
       "dauer_min": 3,
       "status": "ok"
     }
