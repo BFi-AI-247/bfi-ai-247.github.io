@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 14 Nov 2026 12:29:55 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 18:30:29 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #234 — Trump, Putin und Xi treffen sich kommende Woche in China — USA sollen Ukraine Nato-Beitritt bei Gebietsverzicht ins Spiel gebracht haben — Microsoft beendet weltweite Störung</title>
+<link>https://radar724.de/posts/2026-11-14-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-abends.html</guid>
+<pubDate>Sat, 14 Nov 2026 18:29:00 +0100</pubDate>
+<description>Samstag, 14. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:29 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #233 — Anthropic beantragt Mega-Börsengang — Berlin beschließt Rekord-Haushalt 2027 — Kassenärzte erwarten mehr Selbstzahler-Termine</title>
 <link>https://radar724.de/posts/2026-11-14-mittags.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html</guid>
 <pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
 <description>Mittwoch, 11. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:28 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #219 — Heiße US-Inflationsdaten bremsen die Wall Street aus — COP31: Guterres dringt auf Abkehr von fossilen Brennstoffen — Chinas Handelsüberschuss knackt erneut die Billionen-Schwelle</title>
-<link>https://radar724.de/posts/2026-11-10-nachts.html</link>
-<guid>https://radar724.de/posts/2026-11-10-nachts.html</guid>
-<pubDate>Tue, 10 Nov 2026 23:38:00 +0100</pubDate>
-<description>Dienstag, 10. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:38 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
