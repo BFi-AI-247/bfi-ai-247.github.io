@@ -6,9 +6,83 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:28:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:28:00 +0100</lastBuildDate>
+    <item>
+      <title>Keine unabhängig bestätigten Geländeveränderungen im Datenfenster — OSINT-Feeds ohne neues Ukraine-Update</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-1</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Im 24-Stunden-Fenster liegen keine unabhängig bestätigten frontalen Geländegewinne vor. Oryx, MilitaryLand und Frontelligence haben kein neues Ukraine-Analyse-Item veröffentlicht; die ISW-Karte bleibt verlinkt. Leerraum-Meldung nach Dossier-Formatregel.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.understandingwar.org/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://militaryland.net/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://frontelligence.substack.com/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    </item>    <item>
+      <title>Russischer Angriff auf Saporischschja: Zahl der Verletzten steigt auf 50, darunter 8 Kinder</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-2</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Russische Angriffe trafen im Kosmichnyi-Stadtteil eine Industrieanlage und ein Wohnhaus. Laut Regionalverwaltung stieg die Zahl der Verletzten auf 50, darunter acht Kinder; die Polizei meldet zwei Tote, darunter ein 17-Jähriger. Ukrainische Partei-Angaben, nicht unabhängig bestätigt.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4184479-russian-strike-on-zaporizhzhia-injury-toll-rises-to-50-including-eight-children.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.yahoo.com/news/world/articles/russian-attack-zaporizhzhia-13-november-163100367.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    </item>    <item>
+      <title>„Kämpfen buchstäblich ums Überleben“: Ukrainische Angaben zur russischen Treibstoffproduktion — 15 von 38 Raffinerien ausgefallen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-3</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Der ukrainische Geheimdienst HUR legt laut Ukrainska Pravda dar, dass 15 von 38 großen russischen Raffinerien ausgefallen sind und die Ölverarbeitung um 55,4 Prozent gesunken sei. Partei-Angabe, nicht unabhängig bestätigt; Russland nennt keine eigenen Zahlen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/05/8061368/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.pbs.org/newshour/world/ukraine-claims-its-strikes-have-taken-out-more-than-half-of-russias-oil-refining-capacity">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    </item>    <item>
+      <title>Nach dem Dublin-Gipfel: Europa benennt Verhandlungsteam — fünf Staaten und EU-Institutionen vertreten den Kontinent, der Kreml dämpft</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-4</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Ratspräsident Costa zufolge vertreten Großbritannien, Frankreich, Deutschland, Italien und Polen gemeinsam mit den EU-Institutionen Europa in der nächsten Gesprächsrunde. Der Kreml erklärt, über eine europäische Beteiligung sei noch nicht entschieden.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    </item>    <item>
+      <title>Historisches Dreiertreffen: Trump, Putin und Xi treffen am Donnerstag in Shenzhen erstmals gemeinsam — Ukraine vorerst ohne Platz auf der Agenda</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-5</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Das Weiße Haus kündigt das erste Dreier-Gipfeltreffen von Trump, Putin und Xi am Rande des APEC-Gipfels in Shenzhen an. Themen sind Atomabrüstung und Iran; die Ukraine soll dort nicht behandelt werden — Selenskyj warnt vor Regelungen hinter Kyjiws Rücken.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.rfi.fr/en/international-news/20261114-trump-xi-putin-to-hold-historic-meeting-in-china-white-house-1">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    </item>    <item>
+      <title>Cyberangriff auf ukrainischen Drohnenlieferanten Quantum Systems bestätigt — Bundeswehr hatte Geräte vorsorglich aus dem Verkehr gezogen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-14.html#artikel-6</guid>
+      <pubDate>Sat, 14 Nov 2026 06:28:00 +0100</pubDate>
+      <description>Der bayerische Drohnenhersteller Quantum Systems bestätigt einen Cyberangriff Ende Oktober mit Schadsoftware auf seinen Servern. Medienberichten zufolge zog die Bundeswehr die Geräte vorsorglich ab; das Unternehmen meldet die Flotte wieder im Einsatz. Nicht unabhängig bestätigt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:quelle url="https://www.br.de/nachrichten/bayern/cyberangriff-bei-bayerischem-drohnenhersteller-quantum-systems,Van89wU">Primär-/Grundlagenquelle</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
 
-            <item>
+            </item>    <item>
       <title>Keine bestätigten Geländegewinne — Putin beansprucht Kontrolle über Kostjantyniwka und schlägt eine „humanitäre Mission“ vor</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-1</guid>
@@ -21,7 +95,7 @@
       <r724:quelle url="https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64">AP (Agenturmeldung)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Massenangriff mit Drohnen auf Moskau legt Regionalflughäfen still — Raffinerie in Wolgograd und Werk in Rostow am Don in Flammen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-2</guid>
@@ -33,7 +107,7 @@
       <r724:quelle url="https://kyivindependent.com/volgograd-oil-refinery-rostov-on-don-production-facility-in-flames-following-ukrainian-drone-attack/">Kyiv Independent (Raffinerie-Brand)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Russische Drohnenwellen auf Kyjiw: Eine Tote — Angriff auf Odessa, Trümmerfunde in Moldova — Kernel stellt Verarbeitung ein</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-3</guid>
@@ -45,7 +119,7 @@
       <r724:quelle url="https://kyivindependent.com/moldovan-police-find-drone-fragments-in-vineyard-near-ukrainian-border/">Kyiv Independent (Moldova-Fund)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Nach dem Kreml-Termin: Selenskyj trifft US-Gesandte in Dublin — Europa soll vertreten sein, der Kreml dämpft</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-4</guid>
@@ -58,7 +132,7 @@
       <r724:quelle url="https://kyivindependent.com/endless-us-russia-talks-leave-europe-scrambling-for-a-role-in-ukraine-peace-push/">Kyiv Independent (Debatte um die Rolle Europas)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Großbritannien trifft erstmals alle zehn größten russischen Ölproduzenten mit Sanktionen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-13.html#artikel-5</guid>
@@ -82,7 +156,7 @@
       <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Update Ust-Luga: Feuer nach Drohnenangriff auf den Ostsee-Hafen — ukrainischer Generalstab bekennt sich zu dem Schlag</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-2</guid>
@@ -95,7 +169,7 @@
       <r724:quelle url="https://www.ukrinform.net/rubric-ato/4183614-drones-attack-russias-strategic-ustluga-port-sparking-fire.html">Ukrinform</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Abu Dhabi abgeschlossen: „größte humanitäre Freilassung“ von Gefangenen vereinbart — entscheidende Differenzen bleiben</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-3</guid>
@@ -107,7 +181,7 @@
       <r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/friedrich-merz-wladimir-putin-kontakt-ukraine-gespraeche">ZEIT ONLINE</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Bundesregierung nennt vier Grundsätze für die weiteren Verhandlungen — G7 mahnen langfristige Ukraine-Finanzierung an</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-12.html#artikel-4</guid>
@@ -131,7 +205,7 @@
       <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Russische Nachtangriffe auf zehn Regionen: Zwei Tote, fünf Umspannwerke getroffen — Stromausfälle in sechs Gebieten</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-2</guid>
@@ -143,7 +217,7 @@
       <r724:quelle url="https://www.zdfheute.de/politik/ausland/ukraine-verhandlungen-abu-dhabi-selenskyj-bilanz-gefangenenaustausch-100.html">ZDFheute</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Ukrainischer Gegenschlag: Drohnen treffen Berichten zufolge den Ostsee-Hafen Ust-Luga — nicht unabhängig bestätigt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-3</guid>
@@ -154,7 +228,7 @@
       <r724:quelle url="https://kyivindependent.com/ukraine-reportedly-strikes-ust-luga-baltic-sea-port-as-drones-attack-regions-across-russia/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Ukraine schlägt Drohnen-Standort am besetzten Flughafen Donezk</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-4</guid>
@@ -165,7 +239,7 @@
       <r724:quelle url="https://kyivindependent.com/ukraine-strikes-drone-port-at-occupied-donetsk-airport/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Abu Dhabi: Erster Tag ohne offizielles Ergebnis — großer Gefangenenaustausch offenbar vereinbart, Selenskyj nennt Energie und Schwarzes Meer als Themen des „Haupttags“</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-5</guid>
@@ -178,7 +252,7 @@
       <r724:quelle url="https://www.sn.at/politik/weltpolitik/russland-und-ukraine-verhandeln-in-abu-dhabi-ueber-frieden-art-683013">SN.at</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Streit über EU-Hilfen spitzt sich zu: Fico wirft Merz „Erpressung“ vor — EU-Rechnungshof kritisiert löchrige Sanktionsumsetzung</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-6</guid>
@@ -190,7 +264,7 @@
       <r724:quelle url="https://orf.at/stories/3447825/">ORF (Rechnungshof)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Polen und Ukraine vereinbaren Drohnen-Kooperation — zwei MiG-29 im Tausch gegen Drohnentechnologie in Finalisierung</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-11.html#artikel-7</guid>
@@ -201,7 +275,7 @@
       <r724:quelle url="https://kyivindependent.com/poland-may-transfer-2-mig-29-jets-to-ukraine-in-exchange-for-drone-technology-polish-official-says/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Keine bestätigten Geländegewinne — Analysten sehen Russlands Angriffstempo "von Woche zu Woche" steigen, Rekord-Verluste laut Generalstab</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-1</guid>
@@ -214,7 +288,7 @@
       <r724:quelle url="https://www.understandingwar.org/analysis">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Russischer Schlag auf Kraftwerk Trypillia bei Kyiv — Energiekonzern warnt vor "extrem ernsten" Folgen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-2</guid>
@@ -225,7 +299,7 @@
       <r724:quelle url="https://kyivindependent.com/energy-company-warns-of-extremely-serious-consequences-after-russian-forces-strike-trypillia-thermal-power-plant/">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>IAEA: Drohnenangriff tötet Beschäftigten am AKW Saporischschja</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-3</guid>
@@ -237,7 +311,7 @@
       <r724:quelle url="https://orf.at/stories/3447731/">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Belgorod: Zwei Tote nach ukrainischem Drohnenangriff — russische Behördenangaben, nicht unabhängig überprüfbar</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-4</guid>
@@ -248,7 +322,7 @@
       <r724:quelle url="https://orf.at/stories/3447737/">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Abu Dhabi: Trilaterale Gespräche beginnen — Kiew mit gedämpften Erwartungen, Rubio verlangt Russland-Akzeptanz für Sicherheitsgarantien</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-5</guid>
@@ -260,7 +334,7 @@
       <r724:quelle url="https://kyivindependent.com/security-guarantees-for-ukraine-must-also-be-acceptable-to-russia-rubio-says/">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>EU plant neuen 45-Milliarden-Kredit für Kiew 2027 — Merz kritisiert unfaire Lastenteilung</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-6</guid>
@@ -273,7 +347,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Bericht-Merz-knuepft-Ja-zu-EU-Haushalt-an-neue-Ukraine-Hilfen-id31513856.html">Grundlagen-/Zweitquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Nowaja Gaseta stellt Betrieb ein — Russlands letzte unabhängige Tageszeitung verstummt, Muratow fordert Waffenruhe</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-10.html#artikel-7</guid>
@@ -285,7 +359,7 @@
       <r724:ki>true</r724:ki>
     </item>
 
-    <item>
+    </item>    <item>
       <title>Front ohne bestätigte Bewegungen — Oblast Saporischschja nach ukrainischen Angaben über 700-mal beschossen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</guid>
@@ -297,7 +371,7 @@
       <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Russische Angriffe auf das Stromnetz: Hunderttausende ohne Strom — drei Tote durch Notstrom-Generator</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</guid>
@@ -309,7 +383,7 @@
       <r724:quelle url="https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity">Al Jazeera</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>AKW Saporischschja: Netzanschluss unterbrochen und wiederhergestellt — Reaktor zwischenzeitlich auf Notstrom</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</guid>
@@ -321,7 +395,7 @@
       <r724:quelle url="https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404">Deutsche Welle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Ukrainische Drohnen treffen Brücke über den Mius an Russlands Nachschub-Route — Verkehr gestoppt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</guid>
@@ -333,7 +407,7 @@
       <r724:quelle url="https://www.kyivpost.com/post/89470">Kyiv Post</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Abu Dhabi: Europäische Beteiligung an den Gesprächen am 10./11. November bestätigt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</guid>
@@ -345,7 +419,7 @@
       <r724:quelle url="https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says">France 24</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Moskau: Razzien mit über 200 Festnahmen — Festgenommene berichten von Militärvertrag-Angeboten</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</guid>
@@ -357,7 +431,7 @@
       <r724:quelle url="https://kyivindependent.com/moscow-police-detain-over-200-people-reportedly-forcing-some-to-sign-military-contracts/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Selenskyj ordnet kostenlosen Nahverkehr in Kyiv an — weitere SBU-Entscheidungen angekündigt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</guid>
@@ -368,7 +442,7 @@
       <r724:quelle url="https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Front ohne bestätigte Bewegungen — HUR nennt Su-34-Besatzungen des Komyshuvakha-Angriffs</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-1</guid>
@@ -380,7 +454,7 @@
       <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Kyiv: Ballistische Nachtangriffe beschädigen Nordbrücke — landesweit Stromausfälle</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-2</guid>
@@ -392,7 +466,7 @@
       <r724:quelle url="https://www.dw.com/de/ukraine-massive-stromprobleme-nach-russischen-angriffen/a-79884371">Deutsche Welle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Ukrainischer Massenschlag: Orel-Werk getroffen — Saratov-Raffinerie in Brand gemeldet</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-3</guid>
@@ -403,7 +477,7 @@
       <r724:quelle url="https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Abu Dhabi: Ryabkov erstmals in Moskauer Delegation — Umerov führt die Ukraine</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-4</guid>
@@ -414,7 +488,7 @@
       <r724:quelle url="https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Selenskyj: Die Feuerpause von Oleschky beweist Moskaus Stoppen-Können</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-5</guid>
@@ -425,7 +499,7 @@
       <r724:quelle url="https://kyivindependent.com/zelensky-says-oleshky-ceasefire-shows-russia-can-halt-fighting-but-putin-is-unwilling/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Berlin am Limit: Pistorius verweigert weitere Patriots — Blumenthal plant Gesetz</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-6</guid>
@@ -437,7 +511,7 @@
       <r724:quelle url="https://kyivindependent.com/senator-blumenthal-to-introduce-legislation-supporting-ukraine-call-for-new-us-negotiators-starlink-controls/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Rosstat-Leck: Hacker beanspruchen Daten zu 450.000 kriegsbedingten Todesfällen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-7</guid>
@@ -448,7 +522,7 @@
       <r724:quelle url="https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Update Komyshuvakha: Zahl der Toten steigt auf 53 — Rettungseinsatz erreicht den fünften Tag</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-1</guid>
@@ -461,7 +535,7 @@
       <r724:quelle url="https://www.usnews.com/news/world/articles/2026-11-06/death-toll-from-russian-bombing-of-ukrainian-aid-point-rises-to-53-governor-says">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Rekord für unbemannte Bodensysteme: Laut Kyiv über 30.000 Missionen im Oktober</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-2</guid>
@@ -473,7 +547,7 @@
       <r724:quelle url="https://en.lb.ua/news/2026/11/06/48242_defence_forces_ground_robots.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Ballistische Nachtangriffe auf Kyiv: Mindestens sechs Raketen in mehreren Wellen — drei Verletzte, darunter ein Kind</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-3</guid>
@@ -486,7 +560,7 @@
       <r724:quelle url="https://www.kyivpost.com/post/89404">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Update Gegenschläge: Ukrainische Seite meldet Treffer auf Ölraffinerie und zwei Munitionsdepots in Südrussland</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-4</guid>
@@ -497,7 +571,7 @@
       <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-komyshuvakha-search-operation-enters-5th-day-as-death-toll-rises-to-53/">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Update Trump-Deal: Moskau und Brüssel dämpfen die Erwartungen — Abu-Dhabi-Runde rückt näher</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-5</guid>
@@ -508,7 +582,7 @@
       <r724:quelle url="https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Umerov soll die ukrainische Delegation bei den Abu-Dhabi-Gesprächen führen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-6</guid>
@@ -520,7 +594,7 @@
       <r724:quelle url="https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+    </item>    <item>
       <title>Streit um Kyivs Wintervorbereitung: Razzien bei Energieunternehmen vertiefen Zerwürfnis zwischen Selenskyj und Klitschko</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-7</guid>
@@ -532,16 +606,6 @@
       <r724:quelle url="https://www.n-tv.de/politik/Selenskyj-und-Klitschko-liefern-sich-Schlagabtausch-id31505743.html">Primär-/Grundlagenquelle</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
-      <title>Russland will im Westen gestohlene Autos leichter zulassen — Kriegsfolge für den Binnenmarkt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-8</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-07.html#artikel-8</guid>
-      <pubDate>Sat, 07 Nov 2026 06:03:00 +0100</pubDate>
-      <description>Moskau plant laut n-tv-Bericht eine Gesetzesänderung, die gestohlene und nach Russland verbrachte Fahrzeuge leichter zulässt. Der Markt floriert unter den Sanktionen — eine paradox anmutende Kriegsfolge für die russische Binnenwirtschaft.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.n-tv.de/politik/Russland-will-im-Westen-gestohlene-Autos-zulassen-id31505110.html">Primär-/Grundlagenquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
     </item>
   </channel>
 </rss>
