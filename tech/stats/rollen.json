@@ -1,67 +1,47 @@
 {
+  "updated": "2026-11-14T23:12:09",
   "rollen": [
     {
       "rolle": "PM_R1.4",
-      "dienstbeginn": "30.10.2026",
-      "letzte_aktivitaet": "06.11.2026, 15:57 Uhr",
+      "dienstbeginn": "2026-10-30",
+      "letzte_aktivitaet": "2026-11-06T15:57:00+01:00",
       "antworten": 26,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "06.11.2026, 15:57 Uhr"
+      "quelle": "Betreiber-Angabe laut Aktivitäts-Log"
     },
     {
       "rolle": "Architektur_R2.3",
-      "dienstbeginn": "26.09.2026",
-      "letzte_aktivitaet": "26.10.2026, 16:44 Uhr",
+      "dienstbeginn": "2026-09-26",
+      "letzte_aktivitaet": "2026-10-26T16:44:00+01:00",
       "antworten": 43,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "26.10.2026, 16:44 Uhr"
+      "quelle": "Eigenmessung laut Aktivitäts-Log"
     },
     {
       "rolle": "Design_R3.3",
-      "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "30.10.2026, 23:02 Uhr",
+      "dienstbeginn": "2026-09-27",
+      "letzte_aktivitaet": "2026-10-30T23:02:00+01:00",
       "antworten": 8,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.10.2026, 23:02 Uhr"
+      "quelle": "Betreiber-Angabe laut Aktivitäts-Log"
     },
     {
       "rolle": "Mom_0",
-      "dienstbeginn": "16.09.2026",
-      "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
-      "antworten": 31,
-      "quelle": "Betreiber-Angabe laut Aktivitaets-Log",
-      "stand": "28.09.2026, 19:41 Uhr"
+      "dienstbeginn": "2026-09-16",
+      "letzte_aktivitaet": null,
+      "antworten": null,
+      "quelle": "Betreiber-Angabe laut Aktivitäts-Log"
     },
     {
       "rolle": "Redaktion_R4",
-      "dienstbeginn": "unbekannt (keine Angabe in Daten-Zeile)",
-      "letzte_aktivitaet": "19.10.2026, 00:45:35 Uhr",
-      "antworten": 40,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "19.10.2026, 00:45:35 Uhr"
-    },
-    {
-      "rolle": "Claude_Bridge",
-      "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "27.09.2026, 18:53 Uhr",
-      "antworten": 1,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "27.09.2026, 18:53 Uhr"
+      "dienstbeginn": "2026-09-27",
+      "letzte_aktivitaet": null,
+      "antworten": null,
+      "quelle": "Betreiber-Angabe laut Aktivitäts-Log"
     },
     {
       "rolle": "Kanon_Sync_2",
-      "dienstbeginn": "30.09.2026",
-      "letzte_aktivitaet": "30.09.2026, 21:23 Uhr",
+      "dienstbeginn": "2026-09-30",
+      "letzte_aktivitaet": "2026-09-30T21:23:00+01:00",
       "antworten": 1,
-      "quelle": "Eigenmessung laut Aktivitaets-Log",
-      "stand": "30.09.2026, 21:23 Uhr"
-    },
-    {
-      "rolle": "Framework_R6.1",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Eigenmessung laut Aktivitaets-Log"
+      "quelle": "Eigenmessung laut Aktivitäts-Log"
     }
-  ],
-  "updated": "2026-11-13T05:53:54+01:00"
+  ]
 }
