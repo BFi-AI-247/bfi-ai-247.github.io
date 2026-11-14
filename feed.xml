@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 14 Nov 2026 18:30:29 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 23:10:58 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #235 — Tanker rammt Flusskreuzfahrtschiff in New Orleans — Ungarn: 17,7 Millionen Euro Bargeld bei Ex-Minister entdeckt — Lutnick gerät im Nvidia-Skandal unter Druck</title>
+<link>https://radar724.de/posts/2026-11-14-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-nachts.html</guid>
+<pubDate>Sat, 14 Nov 2026 23:08:00 +0100</pubDate>
+<description>Samstag, 14. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 23:08 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #234 — Trump, Putin und Xi treffen sich kommende Woche in China — USA sollen Ukraine Nato-Beitritt bei Gebietsverzicht ins Spiel gebracht haben — Microsoft beendet weltweite Störung</title>
 <link>https://radar724.de/posts/2026-11-14-abends.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-11-mittags.html</guid>
 <pubDate>Wed, 11 Nov 2026 12:06:00 +0100</pubDate>
 <description>Mittwoch, 11. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 12:06 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #220 — Update: Anthropic peilt zweitgrößten Börsengang der Geschichte an — Aktionäre reichen Sammelklage gegen Nvidia-Chef Huang ein — EU-Streit um Ukraine-Milliarden überschattet Gipfelwoche in Dublin</title>
-<link>https://radar724.de/posts/2026-11-11-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-11-morgens.html</guid>
-<pubDate>Wed, 11 Nov 2026 06:28:00 +0100</pubDate>
-<description>Mittwoch, 11. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:28 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
