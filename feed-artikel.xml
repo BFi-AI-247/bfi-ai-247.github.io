@@ -6,7 +6,110 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 15 Nov 2026 12:21:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:29:00 +0100</lastBuildDate>
+<item>
+<title>Ukraine meldet nächtliche Angriffsserie auf Energie- und Bahninfrastruktur</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-1</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Russland hat in der Nacht Energie- und Bahnanlagen in mehreren ukrainischen Regionen getroffen; 16 Menschen wurden verletzt. Selenskyj kritisierte zudem anhaltende Geschwindigkeits-Drosselungen des Satellitendienstes Starshield.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html" />
+<r724:quelle url="https://www.n-tv.de/politik/16-15-Front-naehert-sich-Kramatorsk-zwei-Tote-bei-russischem-Beschuss-id30859357.html" />
+<r724:quelle url="https://newsukraine.rbc.ua/news/russia-strikes-ukraine-with-132-drones-overnight-1794725914.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Eintracht-Frauen feiern 5:1-Auswärtssieg in Leipzig und springen auf Tabellenplatz drei</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-2</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Die Frankfurterinnen haben RB Leipzig mit 5:1 besiegt und rücken in der Frauen-Bundesliga auf Rang drei vor. Trainer Arnautis' Team blieb vor 3.680 Zuschauern in allen Belangen überlegen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.mdr.de/sport/ergebnisse/spielstatistik-7320.html" />
+<r724:quelle url="https://www.kicker.de/fussball/heute-live" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Französische Protestbewegung geht in die fünfte Woche: Zehntausende auf der Straße, Hunderte Festnahmen</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-3</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Zum fünften Samstag in Folge protestierten Menschen in Frankreich für bessere Bildungschancen und Kaufkraft. Das Innenministerium zählte rund 106.000 Teilnehmende; landesweit gab es laut Sonntagangaben 404 Festnahmen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html" />
+<r724:quelle url="https://www.france24.com/fr/info-en-continu/20261115-manifestations-de-samedi-plus-de-400-interpellations-en-france" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Spaniens Wirtschaft wächst, doch die Menschen spüren es nicht: Wohnungskrise beherrscht den Wahlkampf</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-4</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Zwei Wochen vor der vorgezogenen Parlamentswahl prägen Lebenshaltungskosten und Wohnungskrise den Wahlkampf. Regierungschef Sánchez droht die Abwahl; über einen Sieg von Oppositionsführer Feijóo wird gewettet.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html" />
+<r724:quelle url="https://www.tagesschau.de/thema/spanien" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Update: Anthropic legt Termine für seinen Börsengang fest</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-5</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Anthropic will den Ausgabepreis am 18. November festlegen; den Handel an der Nasdaq unter dem Tickersymbol ANT soll der Schritt am 19. November aufnehmen. Angestrebt wird dem Bericht zufolge eine Bewertung von rund 1,4 Billionen Dollar.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/digitales/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Krypto am Wochenende unter Druck: Bitcoin fällt aufs 12-Wochentief</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-6</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Bitcoin rutschte erstmals seit August unter 70.000 US-Dollar; in Euro notierte die Kryptowährung bei rund 58.100 Euro. Starke Dollar-Positionen und Nvidia-Unruhe drücken den Markt, Liquidationen überstiegen 1,6 Milliarden Dollar.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion" />
+<r724:quelle url="https://www.investing.com/crypto/bitcoin/btc-eur-historical-data" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Update: COP31-Halbzeit — UN-Klimachef Stiell mahnt: Ohne Kompromisse aller Staaten keinen gemeinsamen Erfolg</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-7</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>UN-Klimasekretär Simon Stiell hat zur Halbzeit der Klimakonferenz in Antalya alle Staaten zu Kompromissen gedrängt. Für die zweite Woche forderte er, zügig zu den härtesten Streitpunkten überzugehen.</description>
+<category>Klima &amp; Umwelt</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>WMO-Bilanz zur COP31: 2026 eines der vier wärmsten Jahre — Meeresspiegel und Ozeanwärme auf Rekordniveau</title>
+<link>https://radar724.de/posts/2026-11-15-abends.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-8</guid>
+<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
+<description>Der Klimazustandsbericht der WMO zeigt: 2026 wird eines der vier wärmsten Jahre, die Temperatur lag bis September 1,47 Grad über vorindustriellem Niveau. Meeresspiegel und Ozeanwärme erreichen Rekordwerte, El Niño könnte Rekordstärke erreichen.</description>
+<category>Klima &amp; Umwelt</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31" />
+<r724:ki>true</r724:ki>
+</item>
+
 <item>
 <title>Update: Anthropic-Aktien sollen am 19. November den Handel an der Nasdaq eröffnen</title>
 <link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-1</link>
@@ -530,106 +633,6 @@
 <category>Gesundheit &amp; Medizin</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.who.int/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Starship-Testflug verpasst den Doppelfang — heute steht erstmals der Fang der Oberstufe an</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-1</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Der Booster des 15. Starship-Testflugs kehrte nach abgebrochenem Fangmanöver im Golf von Mexico unter; die Oberstufe erreichte die Umlaufbahn. Am Samstag soll erstmals die Oberstufe vom Startturm gefangen werden.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/"></r724:quelle>
-<r724:quelle url="https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/spacex-starship-super-heavy-booster-testflug-rakete"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: US-Senatsausschuss lädt Huang und Handelsminister Lutnick vor — Zwangsvorladung droht</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-2</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Der Bankenausschuss des US-Senats hat Ex-Nvidia-Chef Huang und Handelsminister Lutnick zu einer Anhörung im Dezember geladen. Es geht um mögliche Chip-Lieferungen nach China; Lutnick sagte bereits zu.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"></r724:quelle>
-<r724:quelle url="https://www.foxbusiness.com/politics/democratic-senators-demand-nvidia-records-from-trump-administration-over-alleged-chinese-spy-ties"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Erstmals im eigenen Format: EU-Chefs beraten in Dublin über Chancen und Risiken der KI</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-3</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Die 27 EU-Staats- und Regierungschefs berieten am Freitag in Dublin mit Künstlicher Intelligenz als Top-Thema. Merz verband die Ukraine-Finanzierung mit den EU-Haushaltsverhandlungen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/13/eu-staats-und-regierungschefs-beraten-in-dublin-uber-ki-chancen-und-risiken"></r724:quelle>
-<r724:quelle url="https://www.consilium.europa.eu/de/meetings/european-council/2026/11/13/"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach siebenstündiger Krisenrunde: Niederlande wenden Regierungsbruch vorerst ab</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-4</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Die Minderheitskoalition von Premier Jetten einigte sich nach Krisengesprächen auf einen Neustart. Auslöser war ein Steuerpaket, das nur gegen die Stimmen des Koalitionspartners VVD passierte.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.at/story/3000000349045/regierungskrise-in-den-niederlanden-eskaliert"></r724:quelle>
-<r724:quelle url="https://www.diepresse.com/41450791/niederlande-regierungsbruch-wegen-millionaerssteuer-knapp-abgewendet"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/koalitionskrise-niederlande-minderheitsregierung-d66-vvd-dilan-yesilgoz"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Ohne Washington am Tisch — Amerika ist bei der COP31 trotzdem präsent</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-5</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Die US-Regierung fehlt nach dem Pariser-Ausstieg beim Klimagipfel in Antalya; US-Politiker wie Kaliforniens Gouverneur Newsom sind trotzdem da. An diesem Samstag zieht die Konferenz Halbzeitbilanz.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html"></r724:quelle>
-<r724:quelle url="https://unfccc.int/cop31"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Das erste Schwarze-Loch-Bild besteht den unabhängigen Härtetest</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-6</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Australische Forschende bestätigen mit einem neuen Bildgebungsalgorithmus die Ringstruktur des 2019 veröffentlichten M87*-Bildes. Zweifel an der Ringform konnte die Studie im Fachjournal Nature ausräumen.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.csiro.au/en/news/All/News/2026/November/confirm-black-hole"></r724:quelle>
-<r724:quelle url="https://www.natureasia.com/en/info/press-releases/detail/9480"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Neue Bilder zeigen Sonnenausbrüche erstmals in ihrer dreidimensionalen Bewegung</title>
-<link>https://radar724.de/posts/2026-11-14-morgens.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-morgens.html#artikel-7</guid>
-<pubDate>Sat, 14 Nov 2026 06:58:00 +0100</pubDate>
-<description>Forschende haben die räumliche Expansion von Sonnenausbrüchen erfasst: Die Eruptionen dehnen sich demnach radial und seitlich nach außen aus — ein Baustein für die Weltraumwetter-Forschung.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.nature.com/articles/d44151-026-00218-2"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Dublin-Gipfel endet ohne Entscheidung über Friedensgesandten — Merz sieht Deutschland „gesetzt", Europa pocht auf Platz am Tisch</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-1</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Nach dem EU-Gipfel in Dublin bleibt die Frage nach einem europäischen Gesandten offen. Merz sieht Deutschland gesetzt, Kalla warnt vor Moskaus Fallen, Medinski vermisst konkrete europäische Vorschläge.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html"></r724:quelle>
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/europa-entsendet-diplomaten-zu-ukraine-friedensgespraechen,VasWAE4"></r724:quelle>
-<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bk-merz-europaeischer-rat-dublin-2461066"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
 </channel>
