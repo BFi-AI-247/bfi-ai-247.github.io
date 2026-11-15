@@ -6,7 +6,124 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 15 Nov 2026 18:29:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 23:57:00 +0100</lastBuildDate>
+<item>
+<title>Ukrainischer Drohnenangriff trifft Petrochemie-Komplex und Raffinerie in Nischnekamsk</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-1</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Der ukrainische Generalstab meldet Brände an zwei Werken in Tatarstan, rund 1.200 Kilometer von der Front entfernt. Getroffen wurden demnach auch ein Flugzeughersteller im Gebiet Brjansk.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/" />
+<r724:quelle url="https://www.berliner-zeitung.de/article/ukraine-angriffe-russland-raffinerie-tatarstan-brjansk-10599442" />
+<r724:quelle url="https://newsukraine.rbc.ua/news/russia-s-huge-petrochemical-plants-ablaze-1794732679.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Good News: Prinz Harry besucht überraschend die Ukraine und würdigt verwundete Veteranen</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-2</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Bei seinem vierten Besuch seit Kriegsbeginn besuchte der Prinz in Lwiw die Klinik Superhumans, die Verwundete behandelt. Verwundete Soldaten und Zivilisten nannte er Vorbilder der Gesellschaft.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.independent.co.uk/news/uk/home-news/ukraine-russia-lviv-canada-birmingham-b3085333.html" />
+<r724:quelle url="https://www.standard.co.uk/news/world/harry-veterans-ukraine-visit-invictus-games-b1304947.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Machtkampf um die SPD-Spitze: Heil kandidiert für den Parteivorsitz</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-3</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Zwei Monate vor dem Bundesparteitag in Bremen eröffnete der frühere Arbeitsminister als erster Bewerber die Kandidatur. Er kritisierte Klingbeils Doppelrolle als Parteichef und Vizekanzler und kündigte Zusammenarbeit an.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html" />
+<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/hubertus-heil-will-fuer-spd-vorsitz-kandidieren,VayQqR4" />
+<r724:quelle url="https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Frankreichs Wahlkampf eskaliert an der Ukraine-Frage: Macron greift Le Pens Rückzugsszenario an</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-4</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Macron warnte, wer der Ukraine die Hilfe rationiere, zwinge sie zu einem ungerechten Frieden und mache Europa verwundbar. Le Pen hatte angekündigt, die Finanzhilfe nach einem Wahlsieg zu beenden.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://fr.euronews.com/2026/11/15/emmanuel-macron-denonce-ceux-qui-veulent-rationner-laide-a-lukraine-pour-lobliger-a-une-pa" />
+<r724:quelle url="https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste" />
+<r724:quelle url="https://www.diepresse.com/41454549/macron-warnt-vor-kuerzung-von-ukraine-hilfen" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Deutschland und vier EU-Staaten einigen sich offenbar auf Abschiebezentren in Ruanda</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-5</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>In den Zentren sollen Menschen ohne Bleiberecht untergebracht werden; ihre Abschiebung soll künftig direkt aus Ruanda erfolgen. Kritiker warnen vor Rechtsstaats- und Menschenrechtsfragen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/EU-Staaten-einigen-sich-offenbar-mit-Ruanda-auf-Abschiebezentrum-id31533720.html" />
+<r724:quelle url="https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast" />
+<r724:quelle url="https://www.berliner-zeitung.de/article/deutschland-eu-staaten-abschiebezentren-ruanda-abkommen-10596831" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach Flugchaos in den USA: Regierung macht Router aus den 1980er-Jahren verantwortlich</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-6</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Verkehrsminister Duffy nannte veraltete, überlastete Routertechnik als Ursache des rund vierstündigen Startstopps. Er fordert mindestens 30 Milliarden Dollar für die Modernisierung der Flugsicherung.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/usa-flugstop-flugsicherung-faq-100.html" />
+<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/fluege-in-den-usa-heben-wieder-ab,Vav9g1H" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Starshield-Drosselung macht russische Angriffe häufiger erfolgreich</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-7</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Wegen gedrosselter Datenübertragung verlieren ukrainische Abfangdrohnen bei höherem Flugtempo den Kontakt zu ihren Operateuren. Selenskyj forderte die USA und Elon Musk auf, die Beschränkungen aufzuheben.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/starshield-spacex-satelliteninternet-ukraine-usa-wolodymyr-selenskyj-gxe" />
+<r724:quelle url="https://de.euronews.com/2026/11/12/selenskyj-erneute-starlink-beschrankungen-bremsen-abwehr-russischer-drohnen" />
+<r724:quelle url="https://www.swissinfo.ch/ger/selenskyj-fordert-von-usa-ende-der-starshield-drosselung/92384528" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Hunderttausende in Prag protestieren gegen geplante Abschaffung der Rundfunkgebühr</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-8</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Auf der Letna-Ebene versammelten sich nach Veranstalterangaben bis zu 450.000 Menschen; viele trugen aus Zeitungen gefaltete Hüte als Zeichen der Pressefreiheit. Kritisiert wird ein Gesetzentwurf von Ministerpräsident Babis.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/tschechien-demo-medien-reform-protest-100.html" />
+<r724:quelle url="https://www.srf.ch/news/international/umstrittene-medienreform-grossdemo-in-tschechien-gegen-abschaffung-von-rundfunkgebuehr" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Ehren-Oscars für Glenn Close, Ridley Scott, Floyd Norman sowie Vachon und Koffler</title>
+<link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-9</guid>
+<pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
+<description>Die Akademie ehrte bei den Governors Awards unter anderem Glenn Close und Ridley Scott. Christine Vachon und Pamela Koffler erhielten als erstes unabhängiges Produzentenduo den Thalberg-Gedächtnispreis.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://press.oscars.org/news/academy-honor-glenn-close-floyd-norman-ridley-scott-and-christine-vachon-pamela-koffler-2026?pubDate=20260610" />
+<r724:quelle url="https://variety.com/2026/film/news/glenn-close-ridley-scott-governors-awards-honorary-oscars-1236771529/" />
+<r724:quelle url="https://www.indiewire.com/awards/results/2026-honorary-oscars-glenn-close-ridley-scott-governors-1235199401/" />
+<r724:ki>true</r724:ki>
+</item>
+
 <item>
 <title>Ukraine meldet nächtliche Angriffsserie auf Energie- und Bahninfrastruktur</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-1</link>
@@ -522,117 +639,6 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html" />
 <r724:quelle url="https://www.zeit.de/digital/2026-11/microsoft-stoerung-cloud-365-outlook-teams-copilot-gxe" />
 <r724:quelle url="https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Genf berät ab Montag über Schranken für autonome Waffensysteme</title>
-<link>https://radar724.de/posts/2026-11-14-abends.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-abends.html#artikel-9</guid>
-<pubDate>Sat, 14 Nov 2026 18:29:00 +0100</pubDate>
-<description>Die UN-Konferenz über konventionelle Waffen berät über tödliche autonome Waffensysteme. Menschenrechtsorganisationen fordern ein verbindliches Abkommen, UN-Chef Guterres warnte vor einer moralischen roten Linie.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.hrw.org/de/news/2026/11/12/menschenrechtsorganisationen-fordern-weltweites-abkommen-zum-umgang-mit-autonomen" />
-<r724:quelle url="https://www.ungeneva.org/en/meetings-events/events/observances-special-events/2026/11/seventh-review-conference-high" />
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-09/autonome-waffensysteme-uno-genf-tom-berendsen" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Anthropic beantragt Mega-Börsengang</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-1</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Der KI-Anbieter Anthropic hat nach Medienberichten die Zulassung für einen Börsengang beantragt, der zu den größten der Geschichte werden könnte. Damit zieht der OpenAI-Rivale seinen lang erwarteten Schritt auf den Kapitalmarkt in die konkrete Phase.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/" />
-<r724:quelle url="https://www.heise.de/" />
-<r724:quelle url="https://www.srf.ch/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: China-Chip-Warnung</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-2</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Medienberichte warnen vor Chinas Fortschritten bei Chipfertigung und deren Folgen für die westliche Halbleiterindustrie. Die Entwicklung verschärft den technologischen Wettbewerb zwischen den USA und China.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zeit.de/" />
-<r724:quelle url="https://www.euronews.com/" />
-<r724:quelle url="https://www.cbsnews.com/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Batam bekommt Rechenzentren</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-3</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Auf der indonesischen Insel Batam entstehen große Rechenzentren für internationale Tech-Konzerne. Die Anlagen machen das Land zu einem neuen Knotenpunkt der digitalen Infrastruktur in Südostasien.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.france24.com/" />
-<r724:quelle url="https://www.straitstimes.com/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Berlin beschließt Rekord-Haushalt 2027</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-4</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Der Bundestag hat den Haushalt für 2027 beschlossen, der mit einem Rekordvolumen aufwartet. Die Koalition setzt damit ihre finanzpolitischen Prioritäten für das kommende Jahr fest.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.bundestag.de/" />
-<r724:quelle url="https://www.tagesschau.de/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Mercedes stoppt Investitionen</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-5</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Mercedes-Benz drosselt einem Bericht zufolge geplante Investitionen angesichts unsicherer Absatzaussichten. Der Konzern reagiert damit auf die anhaltende Schwäche auf wichtigen Automarkten.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/" />
-<r724:quelle url="https://www.zeit.de/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Kassenärzte erwarten mehr Selbstzahler-Termine</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-6</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Die Kassenärztliche Vereinigung rechnet mit spürbar mehr Terminen, die Patienten privat zahlen müssen. Damit verschärft sich die Debatte um die Zwei-Klassen-Medizin in Deutschland.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/" />
-<r724:quelle url="https://www.n-tv.de/" />
-<r724:quelle url="https://www.apotheke-adhoc.de/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Eli Lilly bringt Abnehmspritze nach China</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-7</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Eli Lilly bereitet Berichten zufolge die Markteinführung des Wirkstoffs Orforglipron in China vor. Das Präparat könnte dort Millionen Patientenschichten erreichen und den Wettbewerb mit dänischen Anbietern anheizen.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.independent.co.uk/" />
-<r724:quelle url="https://www.marketscreener.com/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>WHO-PABS bis Mai 2027</title>
-<link>https://radar724.de/posts/2026-11-14-mittags.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-mittags.html#artikel-8</guid>
-<pubDate>Sat, 14 Nov 2026 12:28:00 +0100</pubDate>
-<description>Die WHO hat einem Bericht zufolge die Vergabe der Pathogen-Zugangs-Systematik PABS bis Mai 2027 abgesichert. Damit soll der weltweite Zugang zu Impfstoffen und Medikamenten in Pandemien geregelt werden.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.who.int/" />
 <r724:ki>true</r724:ki>
 </item>
 </channel>
