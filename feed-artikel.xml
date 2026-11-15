@@ -6,7 +6,104 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 14 Nov 2026 23:10:58 +0100</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 06:13:08 +0100</lastBuildDate>
+<item>
+<title>Update: SpaceX fängt erstmals die Starship-Oberstufe aus der Luft</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-1</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Nach gut 22 Stunden im Erdorbit ist die rund 50 Meter große Starship-Oberstufe erstmals von Greifarmen am Startturm in Texas aufgefangen worden. Zuvor hatte sie 26 Starlink-Satelliten ausgesetzt; der Boosterrückflug war am Freitag misslungen.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html" />
+<r724:quelle url="https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html" />
+<r724:quelle url="https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Google stellt Gemini 4 Hydrogen vor: KI-Modell für agentische Workflows</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-2</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Googles neues KI-Modell ist auf mehrstufige agentische Workflows ausgelegt und soll als effiziente Alternative zu den Versionen Argon und Carbon dienen. Die Fähigkeiten fließen unter anderem in die Google-Suche und Entwicklerwerkzeuge.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/" />
+<r724:quelle url="https://www.heise.de/news/Gemini-4-Hydrogen-Googles-effiziente-Alternative-zu-Argon-und-Carbon-11523818.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: US-Startstopp nach vier Stunden aufgehoben — veraltete, überlastete Netzwerktechnik als Ursache</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-3</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Die US-Flugaufsicht FAA stoppte am Freitag rund vier Stunden landesweit Starts, auch transatlantische Abflüge waren über Eurocontrol ausgesetzt. Ursache war überlastete, veraltete Netzwerktechnik — kein Cyberangriff.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html" />
+<r724:quelle url="https://mimikama.org/usa-startstopp-faa-flugsicherung-november-2026/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Zum Volkstrauertag: zentrale Gedenkstunde in der Neuen Wache in Berlin</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-4</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Zum Volkstrauertag wird in der Neuen Wache der Opfer von Krieg und Gewaltherrschaft gedacht; die Kranzniederlegung ist für 12:30 Uhr angesetzt. Unter den Teilnehmenden sind Steinmeier, Pistorius und Bundesratspräsident Wüst.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.protokoll-inland.de/SharedDocs/kurzmeldungen/Webs/PI/DE/nationale-gedenk-feiertage/volkstrauertag/volkstrauertag-2026.html" />
+<r724:quelle url="https://www.bundesrat.de/SharedDocs/termine/DE/praesident/2026/2026-11-15-volkstrauertag.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Acht Wochen nach der Landtagswahl: rot-rot-grüner Koalitionsvertrag in Mecklenburg-Vorpommern unterzeichnet</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-5</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>SPD, Linke und Grüne haben in Greifswald ihren 133-Seiten-Koalitionsvertrag unterzeichnet. Geplant sind unter anderem eine Landesförderbank und ein Darlehen von 1.000 Euro für Auszubildende.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zeit.de/news/2026-11/14/rot-rot-gruener-koalitionsvertrag-fuer-mv-unterschrieben" />
+<r724:quelle url="https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/gruene-und-spd-stimmen-koalitionsvertrag-in-mv-zu,mvlandtag-122.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: GCAP-Streit — Italien widerspricht Absage-Berichten und unterstützt deutschen Einstieg</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-6</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Die italienische Seite widerspricht Berichten über eine Absage an Berlin: Ein Einstieg Deutschlands ins Kampfjet-Projekt GCAP werde unterstützt, zunächst jedoch nur im Beobachterstatus.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://de.euronews.com/2026/11/14/kampfjet-projekt-gcap-italien-deutschland-mitsprache" />
+<r724:quelle url="https://tg24.sky.it/politica/2026/11/14/progetto-gcap-italia-germania" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>ESA-Sonde Hera liefert erste Nahaufnahmen des Doppelasteroiden Didymos</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-7</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Aus 56 bis 60 Kilometern Entfernung hat die ESA-Sonde Hera erstmals Didymos und Dimorphos abgelichtet. Sichtbar ist der rund 780 Meter große Asteroid mit Äquatorialgrat; die Sonde untersucht die Folgen des NASA-Impakts von 2022.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.dlr.de/de/aktuelles/nachrichten/2026/hera-sichtet-ziel-vorgeschmack-auf-untersuchung-des-doppelasteroiden-didymos-und-dimorphos" />
+<r724:quelle url="https://www.esa.int/de/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Der Start von Artemis II verursachte GPS-Störungen auf der Erde</title>
+<link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-morgens.html#artikel-8</guid>
+<pubDate>Sun, 15 Nov 2026 06:12:00 +0100</pubDate>
+<description>Einer Analyse zufolge rissen die Abgase der SLS-Rakete beim Start der NASA-Mondmission ein Loch in die Ionosphäre und störten GPS-Signale auf der Erde.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.spektrum.de/news/start-des-nasa-mondflugs-artemis-ii-verursachte-gps-stoerungen/2353976" />
+<r724:quelle url="https://www.heise.de/news/Artemis-2-Warum-die-NASA-Rakete-GPS-Signale-auf-der-Erde-stoert-11515698.html" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Tanker rammt Flusskreuzfahrtschiff in New Orleans: 32 Verletzte, Schiff kentert — Bürgermeisterin spricht von einem "Wunder"</title>
 <link>https://radar724.de/posts/2026-11-14-nachts.html#artikel-1</link>
@@ -531,110 +628,6 @@
 <r724:quelle url="https://orf.at/stories/3448064/"></r724:quelle>
 <r724:quelle url="https://www.sn.at/kultur/allgemein/asche-von-asturias-kehrt-nach-guatemala-zurueck-art-682096"></r724:quelle>
 <r724:quelle url="https://efe.com/cultura/2026-11-13/repatriacion-miguel-angel-asturias-guatemala/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: EU-Gipfel in Dublin ringt weiter um Friedensgesandten — Selenskyj kündigt „eine Stimme" Europas an</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-1</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Die 27 EU-Staaten beraten in Dublin ohne Einigung über einen Gesandten. Selenskyj kündigt eine gemeinsame Stimme Europas an, Kallas warnt vor russischen Fallen, Moskau lässt die Teilnahme offen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html"></r724:quelle>
-<r724:quelle url="https://de.euronews.com/2026/11/13/eu-gipfel-in-dublin-streit-um-ukraine-gesandten-uberlagert-beratungen"></r724:quelle>
-<r724:quelle url="https://taz.de/Europaeische-Politische-Gemeinschaft/!6229580/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: DAX schließt bei 26.743,94 Punkten — Rekordjagd pausiert zum Wochenschluss</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-2</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Nach vier Gewinntagen schließt der DAX am Freitag leicht unter dem Donnerstagsschluss. Nach dem Rekordhoch von 27.001,67 Punkten ist es eine Verschnaufpause.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-schluss-dax-trotzt-nasdaq-schwaeche-pause-12206992"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html"></r724:quelle>
-<r724:quelle url="https://digitaldaily.de/boerse-dax-aktuell/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>EY-Analyse: DAX-Konzerne steigern Quartalsgewinne deutlich — KI-Boom überkompensiert Autokrise</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-3</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Laut EY stiegen Umsatz und operativer Gewinn der DAX-Konzerne im dritten Quartal trotz Autokrise. Investitionen in KI-Rechenzentren stützen die Nachfrage vieler Branchen.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ey.com/de_de/newsroom/2026/11/ey-analyse-dax40-q3-2026"></r724:quelle>
-<r724:quelle url="https://www.boerse.de/nachrichten/Dax-Konzerne-steigern-Gewinne-trotz-Autokrise/38718352"></r724:quelle>
-<r724:quelle url="https://ch.marketscreener.com/boerse-nachrichten/ey-dax-konzerne-wachsen-im-3q-autobranche-bremst-ce785ed9dd81f620"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Keine Stromsteuer-Senkung im Haushalt 2027: Kritik aus Union und Wirtschaft</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-4</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Die Bundesregierung senkt die Stromsteuer vorerst nicht für alle. DIHK-Präsident Adrian spricht von einer herben Enttäuschung, auch aus der Union und den Ländern kommt Kritik.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"></r724:quelle>
-<r724:quelle url="https://www.dihk.de/en/newsroom/a-severe-disappointment-for-german-companies-193218"></r724:quelle>
-<r724:quelle url="https://www.ndr.de/nachrichten/schleswig-holstein/stromsteuer-stopp-schleswig-holstein-kritisiert-bundesregierung,stromsteuer-124.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>KI-Rechenzentren unter Druck: Auf Batam fehlt den Menschen das Wasser zum Kochen</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-5</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Auf der indonesischen Insel Batam protestieren Menschen gegen KI-Rechenzentren, weil die Wasserversorgung immer wieder ausfällt. Der Boom der Datenzentren kollidiert mit einer langen Dürre.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.france24.com/en/live-news/20261108-can-t-cook-or-shower-indonesians-take-aim-at-data-centres"></r724:quelle>
-<r724:quelle url="https://www.straitstimes.com/asia/se-asia/cant-cook-or-shower-indonesians-take-aim-at-data-centres"></r724:quelle>
-<r724:quelle url="https://www.swissinfo.ch/por/sem-%c3%a1gua-para-cozinhar-ou-tomar-banho%2c-indon%c3%a9sios-protestam-contra-%27data-centers%27/92359208"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Gestohlene Token: Secret-Stealer erreicht Tausende GitHub-Repositories</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-6</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Angreifer nutzten laut Sicherheitsforschern fast 5.000 gekaperte Konten, um in über 1.800 Repositories Code zu platzieren, der Zugangsdaten aus CI-Läufen stiehlt. Token-Rotation wird empfohlen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html"></r724:quelle>
-<r724:quelle url="https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/"></r724:quelle>
-<r724:quelle url="https://threat-intelligence.redeyesecurity.com/blog/hijacked-github-accounts-ci-secret-stealer-2026"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Iran meldet Angriff auf US-Radar in Bahrain — Tanker läuft im Golf auf eine Mine</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-7</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Die iranischen Revolutionsgarden melden die Zerstörung eines US-Frühwarnradars in Bahrain; die USA dementieren. Zudem traf eine Explosion einen Tanker in der Straße von Hormuz.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.at/story/3000000349188/iran-meldet-angriff-auf-us-radar-in-bahrain"></r724:quelle>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"></r724:quelle>
-<r724:quelle url="https://www.berliner-zeitung.de/article/iran-revolutionsgarden-melden-angriff-auf-us-radaranlage-in-bahrain-explosion-auf-lng-tanker-10593632"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Karlsruhe entscheidet am Mittwoch über BSW-Klage gegen den Bundestagswahl-Ausgang</title>
-<link>https://radar724.de/posts/2026-11-13-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html#artikel-8</guid>
-<pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
-<description>Das Bundesverfassungsgericht verkündet kommenden Mittwoch seinen Beschluss zur Wahlprüfungsbeschwerde der BSW. Der Partei fehlten rund 9.529 Stimmen zum Einzug.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.lto.de/recht/nachrichten/n/neuauszaehlung-bundestagswahl-2025-bsw-bverfg-wahlpruefungsbeschwerde"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/news/2026-11/13/bsw-wahlergebnis-karlsruhe-entscheidet-am-mittwoch"></r724:quelle>
-<r724:quelle url="https://www.berliner-zeitung.de/article/bsw-klage-neuauszaehlung-bundestagswahl-10594386"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
 </channel>
