@@ -6,7 +6,121 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 15 Nov 06:13:08 +0100</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 15 2026 12:21:00 +0100</lastBuildDate>
+<item>
+<title>Update: Anthropic-Aktien sollen am 19. November den Handel an der Nasdaq eröffnen</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-1</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Anthropic hat den Starttermin für seinen Börsengang konkretisiert: Die Aktien sollen am 19. November handeln, der Preis werde voraussichtlich am 18. November festgelegt. Bis zu rund 801 Millionen Aktien sollen verkauft werden, der Bruttoerlös könnte bis zu 64 Milliarden Dollar erreichen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Datum-offiziell-Anthropic-Aktien-ab-19-November-im-Handel-11522895.html" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html" />
+<r724:quelle url="https://de.euronews.com/2026/11/11/anthropic-borsengang-erstes-ki-ipo-gilt-als-gradmesser-fur-dauer-des-us-ki-booms" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Erster Eurovision Song Contest Asien: Die Philippinen gewinnen den Auftakt in Bangkok</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-2</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Die 19-jährige Philippinin Carmelle hat den ersten asiatischen Ableger des Eurovision Song Contest gewonnen. Elf Länder traten in Bangkok an; die EBU hofft auf eine dauerhafte Tradition des Formats.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ebu.ch/news/2026/11/winner-inaugural-eurovision-song-contest-asia-2026-in-bangkok" />
+<r724:quelle url="https://www.eurovision.com/stories/carmelle-is-our-first-ever-eurovision-asia-champion/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Italien verhängt 805 Millionen Euro Datenschutzstrafe gegen Meta</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-3</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Die italienische Datenschutzbehörde hat Meta 805 Millionen Euro Strafe auferlegt, weil das Unternehmen über seine Android-App ohne ausreichende Einwilligung auf Fotos von rund 20 Millionen Menschen in Italien zugriff.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/meta-strafe-italien-datenschutz-facebook-app-garante" />
+<r724:quelle url="https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen" />
+<r724:quelle url="https://www.n-tv.de/ticker/Italien-verhaengt-Meta-Strafe-wegen-Datenschutzverstoss-id31534499.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Jahrgangsbester der Steuerberaterprüfung gesteht: Minikamera, KI und Smartphone als Betrugs-Werkzeuge</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-4</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>In Südkorea hat der 34-jährige Jahrgangsbeste der staatlichen Steuerberaterprüfung einen KI-gestützten Betrug gestanden: Eine Minikamera fotografierte die Aufgaben, ein KI-Tool lieferte Antworten, die er auf dem Smartphone abrief.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.koreaherald.com/article/10937594" />
+<r724:quelle url="https://en.yna.co.kr/view/AEN20261115000753315" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Moskau bestätigt Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-5</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas ist bestätigt: Am Donnerstag treffen sich Trump, Putin und Xi am Rande des Apec-Gipfels in Shenzhen — Hauptthema laut Washington ist der Abbau von Atomwaffen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html" />
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/donald-trump-xi-jinping-wladimir-putin-china-apec-gipfel-atomwaffen" />
+<r724:quelle url="https://www.derstandard.at/story/3000000349218/wei223es-haus-k252ndigt-dreiertreffen-von-trump-mit-xi-und-putin-an" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Halbzeit der COP31: Tausende fordern in Antalya mehr Klimagerechtigkeit</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-6</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Am Rande der UN-Klimakonferenz in Antalya demonstrierten tausende Menschen für mehr Klimagerechtigkeit und kritisierten die zögerliche Finanzierungsdebatte der ersten Verhandlungswoche. Parallel tagt bis Mittwoch ein Gegen-Gipfel der Zivilgesellschaft.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html" />
+<r724:quelle url="https://www.zeit.de/gesellschaft/2026-11/klimaprotest-tuerkei-antalya-klimakonferenz-menschenrechte-gxe" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Erste offizielle Kandidatur im SPD-Rennen: Ex-Arbeitsminister Heil will Parteichef werden</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-7</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Hubertus Heil hat dem Parteivorstand seine Kandidatur für den SPD-Vorsitz beim Bundesparteitag Mitte Januar in Bremen angekündigt. Bislang war die Frage, wer die Chefposten übernimmt, offen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html" />
+<r724:quelle url="https://www.n-tv.de/politik/Hubertus-Heil-will-fuer-SPD-Vorsitz-kandidieren-id31534749.html" />
+<r724:quelle url="https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529262/hubertus-heil-bewirbt-sich-auf-spd-parteivorsitz.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Bundesrechnungshof mahnt Koalition zu härterem Sparkurs — Präsident warnt vor 123 Milliarden Schulden</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-8</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Bundesrechnungshof-Präsident Ansgar Heveling drängt Union und SPD auf einen härteren Sparkurs und warnt vor rund 123 Milliarden Euro Neuverschuldung im Jahr 2027. Reale Ausgaben lägen wegen der Sondervermögen deutlich höher.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zeit.de/politik/deutschland/2026-11/bundesrechnungshof-ansgar-heveling-cdu-bundeshaushalt-schuldenregel" />
+<r724:quelle url="https://www.thepioneer.de/originals/others/articles/rechnungshof-schmettert-klingbeil-etat-ab" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>EU und Großbritannien treffen sich am Freitag zum Gipfel in Brüssel</title>
+<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-9</guid>
+<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
+<description>Am Freitag beraten die EU und Großbritannien in Brüssel über eine engere Zusammenarbeit in Sicherheits-, Industrie- und Handelspolitik. Für Premierminister Burnham wäre ein Abschluss ein Meilenstein der Annäherung nach dem Brexit.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.consilium.europa.eu/ga/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/" />
+<r724:quelle url="https://www.gov.uk/government/news/prime-minister-to-attend-uk-eu-summit-in-brussels-on-20-november" />
+<r724:quelle url="https://www.sn.at/politik/weltpolitik/burnham-will-deal-mit-der-eu-ueber-zielgerade-bringen-art-683700" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: SpaceX fängt erstmals die Starship-Oberstufe aus der Luft</title>
 <link>https://radar724.de/posts/2026-11-15-morgens.html#artikel-1</link>
@@ -516,118 +630,6 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html"></r724:quelle>
 <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/europa-entsendet-diplomaten-zu-ukraine-friedensgespraechen,VasWAE4"></r724:quelle>
 <r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bk-merz-europaeischer-rat-dublin-2461066"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Papst Leo XIV. trifft in Peru sechs Missbrauchsopfer — Kirche müsse Wiedergutmachung leisten</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-2</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Papst Leo XIV. empfing in Lima sechs Missbrauchsopfer, einige aus dem Umfeld von Sodalicio. Er betonte bei beiden Treffen dieser Reise, die Kirche müsse den Betroffenen Wiedergutmachung leisten.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.vaticannews.va/de/papst/news/2026-11/papst-leo-xiv-traf-in-peru-missbrauchsopfer.html"></r724:quelle>
-<r724:quelle url="https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>FBI zerschlägt „FaceStealer"-Schema: Nordkoreanische Hacker erpressten Krypto-Anleger mit heimlichen Webcam-Videos</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-3</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>FBI und US-Justiz zerschlugen die Cloud-Infrastruktur der Gruppe Sapphire Sleet. Über gefälschte Videokonferenzen sollen in 18 Monaten mehr als 400 Millionen Dollar erbeutet worden sein.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.fbi.gov/investigate/cyber/facestealer-cryptocurrency-theft-scheme"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Cyberangriff auf Drohnenhersteller Quantum Systems: Bundeswehr nimmt Vector-Flotte vorsorglich aus dem Betrieb</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-4</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Nach dem Angriff nimmt die Bundeswehr ihre Vector-Drohnen außer Betrieb. Malware war in einer Update-Datei auf dem Firmenserver entdeckt worden, die Täterschaft ist ungeklärt.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.at/story/3000000349069/cyberangriff-auf-drohnenhersteller-bundeswehr-laesst-flotte-von-quantum-systems-am-boden"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/digital/2026-11/cyberangriff-quantum-systems-drohnenhersteller-bundeswehr-ukraine"></r724:quelle>
-<r724:quelle url="https://www.br.de/nachrichten/bayern/cyberangriff-bei-bayerischem-drohnenhersteller-quantum-systems,Van89wU"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Microsoft meldet Entspannung nach globaler Outlook-Störung — BSI sieht Bundesverwaltung nicht betroffen</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-5</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Microsoft meldet deutliche Verbesserungen bei Outlook, die E-Mail-Warteschlangen sind reduziert. Das BSI sieht die Bundesverwaltung nicht betroffen, die deutsche Wirtschaft war breit beeinträchtigt.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Indien verweigert 115 ausländischen Rednern die Einreise zum oppositionellen „Bharat Summit"</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-6</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Indien verweigert rund 115 ausländischen Teilnehmern des Bharat Summit der Kongresspartei die Einreise. Das Außenministerium beruft sich auf visa-politische Souveränität.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://timesofindia.indiatimes.com/india/visa-matters-are-sovereign-mea-responds-after-115-foreign-speakers-denied-nod-for-congress-event/articleshow/135811416.cms"></r724:quelle>
-<r724:quelle url="https://thewire.in/politics/115-bharat-summit-speakers-denied-entry-mea-invokes-sovereign-functions"></r724:quelle>
-<r724:quelle url="https://www.news18.com/india/proud-democracy-become-insecure-shashi-tharoor-slams-centre-as-115-foreign-speakers-for-bharat-summit-denied-entry-ws-lr-10424681.html"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Bundestag beschließt Geheimdienst-Reform: mehr operative Befugnisse für BND und Verfassungsschutz</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-7</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Der Bundestag gab BND und Verfassungsschutz erweiterte operative Befugnisse inklusive KI-gestützter Datenauswertung. Kritiker warnen vor Grundrechtseingriffen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/13/geheimdienstreform-mehr-macht-bnd-verfassungsschutz"></r724:quelle>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html"></r724:quelle>
-<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bnd-nachrichtendienste-reform-2449400"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Frankreichs Schulproteste gehen weiter: Mehr als 5.000 Festnahmen seit Montag</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-8</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Seit Beginn der Proteste an französischen Schulen wurden mehr als 5.000 Menschen festgenommen. Die Bewegung gegen verschärfte Prüfungsregeln hält an.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.de/story/3000000342540/sch252lerproteste-in-frankreich-mehr-als-5000-festnahmen-seit-montag"></r724:quelle>
-<r724:quelle url="https://www.n-tv.de/panorama/Festnahmen-und-Verletzte-bei-Protesten-an-Schulen-in-Frankreich-id31358883.html"></r724:quelle>
-<r724:quelle url="https://brf.be/international/2113479/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Rosalía dominiert die Latin Grammys: fünf Preise an einem Abend</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-9</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Rosalía gewinnt Album, Song und Video des Jahres bei den Latin Grammys. Die Ausnahme des Jahres ging überraschend an Milo J.</description>
-<category>Kultur &amp; Medien</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.de/story/3000000349102/fuenf-preise-rosalia-raeumt-bei-latin-grammys-ab"></r724:quelle>
-<r724:quelle url="https://www.zeit.de/news/2026-11/13/rosal-a-gelingt-rekord-bei-latino-musikpreis"></r724:quelle>
-<r724:quelle url="https://efe.com/cultura/2026-11-13/rosalia-gana-latin-grammy-cancion-del-ano-tema-la-perla/"></r724:quelle>
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Mehr als ein halbes Jahrhundert nach seinem Tod: Die Asche von Nobelpreisträger Miguel Ángel Asturias kehrt nach Guatemala zurück</title>
-<link>https://radar724.de/posts/2026-11-13-nachts.html#artikel-10</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-nachts.html#artikel-10</guid>
-<pubDate>Fri, 13 Nov 2026 23:41:00 +0100</pubDate>
-<description>Die Urne mit der Asche des Literaturnobelpreisträgers ist in Guatemala-Stadt eingetroffen. Am Sonntag soll sie in einem nach ihm benannten Kulturzentrum beigesetzt werden.</description>
-<category>Kultur &amp; Medien</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://orf.at/stories/3448064/"></r724:quelle>
-<r724:quelle url="https://www.sn.at/kultur/allgemein/asche-von-asturias-kehrt-nach-guatemala-zurueck-art-682096"></r724:quelle>
-<r724:quelle url="https://efe.com/cultura/2026-11-13/repatriacion-miguel-angel-asturias-guatemala/"></r724:quelle>
 <r724:ki>true</r724:ki>
 </item>
 </channel>
