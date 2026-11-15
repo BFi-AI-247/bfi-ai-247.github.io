@@ -3,6 +3,12 @@
   "job": "Hexen",
   "laeufe": [
     {
+      "datum": "2026-11-15",
+      "ist_start": "2026-11-15T06:16:24+01:00",
+      "dauer_min": 61,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-14",
       "ist_start": "2026-11-14T06:06:21+01:00",
       "dauer_min": 3,
@@ -174,120 +180,6 @@
       "datum": "2026-10-17",
       "ist_start": "2026-10-17T06:04:49+02:00",
       "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-16",
-      "ist_start": "2026-10-16T05:46:00+02:00",
-      "dauer_min": 4,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-15",
-      "ist_start": "2026-10-15T05:37:09+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-14",
-      "ist_start": "2026-10-14T05:40:06+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-13",
-      "ist_start": "2026-10-13T06:23:52+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-12",
-      "ist_start": "2026-10-12T06:04:20+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-11",
-      "ist_start": "2026-10-11T05:36:01+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-10",
-      "ist_start": "2026-10-10T05:44:21+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-08",
-      "ist_start": "2026-10-08T05:41:55+02:00",
-      "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-07",
-      "ist_start": "2026-10-07T05:56:55+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-06",
-      "ist_start": "2026-10-06T06:30:18+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-05",
-      "ist_start": "2026-10-05T06:01:54+02:00",
-      "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-04",
-      "ist_start": "2026-10-04T05:51:09+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-03",
-      "ist_start": "2026-10-03T05:38:43+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-02",
-      "ist_start": "2026-10-02T06:16:55+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-01",
-      "ist_start": "2026-10-01T05:47:25+02:00",
-      "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-09-30",
-      "ist_start": "2026-09-30T05:48:07+02:00",
-      "dauer_min": 2,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-09-29",
-      "ist_start": "2026-09-29T05:55:07+02:00",
-      "dauer_min": 6,
-      "status": "fehler"
-    },
-    {
-      "datum": "2026-09-28",
-      "ist_start": "2026-09-28T06:16:21+02:00",
-      "dauer_min": 12,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-09-27",
-      "ist_start": "2026-09-27T06:31:52+02:00",
-      "dauer_min": 5,
       "status": "ok"
     }
   ]
