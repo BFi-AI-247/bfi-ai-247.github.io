@@ -35,10 +35,10 @@
     {
       "rolle": "Redaktion_R4",
       "dienstbeginn": "unbekannt (keine Angabe in Daten-Zeile)",
-      "letzte_aktivitaet": "19.10.2026, 00:45 Uhr",
+      "letzte_aktivitaet": "19.10.2026, 00:45:35 Uhr",
       "antworten": 40,
       "quelle": "Betreiber-Angabe laut Aktivitäts-Log",
-      "stand": "19.10.2026, 00:45 Uhr"
+      "stand": "19.10.2026, 00:45:35 Uhr"
     },
     {
       "rolle": "Claude_Bridge",
@@ -65,5 +65,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-11-16T05:33:25.732+01:00"
+  "updated": "2026-11-16T09:20:24.114+01:00"
 }
