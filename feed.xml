@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 16 Nov 2026 06:08:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:16:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #241 — Tanker brennen nach Minentreffern in der Straße von Hormus — DAX stagniert vor Nvidia-Zahlen — 128 Staaten beraten in Genf über KI-Waffenregeln</title>
+<link>https://radar724.de/posts/2026-11-16-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html</guid>
+<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
+<description>Montag, 16. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 12:16 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #240 — Iran-Krise: Dritter US-Träger im Mittleren Osten — Nvidia nach Huang-Rücktritt unter Druck — COP31 tritt in die entscheidende Woche</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html</link>
@@ -105,12 +112,5 @@
 <pubDate>Thu, 12 Nov 2026 23:16:00 +0100</pubDate>
 <description>Donnerstag, 12. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 23:16 Uhr (Europe/Berlin)</description>
 </item>
-<item>
-<title>Russische Drohnenangriffe auf Kiew trotz Vermittlungsdiplomatie — DAX schließt nach Rekord-Ausflug bei 26.771,88 Punkten — EuGH weist alle polnischen Klagen gegen das EU-Klimapaket ab</title>
-<link>https://radar724.de/posts/2026-11-12-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-12-abends.html</guid>
-<pubDate>Thu, 12 Nov 2026 18:24:00 +0100</pubDate>
-<description>Donnerstag, 12. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 18:24 Uhr (Europe/Berlin)</description>
-</item>
-</channel>
+  </channel>
 </rss>
