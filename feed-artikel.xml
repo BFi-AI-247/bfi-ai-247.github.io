@@ -6,7 +6,90 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:10:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 23:17:00 +0100</lastBuildDate>
+<item>
+<title>Brüssel nach Dublin: EU-Außenminister starten die Ausarbeitung einer Ukraine-Verhandlungsstrategie</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-1</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Nach dem EU-Gipfel in Dublin bereiten die Außenminister in Brüssel die nächste Etappe vor: Europäer sollen künftig auch bei Verhandlungen über ein Ende des Ukraine-Krieges mit am Tisch sitzen. EU-Außenbeauftragte Kallas nannte Sanktionen und eingefrorene russische Staatsvermögen als Hebel für Forderungen an Russland.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html" />
+<r724:quelle url="https://taz.de/Treffen-der-EU-Aussenminister/!6230422/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: UNO fordert in Genf verbindliche Regeln für autonome Waffensysteme</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-2</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Zur siebten Überprüfungskonferenz der VN-Waffenkonvention in Genf hat UN-Generalsekretär Guterres Verhandlungen über ein rechtlich verbindliches Instrument zur Regulierung autonomer Waffensysteme gefordert. Menschliches Urteilen und menschliche Verantwortung müssten im Zentrum von Entscheidungen über Gewaltanwendung bleiben.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://news.un.org/en/story/2026/11/1168810" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Schweriner Landtag bestätigt Schwesig — SPD-Politikerin tritt dritte Amtszeit an</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-3</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Manuela Schwesig ist mit 39 Stimmen im ersten Wahlgang als Ministerpräsidentin von Mecklenburg-Vorpommern wiedergewählt worden und hat den Amtseid abgelegt. Ihre neue Koalition aus SPD, Linken und Grünen verfügt über genau 39 Mandate.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html" />
+<r724:quelle url="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/schwesig-zum-dritten-mal-zur-ministerpraesidentin-in-mv-gewaehlt,schwesig-420.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Wall Street beendet den Montag tief im Minus: S&amp;P 500 verliert 1,92 Prozent — Nasdaq gibt 2,49 Prozent ab</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-4</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Der Ausverkauf an der US-Technologiebörse hat sich fortgesetzt: Der S&amp;P 500 schloss 1,92 Prozent tiefer bei 7.416,59 Punkten, der Nasdaq Composite stürzte um 2,49 Prozent. Im Zentrum stand erneut der weiter unter Druck stehende Chipkonzern Nvidia vor seinem für Dienstag erwarteten Zahlenabend.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/aktien-new-york-schluss-weitere-tech-talfahrt-vor-nvidia-und-anthropic-1036770996" />
+<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169765468" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Hohe Energiepreise hinterlassen Spuren: Industrie verbrauchte 2025 fast drei Prozent weniger Energie</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-5</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Die deutsche Industrie hat 2025 laut Statistischem Bundesamt 2,9 Prozent weniger Energie verbraucht und damit den hohen Kosten Tribut gezollt. Am stärksten ging der Verbrauch in der Metallerzeugung und -bearbeitung zurück.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_400_435.html" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/energie/energieverbrauch-deutsche-industrie-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Erster Fehlflug in 20 Jahren: Vulcan-Rakete verliert 40 Amazon-Satelliten im Atlantik</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-6</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>United Launch Alliance ist erstmals in ihrer rund 20-jährigen Geschichte mit einer Mission gescheitert: Eine Vulcan-Rakete erreichte die Umlaufbahn nicht, die 40 Satelliten für Amazons Internetprojekt Leo sind verloren. Der Verlust ist ein Rückschlag im Wettrennen gegen Starlink.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html" />
+<r724:quelle url="https://www.n-tv.de/wissen/Amazon-verliert-bei-Absturz-einer-Vulcan-Rakete-40-Satelliten-id31536817.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Euclid-Katalog listet mehr als 15.000 kosmische Lupen — Helfer auf der Suche nach Dunkler Materie</title>
+<link>https://radar724.de/posts/2026-11-16-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html#artikel-7</guid>
+<pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
+<description>Ein internationales Team hat zur aktuellen Euclid-Datenfreigabe mehr als 15.000 Kandidaten starker Gravitationslinsen erfasst. Die natürlichen Lupen erlauben es, die Masse einzelner Galaxien samt ihrer Dunklen Materie zu vermessen; der vollständige Data Release 1 ist für Mitte 2027 geplant.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.forschung-und-wissen.de/nachrichten/astronomie/ein-weltraumteleskop-findet-auf-einen-schlag-15.000-moegliche-kosmische-lupen-133715866" />
+<r724:quelle url="https://pubs.euclid-ec.org/public/dr1/lines.pdf" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Deutschland und vier weitere EU-Staaten planen erstes Abschiebezentrum in Ruanda</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-1</link>
@@ -17,8 +100,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>EU verhängt Sanktionen gegen russische Propaganda-Maschine, Hacker und Banken</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-2</guid>
@@ -28,8 +110,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.consilium.europa.eu/de/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Estland schließt ab 1. Dezember Grenzübergänge zu Russland</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-3</guid>
@@ -39,8 +120,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Tech-Schwäche drückt den DAX ins Minus — Xetra-Schluss bei 26.598,64 Punkten</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-4</guid>
@@ -50,8 +130,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169769658" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Stahlgipfel in Salzgitter: Branche fordert verlässlichen Strompreis — mehr als 2.000 Beschäftigte demonstrieren</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-5</guid>
@@ -61,8 +140,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/stahlgipfel-klimawandel-produktion-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Tesla will drei Milliarden Euro in Grünheide stecken — künftig sollen dort Cybercabs laufen</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-6</guid>
@@ -72,8 +150,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.n-tv.de/wirtschaft/Tesla-will-drei-Milliarden-Euro-in-Werk-in-Gruenheide-bei-Berlin-investieren-id31539327.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Vor Koalitionsausschuss: Merz erwartet Einigung zur Stromsteuer-Senkung</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-7</guid>
@@ -83,8 +160,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Robert Pattinson wird neuer James Bond</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-8</guid>
@@ -94,8 +170,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Depardieu akzeptiert Urteil wegen sexueller Übergriffe und bittet um Entschuldigung</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-9</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-9</guid>
@@ -105,8 +180,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Botschaft aus dem Gefängnis: Britische Regierung empört über Russell-Brand-Statement</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html#artikel-10</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html#artikel-10</guid>
@@ -116,8 +190,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.zeit.de/news/2026-11/16/britische-regierung-empoert-ueber-russell-brand-statement" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Zwei Öltanker laufen in der Straße von Hormus auf Seeminen — Revolutionsgarden melden weitere Brände</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-1</guid>
@@ -128,8 +201,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
 <r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Fehlstart: Amazon verliert 40 Satelliten für sein Internetnetzwerk Leo</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-2</guid>
@@ -140,8 +212,7 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html" />
 <r724:quelle url="https://www.vkz.de/lokales/detailansicht/artikel/amazon-leo-verliert-40-satelliten-was-passiert-jetzt-369568/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Genfer Konferenz über autonome Waffensysteme beginnt — Druck auf ein Verhandlungsmandat wächst</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-3</guid>
@@ -152,8 +223,7 @@
 <r724:quelle url="https://unric.org/de/128-laender-beraten-ab-heute-ueber-beschraenkungen-fuer-ki-waffensysteme/" />
 <r724:quelle url="https://orf.at/stories/3448266/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Kreml bestätigt Dreiertreffen von Trump, Putin und Xi in dieser Woche</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-4</guid>
@@ -164,8 +234,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
 <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-16-bis-22-november,Vb77sYr" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Huthi-Miliz rückt nach Armeeangaben bis auf 60 Kilometer an Aden heran</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-5</guid>
@@ -176,8 +245,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
 <r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>DAX tritt zum Wochenauftakt auf der Stelle — Anleger warten auf Nvidia</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-6</guid>
@@ -188,8 +256,7 @@
 <r724:quelle url="https://www.finanzen.at/nachrichten/aktien/deutsche-boerse-news-wochenausblick-starke-zahlen-befluegeln-den-dax-1036768205" />
 <r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-dax-bleibt-trotz-tech-schwaeche-in-12208503" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>S&amp;P 500 schloss am Freitag leicht schwächer — Woche mit erster Gewinnerwoche seit Oktober</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-7</guid>
@@ -200,8 +267,7 @@
 <r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/freitagshandel-in-new-york-s-p-500-schlussendlich-in-rot-1036763512" />
 <r724:quelle url="https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Wochenblick: Nvidia-Quartalszahlen und Anthropic-Börsendebüt bestimmen die Börsenwoche</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-8</guid>
@@ -212,8 +278,7 @@
 <r724:quelle url="https://www.finanzen.at/nachrichten/aktien/deutsche-boerse-news-wochenausblick-starke-zahlen-befluegeln-den-dax-1036768205" />
 <r724:quelle url="https://goldesel.de/artikel/mittagsupdate-16-11-dax-tritt-vor-nvidia-zahlen-auf-der-stelle-chipwerte-schwach-rheinmetall-erholt-eu-genehmigt-commerzbank-uebernahme" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Dritter US-Träger erreicht den Mittleren Osten — Iran warnt, als Erster zuschlagen zu können</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-1</guid>
@@ -225,8 +290,7 @@
 <r724:quelle url="https://www.timesnownews.com/world/middle-east/third-us-aircraft-carrier-uss-roosevelt-reaches-middle-east-iran-says-still-in-state-of-war-article-156516778" />
 <r724:quelle url="https://gulfnews.com/world/americas/us-aircraft-carrier-uss-theodore-roosevelt-enters-mid-east-as-iran-blockade-expands-1.500748546" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>128 Staaten beraten in Genf über Grenzen für autonome Waffensysteme</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-2</guid>
@@ -238,8 +302,7 @@
 <r724:quelle url="https://orf.at/stories/3448266/" />
 <r724:quelle url="https://www.fuw.ch/boerse/newsticker/202611150187/128-laender-beraten-in-genf-ueber-grenzen-fuer-killerroboter/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach Huangs Rücktritt: US-Finanzminister fordert externen Nvidia-Chef</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-3</guid>
@@ -251,8 +314,7 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia" />
 <r724:quelle url="https://www.usatoday.com/story/tech/2026/11/12/jensen-huang-nvidia-ceo-resigns-affair-investigation/92734431007/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Papst Leo XIV. besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-4</guid>
@@ -264,8 +326,7 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon" />
 <r724:quelle url="https://www.vaticannews.va/de/papst/news/2026-11/leo-xiv-im-amazonas-rechte-der-indigenen-schuetzen.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Flugchaos in den USA geht in den dritten Tag</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-5</guid>
@@ -277,8 +338,7 @@
 <r724:quelle url="https://www.thestar.com.my/news/world/2026/11/16/us-air-travel-disruptions-continue-into-third-day" />
 <r724:quelle url="https://thepointsguy.com/news/faa-groundstop-flights-grounded-nationwide" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach schwerer Angriffsserie: Selenskyj kündigt Treffen von Ramstein-Gruppe und Koalition der Willigen an</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-6</guid>
@@ -290,8 +350,7 @@
 <r724:quelle url="https://www.swissinfo.ch/ger/selenskyj-hofft-auf-hilfe-beim-ramstein-treffen/92385779" />
 <r724:quelle url="https://www.rferl.org/a/ukraine-ramstein-coalition-willing-russia-zelenskyy/33899112.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: COP31 tritt in die entscheidende Woche — Ministerrunde in Antalya beginnt</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-7</guid>
@@ -302,8 +361,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html" />
 <r724:quelle url="https://de.nachrichten.yahoo.com/entscheidende-verhandlungswoche-un-klimakonferenz-antalya-031408719.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Indonesiens Präsident entschuldigt sich bei Singapur und Malaysia für Waldbrand-Smog</title>
 <link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-8</guid>
@@ -315,8 +373,7 @@
 <r724:quelle url="https://www.channelnewsasia.com/asia/indonesia-prabowo-apology-haze-6553166" />
 <r724:quelle url="https://www.straitstimes.com/asia/se-asia/indonesia-president-conveys-apology-to-singapore-malaysia-over-wildfire-haze" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Ukrainischer Drohnenangriff trifft Petrochemie-Komplex und Raffinerie in Nischnekamsk</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-1</guid>
@@ -328,8 +385,7 @@
 <r724:quelle url="https://www.berliner-zeitung.de/article/ukraine-angriffe-russland-raffinerie-tatarstan-brjansk-10599442" />
 <r724:quelle url="https://newsukraine.rbc.ua/news/russia-s-huge-petrochemical-plants-ablaze-1794732679.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Good News: Prinz Harry besucht überraschend die Ukraine und würdigt verwundete Veteranen</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-2</guid>
@@ -340,8 +396,7 @@
 <r724:quelle url="https://www.independent.co.uk/news/uk/home-news/ukraine-russia-lviv-canada-birmingham-b3085333.html" />
 <r724:quelle url="https://www.standard.co.uk/news/world/harry-veterans-ukraine-visit-invictus-games-b1304947.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Machtkampf um die SPD-Spitze: Heil kandidiert für den Parteivorsitz</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-3</guid>
@@ -353,8 +408,7 @@
 <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/hubertus-heil-will-fuer-spd-vorsitz-kandidieren,VayQqR4" />
 <r724:quelle url="https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Frankreichs Wahlkampf eskaliert an der Ukraine-Frage: Macron greift Le Pens Rückzugsszenario an</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-4</guid>
@@ -366,8 +420,7 @@
 <r724:quelle url="https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste" />
 <r724:quelle url="https://www.diepresse.com/41454549/macron-warnt-vor-kuerzung-von-ukraine-hilfen" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Deutschland und vier EU-Staaten einigen sich offenbar auf Abschiebezentren in Ruanda</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-5</guid>
@@ -379,8 +432,7 @@
 <r724:quelle url="https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast" />
 <r724:quelle url="https://www.berliner-zeitung.de/article/deutschland-eu-staaten-abschiebezentren-ruanda-abkommen-10596831" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Nach Flugchaos in den USA: Regierung macht Router aus den 1980er-Jahren verantwortlich</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-6</guid>
@@ -392,8 +444,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/usa-flugstop-flugsicherung-faq-100.html" />
 <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/fluege-in-den-usa-heben-wieder-ab,Vav9g1H" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Starshield-Drosselung macht russische Angriffe häufiger erfolgreich</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-7</guid>
@@ -405,8 +456,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/12/selenskyj-erneute-starlink-beschrankungen-bremsen-abwehr-russischer-drohnen" />
 <r724:quelle url="https://www.swissinfo.ch/ger/selenskyj-fordert-von-usa-ende-der-starshield-drosselung/92384528" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Hunderttausende in Prag protestieren gegen geplante Abschaffung der Rundfunkgebühr</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-8</guid>
@@ -418,8 +468,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/tschechien-demo-medien-reform-protest-100.html" />
 <r724:quelle url="https://www.srf.ch/news/international/umstrittene-medienreform-grossdemo-in-tschechien-gegen-abschaffung-von-rundfunkgebuehr" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Ehren-Oscars für Glenn Close, Ridley Scott, Floyd Norman sowie Vachon und Koffler</title>
 <link>https://radar724.de/posts/2026-11-15-nachts.html#artikel-9</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html#artikel-9</guid>
@@ -431,8 +480,7 @@
 <r724:quelle url="https://variety.com/2026/film/news/glenn-close-ridley-scott-governors-awards-honorary-oscars-1236771529/" />
 <r724:quelle url="https://www.indiewire.com/awards/results/2026-honorary-oscars-glenn-close-ridley-scott-governors-1235199401/" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Ukraine meldet nächtliche Angriffsserie auf Energie- und Bahninfrastruktur</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-1</guid>
@@ -444,8 +492,7 @@
 <r724:quelle url="https://www.n-tv.de/politik/16-15-Front-naehert-sich-Kramatorsk-zwei-Tote-bei-russischem-Beschuss-id30859357.html" />
 <r724:quelle url="https://newsukraine.rbc.ua/news/russia-strikes-ukraine-with-132-drones-overnight-1794725914.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Eintracht-Frauen feiern 5:1-Auswärtssieg in Leipzig und springen auf Tabellenplatz drei</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-2</guid>
@@ -456,8 +503,7 @@
 <r724:quelle url="https://www.mdr.de/sport/ergebnisse/spielstatistik-7320.html" />
 <r724:quelle url="https://www.kicker.de/fussball/heute-live" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Französische Protestbewegung geht in die fünfte Woche: Zehntausende auf der Straße, Hunderte Festnahmen</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-3</guid>
@@ -468,8 +514,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html" />
 <r724:quelle url="https://www.france24.com/fr/info-en-continu/20261115-manifestations-de-samedi-plus-de-400-interpellations-en-france" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Spaniens Wirtschaft wächst, doch die Menschen spüren es nicht: Wohnungskrise beherrscht den Wahlkampf</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-4</guid>
@@ -480,8 +525,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html" />
 <r724:quelle url="https://www.tagesschau.de/thema/spanien" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: Anthropic legt Termine für seinen Börsengang fest</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-5</guid>
@@ -492,8 +536,7 @@
 <r724:quelle url="https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html" />
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/digitales/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Krypto am Wochenende unter Druck: Bitcoin fällt aufs 12-Wochentief</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-6</guid>
@@ -504,8 +547,7 @@
 <r724:quelle url="https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion" />
 <r724:quelle url="https://www.investing.com/crypto/bitcoin/btc-eur-historical-data" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>Update: COP31-Halbzeit — UN-Klimachef Stiell mahnt: Ohne Kompromisse aller Staaten keinen gemeinsamen Erfolg</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-7</guid>
@@ -515,8 +557,7 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://unfccc.int/news/un-climate-chief-today-at-halfway-point-of-cop31-no-collective-success-without-compromise-from-every" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
+</item><item>
 <title>WMO-Bilanz zur COP31: 2026 eines der vier wärmsten Jahre — Meeresspiegel und Ozeanwärme auf Rekordniveau</title>
 <link>https://radar724.de/posts/2026-11-15-abends.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html#artikel-8</guid>
@@ -526,95 +567,5 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Anthropic-Aktien sollen am 19. November den Handel an der Nasdaq eröffnen</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-1</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Anthropic hat den Starttermin für seinen Börsengang konkretisiert: Die Aktien sollen am 19. November handeln, der Preis werde voraussichtlich am 18. November festgelegt. Bis zu rund 801 Millionen Aktien sollen verkauft werden, der Bruttoerlös könnte bis zu 64 Milliarden Dollar erreichen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/Datum-offiziell-Anthropic-Aktien-ab-19-November-im-Handel-11522895.html" />
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html" />
-<r724:quelle url="https://de.euronews.com/2026/11/11/anthropic-borsengang-erstes-ki-ipo-gilt-als-gradmesser-fur-dauer-des-us-ki-booms" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Erster Eurovision Song Contest Asien: Die Philippinen gewinnen den Auftakt in Bangkok</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-2</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Die 19-jährige Philippinin Carmelle hat den ersten asiatischen Ableger des Eurovision Song Contest gewonnen. Elf Länder traten in Bangkok an; die EBU hofft auf eine dauerhafte Tradition des Formats.</description>
-<category>Kultur &amp; Medien</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ebu.ch/news/2026/11/winner-inaugural-eurovision-song-contest-asia-2026-in-bangkok" />
-<r724:quelle url="https://www.eurovision.com/stories/carmelle-is-our-first-ever-eurovision-asia-champion/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Italien verhängt 805 Millionen Euro Datenschutzstrafe gegen Meta</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-3</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Die italienische Datenschutzbehörde hat Meta 805 Millionen Euro Strafe auferlegt, weil das Unternehmen über seine Android-App ohne ausreichende Einwilligung auf Fotos von rund 20 Millionen Menschen in Italien zugriff.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/meta-strafe-italien-datenschutz-facebook-app-garante" />
-<r724:quelle url="https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen" />
-<r724:quelle url="https://www.n-tv.de/ticker/Italien-verhaengt-Meta-Strafe-wegen-Datenschutzverstoss-id31534499.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Jahrgangsbester der Steuerberaterprüfung gesteht: Minikamera, KI und Smartphone als Betrugs-Werkzeuge</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-4</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>In Südkorea hat der 34-jährige Jahrgangsbeste der staatlichen Steuerberaterprüfung einen KI-gestützten Betrug gestanden: Eine Minikamera fotografierte die Aufgaben, ein KI-Tool lieferte Antworten, die er auf dem Smartphone abrief.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.koreaherald.com/article/10937594" />
-<r724:quelle url="https://en.yna.co.kr/view/AEN20261115000753315" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Moskau bestätigt Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-5</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas ist bestätigt: Am Donnerstag treffen sich Trump, Putin und Xi am Rande des Apec-Gipfels in Shenzhen — Hauptthema laut Washington ist der Abbau von Atomwaffen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html" />
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/donald-trump-xi-jinping-wladimir-putin-china-apec-gipfel-atomwaffen" />
-<r724:quelle url="https://www.derstandard.at/story/3000000349218/wei223es-haus-k252ndigt-dreiertreffen-von-trump-mit-xi-und-putin-an" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Halbzeit der COP31: Tausende fordern in Antalya mehr Klimagerechtigkeit</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-6</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Am Rande der UN-Klimakonferenz in Antalya demonstrierten tausende Menschen für mehr Klimagerechtigkeit und kritisierten die zögerliche Finanzierungsdebatte der ersten Verhandlungswoche. Parallel tagt bis Mittwoch ein Gegen-Gipfel der Zivilgesellschaft.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html" />
-<r724:quelle url="https://www.zeit.de/gesellschaft/2026-11/klimaprotest-tuerkei-antalya-klimakonferenz-menschenrechte-gxe" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Erste offizielle Kandidatur im SPD-Rennen: Ex-Arbeitsminister Heil will Parteichef werden</title>
-<link>https://radar724.de/posts/2026-11-15-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-mittags.html#artikel-7</guid>
-<pubDate>Sun, 15 Nov 2026 12:20:00 +0100</pubDate>
-<description>Hubertus Heil hat dem Parteivorstand seine Kandidatur für den SPD-Vorsitz beim Bundesparteitag Mitte Januar in Bremen angekündigt. Bislang war die Frage, wer die Chefposten übernimmt, offen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html" />
-<r724:quelle url="https://www.n-tv.de/politik/Hubertus-Heil-will-fuer-SPD-Vorsitz-kandidieren-id31534749.html" />
-<r724:quelle url="https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529262/hubertus-heil-bewirbt-sich-auf-spd-parteivorsitz.html" />
-<r724:ki>true</r724:ki>
-</item>
-</channel>
+</item></channel>
 </rss>
