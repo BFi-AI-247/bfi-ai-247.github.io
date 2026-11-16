@@ -6,7 +6,114 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:04:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:02:00 +0100</lastBuildDate>
+    <item>
+      <title>Frontlage ohne neue unabhängig bestätigte Geländebewegungen — OSINT-Feeds ohne Ukraine-Update</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-1</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Im Datenfenster des 16. November gibt es keine über Partei-Darstellungen hinaus bestätigte Änderung der Frontlage. Frontelligence und MilitaryLand ohne neue Ukraine-Updates, der ISW-Abruf bleibt blockiert.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://militaryland.net/">MilitaryLand</r724:quelle>
+      <r724:quelle url="https://frontelligence.substack.com/">Frontelligence Insight</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Odessa unter „Massenangriff“: 132 Langstrecken-Drohnen über Nacht — vier Tote und 69 Verletzte</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-2</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Russische Streitkräfte griffen die Oblast Odessa schwer an; laut ukrainischer Luftwaffe wurden 132 Drohnen gestartet, 106 abgefangen. Eine DTEK-Energieanlage wurde getroffen, rund 41.000 Haushalte waren zeitweise ohne Strom.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/15/8062966/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukrainische Langstreckenangriffe auf russische Petrochemie — Selenskyj: 55 Prozent der Raffineriekapazität „neutralisiert“</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Der ukrainische Generalstab meldet Treffer in Tatarstan, Astrachan und Orjol — Partei-Angaben ohne unabhängige Bestätigung. Selenskyjs 55-Prozent-Claim steht neben Agenturangaben von rund 30 Prozent Reduktion.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/15/8062944/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukrainian-drone-attacks-neutralized-55-of-russias-oil-refining-capacity-zelensky-says/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Starshield-Drossel: Selenskyj macht verlangsamte Satellitenverbindung für erfolgreiche russische Angriffe mitverantwortlich</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-4</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Selenskyj fordert die USA und Elon Musk zur Aufhebung der Drosselungen auf; die verlangsamte Verbindung erschwere die Abwehr des Energienetzes gegen strahlgetriebene Drohnen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.bbc.co.uk/news/articles/c6m25zg88k45o">BBC</r724:quelle>
+      <r724:quelle url="https://www.deutschlandfunk.de/selenskyj-macht-drosselung-von-us-satellitendienst-starshield-fuer-erfolgreiche-russische-angriffe-verantwortlich-v-102.html">Deutschlandfunk</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Schwarzes Meer: Rumänien verurteilt Drohnentreffer auf drei Handelsschiffe als „inakzeptabel“</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-5</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Ministerpräsident Niculescu nannte die Treffer vor der rumänischen Schwarzmeerküste inakzeptabel; Kampfflugzeuge wurden eingesetzt, Rumänien fordert NATO-Unterstützung.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/">Politico Europe</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/15/8062967/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>EU-Kräfte entern Tanker der russischen Schattenflotte im Mittelmeer — Kallas kündigt neue Sanktionen an</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-6</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Truppen der EU-Operation Irini enterten den Tanker MV Midag, der unter falscher Flagge fuhr. EU-Außenbeauftragte Kallas kündigte für Montag neue Sanktionen gegen Banken, Käufer und Unterstützer der Schattenflotte an.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kushner zur Verhandlungsrunde: Beide Seiten wissen, dass „praktische Kompromisse“ nötig sind</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-7</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Der US-Sonderunterhändler erklärte, beide Kriegsparteien verstünden trotz maximalistischer Rhetorik, dass ein Kriegsende Kompromisse erfordert. Eine bestätigte Einigung gibt es nicht.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/15/v-presse-soobschalos-o-maksimalistskih-pozitsiyah-storon-no-oni-ponimayut-chto-potrebuyutsya-kompromissy-dzhared-kushner-o-hode-peregovorov">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukraine und EU vereinbaren Reformschritte für Beitrittsgespräche — Zwischenziele 2027</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-8</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Kiew und Brüssel einigten sich auf Reform-Schritte für Benchmarks zu Demokratie und Rechtsstaat im ersten Halbjahr 2027; der Anstoß folgt auf den Erweiterungsbericht vom 4. November.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-eu-agree-on-reform-steps-to-advance-accession-talks-in-2027/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Estland schließt nach Anschlag auf Drohnenfabrik alle Grenzübergänge zu Russland — in Moldau wählt Gagausien</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-16.html#artikel-9</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 +0100</pubDate>
+      <description>Estland vereitelte nach Regierungsangaben einen von russischen Diensten beauftragten Brandanschlag und schließt zum 1. Dezember alle Grenzübergänge; in Gagausien finden Stichwahlen statt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-102.html">Deutschlandfunk</r724:quelle>
+      <r724:quelle url="https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker">Al Jazeera</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/pro-russian-autonomous-moldovan-region-to-hold-runoff-elections/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+
     <item>
       <title>Kostiantynivka: Putins „humanitäre Mission“ als Eroberungsweg gelesen — Kämpfe in der Stadt gehen weiter</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-15.html#artikel-1</link>
@@ -444,169 +551,6 @@
       <category>Politik</category>
       <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html">Grundlagen-/Zweitquelle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Front ohne bestätigte Bewegungen — Oblast Saporischschja nach ukrainischen Angaben über 700-mal beschossen</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-1</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Im Datenfenster sind keine unabhängig bestätigten Geländeveränderungen gemeldet. Ukrainische Stellen geben acht Tote und 19 Verletzte binnen 24 Stunden sowie über 700 Einschlagstellen im Oblast Saporischschja — Partei-Angaben, nicht unabhängig bestätigt. ISW- und MilitaryLand-Lagebewertungen sind verlinkt.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Russische Angriffe auf das Stromnetz: Hunderttausende ohne Strom — drei Tote durch Notstrom-Generator</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-2</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Die russischen Angriffsserien gegen die ukrainische Energieinfrastruktur lassen erneut Hunderttausende ohne Strom zurück; Al Jazeera beziffert rund 850.000 Betroffene. Im Oblast Kyjiw sterben drei Menschen durch unsachgemäß betriebene Generatoren.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html">tagesschau.de</r724:quelle>
-      <r724:quelle url="https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity">Al Jazeera</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>AKW Saporischschja: Netzanschluss unterbrochen und wiederhergestellt — Reaktor zwischenzeitlich auf Notstrom</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-3</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Die Außenstromversorgung des besetzten Atomkraftwerks Saporischschja wurde nach IAEA-Angaben erneut unterbrochen; die Anlage lief vorübergehend im Notstrom-Modus, bevor die Leitung wiederhergestellt wurde. Es ist eine von mehreren Unterbrechungen in diesem Herbst.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404">Deutsche Welle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Ukrainische Drohnen treffen Brücke über den Mius an Russlands Nachschub-Route — Verkehr gestoppt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-4</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Nach Angaben des Regionalgouverneurs (russische Parteiquelle) beschädigten ukrainische Drohnen eine strategische Brücke über den Mius an der Route R-280 im Oblast Rostow; der Verkehr wurde gestoppt, auch Kraftwerke wurden getroffen. Kyiv Post und Ukrinform bestätigen die Beschädigung.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/ukrainian-drones-hit-key-bridge-power-stations-in-russias-rostov-oblast-governor-says/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.kyivpost.com/post/89470">Kyiv Post</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Abu Dhabi: Europäische Beteiligung an den Gesprächen am 10./11. November bestätigt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-5</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Frankreichs Außenminister Barrot erklärt, die Europäer werden bei den US-vermittelten Gesprächen in Abu Dhabi vertreten sein — entgegen den Einwänden des Kremls. Zum Statuswechsel gegenüber dem Vortag: angekündigt, jetzt bestätigt. France 24 und NPR bestätigen unabhängig.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html">tagesschau.de</r724:quelle>
-      <r724:quelle url="https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says">France 24</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Moskau: Razzien mit über 200 Festnahmen — Festgenommene berichten von Militärvertrag-Angeboten</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-6</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Im Moskauer Zentrum nimmt die Polizei laut Meduza etwa 200 Menschen fest; mehrere Festgenommene berichten von Angeboten, Militärverträge zu unterschreiben. Die Behörden äußern sich nicht; die Berichte sind nicht unabhängig bestätigt.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://meduza.io/news/2026/11/08/v-moskve-na-kitay-gorode-politsiya-zaderzhala-okolo-200-chelovek-v-otdeleniyah-po-slovam-zaderzhannyh-im-predlagali-podpisat-kontrakt-na-voennuyu-sluzhbu">Meduza</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/moscow-police-detain-over-200-people-reportedly-forcing-some-to-sign-military-contracts/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Selenskyj ordnet kostenlosen Nahverkehr in Kyiv an — weitere SBU-Entscheidungen angekündigt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-09.html#artikel-7</guid>
-      <pubDate>Mon, 09 Nov 2026 06:28:00 +0100</pubDate>
-      <description>Wegen der russischen Brückenangriffe beauftragt Selenskyj den Ministerpräsidenten mit einem Programm für kostenlosen Nahverkehr in der Hauptstadt. Nach SBU-Entlassungen wegen Verbindungen zu einer kriminellen Vereinigung kündigt er weitere Personalentscheidungen an.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Front ohne bestätigte Bewegungen — HUR nennt Su-34-Besatzungen des Komyshuvakha-Angriffs</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-1</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Im Datenfenster sind keine bestätigten Geländegewinne gemeldet. Der ukrainische Militärgeheimdienst identifiziert vier Su-34-Besatzungen, die am tödlichen Angriff auf die Hilfsgüter-Ausgabe beteiligt gewesen sein sollen — Partei-Angabe.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/military-intelligence-identifies-russian-soldiers-involved-in-deadly-komyshuvakha-aid-center-strike/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.understandingwar.org/analysis">ISW (Lagebewertung, verlinkt)</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Kyiv: Ballistische Nachtangriffe beschädigen Nordbrücke — landesweit Stromausfälle</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-2</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Ballistische Raketen treffen Kyiv; mindestens sechs Verletzte, die Nordbrücke wird gesperrt. Behörden melden Stromausfälle in mehreren Regionen; Selenskyj spricht von 36 Raketen und über 170 Drohnen — Partei-Angaben.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.dw.com/de/ukraine-massive-stromprobleme-nach-russischen-angriffen/a-79884371">Deutsche Welle</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Ukrainischer Massenschlag: Orel-Werk getroffen — Saratov-Raffinerie in Brand gemeldet</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-3</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Ziele in Orel, Saratov und Rostow werden angegriffen. Der Generalstab meldet einen Neptune-Treffer auf ein Elektronikwerk; zur Saratov-Raffinerie existieren nur Monitoring- und Gouverneurs-Angaben — nicht unabhängig bestätigt.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Abu Dhabi: Ryabkov erstmals in Moskauer Delegation — Umerov führt die Ukraine</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-4</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Für die trilateralen Gespräche am 10./11. November stehen die Delegationen: Moskau entsendet erstmals Ryabkov, die Ukraine schickt Geheimdienstchef Umerov. Die erweiterte russische Delegation könnte laut Bloomberg-Deutung substanziellere Gespräche andeuten.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Selenskyj: Die Feuerpause von Oleschky beweist Moskaus Stoppen-Können</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-5</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Im CNN-Interview argumentiert Selenskyj, die fünftägige Feuerpause von Oleschky habe gezeigt, dass eine Waffenruhe keine lange Vorbereitung brauche — das Hindernis sei Putins politischer Wille. Partei-Position Kyivs.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/zelensky-says-oleshky-ceasefire-shows-russia-can-halt-fighting-but-putin-is-unwilling/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Berlin am Limit: Pistorius verweigert weitere Patriots — Blumenthal plant Gesetz</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-6</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Deutschland kann vorerst keine weiteren Patriot-Systeme liefern, so Pistorius; er ruft andere Staaten zu mehr Beiträgen auf. US-Senator Blumenthal kündigt Gesetzgebung zur Ukraine-Unterstützung an.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/germany-cannot-provide-ukraine-with-more-patriot-systems-for-now-defense-minister-says/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/senator-blumenthal-to-introduce-legislation-supporting-ukraine-call-for-new-us-negotiators-starlink-controls/">Kyiv Independent</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-    <item>
-      <title>Rosstat-Leck: Hacker beanspruchen Daten zu 450.000 kriegsbedingten Todesfällen</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-08.html#artikel-7</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:00 +0100</pubDate>
-      <description>Hacker-Gruppen beanspruchen Zugriff auf eine interne Rosstat-Datenbank und leiten bis zu 450.000 kriegsbedingte Todesfälle ab. Die Angaben sind nicht unabhängig bestätigt, eine Prüfung steht aus.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
