@@ -7,6 +7,69 @@
     <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
     <language>de-de</language>
     <lastBuildDate>Tue, 17 Nov 2026 06:33:00 +0100</lastBuildDate>
+    <item>
+      <title>Telefonbetrüger nehmen Borkum ins Visier — QR-Code-Masche ohne Schaden</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-1</guid>
+      <pubDate>Tue, 17 Nov 2026 06:33:00 +0100</pubDate>
+      <description>Unbekannte Anrufer versuchen, per QR-Code an Zahlungen von Insulanern und Gästen zu kommen. Nach Polizeiangabe entstand kein Schaden — gewarnt wird vor Code-Weitergabe und Zahlungen auf Anweisung.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Fahrplan 2027: Verwandten-Jahresgästekarte erweitert, mehr Katamaran geplant</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-2</guid>
+      <pubDate>Tue, 17 Nov 2026 06:33:00 +0100</pubDate>
+      <description>Die AG Ems weitet die Verwandten-Jahresgästekarte aus und plant zusätzliche Katamaran-Verbindungen samt Wochenend-Ticket. Das Fahrgastsystem ist weiterhin im Update.</description>
+      <category>Fähre &amp; Schifffahrt</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Jawort auf der Düne — und das Nordsee-Aquarium sucht Künstler</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-3</guid>
+      <pubDate>Tue, 17 Nov 2026 06:33:00 +0100</pubDate>
+      <description>Auf der Düne vor Borkum wurde ein Jawort gefeiert, während das Nordsee-Aquarium Künstlerinnen und Künstler für ein neues Projekt sucht. Zwei Inselgeschichten aus dem November.</description>
+      <category>Insel &amp; Kultur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Im Krieg verlorene Kirchenbücher kehren digital zurück</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-4</guid>
+      <pubDate>Tue, 17 Nov 2026 06:33:00 +0100</pubDate>
+      <description>Kirchenbücher, die im Krieg verloren gegangen waren, werden digital erschlossen und online zugänglich. Für Familienforscher öffnet sich damit ein Fenster in die Borkumer Vergangenheit.</description>
+      <category>Insel &amp; Geschichte</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Silvester an der Promenade: Lasershow und Party bleiben im Plan</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-5</guid>
+      <pubDate>Tue, 17 Nov 2026 06:33:00 +0100</pubDate>
+      <description>Die Silvester-Party an der Promenade mit Lasershow ist bestätigt. Statt Feuerwerk sorgt eine Lasershow für den Höhepunkt des Jahreswechsels auf der Insel.</description>
+      <category>Termine &amp; Vorschau</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
 <item>
       <title>Mit Borkum-Flagge und Plattdeutsch gegen Atomkraft in Eemshaven</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-1</link>
@@ -585,66 +648,6 @@
       <category>Borkum</category>
       <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.presseportal.de/blaulicht/pm/104235/6386406"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Borkums neuer Rat startet mit neuen Ausschüssen</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-1</guid>
-      <pubDate>Mon, 09 Nov 2026 06:11:17 +0100</pubDate>
-      <description>Der neue Stadtrat hat in der konstituierenden Sitzung die fünfjährige Amtszeit angetreten. Mit verjüngter Führung und neu zugeschnittenen Ausschüssen beginnt die Arbeit — im Rathaus ist vom Wunsch nach konstruktivem Miteinander die Rede.</description>
-      <category>Meldung des Tages</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Nordseeklinik-Verkauf weiterhin in der Schwebe</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-2</guid>
-      <pubDate>Mon, 09 Nov 2026 06:11:17 +0100</pubDate>
-      <description>Die prächtig angekündigten Pläne für die Nordseeklinik sind bislang nicht umgesetzt: Der Verkauf ist weiter nicht abgeschlossen, die Zukunft der Fläche bleibt offen.</description>
-      <category>Insel &amp; Wirtschaft</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Inselbahnen vor der Erneuerung — Abschied vom Diesel</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-3</guid>
-      <pubDate>Mon, 09 Nov 2026 06:11:17 +0100</pubDate>
-      <description>Die zwölf Inselbahnen von Borkum, Wangerooge und Langeoog müssen erneuert werden. Der Abschied vom Diesel steht im Raum, doch technische und finanzielle Hürden bleiben.</description>
-      <category>Insel &amp; Infrastruktur</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.nwzonline.de/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Neues Angebot: Rundflüge über Borkum</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-4</guid>
-      <pubDate>Mon, 09 Nov 2026 06:11:17 +0100</pubDate>
-      <description>Rundflüge zeigen Insel, Watt und Seehundbänke aus der Luft. Das neue Angebot richtet sich an Gäste und Insulaner auch in der Nebensaison.</description>
-      <category>Tourismus &amp; Ausflüge</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>„Saison der Sinne“: Programm für die stille Jahreszeit</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-09-morgens.html#artikel-5</guid>
-      <pubDate>Mon, 09 Nov 2026 06:11:17 +0100</pubDate>
-      <description>Unter diesem Titel läuft ein Insel-Programm rund um Genuss, Kultur und Entspannung — neue Anlässe für Gäste und Insulaner in der Nebensaison.</description>
-      <category>Tourismus &amp; Ausflüge</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
