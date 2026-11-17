@@ -3,6 +3,12 @@
   "job": "WZG",
   "laeufe": [
     {
+      "datum": "2026-11-17",
+      "ist_start": "2026-11-17T05:55:38+01:00",
+      "dauer_min": 4,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-16",
       "ist_start": "2026-11-16T05:27:25+01:00",
       "dauer_min": 6,
@@ -174,12 +180,6 @@
       "datum": "2026-10-18",
       "ist_start": "2026-10-18T05:52:10+02:00",
       "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-17",
-      "ist_start": "2026-10-17T05:24:31+02:00",
-      "dauer_min": 2,
       "status": "ok"
     }
   ]
