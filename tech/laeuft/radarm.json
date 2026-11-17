@@ -3,6 +3,12 @@
   "job": "RadarM",
   "laeufe": [
     {
+      "datum": "2026-11-17",
+      "ist_start": "2026-11-17T06:06:00+01:00",
+      "dauer_min": 20,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-16",
       "ist_start": "2026-11-16T06:04:00+01:00",
       "dauer_min": 12,
@@ -174,12 +180,6 @@
       "datum": "2026-10-15",
       "ist_start": "2026-10-15T06:10:34+02:00",
       "dauer_min": 3,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-14",
-      "ist_start": "2026-10-14T06:13:01+02:00",
-      "dauer_min": 2,
       "status": "ok"
     }
   ]
