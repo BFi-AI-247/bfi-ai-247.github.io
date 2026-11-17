@@ -6,7 +6,94 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 17 Nov 2026 12:15:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:10:00 +0100</lastBuildDate>
+<item>
+<title>Update: Krim-Brücke teilweise eingestürzt — Wadephul dringt auf Verhandlungslösung</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-1</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Einer der beiden Brückenbögen der Krim-Brücke ist nach einem ukrainischen Angriff eingestürzt, der Verkehr wurde unterbrochen. Bundesaußenminister Wadephul dringt auf eine Verhandlungslösung.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/thema/ukraine" />
+<r724:quelle url="https://www.forbes.com/sites/katyasoldak/2026/11/17/tuesday-november-17-russias-war-on-ukraine-news-and-information-from-ukraine/" />
+<r724:quelle url="https://www.n-tv.de/politik/06-11-Endler-Xi-Putin-und-Trump-wollen-sich-den-Globus-aufteilen-id30859357.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Deutschland und Norwegen kaufen US-Flugabwehrraketen für die Ukraine — 300 Millionen Dollar</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-2</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Berlin kauft gemeinsam mit Oslo über den Purl-Mechanismus ein US-Waffenpaket im Wert von rund 300 Millionen Dollar, Schwerpunkt Luftverteidigung. Pistorius betont: keine Wohltätigkeitsveranstaltung, sondern europäische Sicherheit.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html" />
+<r724:quelle url="https://www.berliner-zeitung.de/article/pistorius-kauft-mit-norwegen-us-patriot-raketen-fuer-die-ukraine-300-millionen-dollar-aus-berlin-10605654" />
+<r724:quelle url="https://de.euronews.com/2026/11/17/deutschland-und-norwegen-finanzieren-luftabwehr-fur-die-ukraine" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Zweites Handelsschiff in zwei Tagen: Tanker „Gas Husky“ sinkt nach Drohnentreffern im Schwarzen Meer</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-3</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Vor Bulgariens Küste ist der Gastanker „Gas Husky“ nach Drohnentreffern gesunken; die rund 19-köpfige Besatzung wurde gerettet. Es ist bereits das zweite Handelsschiff binnen zwei Tagen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.t-online.de/nachrichten/ausland/krisen/id_101532804/drohnenangriff-gastanker-sinkt-vor-bulgariens-kueste-19-seeleute-gerettet.html" />
+<r724:quelle url="https://sofiaglobe.com/2026/11/17/second-merchant-ship-in-two-days-sinks-off-bulgarias-coast/" />
+<r724:quelle url="https://www.seatrade-maritime.com/security/seafarers-injured-as-two-vessels-struck-in-black-sea-off-bulgaria" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Tagesrückblick: DAX schließt 2,08 Prozent tiefer bei 26.045 Punkten — Abend mit Nvidia-Zahlen</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-4</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Der DAX hat den Dienstag klar in Rot beendet und seit seiner Rekordjagd fast 1.000 Punkte eingebüßt. Anleger nehmen vor den Nvidia-Zahlen und dem Anthropic-Börsengang Risiken zurück.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-17-November-2026-id31541573.html" />
+<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-schluss-klare-verluste-nervositaet-vor-12210791" />
+<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/boerse-frankfurt-dax-gibt-zum-handelsende-nach-1036774821" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nachtsitzung im Kanzleramt: Koalition ringt um Milliarden für die Stromsteuer-Senkung</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-5</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Union und SPD beraten am Abend über die Senkung der Stromsteuer auf das EU-Mindestmaß zum 1. Januar. Für Merz steht seine Glaubwürdigkeit auf dem Spiel, die Gegenfinanzierung ist offen.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/koalition-cdu-csu-spd-stromsteuer-koalitionsausschuss-100.html" />
+<r724:quelle url="https://www.mdr.de/nachrichten/deutschland/politik/stromsteuer-senkung-streit-koalition,subventionen-104.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>ESA-Sonde Hera umkreist die Einschlagstelle des NASA-Asteroiden-Tests</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-6</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Die europäische Sonde Hera untersucht am Doppelsasteroiden Didymos aus der Nähe, was der NASA-Aufprall 2022 auf Dimorphos angerichtet hat — zentrale Erkenntnisse für den Schutz der Erde.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261115085545.htm" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>NASA lobt eine Million Dollar für Ideen für die erste dauerhafte Mondbasis aus</title>
+<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-7</guid>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
+<description>Im „Moon Base Challenge“ sucht die NASA Lösungen US-amerikanischer Studierender für Energieversorgung und Astronautensicherheit einer dauerhaften Mondaußenstelle.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.sciencedaily.com/news/space_time/space_missions/" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Datenleck mit Millionen Dokumenten: Neue Geldwäsche-Vorwürfe gegen die Deutsche Bank</title>
 <link>https://radar724.de/posts/2026-11-17-mittags.html#artikel-1</link>
@@ -512,94 +599,5 @@
 <r724:quelle url="https://goldesel.de/artikel/mittagsupdate-16-11-dax-tritt-vor-nvidia-zahlen-auf-der-stelle-chipwerte-schwach-rheinmetall-erholt-eu-genehmigt-commerzbank-uebernahme" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Dritter US-Träger erreicht den Mittleren Osten — Iran warnt, als Erster zuschlagen zu können</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-1</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Mit der USS Theodore Roosevelt läuft ein dritter amerikanischer Flugzeugträger vor die Küste des Iran ein. Teheran erklärt, es befinde sich weiter im Kriegszustand, und verhandelt die Wiederöffnung der blockierten Straße von Hormuz.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack" />
-<r724:quelle url="https://www.timesnownews.com/world/middle-east/third-us-aircraft-carrier-uss-roosevelt-reaches-middle-east-iran-says-still-in-state-of-war-article-156516778" />
-<r724:quelle url="https://gulfnews.com/world/americas/us-aircraft-carrier-uss-theodore-roosevelt-enters-mid-east-as-iran-blockade-expands-1.500748546" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>128 Staaten beraten in Genf über Grenzen für autonome Waffensysteme</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-2</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Die Vertragsstaaten der UN-Waffenkonvention beraten ab Montag über internationale Regeln für Killerroboter. Im Zentrum steht die menschliche Kontrolle über Maschinen, die über Leben und Tod entscheiden könnten.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.br.de/nachrichten/meldung/128-laender-beraten-ueber-grenzen-fuer-killerroboter,300825c5a" />
-<r724:quelle url="https://orf.at/stories/3448266/" />
-<r724:quelle url="https://www.fuw.ch/boerse/newsticker/202611150187/128-laender-beraten-in-genf-ueber-grenzen-fuer-killerroboter/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Huangs Rücktritt: US-Finanzminister fordert externen Nvidia-Chef</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-3</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Scott Bessent verlangt ein „dramatisches Shake-up“ und will wissen, ob Nvidia über Strohfirmen Chips nach China lieferte. Mehr als 7.500 Mitarbeiter unterschreiben derweil einen Aufruf zur Rückholung von Jensen Huang.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia" />
-<r724:quelle url="https://www.usatoday.com/story/tech/2026/11/12/jensen-huang-nvidia-ceo-resigns-affair-investigation/92734431007/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Papst Leo XIV. besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-4</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Kurz vor dem Ende seiner Südamerikareise verurteilt der Papst Morde an indigenen Anführern und die Abholzung des Regenwaldes. Er fordert den Schutz der Rechte der Urbevölkerung.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon" />
-<r724:quelle url="https://www.vaticannews.va/de/papst/news/2026-11/leo-xiv-im-amazonas-rechte-der-indigenen-schuetzen.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Flugchaos in den USA geht in den dritten Tag</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-5</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Seit dem landesweiten Startstopp waren mehr als 16.000 Flüge gestrichen oder verschoben. Die FAA nennt einen Gerätefehler als Ursache und erwartet Normalität im Laufe des Montags.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140" />
-<r724:quelle url="https://www.thestar.com.my/news/world/2026/11/16/us-air-travel-disruptions-continue-into-third-day" />
-<r724:quelle url="https://thepointsguy.com/news/faa-groundstop-flights-grounded-nationwide" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach schwerer Angriffsserie: Selenskyj kündigt Treffen von Ramstein-Gruppe und Koalition der Willigen an</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-6</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Die Ukraine setzt nach wochenlangen russischen Angriffen auf zwei Treffen ihrer westlichen Unterstützer. Die Ramstein-Runde müsse „Ergebnisse bringen“, sagte der Präsident.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.h.ua/2026/11/15/selenskyj-kuendigt-ramstein-und-koalitionstreffen-an" />
-<r724:quelle url="https://www.swissinfo.ch/ger/selenskyj-hofft-auf-hilfe-beim-ramstein-treffen/92385779" />
-<r724:quelle url="https://www.rferl.org/a/ukraine-ramstein-coalition-willing-russia-zelenskyy/33899112.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: COP31 tritt in die entscheidende Woche — Ministerrunde in Antalya beginnt</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html#artikel-7</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Ab Montag beraten die Minister über den Abschluss des Klimapakets. Ein Erfolg hängt nach tagesschau-Informationen vor allem von Geldzusagen für ärmere Länder ab.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html" />
-<r724:quelle url="https://de.nachrichten.yahoo.com/entscheidende-verhandlungswoche-un-klimakonferenz-antalya-031408719.html" />
-<r724:ki>true</r724:ki>
-</item></channel>
+</channel>
 </rss>
