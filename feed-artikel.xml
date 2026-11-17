@@ -6,7 +6,96 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 17 Nov 2026 18:10:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:04:00 +0100</lastBuildDate>
+<item>
+<title>Nvidia verdoppelt den Umsatz: Rekordquartal mit 115,8 Milliarden Dollar und Ausblick auf 130 Milliarden</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-1</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Nvidia hat im dritten Fiskalquartal 2027 den Umsatz um 103 Prozent auf 115,8 Milliarden Dollar gesteigert, der bereinigte Gewinn je Aktie übertraf die Erwartungen deutlich. Für das laufende Quartal kündigte der Konzern rund 130 Milliarden Dollar an. Es sind die ersten Zahlen nach dem Rücktritt von Gründer Jensen Huang.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027" />
+<r724:quelle url="https://www.zeit.de/wirtschaft/2026-11/nvidia-quartalszahlen-umsatz-gewinn-jensen-huang" />
+<r724:quelle url="https://www.marketbeat.com/earnings/reports/2026-11-17-nvidia-co-stock/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nvidias Aufsichtsrat schließt eine Rückkehr von Gründer Jensen Huang aus</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-2</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Der Aufsichtsrat hat den Rücktritt von Jensen Huang einstimmig angenommen und eine Wiedereinsetzung als CEO ausgeschlossen. Zuvor hatte Huang öffentlich angeboten zurückzukehren; gesucht wird nun unter internen und externen Kandidaten.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://wtop.com/national/2026/11/nvidia-establishes-committee-to-oversee-national-security-after-abrupt-departure-of-ceo-jensen-huang/" />
+<r724:quelle url="https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo" />
+<r724:quelle url="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Klassifiziertes NSA-Netz NSANet vorübergehend ausgefallen</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-3</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Das klassifizierte interne Kommunikationsnetz der NSA war vorübergehend nicht erreichbar, Mitarbeiter in Fort Meade wurden gestaffelt nach Hause geschickt. Die Behörde sprach von einer Beeinträchtigung während geplanter Wartung; nach CNN-Informationen gibt es keine Hinweise auf einen Cyberangriff.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cbsnews.com/news/nsas-classified-internal-network-goes-down/" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage" />
+<r724:quelle url="https://www.usnews.com/news/us/articles/2026-11-17/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Halbleiter-Ausverkauf an der Wall Street: S&P 500 mit tiefstem Schluss seit Ende Juli</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-4</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Der S&P 500 fiel um 1,03 Prozent auf 7.340,53 Punkte, der Dow gab 1,64 Prozent ab, der Nasdaq rutschte auf ein Siebenmonatstief. Auslöser waren der Ausverkauf bei Halbleiterwerten vor den Nvidia-Zahlen und Nervosität nach dem NSA-Netz-Ausfall.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html" />
+<r724:quelle url="https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-214025410.html" />
+<r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Euro etwas schwächer: EZB-Referenzkurs bei 1,0989 US-Dollar</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-5</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Die Europäische Zentralbank setzte den Referenzkurs am Dienstag auf 1,0989 US-Dollar, nach 1,1014 Dollar am Montag. Ein Dollar kostete damit 0,9100 Euro.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html" />
+<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169833037" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Selenskyj bestätigt Teilzerstörung der Krim-Brücke — Details der wochenlangen Operation</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-6</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Selenskyj sprach von der siebten Phase einer mehrwöchigen Operation, in der russische Luftabwehr und Radar ausgeschaltet wurden. In der finalen Nacht trafen Drohnen und Marschflugkörper Straßen- und Eisenbahnbrücke; die Trümmer versperren die Schiffsdurchfahrt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html" />
+<r724:quelle url="https://www.euronews.com/2026/11/17/how-ukrainian-forces-struck-putins-prized-and-heavily-defended-crimean-bridge" />
+<r724:quelle url="https://meduza.io/en/news/2026/11/17/zelensky-calls-crimea-bridge-strike-an-unprecedented-operation-says-ukraine-used-neptune-and-flamingo-missiles" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Russisches Militärtransportflugzeug An-12 in Sibirien abgestürzt — 19 Tote</title>
+<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-7</guid>
+<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
+<description>Eine Antonow An-12BK der russischen Luftwaffe stürzte nach einem Bordfeuer nahe Kemerowo ab, alle 19 Menschen an Bord starben. Das Verteidigungsministerium nennt eine technische Störung als vorläufige Ursache, eine Kommission ermittelt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.mdr.de/nachrichten/welt/osteuropa/politik/russland-krieg-kiew-krim-kertsch-bruecke-einsturz,ukraine-news-kw-47-100.html" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: Krim-Brücke teilweise eingestürzt — Wadephul dringt auf Verhandlungslösung</title>
 <link>https://radar724.de/posts/2026-11-17-abends.html#artikel-1</link>
@@ -513,90 +602,6 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
 <r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Fehlstart: Amazon verliert 40 Satelliten für sein Internetnetzwerk Leo</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-2</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Bei einem Fehlstart einer Vulcan-Rakete der ULA gingen 40 Satelliten des Projekts Amazon Leo verloren. Es ist der erste völlige Missionsverlust der ULA in rund zwanzig Jahren. Der Ausbau des Starlink-Konkurrenten könnte sich dadurch verzögern.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html" />
-<r724:quelle url="https://www.vkz.de/lokales/detailansicht/artikel/amazon-leo-verliert-40-satelliten-was-passiert-jetzt-369568/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Genfer Konferenz über autonome Waffensysteme beginnt — Druck auf ein Verhandlungsmandat wächst</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-3</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Vom 16. bis 20. November beraten in Genf 128 Staaten über Regeln für Waffensysteme mit künstlicher Intelligenz. Mehr als 70 Länder sowie UNO, humanitäre Organisationen und NGOs fordern formelle Verhandlungen über ein bindendes Abkommen; ein Beschluss wird bis Ende November erwartet.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://unric.org/de/128-laender-beraten-ab-heute-ueber-beschraenkungen-fuer-ki-waffensysteme/" />
-<r724:quelle url="https://orf.at/stories/3448266/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Kreml bestätigt Dreiertreffen von Trump, Putin und Xi in dieser Woche</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-4</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Der Kreml hat offiziell bestätigt, dass sich US-Präsident Trump, Russlands Putin und Chinas Xi diese Woche in China treffen. Auf der Agenda stehen unter anderem Atomwaffen-Reduzierungen sowie die Kriege in der Ukraine und im Iran.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-16-bis-22-november,Vb77sYr" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Huthi-Miliz rückt nach Armeeangaben bis auf 60 Kilometer an Aden heran</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-5</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Mehrere Armee- und Regierungsvertreter im Jemen erklären, die Huthi-Miliz habe zwei Bezirke unter ihre Kontrolle gebracht und stehe nur noch rund 60 Kilometer vor Aden. Damit rückt ein erneuter Vorstoß auf die Hafenstadt näher.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html" />
-<r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>DAX tritt zum Wochenauftakt auf der Stelle — Anleger warten auf Nvidia</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-6</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Der DAX notierte am Montagmittag mit 26.727 Punkten kaum verändert und blieb in Sichtweite seiner Rekordmarke von rund 27.000 Punkten vom Donnerstag. Vor den Nvidia-Quartalszahlen am Donnerstag erwarten Beobachter eine Phase des Abwartens.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/deutsche-boerse-news-wochenausblick-starke-zahlen-befluegeln-den-dax-1036768205" />
-<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-dax-bleibt-trotz-tech-schwaeche-in-12208503" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>S&amp;P 500 schloss am Freitag leicht schwächer — Woche mit erster Gewinnerwoche seit Oktober</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-7</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Der S&amp;P 500 beendete den Freitag bei 7.561,67 Punkten mit einem Minus von 0,40 Prozent; Technologieaktien bremsten. Über die Woche lag der Index dennoch mit rund 2,5 Prozent zum ersten Mal seit Anfang Oktober im Plus.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/freitagshandel-in-new-york-s-p-500-schlussendlich-in-rot-1036763512" />
-<r724:quelle url="https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wochenblick: Nvidia-Quartalszahlen und Anthropic-Börsendebüt bestimmen die Börsenwoche</title>
-<link>https://radar724.de/posts/2026-11-16-mittags.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-mittags.html#artikel-8</guid>
-<pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
-<description>Diese Woche stehen die Nvidia-Quartalszahlen am Donnerstag und der erwartete Börsenstart von Anthropic im Fokus. Abseits der Techbörse genehmigte die EU laut Marktbericht die angestrebte Commerzbank-Übernahme.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/deutsche-boerse-news-wochenausblick-starke-zahlen-befluegeln-den-dax-1036768205" />
-<r724:quelle url="https://goldesel.de/artikel/mittagsupdate-16-11-dax-tritt-vor-nvidia-zahlen-auf-der-stelle-chipwerte-schwach-rheinmetall-erholt-eu-genehmigt-commerzbank-uebernahme" />
 <r724:ki>true</r724:ki>
 </item>
 </channel>
