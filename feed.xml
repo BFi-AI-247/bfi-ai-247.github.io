@@ -6,7 +6,15 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 16 Nov 2026 23:17:00 +0100</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 06:14:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #244 — Erstmals gemeinsam: Europa, Kiew und die USA beraten über Ukraine-Verhandlungen — USA stoppen KI-Chip-Schlupfloch — Merz verspricht Einigung bei der Stromsteuer</title>
+<link>https://radar724.de/posts/2026-11-17-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-morgens.html</guid>
+<pubDate>Tue, 17 Nov 2026 06:08:00 +0100</pubDate>
+<description>Dienstag, 17. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:08 Uhr (Europe/Berlin)</description>
+</item>
+
 <item>
 <title>Ausgabe #243 — EU-Außenminister arbeiten an der Verhandlungsstrategie für die Ukraine — Nvidia-Schock zieht die Wall Street tief ins Minus — ULA-Rakete vernichtet 40 Amazon-Satelliten</title>
 <link>https://radar724.de/posts/2026-11-16-nachts.html</link>
@@ -104,13 +112,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-13-abends.html</guid>
 <pubDate>Fri, 13 Nov 2026 18:23:00 +0100</pubDate>
 <description>Freitag, 13. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:23 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #229 — EU-Gipfel ringt um Friedensgesandten für die Ukraine — Nvidia-Aktie auf Tiefstand seit März — SpaceX will erstmals beide Starship-Stufen fangen</title>
-<link>https://radar724.de/posts/2026-11-13-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-13-mittags.html</guid>
-<pubDate>Fri, 13 Nov 2026 12:40:00 +0100</pubDate>
-<description>Freitag, 13. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 12:40 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
