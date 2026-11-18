@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 18 Nov 2026 06:06:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 13:00:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #249 &mdash; Koalition senkt die Stromsteuer für alle &mdash; Apec-Auftakt: Xi fordert Abbau der Handelsbarrieren &mdash; Golfstaaten wehren iranische Angriffe ab</title>
+<link>https://radar724.de/posts/2026-11-18-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-mittags.html</guid>
+<pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
+<description>Mittwoch, 18. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 13:00 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #248 — Historisches Dreiertreffen von Trump, Xi und Putin bei Apec-Gipfel — Anthropic geht an die Börse — USA verlieren den Status masernfrei</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html</link>
@@ -116,13 +123,6 @@
 <description>Samstag, 14. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Kultur &amp; Medien · erstellt um 23:08 Uhr (Europe/Berlin)</description>
 </item>
 
-<item>
-<title>Ausgabe #234 — Trump, Putin und Xi treffen sich kommende Woche in China — USA sollen Ukraine Nato-Beitritt bei Gebietsverzicht ins Spiel gebracht haben — Microsoft beendet weltweite Störung</title>
-<link>https://radar724.de/posts/2026-11-14-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-14-abends.html</guid>
-<pubDate>Sat, 14 Nov 2026 18:29:00 +0100</pubDate>
-<description>Samstag, 14. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:29 Uhr (Europe/Berlin)</description>
-</item>
 
 
   </channel>
