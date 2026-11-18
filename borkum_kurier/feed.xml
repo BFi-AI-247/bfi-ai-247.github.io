@@ -6,8 +6,83 @@
     <atom:link href="https://radar724.de/borkum_kurier/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Lokalnachrichten für die Nordsee-Insel Borkum (Ableger von RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:33:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:17:00 +0100</lastBuildDate>
     <item>
+      <title>Borkums neues MVZ setzt auf bekannte Gesichter — Kassenpatienten warten weiter</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-1</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Das Medizinische Versorgungszentrum auf Borkum startet mit Ärzten aus der Insel-Versorgung. Kassenpatienten müssen weiterhin auf Termine warten — wann die Kassenzulassung greift, ist offen.</description>
+      <category>Meldung des Tages</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Nach der Saison: Borkum lockert Verkehrsregeln — Kleinbahn fährt mit zwei Bus-Zonen</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-2</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Mit dem Saisonende lockert Borkum seine Verkehrsregeln. Die Borkumer Kleinbahn vereinfacht ihre Bus-Tarife künftig mit zwei Zonen — einfachere Preise für Insulaner und Wintergäste.</description>
+      <category>Insel &amp; Verkehr</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Telefonbetrüger-Warnung bleibt aktuell — keine neuen Borkum-Vorkommnisse</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-3</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Die QR-Code-Masche der Telefonbetrüger bleibt Warnung des POL-LER zufolge aktuell, wurde aber nicht wiederholt. Die PI-Leer/Emden-Tagesmeldung weist keinen neuen Borkum-Bezug auf. Verhaltenstipp: auflegen und 110 wählen.</description>
+      <category>Blaulicht</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>„Das Meer braucht Dich“: Borkum räumt auf — Nationalpark-Feed wieder erreichbar</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-4</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Die Aufräumaktion „Borkum räumt auf. Das Meer braucht Dich!“ läuft weiter. Der News-Feed der Nationalparkverwaltung ist wieder abrufbar, meldet aber keine neue Borkum-Bezugs-Meldung.</description>
+      <category>Nationalpark &amp; Natur</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:quelle url="https://www.nationalpark-wattenmeer.de/feed/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Borkum als Nordsee- und Thalassoheilbad anerkannt</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-5</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Die staatliche Anerkennung Borkums als Nordsee- und Thalassoheilbad ist erneut bestätigt. Das Gütesiegel ist die amtliche Grundlage für Kur- und Gesundheitstourismus der Insel.</description>
+      <category>Insel &amp; Tourismus</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Silvester mit Lasershow ins Jahr 2027 — und Kunst im Nordsee-Aquarium</title>
+      <link>https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-18-morgens.html#artikel-6</guid>
+      <pubDate>Wed, 18 Nov 2026 06:17:00 +0100</pubDate>
+      <description>Die Silvester-Party mit Lasershow an der Promenade bleibt im Plan. Im Nordsee Aquarium laufen eine Ausstellung und die Suche nach Künstlern.</description>
+      <category>Termine &amp; Vorschau</category>
+      <category>Borkum</category>
+      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
+      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Telefonbetrüger nehmen Borkum ins Visier — QR-Code-Masche ohne Schaden</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-1</guid>
@@ -19,7 +94,7 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Fahrplan 2027: Verwandten-Jahresgästekarte erweitert, mehr Katamaran geplant</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-2</guid>
@@ -33,7 +108,7 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Jawort auf der Düne — und das Nordsee-Aquarium sucht Künstler</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-3</guid>
@@ -45,7 +120,7 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Im Krieg verlorene Kirchenbücher kehren digital zurück</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-4</guid>
@@ -57,7 +132,7 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Silvester an der Promenade: Lasershow und Party bleiben im Plan</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-17-morgens.html#artikel-5</guid>
@@ -83,7 +158,6 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/atomkraftwerk-neubau-an-grenze-zu-niedersachsen,atomkraft-152.html"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Niederlande ziehen zwei Kernkraftwerke nahe der Grenze in Erwägung</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-2</link>
@@ -96,7 +170,6 @@
       <r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/atomkraftwerk-neubau-an-grenze-zu-niedersachsen,atomkraft-152.html"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>AG Ems: Live-Auskunft gestört, Fahrplan 2027 mit Preiserhöhung bestätigt</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-3</link>
@@ -111,7 +184,6 @@
       <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Borkums neuer Rat hat die Arbeit aufgenommen</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-4</link>
@@ -125,7 +197,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Ruhige Nacht — kein Borkum-Vorkommnis im Meldefenster</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-5</link>
@@ -138,7 +209,6 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Borkumer Genussreise: Inselküche im November</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-6</link>
@@ -151,7 +221,6 @@
       <r724:quelle url="https://www.borkum-news.de/borkumer-genussreise-laedt-zum-kulinarischen-inselbummel-ein/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Borkum räumt auf: Bye-Bye-Plastik läuft weiter</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-16-morgens.html#artikel-7</link>
@@ -164,7 +233,6 @@
       <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-        
 <item>
       <title>Fahrplan 2027: AG Ems plant mehr Katamaran-Verbindungen und passt die Preise an</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-1</link>
@@ -179,7 +247,6 @@
       <r724:quelle url="https://www.ag-ems.de/fahrplan/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Borkums neuer Rat hat die Arbeit aufgenommen: Ausschüsse neu geordnet</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-2</link>
@@ -193,7 +260,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/artikel/1701306/So-koennen-Borkumer-ihr-Kurviertel-mitgestalten"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>SPD-Idee: Runder Tisch gegen Drogen auf der Insel</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-3</link>
@@ -206,7 +272,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Ruhige Nacht — kein Borkum-Vorkommnis im Meldefenster</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-4</link>
@@ -219,7 +284,6 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Sonntagstipp: Borkumer Genussreise — kulinarischer Inselbummel im November</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-5</link>
@@ -232,7 +296,6 @@
       <r724:quelle url="https://www.borkum-news.de/borkumer-genussreise-laedt-zum-kulinarischen-inselbummel-ein/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Silvester-Vorschau: Borkum feiert mit Lasershow ins Jahr 2027</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-6</link>
@@ -246,7 +309,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/artikel/1703499/Borkum-feiert-mit-Lasershow-ins-Jahr-2027"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Feuerwehr-Musikzug probt unter neuer Dirigentin</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-7</link>
@@ -259,7 +321,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>„Borkum räumt auf. Das Meer braucht Dich!“ — Aktion läuft weiter</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-8</link>
@@ -272,7 +333,6 @@
       <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Borkum als Nordsee- und Thalassoheilbad anerkannt</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-15-morgens.html#artikel-9</link>
@@ -298,7 +358,6 @@
       <r724:quelle url="https://www.borkum-news.de/leony-kommt-zu-den-beach-days-borkum-2027/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Borkums neuer Imagefilm ist online</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-14-morgens.html#artikel-2</link>
@@ -311,7 +370,6 @@
       <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Bye Bye Plastik läuft weiter — mit Blick auf die Riffe vor Borkum</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-14-morgens.html#artikel-3</link>
@@ -324,7 +382,6 @@
       <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Winterfahrplan 2026/27 steht: Im Januar fährt kein Katamaran</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-14-morgens.html#artikel-4</link>
@@ -338,7 +395,6 @@
       <r724:quelle url="https://faehre-inseln.de/aktuelles/borkum-winterfahrplan-2026-27-katamaran-pause/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Aufstieg auf den Neuen Leuchtturm — und das Aquarium öffnet</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-14-morgens.html#artikel-5</link>
@@ -351,7 +407,6 @@
       <r724:quelle url="https://www.borkum.de/veranstaltung/aufstieg-auf-den-neuen-leuchtturm/2026-11-14/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Ruhige Nacht — kein Borkum-Vorkommnis im Meldefenster</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-14-morgens.html#artikel-6</link>
@@ -364,8 +419,6 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-
-        
 <item>
       <title>AG Ems fährt 2027 mehr Katamaran — und hebt die Preise</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-1</link>
@@ -379,7 +432,6 @@
       <r724:quelle url="https://www.borkum-news.de/"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Borkum als Nordsee- und Thalassoheilbad anerkannt</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-2</link>
@@ -392,7 +444,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Borkums neues MVZ setzt auf bekannte Gesichter</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-3</link>
@@ -405,7 +456,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Feuerwehr-Musikzug probt mit neuer Dirigentin</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-4</link>
@@ -418,7 +468,6 @@
       <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Ruhige Nacht ohne Borkum-Vorkommnisse</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-5</link>
@@ -431,7 +480,6 @@
       <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    
 <item>
       <title>Saison der Sinne begleitet das Wochenende</title>
       <link>https://radar724.de/borkum_kurier/posts/2026-11-13-morgens.html#artikel-6</link>
@@ -576,78 +624,6 @@
       <category>Borkum</category>
       <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
       <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Ruhige Nacht: kein Borkum-Vorkommnis in der Polizei-Lage</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-11-morgens.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-11-morgens.html#artikel-6</guid>
-      <pubDate>Wed, 11 Nov 2026 06:19:00 +0100</pubDate>
-      <description>Die Polizei-Lage führt keine Borkum-Bezüge. Der Hinweis auf Telefonbetrüger bleibt aktuell: auflegen und die 110 wählen.</description>
-      <category>Blaulicht</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/nr/104235"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Drogenprävention: SPD schlägt Runden Tisch vor</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-1</guid>
-      <pubDate>Tue, 10 Nov 2026 06:05:00 +0100</pubDate>
-      <description>Borkums SPD-Fraktion schlägt der Insel einen Runden Tisch zur Drogenprävention vor. Der Vorstoß knüpft an den zerschlagenen mutmaßlichen Kokain-Händlerring vom Juni an, bei dem auch auf der Insel durchsucht wurde.</description>
-      <category>Meldung des Tages</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkumer-zeitung.de/ressort/borkum"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Winterfahrplan: heute drei Abfahrten je Richtung</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-2</guid>
-      <pubDate>Tue, 10 Nov 2026 06:05:00 +0100</pubDate>
-      <description>Der Wintertakt prägt den Fährbetrieb: AG Ems listet heute je Richtung drei Abfahrten, der Katamaran erscheint im Live-Plan nicht. Das Fahrgastsystem ist weiter im Update — Auskunft vor Fahrtantritt prüfen.</description>
-      <category>Fähre &amp; Schifffahrt</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.ag-ems.de/fahrplan"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Saison der Sinne, Genuss-Pass und Bye Bye Plastik im Inselwinter</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-3</guid>
-      <pubDate>Tue, 10 Nov 2026 06:05:00 +0100</pubDate>
-      <description>Saison der Sinne, Genuss-Pass und Bye Bye Plastik begleiten die Insel durch den November. Zehn Gastronomiebetriebe machen mit, gesammelter Strandmüll schützt den Nationalpark.</description>
-      <category>Termine &amp; Inselbetrieb</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.borkum.de/aktuelles/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>WSA Ems-Nordsee: Bewerbungsfrist für Ausbildungsplätze läuft</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-4</guid>
-      <pubDate>Tue, 10 Nov 2026 06:05:00 +0100</pubDate>
-      <description>Das Wasserstraßen- und Schifffahrtsamt Ems-Nordsee sucht zum 1. August 2027 Auszubildende und duale Studierende. Bewerbungsschluss ist der 20. November 2026.</description>
-      <category>Ausbildung &amp; Jobs</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.wsa-ems-nordsee.wsv.de/"></r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Ruhige Nacht für die Insel: keine Borkum-Vorkommnisse</title>
-      <link>https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/borkum_kurier/posts/2026-11-10-morgens.html#artikel-5</guid>
-      <pubDate>Tue, 10 Nov 2026 06:05:00 +0100</pubDate>
-      <description>Die aktuelle Tagesmeldung der Polizeiinspektion Leer/Emden listet Vorfälle aus Emden und Leer — Borkum-Bezüge stehen nicht darin. Der Hinweis auf Telefonbetrüger bleibt aktuell: auflegen und die 110 wählen.</description>
-      <category>Blaulicht</category>
-      <category>Borkum</category>
-      <dc:creator>Wattpost Borkum Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.presseportal.de/blaulicht/pm/104235/6386406"></r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
