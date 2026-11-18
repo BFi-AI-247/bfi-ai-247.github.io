@@ -26,19 +26,19 @@
     },
     {
       "rolle": "Mom_0",
-      "dienstbeginn": "16.09.2026",
-      "letzte_aktivitaet": "28.09.2026, 19:41 Uhr",
-      "antworten": 31,
+      "dienstbeginn": null,
+      "letzte_aktivitaet": null,
+      "antworten": null,
       "quelle": "Betreiber-Angabe laut Aktivitäts-Log",
-      "stand": "28.09.2026, 19:41 Uhr"
+      "stand": null
     },
     {
       "rolle": "Redaktion_R4",
-      "dienstbeginn": "unbekannt (keine Angabe in Daten-Zeile)",
-      "letzte_aktivitaet": "19.10.2026, 00:45:35 Uhr",
-      "antworten": 40,
+      "dienstbeginn": null,
+      "letzte_aktivitaet": null,
+      "antworten": null,
       "quelle": "Betreiber-Angabe laut Aktivitäts-Log",
-      "stand": "19.10.2026, 00:45:35 Uhr"
+      "stand": null
     },
     {
       "rolle": "Claude_Bridge",
@@ -65,5 +65,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-11-16T09:20:24.114+01:00"
+  "updated": "2026-11-18T05:40:11+01:00"
 }
