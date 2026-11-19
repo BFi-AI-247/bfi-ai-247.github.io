@@ -11,10 +11,10 @@
     {
       "rolle": "Architektur_R2.3",
       "dienstbeginn": "26.09.2026",
-      "letzte_aktivitaet": "26.10.2026, 16:44 Uhr",
-      "antworten": 43,
+      "letzte_aktivitaet": "19.11.2026, 13:31 Uhr",
+      "antworten": 44,
       "quelle": "Eigenmessung laut Aktivitäts-Log",
-      "stand": "26.10.2026, 16:44 Uhr"
+      "stand": "19.11.2026, 13:31 Uhr"
     },
     {
       "rolle": "Design_R3.3",
@@ -65,5 +65,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-11-19T12:28:47+01:00"
+  "updated": "2026-11-19T18:33:16+01:00"
 }
