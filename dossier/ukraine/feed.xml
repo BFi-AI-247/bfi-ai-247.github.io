@@ -6,7 +6,121 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:01:00 +0100</lastBuildDate>
+    <item>
+      <title>Update Krim-Brücke: Dritter Angriff binnen acht Tagen — Verkehr erneut eingestellt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-1</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>In der Nacht zum Donnerstag traf ein weiterer Angriff die Krim-Brücke, der dritte binnen einer Woche. Der russisch eingesetzte Gouverneur ließ den Verkehr einstellen; Reuters bestätigt den dritten Schlag vor dem Treffen von Trump, Putin und Xi.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.internazionale.it/ultime-notizie-reuters/2026/11/19/third-attack-in-a-week-suspends-traffic-over-crimean-bridge-russian-official-says">Reuters</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Neuer-Angriff-auf-die-Krim-Bruecke-Zugverkehr-eingestellt-id31550758.html">n-tv</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>OSINT-Lage: Keine unabhängig bestätigten Geländebewegungen im Datenfenster</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-2</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Frontelligence ist seit dem 11.11. ruhig, MilitaryLand meldet nichts Neues, der ISW-Abruf bleibt blockiert. Im Fenster liegen keine unabhängig bestätigten Frontlinien-Änderungen vor.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://militaryland.net/news/land-forces-put-formation-of-new-brigades-on-hold/">MilitaryLand</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Reuters-Exklusiv: Ukrainische Drohnen drücken Russlands Ölverarbeitung um 45 Prozent</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-3</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Laut Reuters-Berichten zweier Brancheninsider sank Russlands Rohölverarbeitung seit Ende Oktober um rund 45 Prozent; 15 von 35 großen Raffinerien sind betroffen. Die Schätzung ist nicht unabhängig verifiziert.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.marketscreener.com/news/drone-attacks-nearly-halve-russia-s-november-oil-refining-sources-say-ce785eddda8df522">MarketScreener (Reuters)</r724:quelle>
+      <r724:quelle url="https://newsukraine.rbc.ua/news/ukrainian-drone-strikes-slash-russia-s-daily-1795027166.html">RBC-Ukraine</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Krasnodar: Generalstab meldet Treffer auf zwei Raffinerien — Angriffe auf Öl- und Gas-Einrichtungen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-4</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Der ukrainische Generalstab (Partei-Angabe) meldet Treffer auf Ilsky und Afipsky; Moskau bestätigt nur Brände nach Drohnentrümmern. Zudem werden russische Angriffe auf Einrichtungen des staatlichen Öl- und Gassektors in zwei Oblasten gemeldet.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-drones-strike-2-russian-oil-refineries-in-krasnodar-krai-kyiv-says/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://meduza.io/en/news/2026/11/18/ukrainian-drones-strike-two-oil-refineries-in-southern-russia">Meduza</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063490/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russische Angriffe auf Zivilorte: Drohnentreffer in Tschuhujiw — vier Tote in Odessa</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-5</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Ein Wohngebäude in Tschuhujiw wurde von Drohnen getroffen, mindestens zwei Menschen verletzt; auf einem Markt in Slatopil wurden zwölf Menschen verletzt. In Odessa forderten Angriffe vier Tote und neun Verletzte.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063512/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://times.kharkiv.ua/ru/2026/11/18/chislo-postradavshih-v-chugueve-na-harkovshhine-vozroslo-do-dvuh/">Charkiw Times</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-drones-strike-2-russian-oil-refineries-in-krasnodar-krai-kyiv-says/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Nachbarn unter Druck: Moldau bestellt russischen Botschafter ein — Polen meldet vereitelten Sabotageplan</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-6</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Moldau bestellt nach mehreren Drohnen-Einflügen den russischen Botschafter ein. Polens Verteidigungsministerium meldet, einen russischen Grenz-Sabotageplan vereitelt zu haben.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.politico.eu/article/moldova-summons-russias-envoy-over-multiple-drone-incursions/">Politico Europe</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063521/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>EU-Kommission legt 45-Milliarden-Paket für 2027 vor — zwei Drittel des Finanzierungsbedarfs</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-7</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Die Kommission schlägt bis zu 45 Milliarden Euro für 2027 vor, über EU-Anleihen finanziert und vom Haushalt garantiert. Jetzt müssen die Mitgliedstaaten beschließen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en">EU-Kommission</r724:quelle>
+      <r724:quelle url="https://www.brusselstimes.com/eu-affairs/2412716/eu-proposes-e45b-funding-boost-for-ukraine-amidst-e70b-shortfall-in-2027">Brussels Times</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html">tagesschau</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>US-Warnung an Moskau vor dem Dreiergipfel — Selenskyj kündigt Alliierten-Treffen an</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-8</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Washington soll Moskau vor dem Treffen Trump-Putin-Xi klargemacht haben, jetzt zu verhandeln. Selenskyj kündigt ein Alliierten-Treffen an; beide Parteien verhandeln über eine weitere humanitäre Mission nach Oleshky-Art.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/19/the-kyiv-independent-ssha-predupredili-rossiyu-chto-ey-luchshe-dogovoritsya-o-mire-pryamo-seychas-potomu-u-trampa-budet-mensh">Meduza</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/russia-will-achieve-none-of-its-objectives-zelensky-details-upcoming-allies-meeting/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraine-russia-negotiating-another-oleshky-style-humanitarian-mission-lubinets-says/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Portugal lehnt F-16-Abgabe ab — Ukraine-Hilfe als innenpolitischer Hebel in den USA</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-19.html#artikel-9</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:00 +0100</pubDate>
+      <description>Portugal will keine F-16 abgeben, bildet aber weiter Piloten aus. US-Republikaner nutzen die Ukraine-Hilfe als Druckmittel; die EU-Kommission fordert Rechenschaft für Russlands Chemiewaffen-Einsatz.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063528/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063526/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/18/8063517/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Update Krim-Brücke: Selenskyj macht Sieben-Phasen-Operation öffentlich — Moskau beruft Krisensitzung ein</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-18.html#artikel-1</link>
