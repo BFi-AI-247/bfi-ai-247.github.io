@@ -6,6 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
+<lastBuildDate>Thu, 19 Nov 2026 23:25:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #255 — Schluss an der Wall Street: Dow verliert rund 1.100 Punkte — Update: Anthropic-Aktie beendet Börsendebüt bei 97,17 Dollar — IG Metall ruft zu ganztägigen Warnstreiks auf</title>
+<link>https://radar724.de/posts/2026-11-19-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-nachts.html</guid>
+<pubDate>Thu, 19 Nov 2026 23:25:00 +0100</pubDate>
+<description>Donnerstag, 19. November 2026 · Nachtausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:25 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #254 — Update: Anthropic-Aktie startet mit 34 Prozent Aufschlag — DAX schließt eine Woche nach dem Rekordhoch deutlich tiefer — Dreiergipfel von Trump, Xi und Putin endet mit Friedenserklärung</title>
 <link>https://radar724.de/posts/2026-11-19-abends.html</link>
@@ -13,7 +21,6 @@
 <pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
 <description>Donnerstag, 19. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:31 Uhr (Europe/Berlin)</description>
 </item>
-<lastBuildDate>Thu, 19 Nov 2026 18:31:00 +0100</lastBuildDate>
 <item>
 <title>Ausgabe #253 — Update: Börsen zählen die Stunden bis zu Anthropics Nasdaq-Debüt — Dax kehrt nach drei Verlusttagen ins Plus zurück — Voyager 1 ist einen Lichttag weit weg</title>
 <link>https://radar724.de/posts/2026-11-19-mittags.html</link>
@@ -21,7 +28,6 @@
 <pubDate>Thu, 19 Nov 2026 12:26:00 +0100</pubDate>
 <description>Donnerstag, 19. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 12:26 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #252 — Dreiergipfel von Trump, Xi und Putin in Shenzhen — Anthropic startet mit Rekord-Erlös an die Börse — Bund und UniCredit einigen sich auf die Commerzbank</title>
 <link>https://radar724.de/posts/2026-11-19-morgens.html</link>
@@ -29,7 +35,6 @@
 <pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
 <description>Donnerstag, 19. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 06:04 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #251 — Erster Dreiergipfel von Trump, Xi und Putin am Donnerstag — Fed kündigt Richtung weiterer Zinserhöhungen an — Dow Jones rutscht auf Fünf-Monats-Tief</title>
 <link>https://radar724.de/posts/2026-11-18-nachts-2.html</link>
@@ -37,7 +42,6 @@
 <pubDate>Wed, 18 Nov 2026 23:24:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 23:24 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #250 — DAX schließt unter 26.000 Punkten — Update: Trump und Putin reichen sich in Shenzhen die Hände — Gold gibt um fast drei Prozent nach</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html</link>
@@ -45,7 +49,6 @@
 <pubDate>Wed, 18 Nov 2026 18:44:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:44 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #249 — Koalition senkt die Stromsteuer für alle — Apec-Auftakt: Xi fordert Abbau der Handelsbarrieren — Golfstaaten wehren iranische Angriffe ab</title>
 <link>https://radar724.de/posts/2026-11-18-mittags.html</link>
@@ -53,7 +56,6 @@
 <pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 13:00 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #248 — Historisches Dreiertreffen von Trump, Xi und Putin bei Apec-Gipfel — Anthropic geht an die Börse — USA verlieren den Status masernfrei</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html</link>
@@ -61,7 +63,6 @@
 <pubDate>Wed, 18 Nov 2026 06:06:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 06:06 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #247 — Nvidia verdoppelt den Umsatz — Aufsichtsrat schließt Huang-Rückkehr aus — Selenskyj bestätigt Teilzerstörung der Krim-Brücke</title>
 <link>https://radar724.de/posts/2026-11-18-nachts.html</link>
@@ -69,7 +70,6 @@
 <pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 00:04 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #246 — Update: Krim-Brücke nach ukrainischem Angriff teilweise zerstört — DAX rutscht vor den Nvidia-Zahlen um zwei Prozent ab — ESA-Sonde Hera untersucht die Asteroiden-Einschlagstelle</title>
 <link>https://radar724.de/posts/2026-11-17-abends.html</link>
@@ -77,7 +77,6 @@
 <pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
 <description>Dienstag, 17. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:10 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #245 — Millionendatenleck belastet die Deutsche Bank — Kertsch-Brücke nach Angriff teilweise eingestürzt — DAX gibt vor den Nvidia-Zahlen nach</title>
 <link>https://radar724.de/posts/2026-11-17-mittags.html</link>
@@ -85,7 +84,6 @@
 <pubDate>Tue, 17 Nov 2026 12:08:00 +0100</pubDate>
 <description>Dienstag, 17. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 12:08 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #244 — Erstmals gemeinsam: Europa, Kiew und die USA beraten über Ukraine-Verhandlungen — USA stoppen KI-Chip-Schlupfloch — Merz verspricht Einigung bei der Stromsteuer</title>
 <link>https://radar724.de/posts/2026-11-17-morgens.html</link>
@@ -93,7 +91,6 @@
 <pubDate>Tue, 17 Nov 2026 06:08:00 +0100</pubDate>
 <description>Dienstag, 17. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:08 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #243 — EU-Außenminister arbeiten an der Verhandlungsstrategie für die Ukraine — Nvidia-Schock zieht die Wall Street tief ins Minus — ULA-Rakete vernichtet 40 Amazon-Satelliten</title>
 <link>https://radar724.de/posts/2026-11-16-nachts.html</link>
@@ -101,7 +98,6 @@
 <pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
 <description>Montag, 16. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:17 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #242 — Fünf EU-Staaten planen Abschiebezentrum in Ruanda — Tesla investiert drei Milliarden in Grünheide — Robert Pattinson wird neuer James Bond</title>
 <link>https://radar724.de/posts/2026-11-16-abends.html</link>
@@ -109,7 +105,6 @@
 <pubDate>Mon, 16 Nov 2026 18:56:00 +0100</pubDate>
 <description>Montag, 16. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 18:56 Uhr (Europe/Berlin)</description>
 </item>
-
 <item>
 <title>Ausgabe #241 — Tanker brennen nach Minentreffern in der Straße von Hormus — DAX stagniert vor Nvidia-Zahlen — 128 Staaten beraten in Genf über KI-Waffenregeln</title>
 <link>https://radar724.de/posts/2026-11-16-mittags.html</link>
@@ -117,14 +112,5 @@
 <pubDate>Mon, 16 Nov 2026 12:16:00 +0100</pubDate>
 <description>Montag, 16. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 12:16 Uhr (Europe/Berlin)</description>
 </item>
-
-<item>
-<title>Ausgabe #240 — Iran-Krise: Dritter US-Träger im Mittleren Osten — Nvidia nach Huang-Rücktritt unter Druck — COP31 tritt in die entscheidende Woche</title>
-<link>https://radar724.de/posts/2026-11-16-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-morgens.html</guid>
-<pubDate>Mon, 16 Nov 2026 06:08:00 +0100</pubDate>
-<description>Montag, 16. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Klima &amp; Umwelt · erstellt um 06:08 Uhr (Europe/Berlin)</description>
-</item>
-
   </channel>
 </rss>
