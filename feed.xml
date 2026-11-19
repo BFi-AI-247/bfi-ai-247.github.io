@@ -6,7 +6,15 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 19 Nov 2026 06:04:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:26:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #253 — Update: Börsen zählen die Stunden bis zu Anthropics Nasdaq-Debüt — Dax kehrt nach drei Verlusttagen ins Plus zurück — Voyager 1 ist einen Lichttag weit weg</title>
+<link>https://radar724.de/posts/2026-11-19-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-mittags.html</guid>
+<pubDate>Thu, 19 Nov 2026 12:26:00 +0100</pubDate>
+<description>Donnerstag, 19. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 12:26 Uhr (Europe/Berlin)</description>
+</item>
+
 <item>
 <title>Ausgabe #252 — Dreiergipfel von Trump, Xi und Putin in Shenzhen — Anthropic startet mit Rekord-Erlös an die Börse — Bund und UniCredit einigen sich auf die Commerzbank</title>
 <link>https://radar724.de/posts/2026-11-19-morgens.html</link>
@@ -22,6 +30,7 @@
 <pubDate>Wed, 18 Nov 2026 23:24:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 23:24 Uhr (Europe/Berlin)</description>
 </item>
+
 <item>
 <title>Ausgabe #250 — DAX schließt unter 26.000 Punkten — Update: Trump und Putin reichen sich in Shenzhen die Hände — Gold gibt um fast drei Prozent nach</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html</link>
@@ -116,14 +125,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-15-nachts.html</guid>
 <pubDate>Sun, 15 Nov 2026 23:55:00 +0100</pubDate>
 <description>Sonntag, 15. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 23:55 Uhr (Europe/Berlin)</description>
-</item>
-
-<item>
-<title>Ausgabe #238 — Russische Angriffsserie trifft Energie- und Bahninfrastruktur der Ukraine — Frankreichs Proteste gehen in die fünfte Woche — Bitcoin rutscht im Wochenendhandel aufs 12-Wochentief</title>
-<link>https://radar724.de/posts/2026-11-15-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-15-abends.html</guid>
-<pubDate>Sun, 15 Nov 2026 18:29:00 +0100</pubDate>
-<description>Sonntag, 15. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 18:29 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
