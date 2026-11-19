@@ -6,7 +6,111 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Frueh, mittags, abends - fuer alle. RSS-Feed der neuesten Einzelartikel.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 18 Nov 2026 23:24:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 06:04:00 +0100</lastBuildDate>
+<item>
+<title>Erstes Dreiertreffen von Trump, Xi und Putin in Shenzhen</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-1</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Am Rande des Apec-Gipfels sitzen Donald Trump, Xi Jinping und Wladimir Putin erstmals gemeinsam an einem Tisch. Themen sind neben dem Handelsstreit Abrüstung, Iran und die Ukraine; die Positionen klaffen teils weit auseinander.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html" />
+<r724:quelle url="https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit" />
+<r724:quelle url="https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Anthropic bepreist Börsengang auf 83 Dollar je Aktie</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-2</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Der KI-Anbieter Anthropic hat den Ausgabepreis auf 83 Dollar festgelegt; mit rund 980 Millionen Aktien und mehr als 80 Milliarden Dollar Erlös wird es der größte Börsengang aller Zeiten. Die Bewertung liegt bei etwa 1,5 Billionen Dollar, das Nasdaq-Debüt als „ANT“ startet heute.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/thema/k%C3%BCnstliche_intelligenz" />
+<r724:quelle url="https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c" />
+<r724:quelle url="https://invezz.com" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Microsoft stellt sieben eigene MAI-Modelle vor und attackiert die Konkurrenzpreise</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-3</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Auf der Ignite-Konferenz hat Microsoft nach eigenen Angaben sieben Modelle der MAI-Reihe vorgestellt. In der Keynote fielen aggressive Preisvergleiche: Je nach Modell sollen die Kosten nur zwei bis zwanzig Prozent der Wettbewerbspreise betragen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://news.microsoft.com/events/ignite/2026/live-news" />
+<r724:quelle url="https://daily.steinslab.io/de/events/2026-11-19-microsoft-mai-price-war/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Bundesregierung gibt Widerstand gegen UniCredit-Übernahme der Commerzbank auf</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-4</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Nach Gesprächen zwischen Finanzminister Klingbeil und UniCredit-Chef Orcel zieht der Bund seinen Widerstand gegen die Commerzbank-Übernahme zurück. Frankfurt als Sitz, AG-Status und Mittelstandsgeschäft bleiben zugesagt; über rund 45 Milliarden Euro wird berichtet.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html" />
+<r724:quelle url="https://www.br.de/nachrichten/meldung/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig,3008275d3" />
+<r724:quelle url="https://dealroom.co/news/174151-unicredit-and-berlin-strike-a-deal-on-commerzbank-settling-the-key-terms/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Börsenausblick: Warsh-Auftritt, Fed-Pfad und Anthropic-Debüt bestimmen den Donnerstag</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-5</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Am Abend tritt Notenbank-Kandidat Kevin Warsh auf; eine Fed-Erhöhung im Dezember gilt als wahrscheinlich. Die zehnjährige US-Rendite notiert über fünf Prozent, Gold und Öl stehen unter Druck.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://de.marketscreener.com/boerse-nachrichten/tagesvorschau-donnerstag-19-november-vorlaeufige-fassung-ce785eddda89ff23" />
+<r724:quelle url="https://www.aktiencheck.de/artikel/zinswende-nach-oben-fed-und-ezb-steuern-auf-zinserhoehungen-zu-warsh-spricht" />
+<r724:quelle url="https://www.riotimesonline.com/global-economy-briefing-november-19-2026/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-6</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Nach dem dritten Angriff binnen sieben Tagen ist der Zugverkehr über die Krim-Brücke eingestellt; die Brücke bleibt gesperrt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html" />
+<r724:quelle url="https://www.n-tv.de/politik/Neuer-Angriff-auf-die-Krim-Bruecke-Zugverkehr-eingestellt-id31550758.html" />
+<r724:quelle url="https://www.br.de/nachrichten/meldung/neuer-angriff-auf-die-krimbruecke%2C3008275d8" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>USA und Iran eskalieren im Golf: Kuwait aktiviert Luftverteidigung</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-7</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>Nach dem US-Schlag auf die Insel Qeschm hat Kuwait seine Luftverteidigung aktiviert, Bahrain meldet abgewehrte Angriffe. Die Rede ist von einer kalibrierten Eskalation entlang der Straße von Hormus.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/" />
+<r724:quelle url="https://www.sn.at/politik/weltpolitik/golfstaaten-wehrten-wieder-iranische-angriffe-ab-art-684630" />
+<r724:quelle url="https://www.al-monitor.com/originals/2026/11/gulf-countries-under-fire-after-us-hits-iran-island" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>USA und Venezuela unterzeichnen Militärabkommen — Hegseth in Caracas</title>
+<link>https://radar724.de/posts/2026-11-19-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-morgens.html#artikel-8</guid>
+<pubDate>Thu, 19 Nov 2026 06:04:00 +0100</pubDate>
+<description>US-Verteidigungsminister Hegseth ist als erstes Kabinettsmitglied seit dem Sturz Maduros in Caracas; die Staaten unterzeichneten ein Militärabkommen. Mit dem Ölabkommen solle die Straße von Hormus für die USA irrelevant werden, sagte Hegseth.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html" />
+<r724:quelle url="https://www.srf.ch/news/international/usa/hegseth-in-caracas-die-usa-und-venezuela-wollen-militaerisch-zusammenarbeiten" />
+<r724:quelle url="https://www.usnews.com/news/politics/articles/2026-11-18/hegseth-is-in-venezuela-to-meet-interim-authorities-latest-trump-cabinet-member-since-maduro-ouster" />
+<r724:ki>true</r724:ki>
+</item>
+
 <item>
 <title>Apec in Shenzhen: Erstes Dreiergipfeltreffen von Trump, Xi und Putin steht an</title>
 <link>https://radar724.de/posts/2026-11-18-nachts-2.html#artikel-1</link>
@@ -19,6 +123,7 @@
 <r724:quelle url="https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Schluss an der Wall Street: Dow auf Fünf-Monats-Tief, Nasdaq stemmt sich ins Plus</title>
@@ -34,6 +139,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Fed-Protokoll liest sich streng: Weitere Zinserhöhungen erwartet — größerer Schritt im Dezember im Gespräch</title>
 <link>https://radar724.de/posts/2026-11-18-nachts-2.html#artikel-3</link>
@@ -47,6 +153,7 @@
 <r724:quelle url="https://www.goldreporter.de/goldpreis-heute-unter-3800-usd-18-11-2026/marktbericht-gold/263163/" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Update: Anthropic bepreist Mega-Börsengang Berichten zufolge bei 83 Dollar — Handelstag ist Donnerstag</title>
@@ -62,6 +169,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Update: Golf-Eskalation geht weiter — Iran meldet Abschuss einer US-Drohne, Tanker geraten auf Minen</title>
 <link>https://radar724.de/posts/2026-11-18-nachts-2.html#artikel-5</link>
@@ -75,6 +183,7 @@
 <r724:quelle url="https://www.france24.com/en/live-news/20261118-gulf-countries-under-fire-after-us-hits-iran-island" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>EU plant 45-Milliarden-Kredit für die Ukraine — Selenskyj erwartet Berichte vom Shenzhener Dreiergipfel</title>
@@ -90,6 +199,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>COP31 in der Endphase: Staaten starten «Klima-Realitätscheck» — Kernfragen weiter offen</title>
 <link>https://radar724.de/posts/2026-11-18-nachts-2.html#artikel-7</link>
@@ -102,6 +212,7 @@
 <r724:quelle url="https://www.france24.com/en/live-news/20261118-fault-lines-widen-as-cop31-struggles-for-climate-deal" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Unwetterlage in Deutschland: Dauerregen und Sturmböen — DWD erwartet im Schwarzwald Unwettermengen bis Freitag</title>
@@ -117,6 +228,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Update: Trump und Putin schütteln sich in Shenzhen die Hände — historisches Dreiergipfeltreffen am Donnerstag</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-1</link>
@@ -131,6 +243,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Amazon investiert 6,3 Milliarden Euro in erneuerbare Energien in Indien</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-2</link>
@@ -143,6 +256,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/18/amazon-steckt-63-milliarden-euro-in-erneuerbare-energie-in-indien" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Update: Neue iranische Angriffe auf Kuwait und Bahrain — Saudi-Arabien verurteilt die Eskalation „aufs Schärfste“</title>
@@ -158,6 +272,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Slowakei: Tausende demonstrieren am Jahrestag der Samtenen Revolution gegen Ministerpräsident Fico</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-4</link>
@@ -171,6 +286,7 @@
 <r724:quelle url="https://thehill.com/homenews/ap/ap-international/ap-angry-crowds-rally-against-slovakias-pro-russian-leader-on-velvet-revolution-anniversary/" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Tagesrückblick: DAX verliert 1,19 Prozent und rutscht wieder unter 26.000 Punkte</title>
@@ -186,6 +302,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Wall Street schwankt im Minus: S&amp;P 500 gibt mittags 0,6 Prozent nach</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-6</link>
@@ -200,6 +317,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Öl gibt trotz Golf-Eskalation stark nach: Brent verliert mehr als vier Prozent</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-7</link>
@@ -212,6 +330,7 @@
 <r724:quelle url="https://ca.finance.yahoo.com/news/asian-markets-mostly-decline-wall-035255840.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Update: Anthropic legt Preisspanne für seinen Mega-Börsengang fest — Handel startet am Donnerstag</title>
@@ -227,6 +346,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Update: Nvidia-Aktie schwankt nach Quartalszahlen um rund fünf Prozentpunkte</title>
 <link>https://radar724.de/posts/2026-11-18-abends.html#artikel-9</link>
@@ -239,6 +359,7 @@
 <r724:quelle url="https://www.finanzen.net/nachricht/aktien/heute-im-fokus-18-11-2026-16072704" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Nach Marathonsitzung: Stromsteuer sinkt ab Januar für Privathaushalte und Wirtschaft auf das EU-Mindestmaß</title>
@@ -253,6 +374,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Cambridge Dictionary kürt „Human“ zum Wort des Jahres 2026</title>
 <link>https://radar724.de/posts/2026-11-18-mittags.html#artikel-2</link>
@@ -265,6 +387,7 @@
 <r724:quelle url="https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Kalifornien verklagt OpenAI: Generalstaatsanwalt wirft unzureichende Sicherheitsvorkehrungen vor</title>
@@ -280,6 +403,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Eskalation im Golf: Iran greift US-Stützpunkt in Kuwait an, Bahrain wehrt Angriffe ab</title>
 <link>https://radar724.de/posts/2026-11-18-mittags.html#artikel-4</link>
@@ -293,6 +417,7 @@
 <r724:quelle url="https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Update: Apec-Gipfel in Shenzhen eröffnet — Xi fordert offenen Handel und mehr KI-Zusammenarbeit</title>
@@ -308,6 +433,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Israel nach der Wahl: Knesset wählt Eisenkot-Vertrauten Kahana zum Parlamentspräsidenten</title>
 <link>https://radar724.de/posts/2026-11-18-mittags.html#artikel-6</link>
@@ -321,6 +447,7 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>SPD-Suche geht weiter: Heil will den Bundesvorsitz, Schwesig zögert, Klingbeils Fürsprecher formieren sich</title>
@@ -336,6 +463,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>EZB warnt: Überzogene KI-Bewertungen, Staatsschulden und geoökonomische Spannungen belasten die Finanzstabilität</title>
 <link>https://radar724.de/posts/2026-11-18-mittags.html#artikel-8</link>
@@ -347,6 +475,7 @@
 <r724:quelle url="https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Teuerung bleibt hoch: Eurostat bestätigt Eurozonen-Inflation von 4,0 Prozent für Oktober</title>
@@ -360,6 +489,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Erstmals Trump, Xi und Putin gemeinsam: USA kündigen Dreiertreffen am Apec-Gipfel an</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-1</link>
@@ -371,6 +501,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Entlastung in der Kinderarzt-Praxis: Versorgungsdichte in Deutschland hat sich verbessert</title>
@@ -384,6 +515,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Anthropic vor dem Börsengang: Preisfestsetzung läuft, Handel soll am Donnerstag beginnen</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-3</link>
@@ -395,6 +527,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/16/anthropic-borsengang-an-der-nasdaq-wird-zum-grosstest-fur-ki-geschaftsmodelle" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>OpenAI rüstet die Nato cyberseitig auf: Bündnis erhält Zugang zur KI-Plattform Daybreak</title>
@@ -408,6 +541,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Fast 200 Websites von BBC bis Air France Ziel von Hackerangriffen</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-5</link>
@@ -419,6 +553,7 @@
 <r724:quelle url="https://www.france24.com/en/live-news/20261117-websites-including-bbc-ikea-and-air-france-hit-by-attack-report" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Deutschland und Norwegen kaufen weitere US-Luftabwehrwaffen für die Ukraine</title>
@@ -432,6 +567,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Nach Drohnenfund: Moldau sperrt vorübergehend den gesamten Luftraum</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-7</link>
@@ -443,6 +579,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/17/drohnenalarm-moldau-schliesst-luftraum-uber-hauptstadt-chisinau" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Japan wirft Russland Luftraum-Verletzung vor und lässt Kampfjets aufsteigen</title>
@@ -456,6 +593,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Nach 26 Jahren vorbei: Die USA gelten offiziell nicht mehr als masernfrei</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-9</link>
@@ -468,6 +606,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Ansturm auf die Gutachter: Pflegegutachten-Anträge steigen vor der Reform deutlich</title>
 <link>https://radar724.de/posts/2026-11-18-morgens.html#artikel-10</link>
@@ -479,6 +618,7 @@
 <r724:quelle url="https://www.tagesschau.de/inland/gesellschaft/starker-anstieg-bei-pflegegutachten-vor-geplanter-reform-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Nvidia verdoppelt den Umsatz: Rekordquartal mit 115,8 Milliarden Dollar und Ausblick auf 130 Milliarden</title>
@@ -494,6 +634,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Nvidias Aufsichtsrat schließt eine Rückkehr von Gründer Jensen Huang aus</title>
 <link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-2</link>
@@ -507,6 +648,7 @@
 <r724:quelle url="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/" />
 <r724:ki>true</r724:ki>
 </item>
+
 
 <item>
 <title>Klassifiziertes NSA-Netz NSANet vorübergehend ausgefallen</title>
@@ -522,6 +664,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Halbleiter-Ausverkauf an der Wall Street: S&amp;P 500 mit tiefstem Schluss seit Ende Juli</title>
 <link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-4</link>
@@ -536,6 +679,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Euro etwas schwächer: EZB-Referenzkurs bei 1,0989 US-Dollar</title>
 <link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-5</link>
@@ -549,6 +693,7 @@
 <r724:ki>true</r724:ki>
 </item>
 
+
 <item>
 <title>Update: Selenskyj bestätigt Teilzerstörung der Krim-Brücke — Details der wochenlangen Operation</title>
 <link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-6</link>
@@ -560,113 +705,6 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html" />
 <r724:quelle url="https://www.euronews.com/2026/11/17/how-ukrainian-forces-struck-putins-prized-and-heavily-defended-crimean-bridge" />
 <r724:quelle url="https://meduza.io/en/news/2026/11/17/zelensky-calls-crimea-bridge-strike-an-unprecedented-operation-says-ukraine-used-neptune-and-flamingo-missiles" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Russisches Militärtransportflugzeug An-12 in Sibirien abgestürzt — 19 Tote</title>
-<link>https://radar724.de/posts/2026-11-18-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html#artikel-7</guid>
-<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
-<description>Eine Antonow An-12BK der russischen Luftwaffe stürzte nach einem Bordfeuer nahe Kemerowo ab, alle 19 Menschen an Bord starben. Das Verteidigungsministerium nennt eine technische Störung als vorläufige Ursache, eine Kommission ermittelt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.mdr.de/nachrichten/welt/osteuropa/politik/russland-krieg-kiew-krim-kertsch-bruecke-einsturz,ukraine-news-kw-47-100.html" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Update: Krim-Brücke teilweise eingestürzt — Wadephul dringt auf Verhandlungslösung</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-1</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Einer der beiden Brückenbögen der Krim-Brücke ist nach einem ukrainischen Angriff eingestürzt, der Verkehr wurde unterbrochen. Bundesaußenminister Wadephul dringt auf eine Verhandlungslösung.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/thema/ukraine" />
-<r724:quelle url="https://www.forbes.com/sites/katyasoldak/2026/11/17/tuesday-november-17-russias-war-on-ukraine-news-and-information-from-ukraine/" />
-<r724:quelle url="https://www.n-tv.de/politik/06-11-Endler-Xi-Putin-und-Trump-wollen-sich-den-Globus-aufteilen-id30859357.html" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Deutschland und Norwegen kaufen US-Flugabwehrraketen für die Ukraine — 300 Millionen Dollar</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-2</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Berlin kauft gemeinsam mit Oslo über den Purl-Mechanismus ein US-Waffenpaket im Wert von rund 300 Millionen Dollar, Schwerpunkt Luftverteidigung. Pistorius betont: keine Wohltätigkeitsveranstaltung, sondern europäische Sicherheit.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html" />
-<r724:quelle url="https://www.berliner-zeitung.de/article/pistorius-kauft-mit-norwegen-us-patriot-raketen-fuer-die-ukraine-300-millionen-dollar-aus-berlin-10605654" />
-<r724:quelle url="https://de.euronews.com/2026/11/17/deutschland-und-norwegen-finanzieren-luftabwehr-fur-die-ukraine" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Zweites Handelsschiff in zwei Tagen: Tanker „Gas Husky“ sinkt nach Drohnentreffern im Schwarzen Meer</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-3</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Vor Bulgariens Küste ist der Gastanker „Gas Husky“ nach Drohnentreffern gesunken; die rund 19-köpfige Besatzung wurde gerettet. Es ist bereits das zweite Handelsschiff binnen zwei Tagen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.t-online.de/nachrichten/ausland/krisen/id_101532804/drohnenangriff-gastanker-sinkt-vor-bulgariens-kueste-19-seeleute-gerettet.html" />
-<r724:quelle url="https://sofiaglobe.com/2026/11/17/second-merchant-ship-in-two-days-sinks-off-bulgarias-coast/" />
-<r724:quelle url="https://www.seatrade-maritime.com/security/seafarers-injured-as-two-vessels-struck-in-black-sea-off-bulgaria" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Tagesrückblick: DAX schließt 2,08 Prozent tiefer bei 26.045 Punkten — Abend mit Nvidia-Zahlen</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-4</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Der DAX hat den Dienstag klar in Rot beendet und seit seiner Rekordjagd fast 1.000 Punkte eingebüßt. Anleger nehmen vor den Nvidia-Zahlen und dem Anthropic-Börsengang Risiken zurück.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-17-November-2026-id31541573.html" />
-<r724:quelle url="https://www.ariva.de/news/aktien-frankfurt-schluss-klare-verluste-nervositaet-vor-12210791" />
-<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/boerse-frankfurt-dax-gibt-zum-handelsende-nach-1036774821" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Nachtsitzung im Kanzleramt: Koalition ringt um Milliarden für die Stromsteuer-Senkung</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-5</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Union und SPD beraten am Abend über die Senkung der Stromsteuer auf das EU-Mindestmaß zum 1. Januar. Für Merz steht seine Glaubwürdigkeit auf dem Spiel, die Gegenfinanzierung ist offen.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/koalition-cdu-csu-spd-stromsteuer-koalitionsausschuss-100.html" />
-<r724:quelle url="https://www.mdr.de/nachrichten/deutschland/politik/stromsteuer-senkung-streit-koalition,subventionen-104.html" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>ESA-Sonde Hera umkreist die Einschlagstelle des NASA-Asteroiden-Tests</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-6</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Die europäische Sonde Hera untersucht am Doppelsasteroiden Didymos aus der Nähe, was der NASA-Aufprall 2022 auf Dimorphos angerichtet hat — zentrale Erkenntnisse für den Schutz der Erde.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261115085545.htm" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>NASA lobt eine Million Dollar für Ideen für die erste dauerhafte Mondbasis aus</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html#artikel-7</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Im „Moon Base Challenge“ sucht die NASA Lösungen US-amerikanischer Studierender für Energieversorgung und Astronautensicherheit einer dauerhaften Mondaußenstelle.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.sciencedaily.com/news/space_time/space_missions/" />
 <r724:ki>true</r724:ki>
 </item>
 
