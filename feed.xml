@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 20 Nov 2026 19:00:29 +0100</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 23:34:14 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #259 — Dänemark weist russischen Verteidigungsattaché nach Mordkomplott aus — Anthropic beendet Rekord-Börsengang endgültig — COP31 geht in die Verlängerung</title>
+<link>https://radar724.de/posts/2026-11-20-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html</guid>
+<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
+<description>Freitag, 20. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:34 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #258 — DAX rutscht unter 25.000 Punkte — Warnstreiks stoppen die Bosch-Produktion — Kushner hält NATO-artige Garantien für die Ukraine für möglich</title>
 <link>https://radar724.de/posts/2026-11-20-abends.html</link>
@@ -91,12 +98,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-17-mittags.html</guid>
 <pubDate>Tue, 17 Nov 2026 12:08:00 +0100</pubDate>
 <description>Dienstag, 17. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 12:08 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #244 — Erstmals gemeinsam: Europa, Kiew und die USA beraten über Ukraine-Verhandlungen — USA stoppen KI-Chip-Schlupfloch — Merz verspricht Einigung bei der Stromsteuer</title>
-<link>https://radar724.de/posts/2026-11-17-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-morgens.html</guid>
-<pubDate>Tue, 17 Nov 2026 06:08:00 +0100</pubDate>
-<description>Dienstag, 17. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:08 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
