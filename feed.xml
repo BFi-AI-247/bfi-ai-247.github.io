@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 20 Nov 2026 06:18:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 13:43:00 +0100</lastBuildDate>
+	<item>
+<title>Ausgabe #257 — Russische Raketen treffen Kiew: Sechs Tote, drei Brücken beschädigt — Sechster Verlusttag: DAX kämpft um die 25.000 Punkte — Update: Anthropic-Aktie startet schwach in den zweiten Handelstag</title>
+<link>https://radar724.de/posts/2026-11-20-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-mittags.html</guid>
+<pubDate>Fri, 20 Nov 2026 13:43:00 +0100</pubDate>
+<description>Freitag, 20. November 2026 · Mittagsausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Weltgeschehen · erstellt um 13:43 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #256 — IG Metall legt die Industrie still: 24-Stunden-Warnstreiks laufen — Erste Völkermord-Feststellung gegen Myanmar — Jugendproteste in Dutzenden Städten</title>
 <link>https://radar724.de/posts/2026-11-20-morgens.html</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-16-nachts.html</guid>
 <pubDate>Mon, 16 Nov 2026 23:17:00 +0100</pubDate>
 <description>Montag, 16. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 23:17 Uhr (Europe/Berlin)</description>
-</item>
-<item>
-<title>Ausgabe #242 — Fünf EU-Staaten planen Abschiebezentrum in Ruanda — Tesla investiert drei Milliarden in Grünheide — Robert Pattinson wird neuer James Bond</title>
-<link>https://radar724.de/posts/2026-11-16-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-16-abends.html</guid>
-<pubDate>Mon, 16 Nov 2026 18:56:00 +0100</pubDate>
-<description>Montag, 16. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 18:56 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
