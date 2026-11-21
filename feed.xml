@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 20 Nov 2026 23:34:14 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:29:43 +0100</lastBuildDate>
+<item><title>Ausgabe #260 — Update: Zwei russische Raketen und eine Drohne stürzen in Polen ab — Katar kündigt 15 Milliarden Euro für Deutschland an — Trump droht US-KI-Firmen bei Rechenzentren im Ausland</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Samstag, 21. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 06:29 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #259 — Dänemark weist russischen Verteidigungsattaché nach Mordkomplott aus — Anthropic beendet Rekord-Börsengang endgültig — COP31 geht in die Verlängerung</title>
 <link>https://radar724.de/posts/2026-11-20-nachts.html</link>
@@ -93,11 +99,6 @@
 <pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
 <description>Dienstag, 17. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:10 Uhr (Europe/Berlin)</description>
 </item>
-<item><title>Ausgabe #245 — Millionendatenleck belastet die Deutsche Bank — Kertsch-Brücke nach Angriff teilweise eingestürzt — DAX gibt vor den Nvidia-Zahlen nach</title>
-<link>https://radar724.de/posts/2026-11-17-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-mittags.html</guid>
-<pubDate>Tue, 17 Nov 2026 12:08:00 +0100</pubDate>
-<description>Dienstag, 17. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 12:08 Uhr (Europe/Berlin)</description>
-</item>
+
   </channel>
 </rss>

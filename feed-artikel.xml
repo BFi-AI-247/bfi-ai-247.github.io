@@ -6,7 +6,109 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 20 Nov 2026 23:34:14 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:29:43 +0100</lastBuildDate>
+	<item>
+<title>Update: Zwei russische Raketen und eine Drohne in Polen abgestürzt — Rutte nennt Vorfall „schwerwiegend“ und reist nach Warschau</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-1</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Bei Nowy Lipowiec, Rudnik nad Sanem und Mołodycz gingen drei Objekte aus Russland nieder; einer war ein Marschflugkörper vom Typ Kh-101. Tusk nannte den Vorfall eine Provokation, NATO-Generalsekretär Rutte sicherte Polen Unterstützung zu und reist am Samstag nach Warschau.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/polen-marschflugkoerper-russland-100.html" />
+<r724:quelle url="https://de.nachrichten.yahoo.com/raketeneinschlag-nato-generalsekret%C3%A4r-sagt-polen-151600216.html" />
+<r724:quelle url="https://defence24.com/geopolitics/russian-missiles-hit-poland-nato-responds-but-moscow-will-not-stop" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Katar kündigt 15 Milliarden Euro Investitionen in Deutschland an — Merz und Emir vertiefen strategische Partnerschaft</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-2</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Zum Staatsbesuch von Emir Scheich Tamim bin Hamad Al Thani kündigte Katar in einer gemeinsamen Erklärung mit Bundeskanzler Merz Investitionen von 15 Milliarden Euro für fünf Jahre an — auch Sicherheit, Verteidigung und Cyberraum rücken näher zusammen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-15-milliarden-euro-investitionen-in-deutschland-2462194" />
+<r724:quelle url="https://www.n-tv.de/politik/Katar-investiert-Milliardensumme-in-Deutschland-id31560195.html" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Sturm verwüstet Tupanciretã in Brasilien: Drei Tote, Tausende Häuser beschädigt</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-3</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Eine Superzelle mit Böen bis 114 km/h verwüstete die Kleinstadt Tupanciretã im brasilianischen Rio Grande do Sul: Drei Menschen starben, rund 5.000 von etwa 8.600 Häusern wurden beschädigt, auch das einzige Krankenhaus wurde abgedeckt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/tempestade-mortes-danos-tupancireta-rs-chuva.ghtml" />
+<r724:quelle url="https://oglobo.globo.com/brasil/noticia/2026/11/20/temporal-causada-por-supercelula-em-tupancireta-rs-deixa-tres-mortos-60-feridos-e-cerca-de-5-mil-casas-destelhadas.ghtml" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Trump droht US-KI-Firmen mit „enormen Strafen und Steuern“ bei Rechenzentren im Ausland</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-4</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Trump kündigte an, Rechenzentren US-Unternehmen im Ausland nicht zuzulassen und sie sonst mit „enormen Steuern“ zu belegen. Die rechtliche Grundlage blieb offen; als Begründung nannte er den KI-Wettlauf mit China.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/Trump-droht-US-KI-Unternehmen-bei-Bau-von-Rechenzentren-im-Ausland-id31560478.html" />
+<r724:quelle url="https://www.diepresse.com/41474921/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten" />
+<r724:quelle url="https://www.rnz.de/kultur/wissen_artikel,-Kuenstliche-Intelligenz-Trump-droht-Firmen-wegen-Rechenzentren-_arid,2489567.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Bayern und NRW wollen Aufwand der EU-KI-Verordnung drücken — gemeinsame Absichtserklärung für Unternehmen</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-5</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Eine gemeinsame Absichtserklärung von Bayerns Digitalministerium und NRWs Wirtschaftsministerium: Tools, Schulungen und Reallaboren sollen KMU und öffentliche Stellen beim KI-Einsatz unterstützen. Digitalminister Mehring warnte, der Fortschritt dürfe nicht „im Paragrafendschungel begraben“ werden.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bayern.de/gemeinsame-absichtserklaerung-bayern-und-nordrhein-westfalen-unterstuetzen-unternehmen-beim-einsatz-von-kuenstlicher-intelligenz-aufwand-und-kosten-fuer-die-umsetzung-der-europaeischen-ki-ve/" />
+<r724:quelle url="https://www.br.de/nachrichten/meldung/bayern-und-nrw-fordern-lockerere-auslegung-der-eu-ki-vorschriften,300828161" />
+<r724:quelle url="https://www.ki.nrw/gemeinsame-absichtserklarung-nrw-und-bayern-unterstutzen-unternehmen-beim-einsatz-von-ki/" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>TikTok rollt „Likeness Detection“ weltweit aus: Deepfake-Fundtool vor allem für Politiker und öffentliche Personen</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-6</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Die Opt-in-Funktion soll berechtigten öffentlichen Personen helfen, KI-generierte Inhalte zu finden, die ihr Aussehen ohne Zustimmung verwenden. Erkannt wird zunächst nur Material aus TikToks und ByteDances eigenen KI-Werkzeugen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content" />
+<r724:quelle url="https://de.euronews.com/2026/11/20/tiktok-startet-deepfake-tool-fur-offentliche-personen-gegen-desinformation" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Dieter Hallervorden und Susanne Daubner mit dem Landesverdienstorden Sachsen-Anhalts geehrt</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-7</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>Ministerpräsident Sven Schulze überreichte in Magdeburg die höchste Auszeichnung des Landes an den 91-jährigen Schauspieler Dieter Hallervorden und die „Tagesschau“-Sprecherin Susanne Daubner für deren kulturelles und ehrenamtliches Engagement.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://presse.sachsen-anhalt.de/staatskanzlei/2026/11/20/ministerpraesident-sven-schulze-ueberreichte-landesverdienstorden-an-dieter-hallervorden-und-susanne-daubner" />
+<r724:quelle url="https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/landesverdienstorden-dieterhallervorden-susannedaubner-auszeichnung,video-akt-2156.html" />
+<r724:quelle url="https://www.zeit.de/news/2026-11/20/daubner-wirbt-fuer-sachsen-anhalt-wunderschoenes-bundesland" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Neue Ermittlungen gegen Depardieu und Houellebecq: Beschwerde wegen Vergewaltigung bei „Thalasso“-Dreh 2018</title>
+<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-8</guid>
+<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
+<description>In Paris ermitteln Behörden nach einer Beschwerde einer Schauspielerin wegen Vergewaltigung und sexueller Übergriffe in Gruppe bei den Dreharbeiten zum Film „Thalasso“ 2018; auch Regisseur Guillaume Nicloux wird bezichtigt. Es gelten Vorwürfe — die Unschuldsvermutung bleibt uneingeschränkt.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html" />
+<r724:quelle url="https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape" />
+<r724:quelle url="https://www.rfi.fr/fr/france/20261120-france-g%C3%A9rard-depardieu-et-michel-houellebecq-vis%C3%A9s-par-une-plainte-pour-violences-sexuelles-en-r%C3%A9union" />
+<r724:ki>true</r724:ki>
+</item>
 	<item>
 <title>Dänemark weist russischen Verteidigungsattaché nach aufgedecktem Mordkomplott aus</title>
 <link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-1</link>
@@ -504,87 +606,6 @@
 <r724:quelle url="https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item><title>Update: COP31 vor dem Finaltag — neuer Verhandlungsentwurf streicht fossile Ausstiegs-Formulierungen</title>
-<link>https://radar724.de/posts/2026-11-19-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-nachts.html#artikel-7</guid>
-<pubDate>Thu, 19 Nov 2026 23:25:00 +0100</pubDate>
-<description>Der am Donnerstag vorgelegte überarbeitete Präsidentschaftsentwurf verweist statt auf einen Fossilausstieg nur noch auf den ersten Globalen Bestandsaufnahme-Bericht. Panama droht mit einer Blockade der Beschlüsse ohne mehr Ehrgeiz.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://theplanetbrief.com/carbon/climate-policy/cop31/" />
-<r724:quelle url="https://news.un.org/en/story/2026/11/1168833" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Update: Hochwassergefahr in Franken steigt — Hochwassernachrichtendienst warnt vor Ausuferungen</title>
-<link>https://radar724.de/posts/2026-11-19-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-nachts.html#artikel-8</guid>
-<pubDate>Thu, 19 Nov 2026 23:25:00 +0100</pubDate>
-<description>In Coburg, Kronach und Lichtenfels warnen die Behörden vor Ausuferungen, für Bayreuth, Kulmbach und Wunsiedel liegt eine Vorwarnung. Die Pegelstände steigen, zugleich bleibt es stürmisch.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.infranken.de/lk/franken/steigende-hochwassergefahr-in-franken-hier-ist-vorsicht-geboten-art-6412075" />
-<r724:quelle url="https://www.zeit.de/news/2026-11/19/hochwasserzentrale-rechnet-mit-steigenden-pegelstaenden" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Update: Anthropic-Aktie startet an der Nasdaq mit 34 Prozent Aufschlag — Erstkurs bei 111,50 Dollar</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-1</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Anthropic eröffnet den Handel bei 111,50 Dollar, rund 34 Prozent über dem Ausgabepreis — die Bewertung klettert über zwei Billionen Dollar. Der Börsengang war mit 81,3 Milliarden Dollar der größte der Geschichte.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Update: Dreiergipfel in Shenzhen endet nach rund 90 Minuten mit Friedenserklärung</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-2</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Trump, Xi und Putin haben ihr erstes Dreiertreffen mit einer gemeinsamen Friedenserklärung beendet: vereinbart ist ein Dialog über atomare Risiken. Konkrete Vereinbarungen zum Ukraine-Krieg enthält das Papier nicht.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Kritik am Internationalen Strafgerichtshof: Passus in der Gipfelerklärung sorgt für Aufsehen</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-3</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Die Erklärung von Shenzhen kritisiert den IStGH — bemerkenswert, weil gegen Putin ein Haftbefehl des Gerichts vorliegt. Zudem drängen die drei Staaten auf eine UN-Reform.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/dreiergipfel-mit-allgemeiner-friedenserklaerung-beendet,VbPyOl6" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Tagesrückblick: DAX schließt 1,06 Prozent tiefer — tiefster Stand seit mehr als drei Wochen</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-4</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Trotz Euphorie um den Anthropic-Börsengang schließt der DAX bei 25.463,81 Punkten — fast fünf Prozent unter dem Rekordhoch der Vorwoche. MDax und EuroStoxx 50 geben ebenfalls nach.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1169940581" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>BASF legt Übernahmepläne für Evonik auf Eis — Aktie des Spezialchemikers bricht ein</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-5</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Nach dem Rückzug des Ludwigshafener Konzerns verliert die Evonik-Aktie zeitweise mehr als 20 Prozent. Über Gründe macht BASF zunächst keine Angaben.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.onvista.de/news/2026/11-19-aktien-im-fokus-2-evonik-bricht-ein-basf-sagt-uebernahme-ab-0-10-26578464" />
-<r724:ki>true</r724:ki>
-</item>
-	<item><title>Wall Street gibt frühe Gewinne ab: S&amp;P 500 steuert auf sechsten Verlusttag zu</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html#artikel-6</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Die anfängliche Rally um das Anthropic-Debüt verdunstet: Der S&amp;P 500 steht zur Mittagszeit ein Prozent tiefer, neun von zehn Aktien im Minus.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://apnews.com/article/stocks-markets-ai-us-anthropic-206c84045137824feabe052a29ff6140" />
-<r724:ki>true</r724:ki>
-</item>
+
   </channel>
 </rss>
