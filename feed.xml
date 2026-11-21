@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 21 Nov 2026 18:49:58 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 23:28:38 +0100</lastBuildDate>
+<item><title>Ausgabe #263 — Polen: Absturz-Trümmer stammten von frisch produzierter russischer Ch-101 — EU und Indonesien schließen Freihandelsabkommen — Genf endet ohne Regeln für Killer-Roboter</title>
+<link>https://radar724.de/posts/2026-11-21-nachts.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html</guid>
+<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
+<description>Samstag, 21. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 23:28 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #262 — Update: Nato-Chef Rutte versichert Polen den vollen Bündnisschutz — Russischer Frachter brennt nach Drohnenangriff in der Ostsee — OpenAI startet GPT-6.2 Astra und Sol</title>
 <link>https://radar724.de/posts/2026-11-21-abends.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-21-abends.html</guid>
@@ -90,12 +96,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-18-mittags.html</guid>
 <pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 13:00 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #248 — Historisches Dreiertreffen von Trump, Xi und Putin bei Apec-Gipfel — Anthropic geht an die Börse — USA verlieren den Status masernfrei</title>
-<link>https://radar724.de/posts/2026-11-18-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-morgens.html</guid>
-<pubDate>Wed, 18 Nov 2026 06:06:00 +0100</pubDate>
-<description>Mittwoch, 18. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 06:06 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
