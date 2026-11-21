@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 21 Nov 2026 06:29:43 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 12:15:34 +0100</lastBuildDate>
+<item><title>Ausgabe #261 — Update: Nato-Chef Rutte reist nach Raketen-Vorfall nach Warschau — Russischer Nachtangriff erschüttert Krywyj Rih und Kiew — Anthropic-Mathematiker meldet KI-gestützten Beweis der Riemannschen Vermutung an</title>
+<link>https://radar724.de/posts/2026-11-21-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-mittags.html</guid>
+<pubDate>Sat, 21 Nov 2026 12:15:34 +0100</pubDate>
+<description>Samstag, 21. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 12:15 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #260 — Update: Zwei russische Raketen und eine Drohne stürzen in Polen ab — Katar kündigt 15 Milliarden Euro für Deutschland an — Trump droht US-KI-Firmen bei Rechenzentren im Ausland</title>
 <link>https://radar724.de/posts/2026-11-21-morgens.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html</guid>
@@ -92,12 +98,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html</guid>
 <pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 00:04 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #246 — Update: Krim-Brücke nach ukrainischem Angriff teilweise zerstört — DAX rutscht vor den Nvidia-Zahlen um zwei Prozent ab — ESA-Sonde Hera untersucht die Asteroiden-Einschlagstelle</title>
-<link>https://radar724.de/posts/2026-11-17-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-17-abends.html</guid>
-<pubDate>Tue, 17 Nov 2026 18:10:00 +0100</pubDate>
-<description>Dienstag, 17. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 18:10 Uhr (Europe/Berlin)</description>
 </item>
 
   </channel>
