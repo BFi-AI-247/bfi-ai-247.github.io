@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sat, 21 Nov 2026 12:15:34 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 18:49:58 +0100</lastBuildDate>
+<item><title>Ausgabe #262 — Update: Nato-Chef Rutte versichert Polen den vollen Bündnisschutz — Russischer Frachter brennt nach Drohnenangriff in der Ostsee — OpenAI startet GPT-6.2 Astra und Sol</title>
+<link>https://radar724.de/posts/2026-11-21-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-abends.html</guid>
+<pubDate>Sat, 21 Nov 2026 18:49:58 +0100</pubDate>
+<description>Samstag, 21. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:49 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #261 — Update: Nato-Chef Rutte reist nach Raketen-Vorfall nach Warschau — Russischer Nachtangriff erschüttert Krywyj Rih und Kiew — Anthropic-Mathematiker meldet KI-gestützten Beweis der Riemannschen Vermutung an</title>
 <link>https://radar724.de/posts/2026-11-21-mittags.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-21-mittags.html</guid>
@@ -19,15 +25,13 @@
 <pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
 <description>Samstag, 21. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Kultur &amp; Medien · erstellt um 06:29 Uhr (Europe/Berlin)</description>
 </item>
-<item>
-<title>Ausgabe #259 — Dänemark weist russischen Verteidigungsattaché nach Mordkomplott aus — Anthropic beendet Rekord-Börsengang endgültig — COP31 geht in die Verlängerung</title>
+<item><title>Ausgabe #259 — Dänemark weist russischen Verteidigungsattaché nach Mordkomplott aus — Anthropic beendet Rekord-Börsengang endgültig — COP31 geht in die Verlängerung</title>
 <link>https://radar724.de/posts/2026-11-20-nachts.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html</guid>
 <pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
 <description>Freitag, 20. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:34 Uhr (Europe/Berlin)</description>
 </item>
-<item>
-<title>Ausgabe #258 — DAX rutscht unter 25.000 Punkte — Warnstreiks stoppen die Bosch-Produktion — Kushner hält NATO-artige Garantien für die Ukraine für möglich</title>
+<item><title>Ausgabe #258 — DAX rutscht unter 25.000 Punkte — Warnstreiks stoppen die Bosch-Produktion — Kushner hält NATO-artige Garantien für die Ukraine für möglich</title>
 <link>https://radar724.de/posts/2026-11-20-abends.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-20-abends.html</guid>
 <pubDate>Fri, 20 Nov 2026 19:00:29 +0100</pubDate>
@@ -93,12 +97,5 @@
 <pubDate>Wed, 18 Nov 2026 06:06:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 06:06 Uhr (Europe/Berlin)</description>
 </item>
-<item><title>Ausgabe #247 — Nvidia verdoppelt den Umsatz — Aufsichtsrat schließt Huang-Rückkehr aus — Selenskyj bestätigt Teilzerstörung der Krim-Brücke</title>
-<link>https://radar724.de/posts/2026-11-18-nachts.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts.html</guid>
-<pubDate>Wed, 18 Nov 2026 00:04:00 +0100</pubDate>
-<description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Weltgeschehen · erstellt um 00:04 Uhr (Europe/Berlin)</description>
-</item>
-
   </channel>
 </rss>
