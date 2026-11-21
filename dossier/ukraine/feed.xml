@@ -6,7 +6,133 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:08:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:03:00 +0100</lastBuildDate>
+    <item>
+      <title>Update Kiew: Drei Brücken getroffen, mindestens neun Tote — Welle reichte bis Ivano-Frankiwsk</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-1</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Der Massenangriff nach Putins Vergeltungsankündigung ist mit gesicherten Opferzahlen abgeschlossen: In Kiew wurden drei Brücken getroffen, mindestens neun Menschen starben. Die Welle erreichte weitere Landesteile; eine russische Darstellung liegt nicht unabhängig bestätigt vor.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-russia-strikes-3-kyiv-bridges-in-massive-aerial-assault-on-ukraine-at-least-9-dead/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063827/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Krim: Selenskyj zur Kertsch-Brücke — sie werde „nicht bleiben“ — Versorgung der Halbinsel wird schwieriger</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-2</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Selenskyj sagte im NBC-Interview, Putin müsse verstehen, dass die Kertsch-Brücke nicht bleiben werde (ukrainische Partei-Angabe). Eine n-tv-Analyse ordnet die erschwertete Versorgungslage der annektierten Halbinsel ein.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/zelensky-says-putin-must-understand-crimean-bridge-will-not-stay-warns-russia-increasing-double-tap-strikes/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Ohne-Kertsch-Bruecke-wird-es-einsam-um-die-Krim-id31559026.html">n-tv</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ortslagen: Angriffe auf Kharkiv-Ausläufer und Notfall-Klinik — ein Toter in der Oblast Dnipropetrovsk</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-3</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Russische Angriffe verletzten am Kharkiver Ausläufer zwei Menschen und beschädigten den MRT-Raum eines Notfallkrankenhauses; in der Oblast Dnipropetrovsk gab es ein Todesopfer. Unabhängig bestätigte Frontlinien-Änderungen liegen nicht vor — ISW blockiert, Frontelligence seit 11.11. ruhig.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063879/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063837/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://militaryland.net/">MilitaryLand</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Krywyj Rih: Double-Tap tötet Siebenjährigen und Sanitäterin — 47 Verletzte laut Behörden</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-4</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Ein ballistischer Doppelangriff auf das Zentrum von Krywyj Rih tötete einen siebenjährigen Jungen und eine 20-jährige Sanitäterin; 47 Menschen wurden verletzt (Behördenangabe, live gegengeprüft). Selenskyj warnt vor vermehrten Double-Tap-Angriffen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html">tagesschau</r724:quelle>
+      <r724:quelle url="https://orf.at/stories/3448826/">ORF</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Polen: Zwei Kh-101 und eine Drohne im eigenen Hoheitsgebiet — NATO-Generalsekretär sagt Unterstützung zu</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-5</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Während des russischen Massenangriffs gingen nach polnischen Angaben drei Objekte auf polnischem Gebiet nieder, darunter eine Kh-101. Warschau bittet um Hilfe beim Luftverteidigungs-Ausbau; Trump spielte den Vorfall laut Meduza herunter.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.dw.com/de/raketeneinschlag-nato-generalsekret%C3%A4r-sagt-polen-unterst%C3%BCtzung-zu/a-80004889">DW</r724:quelle>
+      <r724:quelle url="https://meduza.io/news/2026/11/20/tramp-zayavil-chto-putin-zapustil-v-polshu-paru-nebolshih-raket-po-oshibke">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Trump-Administration dringt auf Friedensschluss bis Januar 2027 — Selenskyj: „Für uns ist er ein Feind und ein Mörder“</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-6</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Berichten zufolge will die US-Regierung eine Friedensvereinbarung zwischen Kiew und Moskau bis Anfang Januar 2027 (FT, via UP — nicht unabhängig bestätigt). Selenskyj antwortete auf Trumps Putin-Freundschaft mit scharfen Worten; Frankreich dementierte Berichte über ein Ende der Militärhilfe.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063858/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063883/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063867/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Moskau-Einladung: Deutscher Verteidigungsminister wirbt um Annahme — EU genehmigt 1 Milliarde Euro Militärhilfe</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-7</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Meduza meldet nach Radio Svoboda, der deutsche Verteidigungsminister habe Europa zur Annahme der Putin-Einladung zu Moskauer Gesprächen aufgerufen. Parallel genehmigte die EU eine Milliarde Euro aus dem Europäischen Friedensfonds.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/20/ministr-oborony-germanii-prizval-evropu-prinyat-priglashenie-putina-o-peregovorah-v-moskve-po-dannym-radio-svoboda-poezdka-mozhet-sostoyatsya-uzhe-v-noyabre">Meduza</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/20/8063834/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/eu-greenlights-1-billion-euros-in-military-support-for-ukraine-as-top-diplomat-says-russia-rejects-peace/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Shenzhen-Deklaration ohne Ukraine-Passage — auf Bitte der USA entfernt worden</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-8</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Die Friedensdeklaration des Trump-Putin-Xi-Treffens erwähnt die Kriege in der Ukraine und im Iran nicht. Meduza zufolge wurde eine Ukraine-Passage auf Bitte der USA entfernt — über die zitierten Berichte hinaus nicht unabhängig bestätigt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars">Guardian</r724:quelle>
+      <r724:quelle url="https://meduza.io/news/2026/11/20/v-deklaratsii-o-mire-prinyatoy-po-itogam-vstrechi-putina-trampa-i-si-byl-punkt-ob-ukraine-ego-ubrali-po-prosbe-ssha">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Dänemark weist russischen Diplomaten aus — Vorwurf: Mordplan gegen Rapper Kyivstoner</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-9</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Dänemark wirft Russland vor, die Ermordung des US-ukrainischen Rappers Kyivstoner geplant zu haben, und hat einen russischen Diplomaten verwiesen. Die Vorwürfe sind Gegenstand eines offiziellen Ermittlungsverfahrens.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.bbc.co.uk/news/articles/cmde1lj4yjxno">BBC</r724:quelle>
+      <r724:quelle url="https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper">Al Jazeera</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukraine intern: Abgeordneter der Selenskyj-Partei zu mehr als drei Jahren Haft verurteilt — Anti-Korruptions-Ermittler melden Schmutzkampagne</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-10</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-21.html#artikel-10</guid>
+      <pubDate>Sat, 21 Nov 2026 06:03:00 +0100</pubDate>
+      <description>Ein Abgeordneter der Präsidentenpartei wurde in einem Bestreichungsfall verurteilt; Anti-Korruptionsbehörden wehren sich gegen eine Schmutzkampagne und sagen, ihre Ermittlungen erreichten das Zentrum des Korruptionssystems (Eigenaussage).</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/zelenskys-party-lawmaker-sentenced-to-over-3-years-in-jail-in-bribery-case/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/ukraines-anti-graft-agencies-say-they-face-smear-campaign-as-probes-reach-core-of-corruption-system/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
       <title>Kiew: Drohnen über Stunden — Kathedrale und zwei europäische Botschaften beschädigt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-20.html#artikel-1</link>
