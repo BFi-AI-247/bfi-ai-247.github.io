@@ -6,7 +6,7 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 22 Nov 2026 12:15:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 18:45:00 +0100</lastBuildDate>
 	<item>
 <title>Golfkrise: Katar-Delegation wirbt in Teheran für Waffenruhe</title>
 <link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-1</link>
@@ -524,106 +524,108 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Sturm verwüstet Tupanciretã in Brasilien: Drei Tote, Tausende Häuser beschädigt</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-3</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>Eine Superzelle mit Böen bis 114 km/h verwüstete die Kleinstadt Tupanciretã im brasilianischen Rio Grande do Sul: Drei Menschen starben, rund 5.000 von etwa 8.600 Häusern wurden beschädigt, auch das einzige Krankenhaus wurde abgedeckt.</description>
+	<item>
+<title>COP31 in Antalya endet ohne Abschlusserklärung — EU und Deutschland lehnen Entwurf ab</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-1</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Die Weltklimakonferenz in Antalya ist nach rund 44 Stunden Verlängerung ohne Abschlusserklärung beendet worden. Der Entwurf verzichtete auf ein Bekenntnis zum Ausstieg aus fossilen Brennstoffen; EU und Deutschland lehnten ab. Ein Fortschritt: 75 Länder und 94 Organisationen traten einer Elektrifizierungs-Initiative bei.</description>
 <category>Weltgeschehen</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/tempestade-mortes-danos-tupancireta-rs-chuva.ghtml" />
-<r724:quelle url="https://oglobo.globo.com/brasil/noticia/2026/11/20/temporal-causada-por-supercelula-em-tupancireta-rs-deixa-tres-mortos-60-feridos-e-cerca-de-5-mil-casas-destelhadas.ghtml" />
+<r724:quelle url="https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html" />
+<r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-in-antalya-keine-abschlusserklaerung-aber-konkrete-fortschritte-bei-umsetzung" />
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-murat-kurum-gxe" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Trump droht US-KI-Firmen mit „enormen Strafen und Steuern“ bei Rechenzentren im Ausland</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-4</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>Trump kündigte an, Rechenzentren US-Unternehmen im Ausland nicht zuzulassen und sie sonst mit „enormen Steuern“ zu belegen. Die rechtliche Grundlage blieb offen; als Begründung nannte er den KI-Wettlauf mit China.</description>
-<category>Tech &amp; KI</category>
+	<item>
+<title>Mexiko nimmt nach Feuergefechten den Kartellführer „El Chapo Isidro" fest</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-2</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Mexiko hat den Drogenkartell-Chef Fausto Isidro Meza Flores festgenommen. Bei der Operation in Sinaloa starben elf Menschen, darunter vier Soldaten. Der 44-Jährige stand auf der FBI-Liste der zehn meistgesuchten Flüchtigen.</description>
+<category>Weltgeschehen</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/politik/Trump-droht-US-KI-Unternehmen-bei-Bau-von-Rechenzentren-im-Ausland-id31560478.html" />
-<r724:quelle url="https://www.diepresse.com/41474921/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten" />
-<r724:quelle url="https://www.rnz.de/kultur/wissen_artikel,-Kuenstliche-Intelligenz-Trump-droht-Firmen-wegen-Rechenzentren-_arid,2489567.html" />
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture" />
+<r724:quelle url="https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Bayern und NRW wollen Aufwand der EU-KI-Verordnung drücken — gemeinsame Absichtserklärung für Unternehmen</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-5</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>Eine gemeinsame Absichtserklärung von Bayerns Digitalministerium und NRWs Wirtschaftsministerium: Tools, Schulungen und Reallaboren sollen KMU und öffentliche Stellen beim KI-Einsatz unterstützen. Digitalminister Mehring warnte, der Fortschritt dürfe nicht „im Paragrafendschungel begraben“ werden.</description>
-<category>Tech &amp; KI</category>
+	<item>
+<title>„Costa Concordia"-Kapitän Schettino nach über neun Jahren auf Bewährung entlassen</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-3</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Francesco Schettino ist auf Bewährung aus dem Gefängnis Rebibbia entlassen worden. Der 66-Jährige war 2017 zu 16 Jahren und einem Monat verurteilt worden; bei der Schiffs-Katastrophe von 2012 starben 32 Menschen, darunter zwölf Deutsche.</description>
+<category>Weltgeschehen</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.bayern.de/gemeinsame-absichtserklaerung-bayern-und-nordrhein-westfalen-unterstuetzen-unternehmen-beim-einsatz-von-kuenstlicher-intelligenz-aufwand-und-kosten-fuer-die-umsetzung-der-europaeischen-ki-ve/" />
-<r724:quelle url="https://www.br.de/nachrichten/meldung/bayern-und-nrw-fordern-lockerere-auslegung-der-eu-ki-vorschriften,300828161" />
-<r724:quelle url="https://www.ki.nrw/gemeinsame-absichtserklarung-nrw-und-bayern-unterstutzen-unternehmen-beim-einsatz-von-ki/" />
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html" />
+<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/costa-concordia-kapitaen-schettino-auf-bewaehrung-frei,VbcoO5f" />
+<r724:quelle url="https://de.euronews.com/2026/11/21/costa-concordia-ungluck-ex-kapitan-schettino-kommt-frei" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>TikTok rollt „Likeness Detection“ weltweit aus: Deepfake-Fundtool vor allem für Politiker und öffentliche Personen</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-6</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>Die Opt-in-Funktion soll berechtigten öffentlichen Personen helfen, KI-generierte Inhalte zu finden, die ihr Aussehen ohne Zustimmung verwenden. Erkannt wird zunächst nur Material aus TikToks und ByteDances eigenen KI-Werkzeugen.</description>
-<category>Tech &amp; KI</category>
+	<item>
+<title>Altersvorsorgedepot: Staatlicher Basisfonds zum Start 2027 nicht einsatzbereit</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-4</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Der staatliche Basisfonds für das Altersvorsorgedepot kann frühestens im Sommer 2027 starten. Der Depot-Start zum 1. Januar bleibt davon unberührt. Zulagen gibt es gestaffelt bis zu 540 Euro im Jahr, pro Kind 300 Euro extra.</description>
+<category>Wirtschaft &amp; Finanzen</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://newsroom.tiktok.com/TikTok-more-tools-to-provide-clarity-and-control-around-ai-generated-content" />
-<r724:quelle url="https://de.euronews.com/2026/11/20/tiktok-startet-deepfake-tool-fur-offentliche-personen-gegen-desinformation" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/altersvorsorge-basisdepot-2027-verzoegerung-100.html" />
+<r724:quelle url="https://www.zeit.de/politik/deutschland/2026-11/altersvorsorgedepot-rente-banken-fonds-gxe" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Dieter Hallervorden und Susanne Daubner mit dem Landesverdienstorden Sachsen-Anhalts geehrt</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-7</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>Ministerpräsident Sven Schulze überreichte in Magdeburg die höchste Auszeichnung des Landes an den 91-jährigen Schauspieler Dieter Hallervorden und die „Tagesschau“-Sprecherin Susanne Daubner für deren kulturelles und ehrenamtliches Engagement.</description>
+	<item>
+<title>Spritpreisdeckel: Verkehrsminister Reiche will Autobahntankstellen ausnehmen</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-5</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Bundesverkehrsminister Reiche strebt an, Autobahntankstellen vom geplanten Spritpreisdeckel auszunehmen. Das Kabinett berät den Entwurf am 2. Dezember; Autohöfe sollen unter dem Deckel bleiben. Verbraucherschützer kritisieren den Ansatz.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html" />
+<r724:quelle url="https://www.ksta.de/wirtschaft/spritpreisdeckel-reiche-will-autobahntankstellen-nehmen-1422274" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>VW-Tarifrunde startet Montag in Emden — IG Metall nennt Forderungskatalog „Katalog der Schrecken"</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-6</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Für rund 130.000 Beschäftigte beginnen am Montag in Emden die Tarifverhandlungen zwischen Volkswagen und der IG Metall. Das Unternehmen fordert unter anderem das Ende der 35-Stunden-Woche und kein Tarifplus für 2027 und 2028. Ein zweiter Termin steht für den 15. Dezember in Zwickau.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.igmetall.de/tarif/tarifrunden/tarifrunde-volkswagen-2026" />
+<r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen/zweites-ueberpruefungsgespraech-volkswagen-ag-und-ig-metall-einigen-sich-auf-den-start-von-verhandlungen-20757" />
+<r724:quelle url="https://www.wolfsburger-nachrichten.de/wirtschaft/article413703915/kurz-vor-erster-tarifrunde-vw-tauscht-verhandlungsfuehrer-aus.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Rekord-Start: „GTA VI" spielt am ersten Tag rund 3,79 Milliarden US-Dollar ein</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-7</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>„Grand Theft Auto VI" hat am ersten Verkaufstag rund 3,79 Milliarden US-Dollar umgesetzt und bricht jeden Startrekord der Unterhaltungsbranche. Zuvor zählte der Hersteller über 32,5 Millionen Vorbestellungen. Bei Metacritic erreicht der Titel 99 von 100 Punkten.</description>
 <category>Kultur &amp; Medien</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://presse.sachsen-anhalt.de/staatskanzlei/2026/11/20/ministerpraesident-sven-schulze-ueberreichte-landesverdienstorden-an-dieter-hallervorden-und-susanne-daubner" />
-<r724:quelle url="https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/landesverdienstorden-dieterhallervorden-susannedaubner-auszeichnung,video-akt-2156.html" />
-<r724:quelle url="https://www.zeit.de/news/2026-11/20/daubner-wirbt-fuer-sachsen-anhalt-wunderschoenes-bundesland" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html" />
+<r724:quelle url="https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html" />
+<r724:quelle url="https://www.gameswirtschaft.de/wirtschaft/gta-6-verkaufszahlen-umsatz-launch-211126/" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Neue Ermittlungen gegen Depardieu und Houellebecq: Beschwerde wegen Vergewaltigung bei „Thalasso“-Dreh 2018</title>
-<link>https://radar724.de/posts/2026-11-21-morgens.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-morgens.html#artikel-8</guid>
-<pubDate>Sat, 21 Nov 2026 06:29:43 +0100</pubDate>
-<description>In Paris ermitteln Behörden nach einer Beschwerde einer Schauspielerin wegen Vergewaltigung und sexueller Übergriffe in Gruppe bei den Dreharbeiten zum Film „Thalasso“ 2018; auch Regisseur Guillaume Nicloux wird bezichtigt. Es gelten Vorwürfe — die Unschuldsvermutung bleibt uneingeschränkt.</description>
+	<item>
+<title>„Rocky" wird 50: Philadelphia feiert mit Ausstellung und Statue im Museum</title>
+<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-8</guid>
+<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
+<description>Vor 50 Jahren kam „Rocky" in die US-Kinos. Philadelphia feiert das Jubiläum mit einer „Rocky Season" bis zum 3. Dezember: Die bronzerne Rocky-Statue zieht erstmals ins Philadelphia Museum of Art, wo die Ausstellung „Rising Up" läuft.</description>
 <category>Kultur &amp; Medien</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html" />
-<r724:quelle url="https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape" />
-<r724:quelle url="https://www.rfi.fr/fr/france/20261120-france-g%C3%A9rard-depardieu-et-michel-houellebecq-vis%C3%A9s-par-une-plainte-pour-violences-sexuelles-en-r%C3%A9union" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Dänemark weist russischen Verteidigungsattaché nach aufgedecktem Mordkomplott aus</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-1</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Der dänische Geheimdienst PET ging von Mordplänen gegen einen in Dänemark lebenden Rapper ukrainisch-amerikanischer Herkunft aus. Außenminister Rasmussen wies den russischen Verteidigungsattaché binnen sieben Tagen aus.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html" />
-<r724:quelle url="https://www.swissinfo.ch/ger/mordkomplott%3a-d%c3%a4nen-weisen-russischen-diplomaten-aus/92415523" />
-<r724:quelle url="https://www.straitstimes.com/world/europe/denmark-expels-russian-diplomat-over-attempt-to-kill-ukrainian-rapper" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Pistorius will Militärpakt mit Polen ausbauen — und warnt vor Nationalismus</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-2</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Deutschland und Polen planen einen breiteren Militärpakt mit Patriot-Systemen, Eurofightern und gemeinsamen Stabsstellen. Ein Fahrplan soll bis Januar vorliegen; Pistorius warnt zugleich vor Nationalismus.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html" />
-<r724:quelle url="https://www.n-tv.de/ticker/Pistorius-will-Militaerpakt-mit-Polen-ausbauen-und-warnt-vor-Nationalismus-id31557183.html" />
-<r724:quelle url="https://www.trtdeutsch.com/article/f985c908a73d" />
+<r724:quelle url="https://www.tagesschau.de/kultur/50-jahre-rocky-100.html" />
+<r724:quelle url="https://billypenn.com/2026/09/29/rocky-season-events-philadelphia-balboa-sylvester-stallone/" />
+<r724:quelle url="https://www.wyso.org/npr-news/2026-04-25/rocky-balboa-statue-takes-up-a-new-home-inside-philly-art-museum" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>
