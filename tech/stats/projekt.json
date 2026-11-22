@@ -1,15 +1,15 @@
 {
   "quelle_kanon": "tech/stats/projekt.json (Projekt-Kennzahlen, RUN-ID PROJ-BFI-2809) — Befuellung durch Payload-Transport-Task Teil 3 (R2.2, ZK-2709-6 Single-Writer); manuelle Pflege nur bis Prozess steht (v1-Init Betreiber). Schema ZK-2709-4-konform, fail-offen, Stand-Stempel je Lauf.",
-  "stand": "2026-11-21T09:19:59",
+  "stand": "2026-11-22T09:38:13",
   "k1_kanon": {
     "dateien": 41,
     "woerter": 43082,
     "kilobytes": 358.4
   },
   "k1_knowledge": {
-    "dateien": 249,
-    "woerter": 569440,
-    "kilobytes": 5096.5
+    "dateien": 250,
+    "woerter": 569828,
+    "kilobytes": 5099.6
   },
   "k2_agenten": {
     "aktiv": 8,
@@ -24,6 +24,6 @@
     "quelle": "manuell gepflegt (Betreiber) bis Bridge-Prozess laeuft — Herleitung aus CLAUDE_CONTACT/Postfach laut Betreiber-Entscheidung 3; keine Schaetzung (LP-01), null = unbekannt"
   },
   "k5_ausgaben": {
-    "gesamt": 514
+    "gesamt": 523
   }
 }
