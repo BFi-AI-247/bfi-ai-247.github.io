@@ -6,7 +6,95 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:32:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 12:15:00 +0100</lastBuildDate>
+	<item>
+<title>Golfkrise: Katar-Delegation wirbt in Teheran für Waffenruhe</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-1</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Eine katarische Delegation hat in Teheran rund zwei Stunden vermittelt. Irans Außenminister Araghchi macht eine Wiederöffnung der Straße von Hormuz von US-Zugeständnissen abhängig; die Lage bleibt angespannt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Internet Archive: Beschäftigte starten Gewerkschafts-Kampagne</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-2</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Mehr als 80 der rund 124 Beschäftigten des Internet Archive streben den Anschluss an die CWA an. Gründer Brewster Kahle will die Organisierung freiwillig anerkennen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>COP31: Abstimmung über Abschlusserklärung steht an</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-3</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Nach mehr als 30 Stunden Verhandlungen liegt ein neuer Entwurf vor; die Abstimmung war für den Sonntagvormittag angesetzt. Der Text vermeidet Begriffe zu fossilen Brennstoffen.</description>
+<category>Klima &amp; Umwelt</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Berlin prüft Femizide als eigenständiges Mordmerkmal</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-4</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Justizministerin Stefanie Hubig will geschlechtsspezifische menschenverachtende Beweggründe ausdrücklich als Mordmerkmal verankern. Der Entwurf liegt der Bild am Sonntag vor.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Belgien: Fluglotsen-Streik legt Montag-Flugverkehr lahm</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-5</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Die Fluglotsen der Flugsicherung Skeyes rufen zum nationalen Streik auf; zwischen 7 und 21 Uhr ist ein weitgehender Stillstand zu erwarten. Betroffen sind Brüssel und Charleroi.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://brf.be/national/2127729/" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Arbeitgeberpräsident Dulger: Schluss mit der 35-Stunden-Woche</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-6</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>BDA-Präsident Rainer Dulger fordert in der Bild am Sonntag längere Arbeitszeiten und eine Reform des Arbeitszeitgesetzes. Er verweist auf monatlich rund 15.000 verlorene Industrie-Arbeitsplätze.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.focus.de/finanzen/news/lieber-laenger-arbeiten-als-arbeitsplatz-zu-verlieren_29131e95-29b5-4b5b-925d-65c91a5650ba.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>FBI untersucht Hacker-Angriff auf zentrale Kriminaldatenbank</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-7</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Nach Medienberichten wurde die FBI-Datenbank NCIC mutmaßlich von Hackern attackiert – die zweite Infiltration in wenigen Monaten. Ehemalige Ermittler fürchten manipulierte Daten.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html" />
+<r724:ki>true</r724:ki>
+</item>
+	<item>
+<title>Bundesrat fordert härteres Vorgehen gegen Smart-Glasses-Missbrauch</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html#artikel-8</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Die Länderkammer will den Gesetzentwurf gegen digitale Gewalt verschärft wissen: höhere Strafen und technische Mindestanforderungen für Smart Glasses. Bitkom kritisiert die Vorlage.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html" />
+<r724:ki>true</r724:ki>
+</item>
 	<item>
 <title>Update: Golfkrise eskaliert — Irans Revolutionsgarden beanspruchen Raketen- und Drohnenangriff auf US-Radarstellungen in Bahrain</title>
 <link>https://radar724.de/posts/2026-11-22-morgens.html#artikel-1</link>
@@ -536,105 +624,6 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html" />
 <r724:quelle url="https://www.n-tv.de/ticker/Pistorius-will-Militaerpakt-mit-Polen-ausbauen-und-warnt-vor-Nationalismus-id31557183.html" />
 <r724:quelle url="https://www.trtdeutsch.com/article/f985c908a73d" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Sechs Jahre nach dem Brexit: EU und Großbritannien feiern Wiederannäherung beim Brüsseler Gipfel</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-3</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Bei einem Gipfel in Brüssel haben die EU und Großbritannien drei Abkommen zu Handel, Klima und Jugendmobilität besiegelt. Künftig sollen je 100.000 Junge aus beiden Regionen bis zu drei Jahre auf der anderen Seite leben dürfen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html" />
-<r724:quelle url="https://www.zeit.de/news/2026-11/20/eu-einigt-sich-mit-briten-auf-projekte-fuer-wiederannaeherung" />
-<r724:quelle url="https://www.consilium.europa.eu/de/meetings/international-summit/2026/11/20/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Merz bezeichnet Ukraine-Unterstützung als Investition: „Wir werden sie als Dividende zurückerhalten“</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-4</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Beim Deutsch-Ukrainischen Wirtschaftsforum nannte Kanzler Merz die Ukraine-Hilfe eine Investition, die sich als Dividende mehrfach zurückerhalte. Kein deutsches Unternehmen habe die Ukraine seit Kriegsbeginn verlassen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html" />
-<r724:quelle url="https://www.n-tv.de/politik/Merz-sieht-Ukraine-Hilfen-als-Gewinn-fuer-Deutschland-id31559245.html" />
-<r724:quelle url="https://de.finance.yahoo.com/nachrichten/merz-unterst%C3%BCtzung-ukraine-bringt-uns-105131626.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Rekord-IPO von Anthropic endgültig abgeschlossen — Zuteilungsoption vollständig gezogen</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-5</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Die Zuteilungsoptionen des Anthropic-Börsengangs wurden vollständig gezogen: Der Emissionserlös liegt bei rund 93,5 Milliarden Dollar, zusammen mit einem Private Placement bei rund 119,5 Milliarden.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.anthropic.com/news/ipo-close" />
-<r724:quelle url="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html" />
-<r724:quelle url="https://qz.com/anthropic-ipo-closes-greenshoe-billion-proceeds-112026" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Riemann-Vermutung: Anthropic-Mathematiker meldet mit Claude entwickelten Beweisanspruch</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-6</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Levent Alpöge hat nach eigener Darstellung mit Claude einen Beweis der Riemann-Vermutung erarbeitet und in Lean formalisiert. Die Vermutung ist seit 1859 offen; eine Bestätigung durch die Fachwelt steht noch aus.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/" />
-<r724:quelle url="https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Klimakonferenz COP31 in Antalya geht in die Verlängerung — Streit um fossile Energien</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-7</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>Die Klimakonferenz im türkischen Antalya wird verlängert. Mehr als 20 Staaten fordern ein stärkeres Bekenntnis zum Ausstieg aus fossilen Energien, der Entwurf bleibt umstritten.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/klimakonferenz-antalya-cop-31-verlaengerung-unzufriedenheit-100.html" />
-<r724:quelle url="https://orf.at/stories/3448795/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Höchstes Windrad der Welt in Brandenburg ans Netz gegangen</title>
-<link>https://radar724.de/posts/2026-11-20-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html#artikel-8</guid>
-<pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
-<description>In Schipkau in der Lausitz ist das mit 365 Metern höchste Windrad der Welt in den Betrieb gegangen.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html" />
-<r724:quelle url="https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-luebbenau-umspannwerk-ragow-bauantrag-grossspeicher/brandenburg-schipkau-windrad-in-betrieb.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Kushner nach Berliner Gipfel: Russland soll mit NATO-artigen Garantien für die Ukraine „comfortable“ sein</title>
-<link>https://radar724.de/posts/2026-11-20-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-abends.html#artikel-1</guid>
-<pubDate>Fri, 20 Nov 2026 19:00:29 +0100</pubDate>
-<description>US-Sondergesandter Kushner erklärt nach dem Berliner Treffen, Russland lasse sich auf Sicherheitsgarantien nach Artikel-5-Muster ein. Trump sei offen; offen sind auch Form und Annahme durch beide Kriegsparteien.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html" />
-<r724:quelle url="https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Lufthansa bleibt Fluglinie des DFB: Partnerschaft läuft bis 2031 weiter</title>
-<link>https://radar724.de/posts/2026-11-20-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-abends.html#artikel-2</guid>
-<pubDate>Fri, 20 Nov 2026 19:00:29 +0100</pubDate>
-<description>Trotz Stellenabbau-Debatte verlängern Lufthansa und der Deutsche Fußball-Bund ihre Partnerschaft bis 2031.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://newsroom.lufthansagroup.com/lufthansa-und-dfb-verlaengern-partnerschaft-bis-2031/" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>

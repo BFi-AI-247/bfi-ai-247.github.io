@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:32:00 +0100</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 12:15:00 +0100</lastBuildDate>
+<item><title>Ausgabe #265 — Golfkrise: Katar wirbt in Teheran für Waffenruhe — COP31 vor Abstimmung ohne Fossil-Begriff — Belgien stellt Montag-Flugverkehr still</title>
+<link>https://radar724.de/posts/2026-11-22-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html</guid>
+<pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
+<description>Sonntag, 22. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:15 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #264 — Antalya stimmt über umstrittene Klima-Abschlusserklärung ab — Iran beansprucht Angriff auf US-Radarstellungen in Bahrain — IG Metall Küste ruft erneut zum 24-Stunden-Streik</title>
 <link>https://radar724.de/posts/2026-11-22-morgens.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-morgens.html</guid>
@@ -90,12 +96,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-18-nachts-2.html</guid>
 <pubDate>Wed, 18 Nov 2026 23:24:00 +0100</pubDate>
 <description>Mittwoch, 18. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 23:24 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #250 — DAX schließt unter 26.000 Punkten — Update: Trump und Putin reichen sich in Shenzhen die Hände — Gold gibt um fast drei Prozent nach</title>
-<link>https://radar724.de/posts/2026-11-18-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-18-abends.html</guid>
-<pubDate>Wed, 18 Nov 2026 18:44:00 +0100</pubDate>
-<description>Mittwoch, 18. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:44 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
