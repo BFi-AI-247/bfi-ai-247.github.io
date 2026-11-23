@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Sun, 22 Nov 2026 23:20:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 06:40:00 +0100</lastBuildDate>
+<item><title>Ausgabe #268 — Update: Zehn Tote nach Drohnenangriff auf Dymer — Russische Korvette nach Explosion in Libyen gekentert — Belgien legt den Flugverkehr still</title>
+<link>https://radar724.de/posts/2026-11-23-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html</guid>
+<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
+<description>Montag, 23. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 06:40 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #267 — Russischer Drohnenangriff zerstört Wohnhaus bei Kiew — Estland schließt am 1. Dezember die Grenze zu Russland — Südkorea: Bildungsminister nach KI-Betrugsskandal zurückgetreten</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html</guid>
@@ -90,12 +96,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html</guid>
 <pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
 <description>Donnerstag, 19. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:31 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #253 — Update: Börsen zählen die Stunden bis zu Anthropics Nasdaq-Debüt — Dax kehrt nach drei Verlusttagen ins Plus zurück — Voyager 1 ist einen Lichttag weit weg</title>
-<link>https://radar724.de/posts/2026-11-19-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-mittags.html</guid>
-<pubDate>Thu, 19 Nov 2026 12:26:00 +0100</pubDate>
-<description>Donnerstag, 19. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 12:26 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
