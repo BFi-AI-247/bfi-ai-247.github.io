@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:22:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 17:59:42 +0100</lastBuildDate>
+<item><title>Ausgabe #270 — Jensen Huang kehrt als Nvidia-Chef zurück und befeuert die Weltbörsen — DAX schließt 2,2 Prozent fester — CrowdStrike kauft Zscaler für rund 44 Milliarden Dollar</title>
+<link>https://radar724.de/posts/2026-11-23-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html</guid>
+<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
+<description>Montag, 23. November 2026 · Abendausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 17:59 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #269 — Geheimdienste warnen: Russland bereitet Atomwaffe im Weltraum vor — DAX zeigt nach sechs Verlusttagen Erholung auf Bewährung — Mehrheit der Deutschen will zum Black-Friday-Deal greifen</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html</guid>
@@ -91,10 +97,5 @@
 <pubDate>Fri, 20 Nov 2026 06:18:00 +0100</pubDate>
 <description>Freitag, 20. November 2026 · Morgenausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Klima &amp; Umwelt · erstellt um 06:18 Uhr (Europe/Berlin)</description>
 </item>
-<item><title>Ausgabe #255 — Schluss an der Wall Street: Dow verliert rund 1.100 Punkte — Update: Anthropic-Aktie beendet Börsendebüt bei 97,17 Dollar — IG Metall ruft zu ganztägigen Warnstreiks auf</title>
-<link>https://radar724.de/posts/2026-11-19-nachts.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-nachts.html</guid>
-<pubDate>Thu, 19 Nov 2026 23:25:00 +0100</pubDate>
-<description>Donnerstag, 19. November 2026 · Nachtausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:25 Uhr (Europe/Berlin)</description>
-</item>  </channel>
+  </channel>
 </rss>
