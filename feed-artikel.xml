@@ -6,8 +6,119 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 23 Nov 2026 06:40:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:22:00 +0100</lastBuildDate>
+		<item>
+<title>Westliche Geheimdienste: Russland bereitet Berichten zufolge Atomwaffe im Weltraum vor</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-1</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Westliche Dienste erwarten einen russischen Satelliten mit Atomsprengkopf noch in diesem Jahr; die Nutzlast soll fertig konstruiert im Großraum Moskau lagern. Der Weltraumvertrag verbietet orbitale Atomwaffen, Moskau nennt die Berichte Propaganda.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html" />
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/russland-satellit-atomsprengkopf-weltraum-nato-boris-pistorius-gxe" />
+<r724:quelle url="https://www.br.de/nachrichten/meldung/russland-bereitet-laut-bericht-atomwaffe-im-weltraum-vor,300829197" />
+<r724:ki>true</r724:ki>
+</item>
+
 	<item>
+<title>Update: Rettungskräfte suchen in Dymer weiter — Angriffe auf die Region Kiew fordern mindestens zwölf Tote</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-2</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Nach dem Drohnenangriff auf das Wohnhaus in Dymer steigt die Totenzahl in der Region Kiew weiter; Al Jazeera zählt über mehrere Angriffe mindestens fünfzehn Opfer. Eine ältere Frau war zuvor lebend geborgen worden.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine" />
+<r724:quelle url="https://www.channelnewsasia.com/world/ukraine-says-russian-strikes-kill-12-in-kyiv-region-6573721" />
+<r724:quelle url="https://meduza.io/en/news/2026/11/23/11-killed-in-russian-strike-on-ukraine-s-dymer-in-kyiv-region" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>Spanien vor der Wahl am Sonntag: Umfragen sehen breite Mehrheit für Konservative und Rechte</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-3</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Eine Woche vor der Wahl sieht der 40dB-Trend PP und Vox bei rund 187 Sitzen, GESOP sogar bei bis zu 199. Alberto Feijóo steht vor einer möglichen Regierungsbildung mit der Rechten.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-elections-survey-feijoo-leads-sanchez-by-nine-tenths-and-adds-187-seats-with-vox/" />
+<r724:quelle url="https://electomania.es/encuesta-40db-23-nov-pp-y-vox-mantienen-una-amplia-mayoria-pese-al-avance-del-psoe/" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>DAX zeigt „Erholung auf Bewährung“ — Wall-Street-Futures deutlich im Plus</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-4</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Nach sechs Verlusttagen dreht der DAX ins Plus: rund 25.020 Punkte, plus 0,88 Prozent. US-Futures zeigen nach der schwersten Technikwoche seit 2020 deutlich höher.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/aufschlage-in-frankfurt-dax-verbucht-zum-start-des-montagshandels-zuschlage-1036790847" />
+<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170037410" />
+<r724:quelle url="https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>Brent-Ölpreis gibt am Montag nach — Markt blickt auf OPEC+-Termin und Golfkrise</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-5</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Brent kostet am Montagvormittag 91,96 US-Dollar, minus 0,68 Prozent. Vor dem OPEC+-Termin sorgt ein Huthi-Anspruch auf einen Raffinerie-Angriff für Nervosität.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.energynewsmagazine.at/2026/11/23/brent-oelpreis-faellt-auf-9196-us-dollar/" />
+<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/rohstoffe-vormittag-brent-oelpreis-fallt-auf-91-96-us-dollar-1036791275" />
+<r724:quelle url="https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>Cyber Week startet: 57 Prozent der Deutschen wollen zu Black-Friday-Deal greifen — jeder Fünfte prüft mit KI</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-6</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Bitkom-Studie zum Cyber-Week-Start: 57 Prozent shoppen die Rabatttage, im Schnitt für 304 Euro. Jeder Fünfte prüft mit KI, ob ein Angebot wirklich günstig ist.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bitkom.org/Presse/Presseinformation/Mehr-als-Haelfte-shoppt-Black-Friday-Cyber-Week" />
+<r724:quelle url="https://www.telecom-handel.de/themen/point-of-sale/black-friday-mehrheit-der-verbraucher-geht-auf-schnaeppchenjagd" />
+<r724:quelle url="https://pos-mail.de/mehr-als-die-haelfte-kauft-am-black-friday-und-in-der-cyber-week/" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>Trotz KI-Hilfe: Bewerbungen kosten Arbeitssuchende deutlich mehr Aufwand als zuvor</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-7</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Indeed-Umfrage: 41,7 Prozent melden mehr Zeitaufwand je Bewerbung, Hauptgründe sind fehlende Rückmeldungen und mehr nötige Bewerbungen. KI-Serienbewerbungen sind seltener erfolgreich.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://taz.de/Bewerbungen-schreiben/!6232421/" />
+<r724:quelle url="https://ber-it.de/news/ki-macht-bewerbungen-einfacher-und-die-konkurrenz-groesser" />
+<r724:ki>true</r724:ki>
+</item>
+
+	<item>
+<title>OpenAI schlägt der Branche gemeinsame Grenzen für die KI-Entwicklung vor</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-8</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>OpenAIs Chef-Wissenschaftler schlägt verbindliche Branchengrenzen vor, geknüpft an Sicherheitsmeilensteine, inklusive einer Art Tempolimit fürs Modelltraining.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.derstandard.de/story/3000000350463/openai-chefwissenschaftler-schl228gt-gemeinsame-grenzen-f252r-ki-vor" />
+<r724:quelle url="https://t3n.de/news/openai-ki-training-tempolimit-1774743/" />
+<r724:quelle url="https://www.sn.at/wirtschaft/welt/openai-schlaegt-gemeinsame-grenzen-bei-ki-entwicklung-vor-art-685466" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
 <title>Update: Zahl der Toten nach Drohnenangriff auf Wohnhaus in Dymer steigt auf zehn — Rettungskräfte bergen eine ältere Frau lebend</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-1</guid>
@@ -20,7 +131,7 @@
 <r724:quelle url="https://www.rbc.ua/ukr/news/89-richna-zhinka-vizhila-pid-zavalami-zruynovanogo-1795398565.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>US-Sondergesandter Kushner hält NATO-artige Sicherheitsgarantien für die Ukraine für möglich</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-2</guid>
@@ -33,7 +144,7 @@
 <r724:quelle url="https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Zypern weist zwei russische Diplomaten wegen Spionageverdachts aus</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-3</guid>
@@ -46,7 +157,7 @@
 <r724:quelle url="https://lb.ua/world/2026/11/22/782984_politico_kipr_vislav_rosiyskih.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Russische Korvette „Merkury" kentert in Libyen nach mutmaßlichem Drohnenangriff — zehn Verletzte</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-4</guid>
@@ -59,7 +170,7 @@
 <r724:quelle url="https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Russland schleppt das brennende Frachtschiff „Sparta II" aus dem Finnischen Meerbusen ab</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-5</guid>
@@ -72,7 +183,7 @@
 <r724:quelle url="https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Update: Nationaler Streik legt Belgiens Flugverkehr heute weitgehend still — Brüssel und Charleroi streichen Flüge</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-6</guid>
@@ -85,7 +196,7 @@
 <r724:quelle url="https://brf.be/national/2127729/" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Wochenausblick: Erwartungen auf DAX-Jahresendrally deutlich getrübt — Thanksgiving-Woche mit dünnen Impulsen aus New York</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-7</guid>
@@ -98,7 +209,7 @@
 <r724:quelle url="https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Konjunktur-Datenwoche: Einkaufsmanagerindizes heute, Ifo am Dienstag, PCE am Mittwoch — Thanksgiving ab Donnerstag</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-8</guid>
@@ -111,7 +222,7 @@
 <r724:quelle url="https://www.finanzen.at/nachrichten/aktien/wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-1036790238" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Update: COP31 geht als längste Klimakonferenz der Geschichte zu Ende — Guterres tief enttäuscht vom Scheitern</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-9</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-9</guid>
@@ -124,7 +235,7 @@
 <r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-in-antalya-keine-abschlusserklaerung-aber-konkrete-fortschritte-bei-umsetzung" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Berlin und EU lehnen COP31-Abschlusserklärung ab — dafür treten 75 Länder und 94 Organisationen einem Elektrifizierungs-Pakt bis 2035 bei</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-10</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-10</guid>
@@ -137,7 +248,7 @@
 <r724:quelle url="https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Russischer Drohnenangriff zerstört Wohnhaus in Dymer — Suche nach Vermissten läuft</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-1</guid>
@@ -150,7 +261,7 @@
 <r724:quelle url="https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Estland schließt am 1. Dezember die letzten Grenzübergänge zu Russland</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-2</guid>
@@ -163,7 +274,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Update: Bahrain meldet zwei Verletzte nach iranischen Angriffen</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-3</guid>
@@ -176,7 +287,7 @@
 <r724:quelle url="https://www.dawn.com/news/2046321" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Gesetzentwurf gegen Femizide: Hubig will Mordparagrafen verschärfen</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-4</guid>
@@ -189,7 +300,7 @@
 <r724:quelle url="https://www.n-tv.de/politik/Justizministerium-will-Femizid-als-Mord-einstufen-id31564262.html" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>EU-Haushalt: Berlin und Paris lehnen Costa-Vorschlag ab</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-5</guid>
@@ -202,7 +313,7 @@
 <r724:quelle url="https://www.br.de/nachrichten/meldung/eu-ratspraesident-schlaegt-digitalsteuer-fuer-mehr-geld-im-eu-haushalt-vor,30082896a" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Arbeitgeberpräsident Dulger fordert Abschied von der 35-Stunden-Woche</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-6</guid>
@@ -215,7 +326,7 @@
 <r724:quelle url="https://www.ad-hoc-news.de/wirtschaft/35-stunden-woche-dulger-fordiert-zwei-bis-drei-stunden-mehr/70543650" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Nach KI-Betrug bei Prüfungen: Südkoreas Bildungsminister tritt zurück</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-7</guid>
@@ -228,7 +339,7 @@
 <r724:quelle url="https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures" />
 <r724:ki>true</r724:ki>
 </item>
-	<item>
+<item>
 <title>Isar Aerospace beginnt Bau der Startrampe am Spaceport Nova Scotia</title>
 <link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-8</guid>
@@ -534,108 +645,5 @@
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/klimaschutzbericht-2026-deutschland-macht-fortschritte-auf-dem-weg-zur-klimaneutralitaet-weitere-anstrengungen-bleiben-notwendig" />
 <r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Trümmer in Polen identifiziert — Rakete war russische Ch-101 aus laufender Produktion</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-1</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Polnische Ermittler bestätigen, dass die Trümmer bei Nowy Lipowiec von einem russischen Marschflugkörper des Typs Ch-101 stammen, gefertigt erst im vierten Quartal 2026. Das US-Institut für Kriegsstudien wertet die Luftraumverletzungen als gezielte Provokation Moskaus. Der Nordatlantikrat berät am Montag in Brüssel.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.sn.at/politik/weltpolitik/polen-abgestuerztes-flugobjekt-war-russische-rakete-art-685330" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond" />
-<r724:quelle url="https://de.euronews.com/2026/11/21/rutte-in-warschau-nato-verteidigt-jeden-zentimeter-polnischen-territoriums" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Doppelangriff auf Krywyj Rih — Siebenjähriger und Sanitäterin getötet, 58 Menschen verletzt</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-2</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Nach ukrainischen Angaben starben bei den Angriffen auf Selenskyjs Heimatstadt ein siebenjähriger Junge und eine 20-jährige Sanitäterin; 58 Menschen wurden verletzt, darunter sechs Kinder. Gemäß Stadtverwaltung schlugen weitere Raketen nieder, während Rettungskräfte an der Einsatzstelle arbeiteten.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/" />
-<r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063913/" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>London und Kiew vereinbaren gemeinsame Produktion ukrainischer Drohnen</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-3</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Britanniens Verteidigungsminister Streeting traf in Kiew Selenskyj und Chmara. Zwei unterzeichnete Projektvereinbarungen sehen vor, ukrainische Drohnen mittlerer Reichweite und Tiefflug-Systeme auf britischem Boden und mit britischer Finanzierung zu bauen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine" />
-<r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063992/" />
-<r724:quelle url="https://mod.gov.ua/en/news/deep-strike-middle-strike-drone-production-uk" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Dortmund übernimmt die Tabellenführung — Schalke trifft auch gegen Stuttgart zuhause nicht</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-4</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Borussia Dortmund gewinnt 1:0 in Mönchengladbach und verdrängt den FC Bayern von der Bundesligaspitze. Das Abendspiel zwischen Schalke 04 und dem VfB Stuttgart endet torlos, die Gelsenkirchener bleiben auch im Heimspiel ohne Tor.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.br.de/nachrichten/meldung/dortmund-uebernimmt-tabellenfuehrung-in-der-fussball-bundesliga%2C3008289e0" />
-<r724:quelle url="https://www.sport1.de/daten/fussball/bundesliga/ergebnisse" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach fast zehn Jahren: EU und Indonesien unterzeichnen Freihandelsabkommen</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-5</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>EU und Indonesien unterzeichnen ein Freihandelsabkommen samt Investitionsschutz. Zölle sollen auf nahezu den gesamten Warenhandel entfallen; Kritiker warnen vor Wettbewerbsdruck für heimische Produzenten und zweifeln an der Durchsetzung der Nachhaltigkeitsklauseln.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html" />
-<r724:quelle url="https://de.euronews.com/2026/11/21/eu-und-indonesien-unterzeichnen-freihandelsabkommen-nach-zehn-jahren-verhandlungen" />
-<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170013356" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wirtschaftsministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-6</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Wirtschaftsministerin Reiche plant Medienberichten zufolge eine Ausnahme für Tankstellen direkt an Autobahnen, während Autohöfe an Ausfahrten gedeckelt bleiben. Der Gesetzentwurf ist noch in der Ressortabstimmung.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html" />
-<r724:quelle url="https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Genfer Gesprächsrunde beendet: Kein Mandat für ein Verbot von Killer-Robotern</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-7</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Die CCW-Überprüfungskonferenz endete ohne Mandat für ein Verbot autonomer Waffensysteme; Russland und die USA blockierten klare Regeln. Nichtregierungsorganisationen warnen vor einem Rüstungswettlauf.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/regeln-fuer-killerroboter-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/killerroboter-regeln-keine-einigung-100.html" />
-<r724:quelle url="https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Google integriert Duplex in Gemini: Der Assistent ruft jetzt Unternehmen an</title>
-<link>https://radar724.de/posts/2026-11-21-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html#artikel-8</guid>
-<pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
-<description>Google rollt Duplex in Tasks in Gemini aus: Der Assistent ruft Unternehmen an, fragt Verfügbarkeiten ab oder übernimmt Warteschleifen. Die Anruf-Technik basiert inzwischen vollständig auf Gemini.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/" />
-<r724:quelle url="https://ai.info/de/news/google-duplex-business-calls-gemini-tasks" />
-<r724:ki>true</r724:ki>
-</item>
-  </channel>
+</item>  </channel>
 </rss>

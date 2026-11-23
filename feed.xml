@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 23 Nov 2026 06:40:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:22:00 +0100</lastBuildDate>
+<item><title>Ausgabe #269 — Geheimdienste warnen: Russland bereitet Atomwaffe im Weltraum vor — DAX zeigt nach sechs Verlusttagen Erholung auf Bewährung — Mehrheit der Deutschen will zum Black-Friday-Deal greifen</title>
+<link>https://radar724.de/posts/2026-11-23-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
+<description>Montag, 23. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:22 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #268 — Update: Zehn Tote nach Drohnenangriff auf Dymer — Russische Korvette nach Explosion in Libyen gekentert — Belgien legt den Flugverkehr still</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html</guid>
@@ -90,12 +96,5 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-19-nachts.html</guid>
 <pubDate>Thu, 19 Nov 2026 23:25:00 +0100</pubDate>
 <description>Donnerstag, 19. November 2026 · Nachtausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:25 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #254 — Update: Anthropic-Aktie startet mit 34 Prozent Aufschlag — DAX schließt eine Woche nach dem Rekordhoch deutlich tiefer — Dreiergipfel von Trump, Xi und Putin endet mit Friedenserklärung</title>
-<link>https://radar724.de/posts/2026-11-19-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-19-abends.html</guid>
-<pubDate>Thu, 19 Nov 2026 18:31:00 +0100</pubDate>
-<description>Donnerstag, 19. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 18:31 Uhr (Europe/Berlin)</description>
-</item>
-  </channel>
+</item>  </channel>
 </rss>
