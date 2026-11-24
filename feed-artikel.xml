@@ -6,8 +6,99 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 24 Nov 2026 21:48:27 +0100</lastBuildDate>
-				<item>
+<lastBuildDate>Wed, 25 Nov 2026 00:02:45 +0100</lastBuildDate>
+				
+<item>
+<title>Russland meldet Abfang von 699 ukrainischen Drohnen in der Nacht</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-1</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Das russische Verteidigungsministerium meldet den Abfang von 699 ukrainischen Drohnen über Nacht, 355 davon Richtung Region Moskau. Opfer wurden nicht gemeldet; die Angaben sind unabhängig nicht überprüfbar.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.moneycontrol.com/world/russia-says-it-shot-down-nearly-700-ukrainian-drones-overnight-including-355-targeting-moscow-region-article-14087909.html" />
+<r724:quelle url="https://www.rfi.fr/fr/en-bref/20261124-la-russie-dit-avoir-abattu-pr%C3%A8s-de-700-drones-ukrainiens-dans-la-nuit-du-23-au-24-novembre" />
+<r724:quelle url="https://observador.pt/2026/11/24/russia-anuncia-o-abate-de-quase-700-drones-ucranianos-durante-a-noite/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>KI als Beweisautor: Anthropic veröffentlicht von Claude erstelltes Paper zu VP ≠ VNP</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-2</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Anthropic hat ein Paper veröffentlicht, das allein dem KI-Modell Claude zugeschrieben wird und die Ungleichung VP ≠ VNP beansprucht. Die Lean-4-Formalisierung ist online, von Menschen geprüft wurde der Beweis bislang nicht.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://xenospectrum.com/en/anthropic-claude-vp-vnp-proof/" />
+<r724:quelle url="https://casrai.org/news/anthropic-claude-authored-vp-vnp-proof-unverified-lean-2026" />
+<r724:quelle url="https://www.datastudios.org/post/claude-openai-rival-vp-vs-vnp-proofs-lean-hours-apart" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: USA setzen Nvidia-Kunden Megaspeed samt sechs weiteren Firmen auf die Export-Blacklist</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-3</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Das US-Handelsministerium hat Megaspeed International und sechs weitere südostasiatische Firmen auf die Entity List gesetzt. Exporte US-Technik brauchen künftig eine Lizenz - die Entscheidung folgt Stunden nach Huangs Nvidia-Comeback.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list" />
+<r724:quelle url="https://www.forbesmiddleeast.com/industry/business/us-blacklists-singapores-megaspeed-amid-nvidia-chip-diversion-investigation" />
+<r724:quelle url="https://www.techtimes.com/articles/331401/20261123/us-adds-nvidia-customer-megaspeed-entity-list-exports-seven-firms-now-need-licenses.htm" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>EGMR-Urteil: Zurückweisungen an der Grenze zu Belarus waren teils rechtmäßig</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-4</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Der EGMR erlaubt Pushbacks, wenn Migranten von einem Staat gezielt als Druckmittel eingesetzt werden - ausgenommen sind besonders Schutzbedürftige. In den konkreten Verfahren gab es teils Rechtsverletzungen und Entschädigungen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html" />
+<r724:quelle url="https://www.n-tv.de/politik/Europaeischer-Gerichtshof-urteilt-Pushbacks-unter-Umstaenden-legal-id31571601.html" />
+<r724:quelle url="https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Südkorea löst wegen russischer Militärflieger erstmals vorsorglichen Luftalarm auf Ulleung aus</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-5</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Rund fünf russische Militärflieger flogen in Südkoreas Luftverteidigungszone und näherten sich der Insel Ulleung-do. Seoul aktivierte erstmals für russische Maschinen einen vorsorglichen Luftalarm und bestellte den Militärattachen ein.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://en.yna.co.kr/view/AEN20261124002253315" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/suedkorea-evakuierung-russland-militaerflugzeug-100.html" />
+<r724:quelle url="https://www.rfi.fr/en/international-news/20261124-south-korea-says-russian-jets-entered-air-defence-zone" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>DAK-Umfrage: Angst vor schweren Krankheiten steigt wieder</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-6</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>Die jährliche DAK/Forsa-Umfrage zeigt steigende Krankheitsängste: Krebs bleibt Nr. 1 (70 Prozent), Demenz- und Psychosorgen erreichen Allzeithochs. Zugleich geben mehr Menschen an, aktiv Vorsorge zu betreiben.</description>
+<category>Gesundheit &amp; Medizin</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.dak.de/presse/bundesthemen/umfragen-studien/angst-vor-schweren-krankheiten-nimmt-2026-wieder-zu_236044" />
+<r724:quelle url="https://www.aerzteblatt.de/news/viele-menschen-furchten-sich-vor-krebs-demenz-und-unfall-c66e2c01-7fd7-4d28-8d22-3fc01e6c103a" />
+<r724:quelle url="https://www.spektrum.de/news/neue-umfrage-mehr-menschen-haben-angst-vor-krankheit/2355604" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>RKI zählt rund sechs Millionen neue Atemwegserkrankungen in einer Woche</title>
+<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-7</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
+<description>In der zweiten Novemberwoche steckten sich laut RKI rund sechs Millionen Menschen neu mit Atemwegserkrankungen an - ein moderater Saisonwert. Nur bei den über 80-Jährigen ist die Corona-Rate erhöht; eine Auffrischungsimpfung wird empfohlen.</description>
+<category>Gesundheit &amp; Medizin</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.mdr.de/wissen/medizin-gesundheit/schnupfen-husten-grippe-corona-aktuell-inzidenz-deutschland-sachsen-wochenberichte,erkaeltung-172.html" />
+<r724:quelle url="https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-106.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
 <title>Ifo-Geschäftsklima steigt auf 90,6 Punkte — bester Wert seit dem Frühjahr 2023</title>
 <link>https://radar724.de/posts/2026-11-24-abends.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-1</guid>
@@ -552,97 +643,6 @@
 <r724:quelle url="https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/" />
 <r724:quelle url="https://www.ansa.it/sito/notizie/mondo/2026/11/23/kiev-bilancio-vittime-dymer-sale-a-9-si-scava-ancora-tra-le-macerie_819461b5-d139-49ae-9b7d-9d179e6481b3.html" />
 <r724:quelle url="https://www.rbc.ua/ukr/news/89-richna-zhinka-vizhila-pid-zavalami-zruynovanogo-1795398565.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>US-Sondergesandter Kushner hält NATO-artige Sicherheitsgarantien für die Ukraine für möglich</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-2</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>US-Sondergesandter Jared Kushner erklärte, Präsident Trump könne der Ukraine Garantien nach dem Vorbild des NATO-Bündnisfalls in Betracht ziehen — sofern das Risiko einer erneuten russischen Invasion aus US-Sicht ausreichend gesenkt ist. Detailfragen bleiben strittig, eine Reaktion Moskaus steht aus.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html" />
-<r724:quelle url="https://newsukraine.rbc.ua/news/kushner-sets-conditions-for-article-5-style-1795384927.html" />
-<r724:quelle url="https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Zypern weist zwei russische Diplomaten wegen Spionageverdachts aus</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-3</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Zypern hat zwei russische Diplomaten des Landes verwiesen. Der zypriotische Nachrichtendienst deckte ein Netzwerk auf, das Zugang zu Sicherheitsdaten Zyperns und der EU sowie zu sanktionsrelevanten Technologien suchte. Präsident Christodoulides war den Angaben zufolge durchgehend informiert.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://en.protothema.gr/2026/11/21/cyprus-expels-two-russian-diplomats-over-espionage-targeting-state-secrets-and-european-technology/" />
-<r724:quelle url="https://www.ukrinform.net/rubric-polytics/4187487-cyprus-expels-two-russian-diplomats-over-suspected-espionage-politico.html" />
-<r724:quelle url="https://lb.ua/world/2026/11/22/782984_politico_kipr_vislav_rosiyskih.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Russische Korvette „Merkury" kentert in Libyen nach mutmaßlichem Drohnenangriff — zehn Verletzte</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-4</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>In der Marinebasis von Benghazi hat eine Explosion ein russisches Kriegsschiff schwer beschädigt; die Korvette „Merkury" kenterte, zehn Besatzungsmitglieder wurden verletzt. Die Behörden gehen von einem Drohnenangriff aus; über eine mögliche ukrainische Verantwortung wird spekuliert, ein Anspruch wurde nicht erhoben.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/libyen-explosion-kriegsschiff-ukraine-krieg-russland-100.html" />
-<r724:quelle url="https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Russland schleppt das brennende Frachtschiff „Sparta II" aus dem Finnischen Meerbusen ab</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-5</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Das durch Drohnen beschädigte russische Frachtschiff „Sparta II" hat die finnischen Hoheitsgewässer verlassen und wird nach dem tagelangen Lösch-Einsatz von Russland in heimische Gewässer geschleppt. Die Besatzung war zuvor evakuiert worden. Das Schiff war unterwegs ins russische Kaliningrad.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack" />
-<r724:quelle url="https://www.france24.com/en/live-news/20261122-russian-cargo-ship-hit-by-ukrainian-drone-towed-to-home-waters" />
-<r724:quelle url="https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Nationaler Streik legt Belgiens Flugverkehr heute weitgehend still — Brüssel und Charleroi streichen Flüge</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-6</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Belgiens Flugsicherung Skeyes kann regulären Flugverkehr zwischen 7 und 21 Uhr nicht gewährleisten, weil Lotsen am nationalen Streik gegen die Sparpolitik teilnehmen. Brüssel-Zaventem sagte die meisten Flüge ab, Charleroi strich den Passagierverkehr für den ganzen Tag; Rettungsflüge bleiben möglich.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike" />
-<r724:quelle url="https://www.straitstimes.com/world/europe/belgium-faces-air-traffic-shutdown-due-to-national-strike-on-nov-23" />
-<r724:quelle url="https://brf.be/national/2127729/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wochenausblick: Erwartungen auf DAX-Jahresendrally deutlich getrübt — Thanksgiving-Woche mit dünnen Impulsen aus New York</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-7</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Nach einer Verlustwoche rutschte der DAX vom Rekordhoch bei knapp über 27.000 Punkten unter 25.000 Zähler; Analysten sprechen von einer stark angeknacksten Stimmung. Impulse aus New York dürften wegen Thanksgiving am Donnerstag und des verkürzten Black-Friday-Handels überschaubar bleiben.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-1036790238" />
-<r724:quelle url="https://www.onvista.de/news/2026/11-20-wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-0-10-26578889" />
-<r724:quelle url="https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Konjunktur-Datenwoche: Einkaufsmanagerindizes heute, Ifo am Dienstag, PCE am Mittwoch — Thanksgiving ab Donnerstag</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-8</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Am Montag stehen Einkaufsmanagerindizes für Deutschland, die Eurozone und die USA an. Dienstag bringt Ifo-Geschäftsklima und US-Verbrauchervertrauen, Mittwoch die deutschen BIP-Detaildaten und die US-PCE-Inflation. Ab Donnerstag ruhen die US-Märkte wegen Thanksgiving weitgehend.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.investing.com/warrenai/share/resp_02f99f45ddabece4006affee74332487d29ac940d86dac0708" />
-<r724:quelle url="https://www.onvista.de/news/2026/11-20-wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-0-10-26578889" />
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-1036790238" />
 <r724:ki>true</r724:ki>
 </item>
 
