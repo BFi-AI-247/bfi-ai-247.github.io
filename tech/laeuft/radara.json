@@ -3,6 +3,12 @@
   "job": "RadarA",
   "laeufe": [
     {
+      "datum": "2026-11-24",
+      "ist_start": "2026-11-24T21:43:17+01:00",
+      "dauer_min": 10,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-23",
       "ist_start": "2026-11-23T18:52:50+01:00",
       "dauer_min": 9,
@@ -174,12 +180,6 @@
       "datum": "2026-10-21",
       "ist_start": "2026-10-21T18:56:14+02:00",
       "dauer_min": 9,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-20",
-      "ist_start": "2026-10-20T18:42:16+02:00",
-      "dauer_min": 5,
       "status": "ok"
     }
   ]
