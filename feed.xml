@@ -6,7 +6,13 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 23 Nov 2026 23:35:45 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:28:15 +0100</lastBuildDate>
+<item><title>Ausgabe #272 — Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Merz nennt Berichte über russische Atom-Pläne im All „schockierend“ — VW-Tarifrunde startet heute in Emden</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Dienstag, 24. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:28 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #271 — NATO-Tagung in Berlin endet mit scharfen Warnungen an Russland — Wall Street beendet siebentägige Verlustserie mit Rekord-Rallye — Verdacht auf China-nahe Hacker bei Angriff auf EU-Kommission</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html</guid>
@@ -90,12 +96,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-20-abends.html</guid>
 <pubDate>Fri, 20 Nov 2026 19:00:29 +0100</pubDate>
 <description>Freitag, 20. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 19:00 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #257 — Russische Raketen treffen Kiew: Sechs Tote, drei Brücken beschädigt — Sechster Verlusttag: DAX kämpft um die 25.000 Punkte — Update: Anthropic-Aktie startet schwach in den zweiten Handelstag</title>
-<link>https://radar724.de/posts/2026-11-20-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-mittags.html</guid>
-<pubDate>Fri, 20 Nov 2026 13:43:00 +0100</pubDate>
-<description>Freitag, 20. November 2026 · Mittagsausgabe · Rubriken: Wirtschaft &amp; Finanzen / Tech &amp; KI / Weltgeschehen · erstellt um 13:43 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>

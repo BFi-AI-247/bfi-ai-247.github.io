@@ -6,8 +6,139 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Mon, 23 Nov 2026 23:35:45 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:28:15 +0100</lastBuildDate>
+				<item>
+<title>Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Megaspeed landet auf schwarzer Liste</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Nur Tage nach dem Rücktritt im Zuge einer Spionage-Affäre führt Jensen Huang Nvidia wieder; Trump sagt, er habe den Verwaltungsrat überzeugt. Washington setzte Megaspeed auf eine Handelssperren-Liste, über die Nvidia-Chips nach China gelangt sein sollen. Die Nvidia-Aktie sprang am Montag rund 30 Prozent.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/trump-jensen-huang-nvidia-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+
 		<item>
+<title>Amazon sichert sich Decarts KI-Optimierung — Deal über gemeldete 7,5 Milliarden Dollar</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Amazon übernimmt die KI-Optimierungstechnologie des Startups Decart samt Team. Die Technik soll die eigenen Trainium-Beschleuniger effizienter machen und die Trainium-Palette im Kampf gegen Nvidias Dominanz verkaufsfähiger machen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/" />
+<r724:quelle url="https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Nach Cyberangriff: Hugendubel, Tolino-Cloud und eBook.de weitgehend offline</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Seit dem Wochenende laufen die Webseiten von Hugendubel, Tolino-Cloud und eBook.de nur noch im Wartungsmodus; E-Book-Downloads sind nicht möglich. Das Unternehmen bestätigt einen Cyberangriff, die Wiederherstellungsdauer ist offen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html" />
+<r724:quelle url="https://www.zeit.de/digital/2026-11/cyberangriff-hugendubel-buchhandelskette-internet-ausfall" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>GTA-VI-Leak: Hacker zu sieben Jahren Haft verurteilt — Bericht: wieder auf freiem Fuß</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Ein britisches Gericht ordnete gegen den Mann, der 2022 unveröffentlichte GTA-VI-Aufnahmen leakte, sieben Jahre Haft an. Dem Verfahren zufolge nutzte er einst Hotel-Fernseher, Smartphone und Streaming-Stick; laut The Verge ist er nach dem Urteil wieder frei.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/panorama/GTA-6-Hacker-zu-sieben-Jahren-Haft-verurteilt-id31568677.html" />
+<r724:quelle url="https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Deutschland baut künftig ukrainische Drohnen — Pistorius wird konkret</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Verteidigungsminister Pistorius kündigte an, dass ukrainische Drohnen künftig in Deutschland produziert werden; im April war die engere militärische Zusammenarbeit vereinbart worden. Zu Berichten über russische Angriffspläne im Weltall mahnte er zur Ruhe.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html" />
+<r724:quelle url="https://mod.gov.ua/en/news/boris-pistorius-ukraine-air-defence-winter" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Update: Merz nennt Berichte über russische Atombewaffnung im All „schockierend“</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Bundeskanzler Merz reagierte auf die Recherche von SZ, NDR und WDR zu einem mutmaßlich vorbereiteten Satelliten mit Atomsprengkopf; er nannte die Berichte schockierend. Pistorius wies auf fehlende Verifizierung hin, Moskau nennt die Darstellung Propaganda.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html" />
+<r724:quelle url="https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Haiti: Bukele nennt Details zu gefallenen Soldaten und wird wie ein Volksheld gefeiert</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Drei salvadorianische Soldaten starben in Haiti laut Präsident Bukele bei der Handhabung von Sprengstoff im Kampf gegen Banden. Der Einsatz mehrerer Tausend Soldaten ohne UN-Mandat macht Bukele in der Heimat zum gefeierten Volksheld.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" />
+<r724:quelle url="https://thehill.com/homenews/ap/ap-international/ap-bukele-reveals-circumstances-in-which-3-salvadoran-soldiers-died-fighting-gangs-in-haiti/" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Börsen-Ausblick: Ifo-Novemberindex um 10 Uhr — asiatische Börsen starten im Chip-Sog</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Der DAX legte Montag 2,2 Prozent auf 25.337 Punkte zu, die Erholung gilt als wacklig. Heute um 10 Uhr erscheint das Ifo-Geschäftsklima; Asien startete mit deutlichen Chip-Kursgewinnen nahe Tageslimits in Taiwan. Die US-Woche fällt wegen Thanksgiving verkürzt aus.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html" />
+<r724:quelle url="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Tarifkonflikt eskaliert: 24-Stunden-Streik bei Mercedes und neue Warnstreiks im Norden</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Bei Mercedes liegt die Produktion für 24 Stunden still, parallel laufen Warnstreiks im Norden. Die IG Metall baut Druck auf, da das Arbeitgeberangebot aus ihrer Sicht weit hinter den Forderungen zurückbleibt.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/wirtschaft/ig-metall-streik-mercedes-sindelfingen-100.html" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+		<item>
+<title>Update: VW-Tarifrunde startet heute in Emden — IG Metall ruft zu Protesten auf</title>
+<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</guid>
+<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
+<description>Für rund 120.000 Beschäftigte beginnt die erste Runde in Emden; VW besteht auf Nullrunden für 2027/2028 und flexibler 35-Stunden-Woche. Die IG Metall rief zu Protesten auf, ein Folgetermin steht Mitte Dezember in Zwickau.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/35-stunden-woche-lohn-zulagen-vw-tarifgespraeche-starten,vw-1722.html" />
+<r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen/zweites-ueberpruefungsgespraech-volkswagen-ag-und-ig-metall-einigen-sich-auf-den-start-von-verhandlungen-20757" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
 <title>Nato-Jahrestagung in Berlin endet mit scharfen Warnungen an Russland</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-1</guid>
@@ -564,144 +695,5 @@
 <r724:ki>true</r724:ki>
 </item>
 
-<item>
-<title>Nach KI-Betrug bei Prüfungen: Südkoreas Bildungsminister tritt zurück</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-7</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Auslöser des Rücktritts von Choi Kyo-jin war ein KI-Schummelei-Skandal: Der Jahrgangsbeste der Steuerberaterprüfung betrog mit Miniaturkamera und Smartphone — drei Tage nach der landesweiten Aufnahmeprüfung.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/panorama/Suedkoreas-Bildungsminister-tritt-nach-Betrug-bei-Pruefungen-zurueck-id31563255.html" />
-<r724:quelle url="https://www.derstandard.at/story/3000000350392/ki-betrug-bei-pruefungen-suedkoreas-bildungsminister-zurueckgetreten" />
-<r724:quelle url="https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Isar Aerospace beginnt Bau der Startrampe am Spaceport Nova Scotia</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-8</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Das Münchner Startup baut seine zweite Startrampe in Kanada — Investitionen laut kanadischen Medien rund 112 Millionen Dollar. Erster orbitaler Start aus Kanada laut Branchendienst frühestens 2028.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://isaraerospace.com/press/isar-aerospace-starts-build-out-of-its-launch-site-at-spaceport-nova-scotia-advancing-canadas-sovereign-access-to-space" />
-<r724:quelle url="https://www.cbc.ca/news/canada/nova-scotia/german-aerospace-company-signs-10-year-deal-to-use-n-s-space-launch-pad-9.7261257" />
-<r724:quelle url="https://spaceq.ca/isar-aerospace-nova-scotia-generals-call/" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>COP31 in Antalya endet ohne Abschlusserklärung — EU und Deutschland lehnen Entwurf ab</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-1</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Die Weltklimakonferenz in Antalya ist nach rund 44 Stunden Verlängerung ohne Abschlusserklärung beendet worden. Der Entwurf verzichtete auf ein Bekenntnis zum Ausstieg aus fossilen Brennstoffen; EU und Deutschland lehnten ab. Ein Fortschritt: 75 Länder und 94 Organisationen traten einer Elektrifizierungs-Initiative bei.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html" />
-<r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-in-antalya-keine-abschlusserklaerung-aber-konkrete-fortschritte-bei-umsetzung" />
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-murat-kurum-gxe" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Mexiko nimmt nach Feuergefechten den Kartellführer „El Chapo Isidro" fest</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-2</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Mexiko hat den Drogenkartell-Chef Fausto Isidro Meza Flores festgenommen. Bei der Operation in Sinaloa starben elf Menschen, darunter vier Soldaten. Der 44-Jährige stand auf der FBI-Liste der zehn meistgesuchten Flüchtigen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture" />
-<r724:quelle url="https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>„Costa Concordia"-Kapitän Schettino nach über neun Jahren auf Bewährung entlassen</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-3</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Francesco Schettino ist auf Bewährung aus dem Gefängnis Rebibbia entlassen worden. Der 66-Jährige war 2017 zu 16 Jahren und einem Monat verurteilt worden; bei der Schiffs-Katastrophe von 2012 starben 32 Menschen, darunter zwölf Deutsche.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html" />
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/costa-concordia-kapitaen-schettino-auf-bewaehrung-frei,VbcoO5f" />
-<r724:quelle url="https://de.euronews.com/2026/11/21/costa-concordia-ungluck-ex-kapitan-schettino-kommt-frei" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Altersvorsorgedepot: Staatlicher Basisfonds zum Start 2027 nicht einsatzbereit</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-4</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Der staatliche Basisfonds für das Altersvorsorgedepot kann frühestens im Sommer 2027 starten. Der Depot-Start zum 1. Januar bleibt davon unberührt. Zulagen gibt es gestaffelt bis zu 540 Euro im Jahr, pro Kind 300 Euro extra.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/altersvorsorge-basisdepot-2027-verzoegerung-100.html" />
-<r724:quelle url="https://www.zeit.de/politik/deutschland/2026-11/altersvorsorgedepot-rente-banken-fonds-gxe" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Spritpreisdeckel: Verkehrsminister Reiche will Autobahntankstellen ausnehmen</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-5</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Bundesverkehrsminister Reiche strebt an, Autobahntankstellen vom geplanten Spritpreisdeckel auszunehmen. Das Kabinett berät den Entwurf am 2. Dezember; Autohöfe sollen unter dem Deckel bleiben. Verbraucherschützer kritisieren den Ansatz.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html" />
-<r724:quelle url="https://www.ksta.de/wirtschaft/spritpreisdeckel-reiche-will-autobahntankstellen-nehmen-1422274" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>VW-Tarifrunde startet Montag in Emden — IG Metall nennt Forderungskatalog „Katalog der Schrecken"</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-6</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Für rund 130.000 Beschäftigte beginnen am Montag in Emden die Tarifverhandlungen zwischen Volkswagen und der IG Metall. Das Unternehmen fordert unter anderem das Ende der 35-Stunden-Woche und kein Tarifplus für 2027 und 2028. Ein zweiter Termin steht für den 15. Dezember in Zwickau.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.igmetall.de/tarif/tarifrunden/tarifrunde-volkswagen-2026" />
-<r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen/zweites-ueberpruefungsgespraech-volkswagen-ag-und-ig-metall-einigen-sich-auf-den-start-von-verhandlungen-20757" />
-<r724:quelle url="https://www.wolfsburger-nachrichten.de/wirtschaft/article413703915/kurz-vor-erster-tarifrunde-vw-tauscht-verhandlungsfuehrer-aus.html" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Rekord-Start: „GTA VI" spielt am ersten Tag rund 3,79 Milliarden US-Dollar ein</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-7</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>„Grand Theft Auto VI" hat am ersten Verkaufstag rund 3,79 Milliarden US-Dollar umgesetzt und bricht jeden Startrekord der Unterhaltungsbranche. Zuvor zählte der Hersteller über 32,5 Millionen Vorbestellungen. Bei Metacritic erreicht der Titel 99 von 100 Punkten.</description>
-<category>Kultur &amp; Medien</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html" />
-<r724:quelle url="https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html" />
-<r724:quelle url="https://www.gameswirtschaft.de/wirtschaft/gta-6-verkaufszahlen-umsatz-launch-211126/" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>„Rocky" wird 50: Philadelphia feiert mit Ausstellung und Statue im Museum</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html#artikel-8</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Vor 50 Jahren kam „Rocky" in die US-Kinos. Philadelphia feiert das Jubiläum mit einer „Rocky Season" bis zum 3. Dezember: Die bronzerne Rocky-Statue zieht erstmals ins Philadelphia Museum of Art, wo die Ausstellung „Rising Up" läuft.</description>
-<category>Kultur &amp; Medien</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/kultur/50-jahre-rocky-100.html" />
-<r724:quelle url="https://billypenn.com/2026/09/29/rocky-season-events-philadelphia-balboa-sylvester-stallone/" />
-<r724:quelle url="https://www.wyso.org/npr-news/2026-04-25/rocky-balboa-statue-takes-up-a-new-home-inside-philly-art-museum" />
-<r724:ki>true</r724:ki>
-</item>
   </channel>
 </rss>
