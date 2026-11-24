@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 24 Nov 2026 06:28:15 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 21:48:27 +0100</lastBuildDate>
+<item>
+<title>Ifo-Geschäftsklima auf Höchststand seit Frühjahr 2023 &amp;mdash; DAX verliert nach der Tech-Rallye &amp;mdash; VW-Tarifrunde endet ohne Ergebnis</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Dienstag, 24. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Space &amp; Forschung · erstellt um 21:48 Uhr (Europe/Berlin)</description>
+</item>
 <item><title>Ausgabe #272 — Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Merz nennt Berichte über russische Atom-Pläne im All „schockierend“ — VW-Tarifrunde startet heute in Emden</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html</guid>
@@ -90,12 +97,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-20-nachts.html</guid>
 <pubDate>Fri, 20 Nov 2026 23:34:14 +0100</pubDate>
 <description>Freitag, 20. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 23:34 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #258 — DAX rutscht unter 25.000 Punkte — Warnstreiks stoppen die Bosch-Produktion — Kushner hält NATO-artige Garantien für die Ukraine für möglich</title>
-<link>https://radar724.de/posts/2026-11-20-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-20-abends.html</guid>
-<pubDate>Fri, 20 Nov 2026 19:00:29 +0100</pubDate>
-<description>Freitag, 20. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 19:00 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>

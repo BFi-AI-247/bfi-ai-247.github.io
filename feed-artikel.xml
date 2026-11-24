@@ -6,8 +6,112 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Tue, 24 Nov 2026 06:28:15 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 21:48:27 +0100</lastBuildDate>
 				<item>
+<title>Ifo-Geschäftsklima steigt auf 90,6 Punkte &amp;mdash; bester Wert seit dem Frühjahr 2023</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-1</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Der ifo-Geschäftsklimaindex klettert auf 90,6 Punkte – der höchste Stand seit Frühjahr 2023 und der siebte Anstieg in Folge. Großes Bild: Die deutsche Erholung trägt, auch wenn es dem Aufschwung laut Präsident Fuest noch an Breite fehlt.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ifo.de/pressemitteilung/2026-11-24/ifo-geschaeftsklimaindex-gestiegen-november-2026" />
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html" />
+<r724:quelle url="https://www.zeit.de/news/2026-11/24/ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Tagesrückblick: DAX schließt 0,5 Prozent tiefer bei 25.205 Punkten &amp;mdash; der Tech-Rallye fehlen Anschlusskäufe</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-2</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Der DAX beendet den Xetra-Handel 0,52 Prozent tiefer bei 25.204,92 Punkten. Händlern zufolge fehlten nach der Nvidia-Rallye des Vortags Anschlusskäufe; der Ifo-Konjunkturdämpfer war am Parkett kaum zu spüren.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://ms-aktuell.de/welt/dax-ruecksetzer-24-11-2026/" />
+<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/zurueckhaltung-in-frankfurt-dax-zum-ende-des-dienstagshandels-mit-abgaben-1036796573" />
+<r724:quelle url="https://www.onvista.de/news/2026/11-24-roundup-aktien-frankfurt-schluss-rueckschlag-tech-rally-fehlen-anschlusskaeufe-0-10-26580125" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Wall Street vor Thanksgiving gemischt: Nvidia gibt nach Comeback-Rallye wieder nach &amp;mdash; Fed-Wette auf Dezember-Zinsschritt</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-3</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Der Dow gewinnt rund 0,7 Prozent, S&amp;P 500 und Nasdaq geben nach: Nvidia verliert nach dem 31-Prozent-Sprung des Vortags erneut deutlich. Am Terminmarkt wetten Anleger mit 95 Prozent auf eine Fed-Zinserhöhung im Dezember.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html" />
+<r724:quelle url="https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" />
+<r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Erste Runde der VW-Tarifrunde nach 90 Minuten ergebnislos beendet &amp;mdash; IG Metall droht mit Warnstreiks</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-4</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Nach nur 90 Minuten endet die erste VW-Tarifrunde ergebnislos. IG-Metall-Mann Gröger nennt den 15. Dezember in Zwickau die letzte Chance vor Auslauf der Friedenspflicht; die Konzernseite hält an ihren Sparforderungen fest.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/regional/niedersachsen/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html" />
+<r724:quelle url="https://de.finance.yahoo.com/nachrichten/erste-runde-vw-tarifverhandlungen-ergebnislos-163157319.html" />
+<r724:quelle url="https://www.diepresse.com/41489127/nach-frostiger-tarifauftakt-drohen-warnstreiks-bei-vw" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Russischer Angriff auf Saporischschja: mindestens zwei Tote und 41 Verletzte</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-5</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Ein russischer Luftangriff auf die Großstadt Saporischschja fordert Behördenangaben zufolge mindestens zwei Tote und 41 Verletzte, darunter vier Kinder. Mehrere Wohngebäude wurden beschädigt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zeit.de/video/2026-11/ukraine-zwei-tote-bei-russischem-angriff-auf-saporischschja" />
+<r724:quelle url="https://www.ukrinform.de/rubric-ato/4187910-angriff-auf-saporischschja-totet-zwei-und-verletzt-30-menschen.html" />
+<r724:quelle url="https://www.n-tv.de/politik/17-47-Rosatom-Ukrainische-Drohne-trifft-AKW-Saporischschja-id30859357.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>NATO stellt Polen AWACS-Aufklärungsflugzeug bereit &amp;mdash; Notfallsitzung des Bündnisrats auf Warschauer Initiative</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-6</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Die NATO stellt Polen ein AWACS-Frühwarnflugzeug zur Seite; der Beschluss folgt auf eine Sondersitzung des Nordatlantischen Rats. Hintergrund sind russische Luftraum-Verletzungen und abgestürzte Ch-101-Trümmer.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.gov.pl/web/nato-en/north-atlantic-council-emergency-meeting-initiated-by-poland" />
+<r724:quelle url="https://www.stripes.com/theaters/europe/2026-11-24/nato-authorizes-awacs-deployment-poland-23564156.html" />
+<r724:quelle url="https://www.polskieradio.pl/395/7784/Artykul/3756204,nato-to-deploy-earlywarning-aircraft-to-poland-after-russian-missile-incursion" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Ariane 6 bringt 36 Amazon-Leo-Satelliten in die Umlaufbahn &amp;mdash; zehnter Flug der Europarakete erfolgreich</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-7</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Ariane 64 startet mit 36 Amazon-Leo-Satelliten erfolgreich – ihr zehnter Flug. Es ist der vierte Ariane-6-Start für Amazons Breitbandkonstellation, erneut von Kourou aus.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://press.ariane.group/arianespace-successfully-launches-another-36-amazon-leo-satellites-on-ariane-6s-10th-flight/" />
+<r724:quelle url="https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/ariane-6-launches-another-set-of-amazon-leo-satellites-to-orbit" />
+<r724:quelle url="https://cnes.fr/evenements/va271-reivez-10e-lancement-dariane-6" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Euclid-Teleskop entdeckt den bisher fernsten Quasar &amp;mdash; ein Blick 630 Millionen Jahre nach den Urknall</title>
+<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-8</guid>
+<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
+<description>Das Euclid-Teleskop entdeckt den fernsten bekannten Quasar J1504+6252: 630 Millionen Jahre nach dem Urknall beobachtet, angetrieben von einem Schwarzen Loch mit 360 Millionen Sonnenmassen.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.qu.uni-hamburg.de/de/activities/news/2026/11-24-quasar-jt-schindler.html" />
+<r724:quelle url="https://www.derstandard.at/story/3000000350667/fernster-bekannter-quasar-laesst-an-bisherigen-annahmen-zweifeln" />
+<r724:quelle url="https://de.euronews.com/2026-11/24/forscher-entdecken-fernsten-quasar-entstanden-630-millionen-jahre-nach-dem-urknall" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
 <title>Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Megaspeed landet auf schwarzer Liste</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</guid>
@@ -19,8 +123,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/trump-jensen-huang-nvidia-100.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Amazon sichert sich Decarts KI-Optimierung — Deal über gemeldete 7,5 Milliarden Dollar</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</guid>
@@ -32,8 +135,7 @@
 <r724:quelle url="https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Nach Cyberangriff: Hugendubel, Tolino-Cloud und eBook.de weitgehend offline</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</guid>
@@ -45,8 +147,7 @@
 <r724:quelle url="https://www.zeit.de/digital/2026-11/cyberangriff-hugendubel-buchhandelskette-internet-ausfall" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>GTA-VI-Leak: Hacker zu sieben Jahren Haft verurteilt — Bericht: wieder auf freiem Fuß</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</guid>
@@ -58,8 +159,7 @@
 <r724:quelle url="https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Deutschland baut künftig ukrainische Drohnen — Pistorius wird konkret</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</guid>
@@ -71,8 +171,7 @@
 <r724:quelle url="https://mod.gov.ua/en/news/boris-pistorius-ukraine-air-defence-winter" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Update: Merz nennt Berichte über russische Atombewaffnung im All „schockierend“</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</guid>
@@ -84,8 +183,7 @@
 <r724:quelle url="https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Haiti: Bukele nennt Details zu gefallenen Soldaten und wird wie ein Volksheld gefeiert</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</guid>
@@ -98,8 +196,7 @@
 <r724:quelle url="https://thehill.com/homenews/ap/ap-international/ap-bukele-reveals-circumstances-in-which-3-salvadoran-soldiers-died-fighting-gangs-in-haiti/" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Börsen-Ausblick: Ifo-Novemberindex um 10 Uhr — asiatische Börsen starten im Chip-Sog</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</guid>
@@ -111,8 +208,7 @@
 <r724:quelle url="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Tarifkonflikt eskaliert: 24-Stunden-Streik bei Mercedes und neue Warnstreiks im Norden</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</guid>
@@ -124,8 +220,7 @@
 <r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Update: VW-Tarifrunde startet heute in Emden — IG Metall ruft zu Protesten auf</title>
 <link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</guid>
@@ -137,7 +232,6 @@
 <r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen/zweites-ueberpruefungsgespraech-volkswagen-ag-und-ig-metall-einigen-sich-auf-den-start-von-verhandlungen-20757" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Nato-Jahrestagung in Berlin endet mit scharfen Warnungen an Russland</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-1</link>
@@ -150,8 +244,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/ausland/russland-atomwaffe-weltraum-berichte-100.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Cyberangriff auf die EU-Kommission: Verdacht gegen China-nahe Hackergruppe</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-2</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-2</guid>
@@ -163,8 +256,7 @@
 <r724:quelle url="https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Update: Ukraine versenkt zwei russische Schiffe mit Waffenlieferungen vor Libyen</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-3</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-3</guid>
@@ -177,8 +269,7 @@
 <r724:quelle url="https://de.euronews.com/video/2026/11/23/ukraine-veroffentlicht-aufnahmen-von-angriffen-auf-zwei-russische-schiffe-vor-der-kuste-li" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Rekord-November auf der Kanaren-Route: mehr als 10.000 Migranten in einem Monat</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-4</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-4</guid>
@@ -191,8 +282,7 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Wall Street beendet siebentägige Verlustserie: S&amp;P 500 schließt 4,7 Prozent höher</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-5</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-5</guid>
@@ -205,8 +295,7 @@
 <r724:quelle url="https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Brent schließt bei 91,96 US-Dollar — Analyst sieht 25 bis 30 Dollar Risikoprämie im Ölpreis</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-6</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-6</guid>
@@ -219,8 +308,7 @@
 <r724:quelle url="https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>FDA genehmigt Roches Wilserdly: erste neue endokrine Therapie bei frühem Brustkrebs seit über 20 Jahren</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-7</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-7</guid>
@@ -233,8 +321,7 @@
 <r724:quelle url="https://lifesciencedaily.news/weekly-news-roundup-23-november-2026/" />
 <r724:ki>true</r724:ki>
 </item>
-
-		<item>
+<item>
 <title>Erstes siRNA-Medikament gegen generalisierte Myasthenia gravis in den USA zugelassen</title>
 <link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-8</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-8</guid>
@@ -247,7 +334,6 @@
 <r724:quelle url="https://www.businesswire.com/news/home/20261119295782/en/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Nvidias Verwaltungsrat setzt Jensen Huang per sofortigem Beschluss wieder als Konzernchef ein</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-1</link>
@@ -261,7 +347,6 @@
 <r724:quelle url="https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Update: DAX beendet den Montag mit 2,2 Prozent Plus bei 25.337 Punkten – EuroStoxx gewinnt 2,3 Prozent</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-2</link>
@@ -275,7 +360,6 @@
 <r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170046243" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Wall-Street-Rallye zum Wochenauftakt: Nasdaq legt 6,5 Prozent zu</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-3</link>
@@ -289,7 +373,6 @@
 <r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-midday-nov-23-nasdaq-surges-nearly-7-as-jensen-huang-s-return-sparks-historic-ai-rebound/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Update: Erste Runde der VW-Tarifrunde beginnt erst am Dienstag in Emden – IG Metall kündigt Proteste an</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-4</link>
@@ -303,7 +386,6 @@
 <r724:quelle url="https://www.ad-hoc-news.de/wirtschaft/volkswagen-startet-tarifrunde-fuer-120-000-beschaeftigte/70545158" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>CrowdStrike kauft Zscaler für rund 44 Milliarden Dollar – Cyberbranche rüstet sich für die KI-Ära</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-5</link>
@@ -317,7 +399,6 @@
 <r724:quelle url="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Bundestag berät über KI in der Migrationsverwaltung – Correctiv-Recherche warnt vor gläsernen Schutzsuchenden</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-6</link>
@@ -331,7 +412,6 @@
 <r724:quelle url="https://www.der-paritaetische.de/alle-meldungen/ki-in-der-migrationsverwaltung-der-paritaetische-und-36-weitere-organisationen-fordern-mehr-schutz-von-betroffenen/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>BepiColombo hat den Merkur erreicht: europäisch-japanische Sonde nach acht Jahren in der Umlaufbahn</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-7</link>
@@ -345,7 +425,6 @@
 <r724:quelle url="https://www.forschung-und-wissen.de/nachrichten/astronomie/raumsonde-bepicolombo-kreist-als-erste-europaeische-sonde-um-den-merkur-133716121" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Zehnter Ariane-6-Flug mit 36 Amazon-Leo-Satelliten: Start VA271 nun für Dienstag angesetzt</title>
 <link>https://radar724.de/posts/2026-11-23-abends.html#artikel-8</link>
@@ -359,7 +438,6 @@
 <r724:quelle url="https://orbitalradar.com/blog/orbital-briefing-2026-11-23" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Westliche Geheimdienste: Russland bereitet Berichten zufolge Atomwaffe im Weltraum vor</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-1</link>
@@ -373,7 +451,6 @@
 <r724:quelle url="https://www.br.de/nachrichten/meldung/russland-bereitet-laut-bericht-atomwaffe-im-weltraum-vor,300829197" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Update: Rettungskräfte suchen in Dymer weiter — Angriffe auf die Region Kiew fordern mindestens zwölf Tote</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-2</link>
@@ -387,7 +464,6 @@
 <r724:quelle url="https://meduza.io/en/news/2026/11/23/11-killed-in-russian-strike-on-ukraine-s-dymer-in-kyiv-region" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Spanien vor der Wahl am Sonntag: Umfragen sehen breite Mehrheit für Konservative und Rechte</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-3</link>
@@ -401,7 +477,6 @@
 <r724:quelle url="https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>DAX zeigt „Erholung auf Bewährung“ — Wall-Street-Futures deutlich im Plus</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-4</link>
@@ -415,7 +490,6 @@
 <r724:quelle url="https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Brent-Ölpreis gibt am Montag nach — Markt blickt auf OPEC+-Termin und Golfkrise</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-5</link>
@@ -429,7 +503,6 @@
 <r724:quelle url="https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Cyber Week startet: 57 Prozent der Deutschen wollen zu Black-Friday-Deal greifen — jeder Fünfte prüft mit KI</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-6</link>
@@ -443,7 +516,6 @@
 <r724:quelle url="https://pos-mail.de/mehr-als-die-haelfte-kauft-am-black-friday-und-in-der-cyber-week/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Trotz KI-Hilfe: Bewerbungen kosten Arbeitssuchende deutlich mehr Aufwand als zuvor</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-7</link>
@@ -456,7 +528,6 @@
 <r724:quelle url="https://ber-it.de/news/ki-macht-bewerbungen-einfacher-und-die-konkurrenz-groesser" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>OpenAI schlägt der Branche gemeinsame Grenzen für die KI-Entwicklung vor</title>
 <link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-8</link>
@@ -470,7 +541,6 @@
 <r724:quelle url="https://www.sn.at/wirtschaft/welt/openai-schlaegt-gemeinsame-grenzen-bei-ki-entwicklung-vor-art-685466" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Update: Zahl der Toten nach Drohnenangriff auf Wohnhaus in Dymer steigt auf zehn — Rettungskräfte bergen eine ältere Frau lebend</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-1</link>
@@ -484,7 +554,6 @@
 <r724:quelle url="https://www.rbc.ua/ukr/news/89-richna-zhinka-vizhila-pid-zavalami-zruynovanogo-1795398565.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>US-Sondergesandter Kushner hält NATO-artige Sicherheitsgarantien für die Ukraine für möglich</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-2</link>
@@ -498,7 +567,6 @@
 <r724:quelle url="https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Zypern weist zwei russische Diplomaten wegen Spionageverdachts aus</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-3</link>
@@ -512,7 +580,6 @@
 <r724:quelle url="https://lb.ua/world/2026/11/22/782984_politico_kipr_vislav_rosiyskih.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Russische Korvette „Merkury" kentert in Libyen nach mutmaßlichem Drohnenangriff — zehn Verletzte</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-4</link>
@@ -526,7 +593,6 @@
 <r724:quelle url="https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Russland schleppt das brennende Frachtschiff „Sparta II" aus dem Finnischen Meerbusen ab</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-5</link>
@@ -540,7 +606,6 @@
 <r724:quelle url="https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Update: Nationaler Streik legt Belgiens Flugverkehr heute weitgehend still — Brüssel und Charleroi streichen Flüge</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-6</link>
@@ -554,7 +619,6 @@
 <r724:quelle url="https://brf.be/national/2127729/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Wochenausblick: Erwartungen auf DAX-Jahresendrally deutlich getrübt — Thanksgiving-Woche mit dünnen Impulsen aus New York</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-7</link>
@@ -568,7 +632,6 @@
 <r724:quelle url="https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Konjunktur-Datenwoche: Einkaufsmanagerindizes heute, Ifo am Dienstag, PCE am Mittwoch — Thanksgiving ab Donnerstag</title>
 <link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-8</link>
@@ -580,118 +643,6 @@
 <r724:quelle url="https://www.investing.com/warrenai/share/resp_02f99f45ddabece4006affee74332487d29ac940d86dac0708" />
 <r724:quelle url="https://www.onvista.de/news/2026/11-20-wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-0-10-26578889" />
 <r724:quelle url="https://www.finanzen.at/nachrichten/aktien/wochenausblick-getruebte-aussicht-auf-jahresendrally-beim-dax-1036790238" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Update: COP31 geht als längste Klimakonferenz der Geschichte zu Ende — Guterres tief enttäuscht vom Scheitern</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-9</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Die Weltklimakonferenz in Antalya endete ohne gemeinsames Klimapaket; Hauptstreitpunkt blieb die Sprache zu fossilen Brennstoffen. UN-Generalsekretär Guterres nannte den Ausgang zutiefst enttäuschend, betonte aber: In der Wissenschaft gebe es keine Unklarheit — der Kurs zur Überschreitung des 1,5-Grad-Limits stehe.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://news.un.org/en/story/2026/11/1168855" />
-<r724:quelle url="https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946" />
-<r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-in-antalya-keine-abschlusserklaerung-aber-konkrete-fortschritte-bei-umsetzung" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Berlin und EU lehnen COP31-Abschlusserklärung ab — dafür treten 75 Länder und 94 Organisationen einem Elektrifizierungs-Pakt bis 2035 bei</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-10</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-10</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Deutschland und die EU lehnten die COP31-Abschlusstexte als Rückschritt ab. Zugleich traten 75 Länder und 94 Organisationen einer Initiative bei, bis 2035 weltweit 35 Prozent des Endenergieverbrauchs auf Strombasis zu stellen; Costa Rica und Deutschland übernehmen den Co-Vorsitz der Wald- und Klima-Partnerschaft FCLP.</description>
-<category>Klima &amp; Umwelt</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.bundesumweltministerium.de/pressemitteilung/weltklimakonferenz-in-antalya-keine-abschlusserklaerung-aber-konkrete-fortschritte-bei-umsetzung" />
-<r724:quelle url="https://news.un.org/en/story/2026/11/1168855" />
-<r724:quelle url="https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Russischer Drohnenangriff zerstört Wohnhaus in Dymer — Suche nach Vermissten läuft</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-1</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Ein Drohnenangriff hat in Dymer ein fünfstöckiges Wohnhaus teilweise zum Einsturz gebracht. Selenskyj meldete neun Gerettete; 14 Menschen gelten als vermisst, die Zahl der Toten stieg im Tagesverlauf auf mindestens fünf.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/22/14-menschen-vermisst-russischer-angriff-trifft-wohnhaus-nordlich-von-kyjiw" />
-<r724:quelle url="https://www.rferl.org/a/russia-ukraine-apartment-survivors-attack-war/33903536.html" />
-<r724:quelle url="https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Estland schließt am 1. Dezember die letzten Grenzübergänge zu Russland</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-2</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Narva, Luhamaa und Koidula werden geschlossen. An der Narva-Brücke verabschieden sich Menschen von Verwandten; die Regierung beruft sich auf einen mutmaßlich geplanten Anschlag auf eine Drohnenfabrik.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.valitsus.ee/en/news/government-suspend-crossings-estonia-russia-road-border" />
-<r724:quelle url="https://www.n-tv.de/politik/Estlands-Grenzschliessung-trennt-Familien-id31564116.html" />
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Update: Bahrain meldet zwei Verletzte nach iranischen Angriffen</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-3</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Ein Bahrainer und ein Pakistaner wurden verletzt, in Sitra brannte eine zivile Industrieanlage. Irans Revolutionsgarden beanspruchen Treffer auf US-Patriot-Radarstellungen in Al-Riffa und Awali.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility" />
-<r724:quelle url="https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks" />
-<r724:quelle url="https://www.dawn.com/news/2046321" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Gesetzentwurf gegen Femizide: Hubig will Mordparagrafen verschärfen</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-4</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Geschlechtsspezifische menschenverachtende Beweggründe sollen ausdrücklich als Mordmerkmal verankert werden, damit Femizide eindeutig als Mord gelten. Hubig verwies auf fast tägliche Taten und Versuche.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/deutschland/hubig-mordparagraph-femizide-100.html" />
-<r724:quelle url="https://www.n-tv.de/politik/Justizministerium-will-Femizid-als-Mord-einstufen-id31564262.html" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>EU-Haushalt: Berlin und Paris lehnen Costa-Vorschlag ab</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-5</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Ratspräsident Costa schlägt für 2028 bis 2034 rund zehn Prozent weniger Ausgaben plus Digitalsteuer für große Tech-Firmen vor. Deutschland und Frankreich lehnen den Entwurf ab.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/streit-eu-haushalt-costa-merz-digitalsteuer-100.html" />
-<r724:quelle url="https://www.br.de/nachrichten/meldung/eu-ratspraesident-schlaegt-digitalsteuer-fuer-mehr-geld-im-eu-haushalt-vor,30082896a" />
-<r724:ki>true</r724:ki>
-</item>
-
-<item>
-<title>Arbeitgeberpräsident Dulger fordert Abschied von der 35-Stunden-Woche</title>
-<link>https://radar724.de/posts/2026-11-22-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-nachts.html#artikel-6</guid>
-<pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
-<description>Dulger verlangt im Bild am Sonntag-Interview zwei bis drei Stunden Mehrarbeit und die zugesagte Reform des Arbeitszeitgesetzes. Er verweist auf monatlich mehr als 15.000 verlorene Industriebeschäftigte.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.focus.de/finanzen/news/lieber-laenger-arbeiten-als-arbeitsplatz-zu-verlieren_29131e95-29b5-4b5b-925d-65c91a5650ba.html" />
-<r724:quelle url="https://ms-aktuell.de/welt/35-stunden-woche-22-11-2026/" />
-<r724:quelle url="https://www.ad-hoc-news.de/wirtschaft/35-stunden-woche-dulger-fordiert-zwei-bis-drei-stunden-mehr/70543650" />
 <r724:ki>true</r724:ki>
 </item>
 
