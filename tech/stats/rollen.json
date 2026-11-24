@@ -3,10 +3,10 @@
     {
       "rolle": "PM_R1.4",
       "dienstbeginn": "30.10.2026",
-      "letzte_aktivitaet": "19.11.2026, 11:45 Uhr",
-      "antworten": 31,
+      "letzte_aktivitaet": "24.11.2026, 21:33 Uhr",
+      "antworten": 32,
       "quelle": "Eigenmessung laut Aktivitäts-Log",
-      "stand": "19.11.2026, 11:45 Uhr"
+      "stand": "24.11.2026, 21:33 Uhr"
     },
     {
       "rolle": "Architektur_R2.3",
@@ -65,5 +65,5 @@
       "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-11-19T18:33:16+01:00"
+  "updated": "2026-11-24T21:51:32+01:00"
 }
