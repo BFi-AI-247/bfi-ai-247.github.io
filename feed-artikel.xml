@@ -6,7 +6,115 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 06:12:49 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:42:00 +0100</lastBuildDate>
+<item>
+<title>Drohnen greifen Kiew an: Trümmer treffen Hochhaus im Zentrum — drei Verletzte</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-1</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Drohnen-Trümmer trafen in der Nacht zum Mittwoch im Bezirk Schewtschenkiwskyj ein Wohnhochhaus und einen Kindergarten; mindestens drei Menschen wurden verletzt. Der Angriff reiht sich in die nächtliche Angriffsserie der vergangenen Wochen ein.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/12-54-ntv-Reporterin-Sharma-berichtet-von-einer-bedrohlichen-Nacht-mit-Explosionen-id30859357.html" />
+<r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064550/" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>GPT-6 entwirft funktionsfähige Proteine: OpenAI legt Laborbefunde vor</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-2</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Modelle der GPT-6-Familie entwarfen Proteinstrukturen und Aminosäure-Sequenzen allein mit Reasoning- und Code-Werkzeugen. Von 322 getesteten Mini-Bindungsproteinen dockten 35 an ihr Ziel an; die Studie ist als Preprint erschienen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/" />
+<r724:quelle url="https://www.unite.ai/openai-reports-gpt-6-designs-proteins-with-reasoning-and-code/" />
+<r724:quelle url="https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Anthropic startet „Claude Ship“: KI-Agenten dürfen Pull-Requests genehmigen</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-3</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Drei Agenten prüfen eingehende Pull-Requests, beheben fehlgeschlagene Checks und genehmigen Änderungen nach einer vom Team hinterlegten Policy-Datei. Anthropic empfiehlt den Beobachtungsmodus für den Start.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://claude.com/resources/articles/introducing-claude-ship" />
+<r724:quelle url="https://tech.yahoo.com/ai/claude/articles/anthropic-launches-claude-ship-letting-220550886.html" />
+<r724:quelle url="https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>KI-Agenten mit formalen Beweisen: DeepMind findet schnellere Quantenalgorithmen</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-4</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Gemini-4-Agententeams verbesserten etablierte Quantenalgorithmen; die Schaltkreise werden mit Lean formal verifiziert. Laut Zweitberichterstattung sank der Ressourcenbedarf um bis zu rund das 290-Fache.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/" />
+<r724:quelle url="https://tech.yahoo.com/ai/gemini/articles/290-times-speedup-google-deepmind-140405067.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Generaldebatte in Berlin: Merz räumt Schwierigkeiten beim Haushalt ein</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-5</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Zum Auftakt der Generaldebatte zum Haushalt 2027 räumte Merz ein, dass sich Schwarz-Rot mit dem Etat schwertut; mit Blick auf Russland warnte er, Moskaus Ziele reichten über die Ukraine hinaus.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/merz-generaldebatte-bundestag-haushalt-opposition-100.html" />
+<r724:quelle url="https://www.tagesschau.de/video/video-1689566.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Erster Ukraine-Besuch: Magyar und Selenskyj verkünden „neues Kapitel“</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-6</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Ungarns Regierungschef Magyar traf in Uschhorod erstmals Selenskyj; vereinbart wurden Absprachen zu Energie, Zugverbindungen und Minenräumung. Magyar forderte zugleich Sprachrechte für die ungarische Minderheit.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.euronews.com/2026/11/25/peter-magyar-and-volodymyr-zelenskyy-open-new-chapter-in-ukraine-hungary-relations" />
+<r724:quelle url="https://www.nau.ch/news/europa/magyar-will-ungarn-der-ukraine-wieder-annahern-67206387" />
+<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170131607" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>Voyager 1 erreicht erstmals einen „Lichttag“ Entfernung von der Erde</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-7</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Rund 49 Jahre nach dem Start ist die NASA-Sonde 25,9 Milliarden Kilometer von der Erde entfernt; ihre Signale sind 24 Stunden unterwegs. Das Team hörte die Bestätigung erst einen Tag nach dem Ereignis.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.jpl.nasa.gov/news/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/" />
+<r724:ki>true</r724:ki>
+</item>
+
+<item>
+<title>200 Sekunden Vollgas: NASA testet RS-25-Triebwerk für künftige Mondmissionen</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-8</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Auf dem Fred-Haise-Teststand lief ein Entwicklungs-Triebwerk 200 Sekunden im Heißlauf. Die Daten sollen Zuverlässigkeit für die Artemis-Missionen erhöhen; Artemis IV ist für 2028 vorgesehen.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/" />
+<r724:quelle url="https://www.sciencedaily.com/releases/2026/11/261120075551.htm" />
+<r724:quelle url="https://tech.yahoo.com/science/articles/nasa-rs-25-rocket-engine-204203363.html" />
+<r724:ki>true</r724:ki>
+</item>
+
+
 				
 <item>
 <title>Update: Vier Tote bei russischen Angriffen auf Saporischschja und Slowjansk</title>
@@ -535,110 +643,6 @@
 <r724:quelle url="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx" />
 <r724:quelle url="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/" />
 <r724:quelle url="https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: DAX beendet den Montag mit 2,2 Prozent Plus bei 25.337 Punkten – EuroStoxx gewinnt 2,3 Prozent</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-2</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Der DAX schloss beim Xetra-Schluss 2,2 Prozent höher bei 25.337 Punkten und kehrte nach sechs Verlusttagen über die Marke von 25.000 Zählern zurück. Siemens Energy und Infineon zählten zu den stärksten Werten, der EuroStoxx 50 schloss 2,3 Prozent höher bei rund 6.080 Punkten.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/xetra-schluss-dax-wieder-ueber-25-000-punkte-huang-rueckkehr-befluegelt-1036792650" />
-<r724:quelle url="https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Montag-23-November-2026-id31565044.html" />
-<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170046243" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wall-Street-Rallye zum Wochenauftakt: Nasdaq legt 6,5 Prozent zu</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-3</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Im mittleren Handel notierte der technologielastige Nasdaq Composite um etwa 6,5 Prozent höher, der Dow Jones gewann rund 2,5 Prozent. Auslöser war Huangs Rückkehr an die Nvidia-Spitze. Wegen Thanksgiving am Donnerstag bleibt die US-Handelswoche verkürzt.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://uk.finance.yahoo.com/news/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html" />
-<r724:quelle url="https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms" />
-<r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-midday-nov-23-nasdaq-surges-nearly-7-as-jensen-huang-s-return-sparks-historic-ai-rebound/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Erste Runde der VW-Tarifrunde beginnt erst am Dienstag in Emden – IG Metall kündigt Proteste an</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-4</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Die erste Verhandlungsrunde für rund 120.000 Beschäftigte beginnt nun am Dienstagvormittag in Emden; zuvor wollen Beschäftigte des Emder Werks auf die Straße gehen. VW fordert Nullrunden für 2027 und 2028 sowie die bedarfsabhängige Anpassung der 35-Stunden-Woche. Ein weiterer Termin steht für den 15. Dezember in Zwickau an.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/35-stunden-woche-lohn-zulagen-vw-tarifgespraeche-starten,vw-1722.html" />
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html" />
-<r724:quelle url="https://www.ad-hoc-news.de/wirtschaft/volkswagen-startet-tarifrunde-fuer-120-000-beschaeftigte/70545158" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>CrowdStrike kauft Zscaler für rund 44 Milliarden Dollar – Cyberbranche rüstet sich für die KI-Ära</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-5</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>CrowdStrike übernimmt Zscaler in einem reinen Aktiendeal im Wert von rund 43,9 Milliarden US-Dollar, der größten Übernahme der IT-Sicherheitsgeschichte. Die Technik soll auf die Falcon-Plattform wandern. Der Abschluss ist für die zweite Hälfte des Fiskaljahres 2028 vorgesehen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/" />
-<r724:quelle url="https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html" />
-<r724:quelle url="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Bundestag berät über KI in der Migrationsverwaltung – Correctiv-Recherche warnt vor gläsernen Schutzsuchenden</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-6</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Der Innenausschuss hält eine öffentliche Anhörung zum Gesetzentwurf ab. Zivilgesellschaftliche Organisationen kritisieren, dass künftig sensible Angaben aus Asylakten massenhaft durch KI-Systeme verarbeitet werden könnten. Der Paritätische und 36 weitere Verbände fordern mehr Schutz für Betroffene.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://correctiv.org/aktuelles/kuenstliche-intelligenz/2026/11/23/ki-in-asylverfahren-werden-schutzsuchende-zu-glaesernen-menschen/" />
-<r724:quelle url="https://www.bundestag.de/ausschuesse/inneres/anhoerungen/1232622-1232622" />
-<r724:quelle url="https://www.der-paritaetische.de/alle-meldungen/ki-in-der-migrationsverwaltung-der-paritaetische-und-36-weitere-organisationen-fordern-mehr-schutz-von-betroffenen/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>BepiColombo hat den Merkur erreicht: europäisch-japanische Sonde nach acht Jahren in der Umlaufbahn</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-7</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Die gut vier Tonnen schwere Sonde wurde nach einem Triebwerksmanöver von gut einer halben Stunde vom Schwerefeld des Merkurs eingefangen. BepiColombo ist erst die zweite Mission überhaupt, die den Merkur umkreist. Die Mission will den ungewöhnlich großen Eisenkern des innersten Planeten vermessen.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.br.de/nachrichten/meldung/merkur-sonde-ist-in-umlaufbahn-eingetreten,300828bd4" />
-<r724:quelle url="https://on.orf.at/video/14348500/16191694/europaeische-weltraummission-erreicht-merkur-orbit-zib-1300-vom-22112026" />
-<r724:quelle url="https://www.forschung-und-wissen.de/nachrichten/astronomie/raumsonde-bepicolombo-kreist-als-erste-europaeische-sonde-um-den-merkur-133716121" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Zehnter Ariane-6-Flug mit 36 Amazon-Leo-Satelliten: Start VA271 nun für Dienstag angesetzt</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html#artikel-8</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Die Mission VA271 soll nun am 24. November vom Weltraumbahnhof in Französisch-Guayana starten. An Bord der Ariane 64 befinden sich 36 Satelliten des Breitbandkonkurrenten Amazon Leo. Zugleich ist es erst der zweite Einsatz der weiterentwickelten P160C-Booster.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ariane.group/en/news/va271-launch-kit-for-the-10th-ariane-6-launch/" />
-<r724:quelle url="https://centrespatialguyanais.cnes.fr/en/news/va271-mission-nutshell" />
-<r724:quelle url="https://orbitalradar.com/blog/orbital-briefing-2026-11-23" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Westliche Geheimdienste: Russland bereitet Berichten zufolge Atomwaffe im Weltraum vor</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-1</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Westliche Dienste erwarten einen russischen Satelliten mit Atomsprengkopf noch in diesem Jahr; die Nutzlast soll fertig konstruiert im Großraum Moskau lagern. Der Weltraumvertrag verbietet orbitale Atomwaffen, Moskau nennt die Berichte Propaganda.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html" />
-<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/russland-satellit-atomsprengkopf-weltraum-nato-boris-pistorius-gxe" />
-<r724:quelle url="https://www.br.de/nachrichten/meldung/russland-bereitet-laut-bericht-atomwaffe-im-weltraum-vor,300829197" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>

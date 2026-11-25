@@ -6,7 +6,15 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 06:12:49 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:42:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #276 — Drohnenangriff auf Kiew: Feuer in Hochhaus, drei Verletzte — Merz gesteht Hürden beim Haushalt 2027 — OpenAI legt Laborbefunde für GPT-6-Proteine vor</title>
+<link>https://radar724.de/posts/2026-11-25-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html</guid>
+<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+<description>Mittwoch, 25. November 2026 · Mittagsausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 12:42 Uhr (Europe/Berlin)</description>
+</item>
+
 <item>
 <title>Ausgabe #275 — Vier Tote bei russischen Angriffen auf Saporischschja und Slowjansk — Nvidia-Rallye ebbt ab: Anthropic-Aktie fällt unter den Ausgabepreis — Deutschland entgeht erneut dem EU-Defizitverfahren</title>
 <link>https://radar724.de/posts/2026-11-25-morgens.html</link>
@@ -93,12 +101,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-21-abends.html</guid>
 <pubDate>Sat, 21 Nov 2026 18:49:58 +0100</pubDate>
 <description>Samstag, 21. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:49 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #261 — Update: Nato-Chef Rutte reist nach Raketen-Vorfall nach Warschau — Russischer Nachtangriff erschüttert Krywyj Rih und Kiew — Anthropic-Mathematiker meldet KI-gestützten Beweis der Riemannschen Vermutung an</title>
-<link>https://radar724.de/posts/2026-11-21-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-mittags.html</guid>
-<pubDate>Sat, 21 Nov 2026 12:15:34 +0100</pubDate>
-<description>Samstag, 21. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Klima &amp; Umwelt · erstellt um 12:15 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
