@@ -6,8 +6,107 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 00:02:45 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 06:12:49 +0100</lastBuildDate>
 				
+<item>
+<title>Update: Vier Tote bei russischen Angriffen auf Saporischschja und Slowjansk</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-1</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Russische Luftangriffe fordern laut tagesschau mindestens vier Menschenleben in Saporischschja und Slowjansk; allein in Saporischschja waren am Vortag zwei Tote und mehr als 40 Verletzte gemeldet worden. Die Angriffe stehen im Zeichen der russischen Winterkampagne gegen die Infrastruktur.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-saporischschja-100.html" />
+<r724:quelle url="https://www.zeit.de/video/2026-11/ukraine-zwei-tote-bei-russischem-angriff-auf-saporischschja" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>TÜV-Studie: Vier von fünf Deutschen nutzen generative KI — Risiken gelten als nicht abschätzbar</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-2</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>81 Prozent der Bevölkerung nutzen generative KI, wie die Erhebung des TÜV-Verbands zeigt. Parallel wachsen die Sicherheitsbedenken: Rund neun von zehn Befragten halten die Risiken der Technologie gegenwärtig für nicht abschätzbar.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tuev-verband.de/pressemitteilungen/tuev-ki-studie-2026-vier-von-fuenf-nutzen-ki-sicherheitsbedenken-wachsen" />
+<r724:quelle url="https://www.datensicherheit.de/generative-ki-zunahme-sicherheitsbedenken/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Abrechnung nach der Rallye: Nvidia dreht um sechs Prozent ab — Anthropic rutscht unter den Ausgabepreis</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-3</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Nvidia gibt einen Tag nach dem Rekordsprung von 31,5 Prozent rund sechs Prozent nach; der Nasdaq gerät unter Druck. Anthropic schließt fünf Tage nach dem Börsendebüt unter dem Ausgabepreis von 83 Dollar, Analysten bleiben laut CNBC mehrheitlich positiv.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html" />
+<r724:quelle url="https://www.zeit.de/wirtschaft/2026-11/nvidia-aktie-jensen-huang-nasdaq-ki-blase" />
+<r724:quelle url="https://www.cnbctv18.com/technology/anthropic-breaks-below-usd-83-ipo-price-as-debut-rally-unravels-20040501.htm" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Pjöngjang weist Schweizer Diplomaten aus — das knapp eröffnete Büro soll schließen</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-4</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Nur Wochen nach der Eröffnung durch Außenminister Cassis fordert Nordkorea den Leiter des Schweizer Büros zur Ausreise und verlangt die Schließung. Zuvor hatte Kim Yo Jong mit dem Schritt gedroht; Pjöngjang nennt neue Sanktionen einen „feindseligen Akt“.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-nordkorea-weist-schweizer-diplomaten-aus-und-schliesst-vertretung" />
+<r724:quelle url="https://www.zeit.de/politik/ausland/2026-11/nordkorea-ausweisung-schweiz-diplomat-pjoengjang-sanktionen" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Wadephul zeigt sich über Trumps Einflussnahme bei Nvidia „schockiert“</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-5</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Bundesaußenminister Wadephul nannte das Einwirken Trumps auf die Nvidia-Personalentscheidung beim Berliner Forum Außenpolitik schockierend — einen solchen Eingriff habe er nie erlebt. Die tagesschau spricht von einem nie dagewesenen Verwischen der Grenzen; Kritik kommt aus beiden US-Parteien.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html" />
+<r724:quelle url="https://www.zeit.de/politik/2026-11/donald-trump-nvidia-johann-wadephul-cdu-usa-gxe" />
+<r724:quelle url="https://www.diepresse.com/41487025/deutscher-aussenminister-schockiert-ueber-nvidia-noch-nie-einen-solchen" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Großbritannien warnt Rüstungsfirmen: Behörden erwarten verstärkte russische Sabotage</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-6</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>MI5-Tochter NPSA und das Verteidigungsministerium warnen britische Firmen der Ukraine-Lieferkette in einem gemeinsamen Hinweis vor steigender russischer Sabotage — über Cyberangriffe hinaus. Unternehmen sollen ihre Schutzvorkehrungen überprüfen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.mi5.gov.uk/npsa-and-mod-issue-joint-alert" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat" />
+<r724:quelle url="https://breakingdefense.com/2026/11/uks-mi5-warns-local-defense-firms-of-russian-sabotage-risk/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Deutschland entgeht erneut dem EU-Defizitverfahren — Brüssel warnt vor dem Haushalt 2027</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-7</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Nach Abzug der Verteidigungsausgaben bleibt die erwartete Neuverschuldung von rund 4,1 Prozent des BIP unter der EU-Schwelle, ein Defizitverfahren entfällt. Die Kommission warnt zugleich, der Haushaltsentwurf 2027 riskiere die Neuverschuldungsgrenze zu überschreiten.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/ticker/Deutschland-entgeht-erneut-EU-Defizitverfahren-id31572689.html" />
+<r724:quelle url="https://www.berliner-zeitung.de/article/aufruestung-rettet-haushalt-deutschland-entgeht-wegen-verteidigungsausgaben-dem-eu-defizitverfahren-10632004" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Börsen-Ausblick: PCE-Inflation heute, Thanksgiving morgen — Erholung nach Nvidia-Rallye auf dem Prüfstand</title>
+<link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-morgens.html#artikel-8</guid>
+<pubDate>Wed, 25 Nov 2026 06:12:49 +0100</pubDate>
+<description>Heute stehen PCE-Inflationsdaten an, Donnerstag bleibt der US-Handel wegen Thanksgiving geschlossen, am Sonntag berät OPEC+. Der DAX geht nach leichten Dienstagseinbußen mit rund 25.205 Punkten in den Mittwoch.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.finanztrends.de/news/was-diese-woche-zaehlt-us-inflationsdaten-vor-thanksgiving/" />
+<r724:quelle url="https://finanzimpulse.net/boersenwoche-ausblick-thanksgiving-pce-inflation-dell-november-2026/" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Russland meldet Abfang von 699 ukrainischen Drohnen in der Nacht</title>
 <link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-1</link>
@@ -542,109 +641,5 @@
 <r724:quelle url="https://www.br.de/nachrichten/meldung/russland-bereitet-laut-bericht-atomwaffe-im-weltraum-vor,300829197" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Update: Rettungskräfte suchen in Dymer weiter — Angriffe auf die Region Kiew fordern mindestens zwölf Tote</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-2</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Nach dem Drohnenangriff auf das Wohnhaus in Dymer steigt die Totenzahl in der Region Kiew weiter; Al Jazeera zählt über mehrere Angriffe mindestens fünfzehn Opfer. Eine ältere Frau war zuvor lebend geborgen worden.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine" />
-<r724:quelle url="https://www.channelnewsasia.com/world/ukraine-says-russian-strikes-kill-12-in-kyiv-region-6573721" />
-<r724:quelle url="https://meduza.io/en/news/2026/11/23/11-killed-in-russian-strike-on-ukraine-s-dymer-in-kyiv-region" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Spanien vor der Wahl am Sonntag: Umfragen sehen breite Mehrheit für Konservative und Rechte</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-3</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Eine Woche vor der Wahl sieht der 40dB-Trend PP und Vox bei rund 187 Sitzen, GESOP sogar bei bis zu 199. Alberto Feijóo steht vor einer möglichen Regierungsbildung mit der Rechten.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-elections-survey-feijoo-leads-sanchez-by-nine-tenths-and-adds-187-seats-with-vox/" />
-<r724:quelle url="https://electomania.es/encuesta-40db-23-nov-pp-y-vox-mantienen-una-amplia-mayoria-pese-al-avance-del-psoe/" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>DAX zeigt „Erholung auf Bewährung“ — Wall-Street-Futures deutlich im Plus</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-4</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Nach sechs Verlusttagen dreht der DAX ins Plus: rund 25.020 Punkte, plus 0,88 Prozent. US-Futures zeigen nach der schwersten Technikwoche seit 2020 deutlich höher.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/aufschlage-in-frankfurt-dax-verbucht-zum-start-des-montagshandels-zuschlage-1036790847" />
-<r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170037410" />
-<r724:quelle url="https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Brent-Ölpreis gibt am Montag nach — Markt blickt auf OPEC+-Termin und Golfkrise</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-5</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Brent kostet am Montagvormittag 91,96 US-Dollar, minus 0,68 Prozent. Vor dem OPEC+-Termin sorgt ein Huthi-Anspruch auf einen Raffinerie-Angriff für Nervosität.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.energynewsmagazine.at/2026/11/23/brent-oelpreis-faellt-auf-9196-us-dollar/" />
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/rohstoffe-vormittag-brent-oelpreis-fallt-auf-91-96-us-dollar-1036791275" />
-<r724:quelle url="https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Cyber Week startet: 57 Prozent der Deutschen wollen zu Black-Friday-Deal greifen — jeder Fünfte prüft mit KI</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-6</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Bitkom-Studie zum Cyber-Week-Start: 57 Prozent shoppen die Rabatttage, im Schnitt für 304 Euro. Jeder Fünfte prüft mit KI, ob ein Angebot wirklich günstig ist.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.bitkom.org/Presse/Presseinformation/Mehr-als-Haelfte-shoppt-Black-Friday-Cyber-Week" />
-<r724:quelle url="https://www.telecom-handel.de/themen/point-of-sale/black-friday-mehrheit-der-verbraucher-geht-auf-schnaeppchenjagd" />
-<r724:quelle url="https://pos-mail.de/mehr-als-die-haelfte-kauft-am-black-friday-und-in-der-cyber-week/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Trotz KI-Hilfe: Bewerbungen kosten Arbeitssuchende deutlich mehr Aufwand als zuvor</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-7</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Indeed-Umfrage: 41,7 Prozent melden mehr Zeitaufwand je Bewerbung, Hauptgründe sind fehlende Rückmeldungen und mehr nötige Bewerbungen. KI-Serienbewerbungen sind seltener erfolgreich.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://taz.de/Bewerbungen-schreiben/!6232421/" />
-<r724:quelle url="https://ber-it.de/news/ki-macht-bewerbungen-einfacher-und-die-konkurrenz-groesser" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>OpenAI schlägt der Branche gemeinsame Grenzen für die KI-Entwicklung vor</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html#artikel-8</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>OpenAIs Chef-Wissenschaftler schlägt verbindliche Branchengrenzen vor, geknüpft an Sicherheitsmeilensteine, inklusive einer Art Tempolimit fürs Modelltraining.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.derstandard.de/story/3000000350463/openai-chefwissenschaftler-schl228gt-gemeinsame-grenzen-f252r-ki-vor" />
-<r724:quelle url="https://t3n.de/news/openai-ki-training-tempolimit-1774743/" />
-<r724:quelle url="https://www.sn.at/wirtschaft/welt/openai-schlaegt-gemeinsame-grenzen-bei-ki-entwicklung-vor-art-685466" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Zahl der Toten nach Drohnenangriff auf Wohnhaus in Dymer steigt auf zehn — Rettungskräfte bergen eine ältere Frau lebend</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html#artikel-1</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>In Dymer nördlich von Kiew steigt die Zahl der Toten nach dem russischen Drohnenangriff auf ein Wohnhaus auf zehn. Eine hochbetagte Frau wurde lebend aus den Trümmern geborgen; die Suche nach weiteren Vermissten läuft weiter. Zuvor waren noch bis zu elf Menschen unter dem Einsturz vermutet worden.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/" />
-<r724:quelle url="https://www.ansa.it/sito/notizie/mondo/2026/11/23/kiev-bilancio-vittime-dymer-sale-a-9-si-scava-ancora-tra-le-macerie_819461b5-d139-49ae-9b7d-9d179e6481b3.html" />
-<r724:quelle url="https://www.rbc.ua/ukr/news/89-richna-zhinka-vizhila-pid-zavalami-zruynovanogo-1795398565.html" />
-<r724:ki>true</r724:ki>
-</item>
-
   </channel>
 </rss>
