@@ -6,7 +6,15 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 12:42:00 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 19:34:43 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #277 — USA kündigen Sonderzölle gegen EU und China an — DAX rutscht zum Schluss auf 24.733 Punkte ab — Dell verdoppelt Umsatz dank KI-Servern</title>
+<link>https://radar724.de/posts/2026-11-25-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html</guid>
+<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
+<description>Mittwoch, 25. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Tech &amp; KI · erstellt um 19:34 Uhr (Europe/Berlin)</description>
+</item>
+
 <item>
 <title>Ausgabe #276 — Drohnenangriff auf Kiew: Feuer in Hochhaus, drei Verletzte — Merz gesteht Hürden beim Haushalt 2027 — OpenAI legt Laborbefunde für GPT-6-Proteine vor</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html</link>
@@ -95,12 +103,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-21-nachts.html</guid>
 <pubDate>Sat, 21 Nov 2026 23:28:38 +0100</pubDate>
 <description>Samstag, 21. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 23:28 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #262 — Update: Nato-Chef Rutte versichert Polen den vollen Bündnisschutz — Russischer Frachter brennt nach Drohnenangriff in der Ostsee — OpenAI startet GPT-6.2 Astra und Sol</title>
-<link>https://radar724.de/posts/2026-11-21-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-21-abends.html</guid>
-<pubDate>Sat, 21 Nov 2026 18:49:58 +0100</pubDate>
-<description>Samstag, 21. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung · erstellt um 18:49 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
