@@ -6,7 +6,90 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 19:34:43 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 23:46:40 +0100</lastBuildDate>
+<item>
+<title>Generalbundesanwalt zerschlägt mutmaßliche rechtsextremistische Jugendgruppe „Terror 18“ — drei Festnahmen</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-1</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Die Bundesanwaltschaft ließ bei Razzien in mehreren Bundesländern drei Verdächtige festnehmen; der Gruppe werden Anschlagsplanungen bis hin zu Tötungsdelikten zur Last gelegt. Die Festgenommenen sind Angaben zufolge 14 und 15 Jahre alt; im Oktober gab es bereits drei Festnahmen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-25-11-2026.html" />
+<r724:quelle url="https://www.tagesschau.de/eilmeldung/razzia-terror-18-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach rechtswidriger Abschiebung: Kilmar Abrego García ist in Spanien angekommen</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-2</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Der Salvadorianer, der 2025 unter Verletzung gerichtlicher Auflagen in ein Hochsicherheitsgefängnis in El Salvador gebracht worden war, ist in Madrid gelandet. Sein Anwalt spricht von einer vorübergehenden Ausreise mit Rückkehroption.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html" />
+<r724:quelle url="https://apnews.com/article/spain-deportation-abrego-garcia-arrives-madrid-f6453face7e5c20c8750413956118e04" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Ukraine meldet Treffer auf Militärflugplatz Sawadelejka — fünf russische Kampfjets beschädigt</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-3</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Kiew bestätigt nach eigenen Angaben erstmals Treffer auf den Flugplatz Sawadelejka: beschädigt wurden demnach drei MiG-31 und zwei Su-34. Zuvor hatte der Generalstab Schäden an zwei Raffinerien im Gebiet Samara bestätigt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.kyivpost.com/post/91162" />
+<r724:quelle url="https://www.ukrinform.net/rubric-ato/4188463-ukrainian-defense-forces-strike-savasleyka-airfield-in-russia.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Merz verteidigt in Generaldebatte Haushalt 2027 — selbstkritische Töne und ein Zugeständnis</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-4</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Der Kanzler trat in der Generaldebatte betont leise und teils selbstkritisch auf und verteidigte den Rekordetat; ein Zugeständnis an die SPD ging beinahe unter. Er verteidigte die Ukraine-Hilfe mit dem Hinweis, Russland ziele auf mehr als die Ukraine.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-generaldebatte-haushaltswoche-2451890" />
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: KI-Aktien geben weiter nach — Wall Street dreht zum Schluss auf: Dow wischt 1.100-Punkte-Verlust weg</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-5</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Der S&amp;P 500 schloss nur 0,3 Prozent tiefer, nachdem er im Tagesverfahren bis zu 3,2 Prozent verloren hatte; der Dow schloss sogar im Plus. Der Abgabedruck kam erneut aus dem KI-Sektor nach der Erholungsrallye auf Huangs Nvidia-Rückkehr.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09" />
+<r724:quelle url="https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Rock im Spielfeld: U2 spielt halftime beim ersten NFL-„Thanksgiving-Eve“-Spiel — live nur auf Netflix</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-6</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Beim ersten NFL-Spiel am Vorabend von Thanksgiving treffen die Packers auf die Rams, exklusiv übertragen von Netflix. U2 übernimmt die Halbzeitshow - europäische Zuschauer erleben kickoff in den frühen Morgenstunden.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.nfl.com/news/u2-to-headline-halftime-of-nfls-first-ever-thanksgiving-eve-gameday-live-on-netflix" />
+<r724:quelle url="https://www.netflix.com/tudum/features/nfl-thanksgiving-eve-game-2026-how-to-watch" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Frankfurts Alte Oper bringt Kunstwerke des Met zu Live-Musik auf die Konzertbühne</title>
+<link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-7</guid>
+<pubDate>Wed, 25 Nov 2026 23:46:40 +0100</pubDate>
+<description>Ein Festivalformat verbindet bildende Kunst und Konzert: Die Alte Oper zeigt in Kooperation mit dem Metropolitan Museum of Art Werkansichten zu Live-Musik; ein Pollock-Gemälde wurde eigens filmisch erkundet.</description>
+<category>Kultur &amp; Medien</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.journal-frankfurt.de/journal_news/kultur-161/Festival-in-Frankfurt-Alte-Oper-zeigt-Met-Kunstwerke-zu-Live-Musik-46613.html" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>USA kündigen Sonderzölle gegen EU und China an — 15 Prozent für Europa, 20 für Peking</title>
 <link>https://radar724.de/posts/2026-11-25-abends.html#artikel-1</link>
@@ -116,7 +199,6 @@
 <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064550/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>GPT-6 entwirft funktionsfähige Proteine: OpenAI legt Laborbefunde vor</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-2</link>
@@ -130,7 +212,6 @@
 <r724:quelle url="https://dailyai.com/2026/11/openai-says-its-gpt-6-models-can-design-proteins-and-lab-tests-back-some-of-it-up/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Anthropic startet „Claude Ship“: KI-Agenten dürfen Pull-Requests genehmigen</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-3</link>
@@ -144,7 +225,6 @@
 <r724:quelle url="https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>KI-Agenten mit formalen Beweisen: DeepMind findet schnellere Quantenalgorithmen</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-4</link>
@@ -157,7 +237,6 @@
 <r724:quelle url="https://tech.yahoo.com/ai/gemini/articles/290-times-speedup-google-deepmind-140405067.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Generaldebatte in Berlin: Merz räumt Schwierigkeiten beim Haushalt ein</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-5</link>
@@ -170,7 +249,6 @@
 <r724:quelle url="https://www.tagesschau.de/video/video-1689566.html" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Erster Ukraine-Besuch: Magyar und Selenskyj verkünden „neues Kapitel“</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-6</link>
@@ -184,7 +262,6 @@
 <r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170131607" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>Voyager 1 erreicht erstmals einen „Lichttag“ Entfernung von der Erde</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-7</link>
@@ -196,7 +273,6 @@
 <r724:quelle url="https://www.jpl.nasa.gov/news/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/" />
 <r724:ki>true</r724:ki>
 </item>
-
 <item>
 <title>200 Sekunden Vollgas: NASA testet RS-25-Triebwerk für künftige Mondmissionen</title>
 <link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-8</link>
@@ -210,9 +286,6 @@
 <r724:quelle url="https://tech.yahoo.com/science/articles/nasa-rs-25-rocket-engine-204203363.html" />
 <r724:ki>true</r724:ki>
 </item>
-
-
-				
 <item>
 <title>Update: Vier Tote bei russischen Angriffen auf Saporischschja und Slowjansk</title>
 <link>https://radar724.de/posts/2026-11-25-morgens.html#artikel-1</link>
@@ -554,91 +627,5 @@
 <r724:quelle url="https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released" />
 <r724:ki>true</r724:ki>
 </item>
-<item>
-<title>Deutschland baut künftig ukrainische Drohnen — Pistorius wird konkret</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-5</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Verteidigungsminister Pistorius kündigte an, dass ukrainische Drohnen künftig in Deutschland produziert werden; im April war die engere militärische Zusammenarbeit vereinbart worden. Zu Berichten über russische Angriffspläne im Weltall mahnte er zur Ruhe.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html" />
-<r724:quelle url="https://mod.gov.ua/en/news/boris-pistorius-ukraine-air-defence-winter" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Merz nennt Berichte über russische Atombewaffnung im All „schockierend“</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-6</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Bundeskanzler Merz reagierte auf die Recherche von SZ, NDR und WDR zu einem mutmaßlich vorbereiteten Satelliten mit Atomsprengkopf; er nannte die Berichte schockierend. Pistorius wies auf fehlende Verifizierung hin, Moskau nennt die Darstellung Propaganda.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html" />
-<r724:quelle url="https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Haiti: Bukele nennt Details zu gefallenen Soldaten und wird wie ein Volksheld gefeiert</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-7</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Drei salvadorianische Soldaten starben in Haiti laut Präsident Bukele bei der Handhabung von Sprengstoff im Kampf gegen Banden. Der Einsatz mehrerer Tausend Soldaten ohne UN-Mandat macht Bukele in der Heimat zum gefeierten Volksheld.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" />
-<r724:quelle url="https://thehill.com/homenews/ap/ap-international/ap-bukele-reveals-circumstances-in-which-3-salvadoran-soldiers-died-fighting-gangs-in-haiti/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Börsen-Ausblick: Ifo-Novemberindex um 10 Uhr — asiatische Börsen starten im Chip-Sog</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-8</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Der DAX legte Montag 2,2 Prozent auf 25.337 Punkte zu, die Erholung gilt als wacklig. Heute um 10 Uhr erscheint das Ifo-Geschäftsklima; Asien startete mit deutlichen Chip-Kursgewinnen nahe Tageslimits in Taiwan. Die US-Woche fällt wegen Thanksgiving verkürzt aus.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html" />
-<r724:quelle url="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Tarifkonflikt eskaliert: 24-Stunden-Streik bei Mercedes und neue Warnstreiks im Norden</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-9</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Bei Mercedes liegt die Produktion für 24 Stunden still, parallel laufen Warnstreiks im Norden. Die IG Metall baut Druck auf, da das Arbeitgeberangebot aus ihrer Sicht weit hinter den Forderungen zurückbleibt.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zdfheute.de/wirtschaft/ig-metall-streik-mercedes-sindelfingen-100.html" />
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: VW-Tarifrunde startet heute in Emden — IG Metall ruft zu Protesten auf</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-10</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Für rund 120.000 Beschäftigte beginnt die erste Runde in Emden; VW besteht auf Nullrunden für 2027/2028 und flexibler 35-Stunden-Woche. Die IG Metall rief zu Protesten auf, ein Folgetermin steht Mitte Dezember in Zwickau.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/35-stunden-woche-lohn-zulagen-vw-tarifgespraeche-starten,vw-1722.html" />
-<r724:quelle url="https://www.volkswagen-group.com/de/pressemitteilungen/zweites-ueberpruefungsgespraech-volkswagen-ag-und-ig-metall-einigen-sich-auf-den-start-von-verhandlungen-20757" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nato-Jahrestagung in Berlin endet mit scharfen Warnungen an Russland</title>
-<link>https://radar724.de/posts/2026-11-23-nachts.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html#artikel-1</guid>
-<pubDate>Mon, 23 Nov 2026 23:35:45 +0100</pubDate>
-<description>Merz forderte die Einstellung der gefährlichen Provokationen, Rutte machte Russland verantwortlich. Trümmerfunde von Ch-101-Marschflugkörpern in Polen und Berichte über eine mutmaßliche Weltraum-Atomwaffe prägten die Tagung; Selenskyj warb per Video für einen Nato-Beitritt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/russland-atomwaffe-weltraum-berichte-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-
   </channel>
 </rss>
