@@ -101,7 +101,7 @@
           <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-26-morgens.html#artikel-9</guid>
           <pubDate>Thu, 26 Nov 2026 06:02:00 +0100</pubDate>
           <description>Der TV 1844 Idstein ruft erneut zur Spendenaktion „Päckchen Weihnachten für die Ukraine“ auf: haltbare Lebensmittel, Hygieneartikel und Warmkleidung für die vereinseigene Sammelstelle.</description>
-          <category>Vereine & Ehrenamt</category>
+          <category>Vereine &amp; Ehrenamt</category>
           <category>Idstein</category>
           <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
           <r724:quelle url="https://www.tv1844idstein.de/">Quelle laut Digest 26.11.2026</r724:quelle>
@@ -635,17 +635,6 @@
           <r724:quelle url="https://www.wiesbadener-kurier.de/lokales/kreis-rheingau-taunus/idstein-kreis-rheingau-taunus/">Wiesbadener Kurier, Idstein-Ressort (Tier 2)</r724:quelle>
           <r724:ki>true</r724:ki>
         </item>
-<item>
-          <title>Vier Vortagsfälle mit Idstein-Bezug im Polizeifeed bestätigt</title>
-          <link>https://radar724.de/idstein/posts/2026-11-18-morgens.html#artikel-3</link>
-          <guid isPermaLink="true">https://radar724.de/idstein/posts/2026-11-18-morgens.html#artikel-3</guid>
-          <pubDate>Wed, 18 Nov 2026 05:38:00 +0100</pubDate>
-          <description>Der POL-RTK-RSS bestätigt weiterhin den Einbruchsversuch bei einer Fahrschule (16. November), den Einbruch in einen Imbiss (14. November), einen Unfall auf der B 275 bei Idstein (12. November) und einen Pfefferspray-Vorfall (9. November). Alle Fälle erfüllen die Ereignisort-Positivliste Idstein.</description>
-          <category>Blaulicht</category>
-          <category>Idstein</category>
-          <dc:creator>Idsteiner Hexenpost Redaktion – KI-generiert</dc:creator>
-          <r724:quelle url="https://www.presseportal.de/rss/dienststelle_47764.rss2">POL-RTK via Presseportal, RSS (Items 9.–16.11.2026)</r724:quelle>
-          <r724:ki>true</r724:ki>
-        </item>
-  </channel>
+
+</channel>
 </rss>
