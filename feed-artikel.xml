@@ -6,7 +6,108 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 26 Nov 2026 06:46:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:28:00 +0100</lastBuildDate>
+<item>
+<title>EU-Sondergipfel in Brüssel: Merz meldet keine Grundlage für einen Haushaltsabschluss an</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-1</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Die EU-Staats- und Regierungschefs beraten über den mehrjährigen Haushalt 2028 bis 2034 mit rund 1,781 Billionen Euro Volumen. Bundeskanzler Merz sieht „keine Grundlage für einen Abschluss“; Streitpunkt ist vor allem die Ukraine-Finanzierung, die mehrere Nettozahler an eine Waffenruhe koppeln wollen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.zdfheute.de/politik/eu-sondergipfel-finanzen-budget-haushalt-100.html" />
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html" />
+<r724:quelle url="https://www.consilium.europa.eu/de/meetings/european-council/2026/11/26-27/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>DAX erholt sich kräftig: KI-Profiteure nach Tech-Turbulenzen wieder gefragt</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-2</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Nach den Verlusttagen dreht der DAX deutlich ins Plus: Zur Mittagszeit notiert er 1,91 Prozent höher bei 25.173 Punkten, zwischenzeitlich stand er sogar 2,2 Prozent im Plus. Anleger greifen nach Analysteneinschätzung wieder zu, KI-Profiteure leisten die Erholung.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.onvista.de/news/2026/11-26-dax-erholt-sich-kraeftig-ki-profiteure-wieder-gefragt-0-19-26580721" />
+<r724:quelle url="https://ms-aktuell.de/welt/dax-erholung-25000-26-11-2026/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Statistisches Bundesamt korrigiert deutsches Wachstum nach unten: Nur 0,1 Prozent im dritten Quartal</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-3</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Das BIP wuchs im dritten Quartal nur um 0,1 Prozent statt der zunächst geschätzten 0,2 Prozent. Exporte und Ausrüstungsinvestitionen bremsen; die Stimmungsindikatoren zeichnen unterdessen ein deutlich besseres Bild.</description>
+<category>Wirtschaft &amp; Finanzen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html" />
+<r724:quelle url="https://www.n-tv.de/wirtschaft/Statistiker-korrigieren-Wirtschaftswachstum-nach-unten-id31574489.html" />
+<r724:quelle url="https://www.zeit.de/wirtschaft/2026-11/bip-3-quartal-2026-deutsche-wirtschaft-exporte-einzelhandel-gxe" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Update: Bundestag rückt mit Haushalt 2027 ins Ziel — Rekordausgaben, aber noch 34-Milliarden-Lücke</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-4</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Nach der Generaldebatte berät der Bundestag über die Einzelpläne des Rekord-Etats mit 560,9 Milliarden Euro Ausgaben und rund 123 Milliarden Euro Nettokreditaufnahme. Der Beschluss soll am Freitag fallen; noch ist eine Lücke von rund 34 Milliarden Euro offen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html" />
+<r724:quelle url="https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-wirtschaft-1232494" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Meduza und Mediazona zählen mehr als 700.000 gefallene russische Soldaten bis Ende September</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-5</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Grundlage der neuen Schätzung ist ein Datenleck aus dem russischen Statistikdienst Rosstat, das belarussische Hackergruppen den Medien zuspielten. Registriert sind rund 490.000 Todesfälle; inklusive Vermisster liegt die Schätzung über 700.000 Gefallene.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate" />
+<r724:quelle url="https://www.srf.ch/news/international/ukraine/statistikbehoerde-gehackt-720-000-gefallene-russlands-gewaltiger-blutzoll-im-ukraine-krieg" />
+<r724:quelle url="https://www.rferl.org/a/russia-ukraine-war-casualty-estimate-killed/33904373.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach Drohnenangriff auf russische Korvette in Bengasi: Zwei libysche Marineoffiziere erliegen Verletzungen</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-6</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Bei dem mutmaßlich mit ukrainischen Seedrohnen ausgeführten Angriff auf den Hafen von Bengasi wurde die russische Korvette „Merkury“ schwer beschädigt. Zwei libysche Marineoffiziere erlagen nun ihren Verletzungen; ein Bekennerschreiben gibt es nicht.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/" />
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya" />
+<r724:quelle url="https://www.zdfheute.de/politik/ausland/libyen-explosion-kriegsschiff-ukraine-krieg-russland-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach der Spionageaffäre: Jensen Huang führt Nvidia wieder als Chef — und entschuldigt sich bei den Mitarbeitern</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-7</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Der Verwaltungsrat hat Huangs Rückkehr einstimmig bestätigt; eine interne Prüfung sah kein Risiko für die nationale Sicherheit. Huang entschuldigt sich bei seinen Mitarbeitern und kündigt tägliche therapeutische Begleitung an.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html" />
+<r724:quelle url="https://de.finance.yahoo.com/nachrichten/nvidia-huang-entschuldigt-mitarbeitern-geht-072037617.html" />
+<r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Black Friday: KI wird nach Studienschätzung zum „größten Spielverderber“ für den Handel</title>
+<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-8</guid>
+<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<description>Zwei Drittel der Deutschen wollen beim Black-Friday-Shopping auf KI-Tools setzen, unter 35-Jährigen sind es 77 Prozent. Ein Fünftel will mit KI Scheinangebote entlarven; die Kontrolle über Preise wandert damit zunehmend zu den Kunden.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.simon-kucher.com/de/wer-wir-sind/newsroom/ki-shopping-studie-ki-wird-zum-groessten-spielverderber-des-black-friday-ein" />
+<r724:quelle url="https://www.netz-trends.de/black-friday-ki-scheinangebote-2026/" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>USA erlauben SpaceX bis zu eine Million Satelliten für KI-Rechenzentren im All</title>
 <link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-1</link>
@@ -523,109 +624,6 @@
 <r724:quelle url="https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list" />
 <r724:quelle url="https://www.forbesmiddleeast.com/industry/business/us-blacklists-singapores-megaspeed-amid-nvidia-chip-diversion-investigation" />
 <r724:quelle url="https://www.techtimes.com/articles/331401/20261123/us-adds-nvidia-customer-megaspeed-entity-list-exports-seven-firms-now-need-licenses.htm" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>EGMR-Urteil: Zurückweisungen an der Grenze zu Belarus waren teils rechtmäßig</title>
-<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-4</guid>
-<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
-<description>Der EGMR erlaubt Pushbacks, wenn Migranten von einem Staat gezielt als Druckmittel eingesetzt werden - ausgenommen sind besonders Schutzbedürftige. In den konkreten Verfahren gab es teils Rechtsverletzungen und Entschädigungen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html" />
-<r724:quelle url="https://www.n-tv.de/politik/Europaeischer-Gerichtshof-urteilt-Pushbacks-unter-Umstaenden-legal-id31571601.html" />
-<r724:quelle url="https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Südkorea löst wegen russischer Militärflieger erstmals vorsorglichen Luftalarm auf Ulleung aus</title>
-<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-5</guid>
-<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
-<description>Rund fünf russische Militärflieger flogen in Südkoreas Luftverteidigungszone und näherten sich der Insel Ulleung-do. Seoul aktivierte erstmals für russische Maschinen einen vorsorglichen Luftalarm und bestellte den Militärattachen ein.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://en.yna.co.kr/view/AEN20261124002253315" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/suedkorea-evakuierung-russland-militaerflugzeug-100.html" />
-<r724:quelle url="https://www.rfi.fr/en/international-news/20261124-south-korea-says-russian-jets-entered-air-defence-zone" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>DAK-Umfrage: Angst vor schweren Krankheiten steigt wieder</title>
-<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-6</guid>
-<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
-<description>Die jährliche DAK/Forsa-Umfrage zeigt steigende Krankheitsängste: Krebs bleibt Nr. 1 (70 Prozent), Demenz- und Psychosorgen erreichen Allzeithochs. Zugleich geben mehr Menschen an, aktiv Vorsorge zu betreiben.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.dak.de/presse/bundesthemen/umfragen-studien/angst-vor-schweren-krankheiten-nimmt-2026-wieder-zu_236044" />
-<r724:quelle url="https://www.aerzteblatt.de/news/viele-menschen-furchten-sich-vor-krebs-demenz-und-unfall-c66e2c01-7fd7-4d28-8d22-3fc01e6c103a" />
-<r724:quelle url="https://www.spektrum.de/news/neue-umfrage-mehr-menschen-haben-angst-vor-krankheit/2355604" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>RKI zählt rund sechs Millionen neue Atemwegserkrankungen in einer Woche</title>
-<link>https://radar724.de/posts/2026-11-24-nachts.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-nachts.html#artikel-7</guid>
-<pubDate>Wed, 25 Nov 2026 00:02:45 +0100</pubDate>
-<description>In der zweiten Novemberwoche steckten sich laut RKI rund sechs Millionen Menschen neu mit Atemwegserkrankungen an - ein moderater Saisonwert. Nur bei den über 80-Jährigen ist die Corona-Rate erhöht; eine Auffrischungsimpfung wird empfohlen.</description>
-<category>Gesundheit &amp; Medizin</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.mdr.de/wissen/medizin-gesundheit/schnupfen-husten-grippe-corona-aktuell-inzidenz-deutschland-sachsen-wochenberichte,erkaeltung-172.html" />
-<r724:quelle url="https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-106.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Ifo-Geschäftsklima steigt auf 90,6 Punkte — bester Wert seit dem Frühjahr 2023</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-1</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Der ifo-Geschäftsklimaindex klettert auf 90,6 Punkte – der höchste Stand seit Frühjahr 2023 und der siebte Anstieg in Folge. Großes Bild: Die deutsche Erholung trägt, auch wenn es dem Aufschwung laut Präsident Fuest noch an Breite fehlt.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ifo.de/pressemitteilung/2026-11-24/ifo-geschaeftsklimaindex-gestiegen-november-2026" />
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html" />
-<r724:quelle url="https://www.zeit.de/news/2026-11/24/ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Tagesrückblick: DAX schließt 0,5 Prozent tiefer bei 25.205 Punkten — der Tech-Rallye fehlen Anschlusskäufe</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-2</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Der DAX beendet den Xetra-Handel 0,52 Prozent tiefer bei 25.204,92 Punkten. Händlern zufolge fehlten nach der Nvidia-Rallye des Vortags Anschlusskäufe; der Ifo-Konjunkturdämpfer war am Parkett kaum zu spüren.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://ms-aktuell.de/welt/dax-ruecksetzer-24-11-2026/" />
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/zurueckhaltung-in-frankfurt-dax-zum-ende-des-dienstagshandels-mit-abgaben-1036796573" />
-<r724:quelle url="https://www.onvista.de/news/2026/11-24-roundup-aktien-frankfurt-schluss-rueckschlag-tech-rally-fehlen-anschlusskaeufe-0-10-26580125" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Wall Street vor Thanksgiving gemischt: Nvidia gibt nach Comeback-Rallye wieder nach — Fed-Wette auf Dezember-Zinsschritt</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-3</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Der Dow gewinnt rund 0,7 Prozent, S&amp;P 500 und Nasdaq geben nach: Nvidia verliert nach dem 31-Prozent-Sprung des Vortags erneut deutlich. Am Terminmarkt wetten Anleger mit 95 Prozent auf eine Fed-Zinserhöhung im Dezember.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html" />
-<r724:quelle url="https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html" />
-<r724:quelle url="https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Erste Runde der VW-Tarifrunde nach 90 Minuten ergebnislos beendet — IG Metall droht mit Warnstreiks</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-4</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Nach nur 90 Minuten endet die erste VW-Tarifrunde ergebnislos. IG-Metall-Mann Gröger nennt den 15. Dezember in Zwickau die letzte Chance vor Auslauf der Friedenspflicht; die Konzernseite hält an ihren Sparforderungen fest.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/regional/niedersachsen/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html" />
-<r724:quelle url="https://de.finance.yahoo.com/nachrichten/erste-runde-vw-tarifverhandlungen-ergebnislos-163157319.html" />
-<r724:quelle url="https://www.diepresse.com/41489127/nach-frostiger-tarifauftakt-drohen-warnstreiks-bei-vw" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>
