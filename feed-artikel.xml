@@ -8,6 +8,107 @@
 <language>de-de</language>
 <lastBuildDate>Wed, 25 Nov 2026 23:46:40 +0100</lastBuildDate>
 <item>
+<title>USA erlauben SpaceX bis zu eine Million Satelliten für KI-Rechenzentren im All</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-1</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Die US-Regulierungsbehörde FCC genehmigt Musks Projekt „Starmind“: bis zu eine Million Satelliten sollen im Orbit KI-Rechenzentren bilden, mit Starlink als Downlink und Weltraum-Prozessoren von Nvidia. Aktuell kreisen rund 17.000 Satelliten um die Erde.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html" />
+<r724:quelle url="https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html" />
+<r724:quelle url="https://www.zeit.de/digital/2026-11/spacex-starmind-satelliten-fcc-elon-musk-nvidia" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Brüssel schlägt „Quantum Act“ vor: EU will Quantentechnik vom Labor in die Industrie bringen</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-2</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Die EU-Kommission legt einen Entwurf für eine Quantenverordnung vor und schafft die Basis für einen Technologie-Souveränitätsfonds. Kernziele: ein europaweites Forschungsnetzwerk, Kompetenzzentren je Mitgliedstaat und der Übergang zu quantenresistenter Verschlüsselung.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en" />
+<r724:quelle url="https://www.heise.de/news/EU-Kommission-will-Quantenindustrie-pushen-und-Krypto-Umstieg-erzwingen-11537554.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Sicherheitsvorfall bei 1Password: Kundendaten entwendet, Passwort-Tresore laut Unternehmen intakt</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-3</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Angreifer kamen über ein Mitarbeiter-GitHub-Konto in interne Systeme des Passwort-Managers und kopierten Kundendaten und Quellcode. 1Password betont, die verschlüsselten Tresore und Passwörter seien nicht betroffen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://1password.com/blog/update-on-nov-2026-security-incident" />
+<r724:quelle url="https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html" />
+<r724:quelle url="https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach Mar-a-Lago-Treffen: Trump und Rutte mahnen Russland, den Ukraine-Krieg nicht auszuweiten</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-4</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Nach dem Gespräch in Florida richten beide eine gemeinsame Botschaft an Moskau: kein Ausweiten des Krieges, stattdessen zügige Friedensbemühungen. Das Weiße Haus nannte das Treffen „very impactful“ und auf eine Waffenruhe fokussiert.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.rte.ie/news/ukraine/2026/1126/1600710-trump-nato-ukraine/" />
+<r724:quelle url="https://www.news18.com/world/after-mar-a-lago-meeting-trump-and-nato-chief-rutte-tell-putin-to-not-expand-ukraine-war-ws-lrt-10441312.html" />
+<r724:quelle url="https://www.kyivpost.com/post/91224" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Kushner lehnt genauere Sicherheitsgarantien für die Ukraine ab</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-5</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>US-Sondergesandter Jared Kushner schließt präzisere Zusagen als die bestehende Nato-Beistandsklausel aus, die er als „Goldstandard“ bezeichnet. Kiew hatte weitergehende, verbindlichere Garantien gefordert.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.n-tv.de/politik/US-Gesandter-Kushner-lehnt-konkretere-Sicherheitszusagen-fuer-Kiew-ab-id31578265.html" />
+<r724:quelle url="https://orf.at/stories/3449289/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Generaldebatte zum Haushalt 2027: Ukraine-Hilfe spaltet den Bundestag</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-6</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Rund zwölf Milliarden Euro Ukraine-Hilfen im Etat 2027 dominieren die Generaldebatte: Die AfD spricht von „Veruntreuung“ von Steuergeldern, Kanzler Merz verteidigt die Ausgaben als Verteidigung der Freiheit. Laut Polarisierungsbarometer ist das Thema nun das größte Reizthema im Land.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html" />
+<r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-generaldebatte-haushaltswoche-2451890" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>ESA-Sonde Hera liefert erste Nahaufnahmen des Asteroiden Dimorphos</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-7</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Vier Jahre nach der NASA-Abwehrmission DART zeigt Hera den 151 Meter großen Asteroidenmonden aus der Nähe; die Umlaufbahn war durch den Einschlag um rund 32 Minuten verkürzt worden. Zweitberichten zufolge zeichnet sich ein riesiger Einschlagkrater ab.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/watch-live-hera-s-first-images-of-post-impact-asteroid-dimorphos" />
+<r724:quelle url="https://www.spektrum.de/news/spuren-des-einschlags-hera-entdeckt-riesigen-krater-auf-dimorphos/2356073" />
+<r724:quelle url="https://www.zeit.de/wissenschaft/2026-11/hera-esa-doppelasteroid-didymos-dimorphos-nasa-dart" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Erster Ausländer an Bord: Pakistanischer Astronaut betritt Chinas Raumstation Tiangong</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html#artikel-8</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Muhammad Zeeshan Ali flog mit Shenzhou-24 zur chinesischen Raumstation und ist der erste Ausländer an Bord. Er soll an gemeinsamen chinesisch-pakistanischen Experimenten mitwirken und nach dem Kurzeinsatz mit der älteren Kapsel zurückkehren.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.straitstimes.com/asia/east-asia/china-s-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut" />
+<r724:quelle url="https://www.nasaspaceflight.com/2026/11/shenzhou-24/" />
+<r724:quelle url="https://english.news.cn/20261125/8bde8abe770f4a329ae7a96ce945181d/c.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
 <title>Generalbundesanwalt zerschlägt mutmaßliche rechtsextremistische Jugendgruppe „Terror 18“ — drei Festnahmen</title>
 <link>https://radar724.de/posts/2026-11-25-nachts.html#artikel-1</link>
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-25-nachts.html#artikel-1</guid>
@@ -525,106 +626,6 @@
 <r724:quelle url="https://www.tagesschau.de/inland/regional/niedersachsen/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html" />
 <r724:quelle url="https://de.finance.yahoo.com/nachrichten/erste-runde-vw-tarifverhandlungen-ergebnislos-163157319.html" />
 <r724:quelle url="https://www.diepresse.com/41489127/nach-frostiger-tarifauftakt-drohen-warnstreiks-bei-vw" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Russischer Angriff auf Saporischschja: mindestens zwei Tote und 41 Verletzte</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-5</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Ein russischer Luftangriff auf die Großstadt Saporischschja fordert Behördenangaben zufolge mindestens zwei Tote und 41 Verletzte, darunter vier Kinder. Mehrere Wohngebäude wurden beschädigt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zeit.de/video/2026-11/ukraine-zwei-tote-bei-russischem-angriff-auf-saporischschja" />
-<r724:quelle url="https://www.ukrinform.de/rubric-ato/4187910-angriff-auf-saporischschja-totet-zwei-und-verletzt-30-menschen.html" />
-<r724:quelle url="https://www.n-tv.de/politik/17-47-Rosatom-Ukrainische-Drohne-trifft-AKW-Saporischschja-id30859357.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>NATO stellt Polen AWACS-Aufklärungsflugzeug bereit — Notfallsitzung des Bündnisrats auf Warschauer Initiative</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-6</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Die NATO stellt Polen ein AWACS-Frühwarnflugzeug zur Seite; der Beschluss folgt auf eine Sondersitzung des Nordatlantischen Rats. Hintergrund sind russische Luftraum-Verletzungen und abgestürzte Ch-101-Trümmer.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.gov.pl/web/nato-en/north-atlantic-council-emergency-meeting-initiated-by-poland" />
-<r724:quelle url="https://www.stripes.com/theaters/europe/2026-11-24/nato-authorizes-awacs-deployment-poland-23564156.html" />
-<r724:quelle url="https://www.polskieradio.pl/395/7784/Artykul/3756204,nato-to-deploy-earlywarning-aircraft-to-poland-after-russian-missile-incursion" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Ariane 6 bringt 36 Amazon-Leo-Satelliten in die Umlaufbahn — zehnter Flug der Europarakete erfolgreich</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-7</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Ariane 64 startet mit 36 Amazon-Leo-Satelliten erfolgreich – ihr zehnter Flug. Es ist der vierte Ariane-6-Start für Amazons Breitbandkonstellation, erneut von Kourou aus.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://press.ariane.group/arianespace-successfully-launches-another-36-amazon-leo-satellites-on-ariane-6s-10th-flight/" />
-<r724:quelle url="https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/ariane-6-launches-another-set-of-amazon-leo-satellites-to-orbit" />
-<r724:quelle url="https://cnes.fr/evenements/va271-reivez-10e-lancement-dariane-6" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Euclid-Teleskop entdeckt den bisher fernsten Quasar — ein Blick 630 Millionen Jahre nach den Urknall</title>
-<link>https://radar724.de/posts/2026-11-24-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-abends.html#artikel-8</guid>
-<pubDate>Tue, 24 Nov 2026 21:48:27 +0100</pubDate>
-<description>Das Euclid-Teleskop entdeckt den fernsten bekannten Quasar J1504+6252: 630 Millionen Jahre nach dem Urknall beobachtet, angetrieben von einem Schwarzen Loch mit 360 Millionen Sonnenmassen.</description>
-<category>Space &amp; Forschung</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.qu.uni-hamburg.de/de/activities/news/2026/11-24-quasar-jt-schindler.html" />
-<r724:quelle url="https://www.derstandard.at/story/3000000350667/fernster-bekannter-quasar-laesst-an-bisherigen-annahmen-zweifeln" />
-<r724:quelle url="https://de.euronews.com/2026-11/24/forscher-entdecken-fernsten-quasar-entstanden-630-millionen-jahre-nach-dem-urknall" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Megaspeed landet auf schwarzer Liste</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-1</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Nur Tage nach dem Rücktritt im Zuge einer Spionage-Affäre führt Jensen Huang Nvidia wieder; Trump sagt, er habe den Verwaltungsrat überzeugt. Washington setzte Megaspeed auf eine Handelssperren-Liste, über die Nvidia-Chips nach China gelangt sein sollen. Die Nvidia-Aktie sprang am Montag rund 30 Prozent.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/trump-jensen-huang-nvidia-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Amazon sichert sich Decarts KI-Optimierung — Deal über gemeldete 7,5 Milliarden Dollar</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-2</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Amazon übernimmt die KI-Optimierungstechnologie des Startups Decart samt Team. Die Technik soll die eigenen Trainium-Beschleuniger effizienter machen und die Trainium-Palette im Kampf gegen Nvidias Dominanz verkaufsfähiger machen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/" />
-<r724:quelle url="https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Cyberangriff: Hugendubel, Tolino-Cloud und eBook.de weitgehend offline</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-3</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Seit dem Wochenende laufen die Webseiten von Hugendubel, Tolino-Cloud und eBook.de nur noch im Wartungsmodus; E-Book-Downloads sind nicht möglich. Das Unternehmen bestätigt einen Cyberangriff, die Wiederherstellungsdauer ist offen.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html" />
-<r724:quelle url="https://www.zeit.de/digital/2026-11/cyberangriff-hugendubel-buchhandelskette-internet-ausfall" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>GTA-VI-Leak: Hacker zu sieben Jahren Haft verurteilt — Bericht: wieder auf freiem Fuß</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html#artikel-4</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Ein britisches Gericht ordnete gegen den Mann, der 2022 unveröffentlichte GTA-VI-Aufnahmen leakte, sieben Jahre Haft an. Dem Verfahren zufolge nutzte er einst Hotel-Fernseher, Smartphone und Streaming-Stick; laut The Verge ist er nach dem Urteil wieder frei.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/panorama/GTA-6-Hacker-zu-sieben-Jahren-Haft-verurteilt-id31568677.html" />
-<r724:quelle url="https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>

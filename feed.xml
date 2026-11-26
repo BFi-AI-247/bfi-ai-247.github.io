@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Wed, 25 Nov 2026 23:46:40 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 06:46:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #279 — USA erlauben SpaceX bis zu eine Million Satelliten für KI-Rechenzentren im All — Trump und Rutte mahnen Russland zur Deeskalation — Erster Ausländer betritt chinesische Raumstation Tiangong</title>
+<link>https://radar724.de/posts/2026-11-26-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-morgens.html</guid>
+<pubDate>Thu, 26 Nov 2026 06:46:00 +0100</pubDate>
+<description>Donnerstag, 26. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Space &amp; Forschung · erstellt um 06:46 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #278 — Generalbundesanwalt zerschlägt rechtsextreme Gruppe „Terror 18“ — Wall Street dreht nach KI-Rückschlag stark auf — U2 spielt NFL-Halftime-Show auf Netflix</title>
 <link>https://radar724.de/posts/2026-11-25-nachts.html</link>
@@ -96,12 +103,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-22-mittags.html</guid>
 <pubDate>Sun, 22 Nov 2026 12:15:00 +0100</pubDate>
 <description>Sonntag, 22. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:15 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #264 — Antalya stimmt über umstrittene Klima-Abschlusserklärung ab — Iran beansprucht Angriff auf US-Radarstellungen in Bahrain — IG Metall Küste ruft erneut zum 24-Stunden-Streik</title>
-<link>https://radar724.de/posts/2026-11-22-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-morgens.html</guid>
-<pubDate>Sun, 22 Nov 2026 06:32:00 +0100</pubDate>
-<description>Sonntag, 22. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 06:32 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
