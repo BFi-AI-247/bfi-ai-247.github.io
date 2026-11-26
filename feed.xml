@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 26 Nov 2026 12:28:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:20:00 +0100</lastBuildDate>
+<item>
+<title>Ausgabe #281 — Einigung in der Metall-Tarifrunde nach 27-Stunden-Marathon — DAX schließt 2,14 Prozent höher bei 25.231 Punkten — EU-Gipfel ringt weiter um den Milliarden-Haushalt</title>
+<link>https://radar724.de/posts/2026-11-26-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-abends.html</guid>
+<pubDate>Thu, 26 Nov 2026 18:20:00 +0100</pubDate>
+<description>Donnerstag, 26. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Kultur &amp; Medien · erstellt um 18:20 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Ausgabe #280 — EU-Gipfel: Merz meldet keine Grundlage für einen Abschluss — DAX erholt sich kräftig, KI-Profiteure wieder gefragt — Mehr als 700.000 gefallene russische Soldaten im Ukraine-Krieg</title>
 <link>https://radar724.de/posts/2026-11-26-mittags.html</link>
@@ -99,11 +106,6 @@
 <pubDate>Sun, 22 Nov 2026 23:20:00 +0100</pubDate>
 <description>Sonntag, 22. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 23:20 Uhr (Europe/Berlin)</description>
 </item>
-<item><title>Ausgabe #266 — COP31 endet ohne Abschlusserklärung — Mexiko fasst „El Chapo Isidro" — GTA VI spielt am ersten Tag 3,79 Milliarden Dollar ein</title>
-<link>https://radar724.de/posts/2026-11-22-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-22-abends.html</guid>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0100</pubDate>
-<description>Sonntag, 22. November 2026 · Abendausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Kultur &amp; Medien · erstellt um 18:45 Uhr (Europe/Berlin)</description>
-</item>
+
   </channel>
 </rss>
