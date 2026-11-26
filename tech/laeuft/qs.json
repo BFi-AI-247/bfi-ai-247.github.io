@@ -3,190 +3,155 @@
   "job": "QS",
   "laeufe": [
     {
-      "datum": "2026-11-25",
-      "ist_start": "2026-11-25T03:13:35+01:00",
+      "datum": "2026-11-26",
+      "ist_start": "2026-11-26T03:09:33+01:00",
       "dauer_min": 3,
       "status": "ok"
+    },
+    {
+      "datum": "2026-11-25",
+      "ist_start": "2026-11-25T03:13:35+01:00",
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-24",
       "ist_start": "2026-11-24T02:54:14+01:00",
-      "dauer_min": 4,
-      "status": "ok"
+      "dauer_min": 4
     },
     {
       "datum": "2026-11-23",
       "ist_start": "2026-11-23T02:33:52+01:00",
-      "dauer_min": 4,
-      "status": "ok"
+      "dauer_min": 4
     },
     {
       "datum": "2026-11-22",
       "ist_start": "2026-11-22T03:03:39+01:00",
-      "dauer_min": 2,
-      "status": "ok"
+      "dauer_min": 2
     },
     {
       "datum": "2026-11-21",
       "ist_start": "2026-11-21T03:15:11+01:00",
-      "dauer_min": 5,
-      "status": "ok"
+      "dauer_min": 5
     },
     {
       "datum": "2026-11-20",
       "ist_start": "2026-11-20T02:33:08+01:00",
-      "dauer_min": 2,
-      "status": "ok"
+      "dauer_min": 2
     },
     {
       "datum": "2026-11-19",
       "ist_start": "2026-11-19T03:04:09+01:00",
-      "dauer_min": 50,
-      "status": "ok"
+      "dauer_min": 50
     },
     {
       "datum": "2026-11-18",
       "ist_start": "2026-11-18T02:44:52+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-17",
       "ist_start": "2026-11-17T03:22:23+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-16",
       "ist_start": "2026-11-16T02:38:59+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-15",
       "ist_start": "2026-11-15T02:28:14+01:00",
-      "dauer_min": 2,
-      "status": "ok"
+      "dauer_min": 2
     },
     {
       "datum": "2026-11-14",
       "ist_start": "2026-11-14T02:40:31+01:00",
-      "dauer_min": 45,
-      "status": "ok"
+      "dauer_min": 45
     },
     {
       "datum": "2026-11-13",
       "ist_start": "2026-11-13T02:43:46+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-12",
       "ist_start": "2026-11-12T02:43:27+01:00",
-      "dauer_min": 4,
-      "status": "ok"
+      "dauer_min": 4
     },
     {
       "datum": "2026-11-11",
       "ist_start": "2026-11-11T03:12:31+01:00",
-      "dauer_min": 40,
-      "status": "ok"
+      "dauer_min": 40
     },
     {
       "datum": "2026-11-10",
       "ist_start": "2026-11-10T02:29:29+01:00",
-      "dauer_min": 6,
-      "status": "ok"
+      "dauer_min": 6
     },
     {
       "datum": "2026-11-09",
       "ist_start": "2026-11-09T03:08:58+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-11-08",
       "ist_start": "2026-11-08T02:14:20+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-11-07",
       "ist_start": "2026-11-07T03:25:52+01:00",
-      "dauer_min": 6,
-      "status": "ok"
+      "dauer_min": 6
     },
     {
       "datum": "2026-11-06",
       "ist_start": "2026-11-06T03:57:20+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-11-05",
       "ist_start": "2026-11-05T02:42:59+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-11-04",
       "ist_start": "2026-11-04T03:04:21+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-11-03",
       "ist_start": "2026-11-03T03:16:32+01:00",
-      "dauer_min": 6,
-      "status": "ok"
+      "dauer_min": 6
     },
     {
       "datum": "2026-11-02",
       "ist_start": "2026-11-02T03:19:34+01:00",
-      "dauer_min": 6,
-      "status": "ok"
+      "dauer_min": 6
     },
     {
       "datum": "2026-11-01",
       "ist_start": "2026-11-01T03:09:18+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-10-31",
       "ist_start": "2026-10-31T03:07:33+01:00",
-      "dauer_min": 7,
-      "status": "ok"
+      "dauer_min": 7
     },
     {
       "datum": "2026-10-30",
       "ist_start": "2026-10-30T03:49:58+01:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 3
     },
     {
       "datum": "2026-10-29",
       "ist_start": "2026-10-29T02:48:41+01:00",
-      "dauer_min": 5,
-      "status": "ok"
+      "dauer_min": 5
     },
     {
       "datum": "2026-10-28",
       "ist_start": "2026-10-28T03:44:48+01:00",
-      "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-27",
-      "ist_start": "2026-10-27T02:34:46+02:00",
-      "dauer_min": 8,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-26",
-      "ist_start": "2026-10-26T04:29:48+02:00",
-      "dauer_min": 3,
-      "status": "ok"
+      "dauer_min": 5
     }
   ]
 }
