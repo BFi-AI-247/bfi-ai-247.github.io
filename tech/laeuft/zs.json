@@ -3,6 +3,12 @@
   "job": "ZS-Scrape",
   "laeufe": [
     {
+      "datum": "2026-11-26",
+      "ist_start": "2026-11-26T04:44:38+01:00",
+      "dauer_min": 9,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-25",
       "ist_start": "2026-11-25T04:17:36+01:00",
       "dauer_min": 11,
