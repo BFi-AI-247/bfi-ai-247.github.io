@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:26:06 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:11:05 +0100</lastBuildDate>
+<item>
+<title>Spanien vor historischer Wahl: Umfragen sehen Rechtsbündnis vorn — DAX beendet die Handelswoche mit 2,6 Prozent Plus — US-Richter stoppt Lizenz-Überprüfung von ABC</title>
+<link>https://radar724.de/posts/2026-11-27-abends.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-abends.html</guid>
+<pubDate>Fri, 27 Nov 2026 18:11:05 +0100</pubDate>
+<description>Freitag, 27. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Kultur &amp; Medien · erstellt um 18:11 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Update: EU-Sondergipfel endet im Streit über den Milliarden-Haushalt — Black Friday mit Rekord-Erwartungen: Handel hofft auf 6,2 Milliarden Euro — BSI warnt vor „Lawine“ automatisierter KI-Cyberangriffe</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html</link>
@@ -102,12 +109,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-nachts.html</guid>
 <pubDate>Mon, 23 Nov 2026 23:35:45 +0100</pubDate>
 <description>Montag, 23. November 2026 · Nachtausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Gesundheit &amp; Medizin · erstellt um 23:35 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #270 — Jensen Huang kehrt als Nvidia-Chef zurück und befeuert die Weltbörsen — DAX schließt 2,2 Prozent fester — CrowdStrike kauft Zscaler für rund 44 Milliarden Dollar</title>
-<link>https://radar724.de/posts/2026-11-23-abends.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html</guid>
-<pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
-<description>Montag, 23. November 2026 · Abendausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 17:59 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
