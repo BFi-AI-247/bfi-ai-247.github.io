@@ -55,15 +55,7 @@
       "antworten": 1,
       "quelle": "Eigenmessung laut Aktivitäts-Log",
       "stand": "30.09.2026, 21:23 Uhr"
-    },
-    {
-      "rolle": "Framework_R6.1",
-      "dienstbeginn": "27.09.2026",
-      "letzte_aktivitaet": "01.10.2026, 08:51 Uhr",
-      "antworten": 20,
-      "quelle": "Eigenmessung laut Aktivitäts-Log",
-      "stand": "01.10.2026, 08:51 Uhr"
     }
   ],
-  "updated": "2026-11-24T21:51:32+01:00"
+  "updated": "2026-11-27T06:26:45+01:00"
 }
