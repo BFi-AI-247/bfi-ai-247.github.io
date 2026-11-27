@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 27 Nov 2026 06:08:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:26:06 +0100</lastBuildDate>
+<item>
+<title>Update: EU-Sondergipfel endet im Streit über den Milliarden-Haushalt — Black Friday mit Rekord-Erwartungen: Handel hofft auf 6,2 Milliarden Euro — BSI warnt vor „Lawine“ automatisierter KI-Cyberangriffe</title>
+<link>https://radar724.de/posts/2026-11-27-mittags.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-mittags.html</guid>
+<pubDate>Fri, 27 Nov 2026 12:26:06 +0100</pubDate>
+<description>Freitag, 27. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:26 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Nvidia stoppt KI-Server-Lieferungen nach Südostasien — Selenskyj warnt vor neuem russischen Großangriff — Ebola-Ausbruch überschreitet 12.000 bestätigte Fälle</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html</link>
@@ -101,12 +108,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-abends.html</guid>
 <pubDate>Mon, 23 Nov 2026 17:59:42 +0100</pubDate>
 <description>Montag, 23. November 2026 · Abendausgabe · Rubriken: Tech &amp; KI / Wirtschaft &amp; Finanzen / Space &amp; Forschung · erstellt um 17:59 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #269 — Geheimdienste warnen: Russland bereitet Atomwaffe im Weltraum vor — DAX zeigt nach sechs Verlusttagen Erholung auf Bewährung — Mehrheit der Deutschen will zum Black-Friday-Deal greifen</title>
-<link>https://radar724.de/posts/2026-11-23-mittags.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html</guid>
-<pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
-<description>Montag, 23. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:22 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>
