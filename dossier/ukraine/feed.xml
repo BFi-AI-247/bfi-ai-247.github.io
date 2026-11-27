@@ -6,8 +6,163 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:51:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:57:00 +0100</lastBuildDate>
+        <item>
+      <title>Ukrainische Luftstreitkräfte treffen russischen Sammelpunkt im Zentrum von Huljaipole</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-1</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Nach ukrainischen Angaben griffen Flugzeuge einen russischen Sammelpunkt im Frontstadt-Zentrum an; bis zu 20 Soldaten seien getötet, Munition und Boden-Drohnen zerstört. Partei-Darstellung mit Video-Beleg, nicht unabhängig bestätigt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064829/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
     <item>
+      <title>Kommandowechsel auf beiden Seiten: Selenskyj ernennt neuen Befehlshaber der Unterstützungsstreitkräfte</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-2</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Präsident Selenskyj ernannte einen neuen Befehlshaber der Unterstützungsstreitkräfte; auf der russischen Seite übernahm laut MilitaryLand Oberst Konstantin Filipow das 17. Armeekorps. Personal-Wechsel ohne Gefechtslage-Änderung.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/zelensky-appoints-new-commander-of-ukraines-support-forces/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://militaryland.net/news/new-commander-appointed-to-lead-17th-army-corps/">MilitaryLand</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russischer Angriff auf Odessa: 70-Jähriger getötet — zwei Getreidehaffer beschädigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-3</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Bei einem russischen Angriff auf Odessa und Vororte wurde nach Behördenangaben ein 70-Jähriger getötet; zwei ausländische Frachtschiffe mit über 100.000 Tonnen Getreide wurden beschädigt. Opfer- und Schadenszahlen sind ukrainische Partei-Angaben.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064800/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Saporischschja, Dnipropetrowsk, Chmelnyzkyj: Angriffsserie im Landesinneren</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-4</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>In Saporischschja tötete ein Abendangriff einen Menschen, in der Oblast Dnipropetrowsk griffen Drohnen zwei Bezirke über 50 Mal an, im Bezirk Chmelnyzkyj brannte ein Betriebsgelände. Alle Zahlen sind Partei-Angaben ukrainischer Stellen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064848/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064855/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064869/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukraine meldet Treffer auf zwei Öl-Anlagen und ein Flugfeld in der Oblast Wolgograd</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-5</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Der ukrainische Generalstab bestätigte Operationen gegen zwei Öl-Industrie-Anlagen und ein Flugfeld in der Oblast Wolgograd; Monitoring-Kanäle zeigten Rauchsäulen. Partei-Bestätigung Kiews, das Schadensausmaß ist nicht unabhängig bestätigt.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Blackout im besetzten Krim: Sewastopol ohne Strom</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-6</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Auf der russisch besetzten Krim kam es zu einem großflächigen Stromausfall, Sewastopol ist laut Meldungen komplett ohne Strom. Der Ausfall steht in einer Reihe wochenlanger Stromknappheit; Angaben der Besatzungsverwaltung.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064806/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Trump ergänzt die Ukraine in die Kriegs-Warnung — Abweichung vom gemeinsamen NATO-Statement</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-7</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-7</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>US-Präsident Trump forderte Putin zum Rückzug sämtlicher militärischer Aggression in Europa auf und ergänzte in seiner Fassung der gemeinsamen Erklärung mit NATO-Generalsekretär Rutte einseitig die Ukraine in die Warnung vor einer Kriegs-Ausweitung. Die Abweichung ist durch unabhängige Berichte belegt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://kyivindependent.com/trump-adds-ukraine-to-warning-against-expanding-war-diverging-from-joint-nato-statement/">Kyiv Independent</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Selenskyj warnt vor großem russischen Angriff auf die Energie-Infrastruktur</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-8</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-8</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Im BBC-Interview sagte Selenskyj, Russland bereite einen Massenangriff auf die Energie-Infrastruktur vor; er beklagte Starshield-Einschränkungen und Patriot-Lieferverzögerungen. Partei-Statement Kiews, die Warnung ist nicht unabhängig verifizierbar.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.bbc.co.uk/news/articles/c820q9wgrpyyo">BBC News</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Libyen-Angriffe: Kiew versichert Nicht-Ausweitung — Rom und Berlin mahnen Grenzen der Eskalation</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-9</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-9</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Außenminister Sybyha versicherte, die Ukraine wolle den Krieg nicht auf Libyen ausweiten; Italien und Deutschland warnten gleichwohl vor einer geografischen Ausweitung des Konflikts. Beide Positionen stehen als Widerspruchs-Gegenüberstellung nebeneinander.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064810/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064832/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.deutschlandfunk.de/ukrainischer-aussenminister-sybiha-wollen-krieg-nicht-auf-libyen-ausweiten-100.html">Deutschlandfunk</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Nordkorea setzt Militärhilfe für Russland aus — laut ukrainischem Geheimdienst</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-10</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-10</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Der HUR meldet, Nordkorea habe Militärhilfe vorübergehend ausgesetzt: Luftraum-Sperre für russische Transportflugzeuge, Stopp von KN-23-Lieferungen. Partei-Angabe Kiews aus Geheimdienstkreisen, zweitberichtet, nicht unabhängig bestätigt.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/north-korea-pauses-military-aid-to-russia-ukrainian-intelligence-says/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.n-tv.de/politik/Ukraine-Nordkorea-hat-Militaerhilfe-fuer-Russland-ausgesetzt-id31582707.html">n-tv</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>EU-Gipfel ohne Ergebnis: 45-Milliarden-Kredit für die Ukraine auf Dezember vertagt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-11</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-11</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Beim EU-Sondergipfel wird die Entscheidung über ein 45-Milliarden-Euro-Paket für die Ukraine auf Dezember vertagt; die Slowakei blockiert mit Polen, Ungarn und Tschechien die Ukraine-Hilfen. Status: angekündigt, nun vertagt — beschlossen ist nichts.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064867/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html">tagesschau</r724:quelle>
+      <r724:quelle url="https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html">tagesschau</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russland: Strafdrohung bis fünf Jahre für Veröffentlichung von Angriffs-Fotos und -Videos</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-12</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-12</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Senatoren brachten einen Gesetzentwurf in die Duma ein, der die unbefugte Verbreitung von Fotos und Videos der Folgen von Drohnen-Angriffen mit bis zu fünf Jahren Haft ahnden soll. Status: eingebracht, nicht beschlossen.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/26/v-gosdumu-vnesli-zakonoproekt-o-nakazanii-za-publikatsiyu-foto-i-video-posledstviy-atak-dronov-i-teraktov-maksimalnyy-srok-pyat-let">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Kriegskosten und Militärjustiz: 18,6 Billionen Rubel unproduktive Ausgaben — VKS-General festgenommen</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-13</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-13</guid>
+      <pubDate>Fri, 27 Nov 2026 05:57:00 +0100</pubDate>
+      <description>Laut Berechnungen von Nowaja Gaseta Europa floss seit 2022 rund 18,6 Billionen Rubel in unproduktive Rüstungsausgaben; zugleich wurde der VKS-Generaloberst Grechow wegen Bestechungsverdachts festgenommen. Medienrechnung bzw. Vorwurf, keine Verurteilung.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/news/2026/11/26/novaya-gazeta-evropa-s-2022-goda-rossiya-bezvozvratno-poteryala-pochti-19-trillionov-rubley-eto-rashody-na-vooruzhenie-sverh-normy-oni-poyavilis-tolko-iz-za-voyny">Meduza</r724:quelle>
+      <r724:quelle url="https://meduza.io/news/2026/11/26/v-moskve-arestovali-zamestitelya-glavnokomanduyuschego-vozdushno-kosmicheskimi-silami-yuriya-grehova-v-chem-ego-obvinyayut-neizvestno">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Grenzschützer werfen mechanisierten Angriff im Norden der Oblast Charkiw zurück</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-1</guid>
@@ -18,7 +173,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064639/">Ukrainska Pravda (EN)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Luftlandebrigade stoppt russischen Vorstoß südlich von Dobropillia</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-2</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-2</guid>
@@ -29,7 +184,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064634/">Ukrainska Pravda (EN)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Statuswechsel im Verlust-Streit: Kreml weist 700.000-Schätzung zurück</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-3</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-3</guid>
@@ -41,7 +196,7 @@
       <r724:quelle url="https://meduza.io/feature/2026/11/25/na-voyne-s-ukrainoy-pogibli-bolee-700-tysyach-rossiyskih-soldat-eto-chislo-prosto-ne-ukladyvaetsya-v-golove">Meduza (RU)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ballistische Raketen treffen Kiew — Einkaufszentrum beschädigt, mehrere Verletzte</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-4</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-4</guid>
@@ -54,7 +209,7 @@
       <r724:quelle url="https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html">Ukrinform</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ukrainischer Kampflaser fängt erstmals Strahlturbinen-Drohne ab</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-5</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-5</guid>
@@ -67,7 +222,7 @@
       <r724:quelle url="https://www.kyivpost.com/post/91216">Kyiv Post</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ukrainische Drohnen treffen Düngemittelwerk Newinnomyssk Azot im Stawropol-Gebiet</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-6</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-6</guid>
@@ -79,7 +234,7 @@
       <r724:quelle url="https://www.pravda.com.ua/news/2026/11/26/8064712/">Ukrainska Pravda</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Russische Drohnenangriffe auf ukrainische Regionen: Tote im Raum Charkiw</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-7</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-7</guid>
@@ -92,7 +247,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064631/">Ukrainska Pravda (EN)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Polen plant Flugverbotszone an der Ukraine-Grenze — NATO-Vorstoß zum Raketen-Abfang</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-8</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-8</guid>
@@ -105,7 +260,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064636/">Ukrainska Pravda (EN)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>US-Konsortium um Milliardär Boehly einigt sich auf Übernahme der Lukoil-Auslandsaktiva</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-9</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-9</guid>
@@ -117,7 +272,7 @@
       <r724:quelle url="https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html">CNBC</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Ukraine-Politik im Kurzüberblick: US-Lieferungen, Chemiewaffen-Appell, Tribunal-Ausschuss, Gefangenenaustausch</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-10</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-10</guid>
@@ -131,7 +286,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064649/">Ukrainska Pravda (EN)</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
-    <item>
+<item>
       <title>Kushner nennt Putin „historische Persönlichkeit“ und „Großmeister der Politik“</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-11</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-26.html#artikel-11</guid>
@@ -445,166 +600,6 @@
       <r724:quelle url="https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html">tagesschau</r724:quelle>
       <r724:quelle url="https://www.n-tv.de/politik/Russisches-Kriegsschiff-sinkt-nach-Explosion-in-libyschem-Hafen-id31564737.html">n-tv</r724:quelle>
       <r724:quelle url="https://www.zdfheute.de/politik/ausland/libyen-explosion-kriegsschiff-ukraine-krieg-russland-100.html">ZDFheute</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Update: Löscharbeiten an brennender „Sparta II“ in der Ostsee dauern an</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-4</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>Am von einer Drohne getroffenen russischen Frachter vor Finnland brennt es weiter; die Ladung bleibt unklar, zur Urheberschaft gibt es keine neuen Erkenntnisse.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html">tagesschau</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Russische Angriffe auf Kiews Umland: Behörden melden mindestens zwölf Tote</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-5</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>Ukrainische Behörden zählen nach den Sonntagangriffen mindestens zwölf Tote, allein neun beim Treffer auf ein Wohnhaus in Dymer; alle Opferzahlen sind Partei-Angaben.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.mdr.de/nachrichten/welt/osteuropa/politik/russland-krieg-russische-korvette-merkury-bengasi-gesunken-,ukraine-news-kw-48-100.html">MDR</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/22/8064074/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://www.deutschlandfunk.de/tote-und-verletzte-bei-russischen-angriffen-auf-vororte-kiews-104.html">Deutschlandfunk</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Energie-Netz getroffen: Notabschaltungen in fünf Oblasten, Odessa auf Fernunterricht</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-6</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>Ukrenergo verhängt nach einem russischen Angriff auf die Energieinfrastruktur Notabschaltungen in fünf Oblasten; Odessas Schulen wechseln auf Fernunterricht.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/22/8064085/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>NATO berät in Brüssel über russische Luftraum-Verletzungen über Polen</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-7</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>Die 32 Bündnisstaaten beraten über die jüngsten russischen Verletzungen des polnischen Luftraums; Warschau warnt zugleich vor russischen Desinformationserzählungen.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.deutschlandfunk.de/beratungen-ueber-verletzungen-des-polnischen-luftraums-durch-russland-102.html">Deutschlandfunk</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/22/8064083/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Trump nennt Putin „my friend“ — Washington verteidigt, London empört sich</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-8</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-8</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>US-Geheimdienstkoordinator Clayton verteidigt Trumps Charakterisierung Putins; britische Politiker weisen sie scharf zurück und nennen Putin einen „Schlächter“.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend">The Guardian</r724:quelle>
-      <r724:quelle url="https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his">Al Jazeera</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/22/8064082/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Prag wehrt sich gegen Ukraine-Mittel aus dem EU-Haushalt</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-9</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-23.html#artikel-9</guid>
-      <pubDate>Mon, 23 Nov 2026 06:33:22 +0100</pubDate>
-      <description>Tschechiens Premier Babiš fordert, die Ukraine außerhalb des EU-Haushalts zu finanzieren, und protestiert zugleich gegen eine Kürzung für sein Land.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/22/8064087/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Ostsee: Drohnen treffen Frachtschiff Sparta II — Finnland hält Ukraine für „wahrscheinlich“ verantwortlich</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-1</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-1</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Ein russisches Frachtschiff mit Verbindungen zu den Streitkräften geriet nach einem Drohnenangriff im Finnischen Meerbusen in Brand und trieb in finnische Gewässer. Helsinki alarmierte die NATO und meldete den Verdacht einer Luftraum-Verletzung durch einen russischen Helikopter; eine offizielle ukrainische Bestätigung liegt nicht vor.</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland">France 24</r724:quelle>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html">tagesschau</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://meduza.io/news/2026/11/21/gubernator-lenoblasti-soobschil-chto-v-finskom-zalive-ukrainskie-bespilotniki-atakovali-gruzovoe-sudno-sledovavshee-v-kaliningrad">Meduza</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Krim: Räumung des eingestürzten Kertsch-Brücken-Abschnitts könnte bis zu ein Jahr dauern</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-2</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-2</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Ukraines Verteidigungsminister schätzt, dass das Heben des eingestürzten Abschnitts der Kertsch-Brücke Monate bis zu einem Jahr dauern könnte (Partei-Einschätzung, nicht unabhängig bestätigt). Putin und Selenskyj widersprechen sich über die militärische Rolle der Brücke — beide Darstellungen gegenübergestellt.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russia-could-take-a-year-to-clear-collapsed-crimean-bridge-section-ukraines-defense-minister-says/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063973/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Ukrainische Schläge hinter den Linien: Munitionsdepot auf der Krim und Brücke bei Luhansk getroffen</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-3</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-3</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Die ukrainischen Streitkräfte meldeten Treffer auf ein Munitionsdepot auf der besetzten Krim, zwei Gefechtsstände und eine Straßenbrücke bei Luhansk (Partei-Meldung). Die Nationalgarde veröffentlichte ein Video zur gemeldeten Zerstörung eines Pantsir-Systems — ebenfalls Partei-Angabe.</description>
-      <category>Front</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063937/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063989/">Ukrainska Pravda (Pantsir)</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Update Krywyj Rih: Opferzahl des Double-Tap steigt auf 52 Verletzte — landesweit 83 Verletzte</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-4</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-4</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Nach dem ballistischen Doppelangriff auf Krywyj Rih mit nachfolgenden Drohnenschlägen auf Rettungskräfte melden die Behörden inzwischen 52 Verletzte; getötet wurden ein Siebenjähriger und eine Sanitäterin. Landesweit registrierte die ukrainische Luftwaffe drei ballistische Flugkörper und 148 Drohnen (Partei-Angaben mit Absender-Kennzeichnung).</description>
-      <category>Luftangriffe</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063886/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html">tagesschau</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Großbritannien: Streeting in Kiew — ukrainische Strike-Drohnen werden künftig in Großbritannien produziert</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-5</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-5</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Beim Besuch des britischen Verteidigungsministers unterzeichneten beide Seiten Vereinbarungen zur Produktion ukrainisch konstruierter Mittel- und Langstrecken-Drohnen in Großbritannien mit britischer Finanzierung. Das Paket ergänzt 500 Millionen Pfund für Drohnen, Luftabwehr und Radartechnik.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine">GOV.UK</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063992/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://www.deutschlandfunk.de/london-und-kiew-vereinbaren-kooperation-beim-bau-von-drohnen-106.html">Deutschlandfunk</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>Selenskyj zu Sicherheitsgarantien: Schriftliche Zusagen stehen noch aus — NATO-Beitritt bleibt im Gespräch</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-6</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-6</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Präsident Selenskyj sagte, zur Ukraine fehlten zu den angebotenen „Artikel-5-artigen“ Garantien bislang schriftliche Zusagen (Partei-Angabe). US-Partner schlagen UP zufolge ein trilaterales Treffen vor Weihnachten vor; Selenskyj hat ein Treffen mit Putin beim G20-Gipfel für möglich erklärt.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/">Kyiv Independent</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063955/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063948/">Ukrainska Pravda</r724:quelle>
-      <r724:ki>true</r724:ki>
-    </item>
-<item>
-      <title>EU-Haushalt: Costa-Vorschlag behält 100 Milliarden Euro für die Ukraine</title>
-      <link>https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-7</link>
-      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-22.html#artikel-7</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:00 +0100</pubDate>
-      <description>Der Präsident des Europäischen Rates stellte einen verkleinerten Mehrjahrshaushalt 2028–2034 vor, der die Ukraine-Finanzierung von 100 Milliarden Euro beibehält. Die Kyiv-Independent-Einordnung warnt, die Summe decke nicht einmal die Budget-Anforderungen eines einzigen Kriegsjahres.</description>
-      <category>Politik</category>
-      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/21/8063951/">Ukrainska Pravda</r724:quelle>
-      <r724:quelle url="https://kyivindependent.com/eu-budget-proposal-keeps-ukraine-funding-unchanged-as-cost-of-russias-war-rises/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
   </channel>
