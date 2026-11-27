@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:57:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 06:08:00 +0100</lastBuildDate>
+<item>
+<title>Nvidia stoppt KI-Server-Lieferungen nach Südostasien — Selenskyj warnt vor neuem russischen Großangriff — Ebola-Ausbruch überschreitet 12.000 bestätigte Fälle</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Freitag, 27. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Gesundheit &amp; Medizin · erstellt um 06:08 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>EU-Gipfel bricht ohne Haushalts-Einigung vorzeitig ab — EZB-Spitze geklärt: Spanier Hernández de Cos soll Lagarde folgen — Tanker mit Tausenden Tonnen Diesel vor Ibiza gekentert</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html</link>
@@ -100,12 +107,6 @@
 <guid isPermaLink="true">https://radar724.de/posts/2026-11-23-mittags.html</guid>
 <pubDate>Mon, 23 Nov 2026 12:22:00 +0100</pubDate>
 <description>Montag, 23. November 2026 · Mittagsausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Tech &amp; KI · erstellt um 12:22 Uhr (Europe/Berlin)</description>
-</item>
-<item><title>Ausgabe #268 — Update: Zehn Tote nach Drohnenangriff auf Dymer — Russische Korvette nach Explosion in Libyen gekentert — Belgien legt den Flugverkehr still</title>
-<link>https://radar724.de/posts/2026-11-23-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-23-morgens.html</guid>
-<pubDate>Mon, 23 Nov 2026 06:40:00 +0100</pubDate>
-<description>Montag, 23. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Wirtschaft &amp; Finanzen / Klima &amp; Umwelt · erstellt um 06:40 Uhr (Europe/Berlin)</description>
 </item>
   </channel>
 </rss>

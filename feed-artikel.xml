@@ -6,7 +6,118 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:57:00 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 06:08:00 +0100</lastBuildDate>
+<item>
+<title>Nvidia stoppt Lieferungen von KI-Servern nach Malaysia, Singapur, Thailand und Indonesien</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-1</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Nvidia untersagt Serverpartnern wie Dell und Supermicro Berichten zufolge die Auslieferung von KI-Servern an vier südostasiatische Länder. Hintergrund sind verschärfte US-Exportregeln gegen die Umgehung der China-Sanktionen über Cloud-Rechenzentren.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html" />
+<r724:quelle url="https://www.computerbase.de/news/wirtschaft/vier-laender-betroffen-nvidia-stoppt-ki-server-lieferungen-nach-suedostasien.100536/" />
+<r724:quelle url="https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Europa League: Hoffenheim und Leverkusen gewinnen, auch Freiburg feiert einen Sieg</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-2</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Hoffenheim schlägt Sturm Graz 3:1, Leverkusen gewinnt 2:0 in Zagreb, auch Freiburg triumphiert — erfolgreicher Europa-League-Abend der deutschen Clubs.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.kicker.at/hoffenheim-gegen-sturm-graz-2026-europa-league-5264567/spielbericht" />
+<r724:quelle url="https://datencenter.dfb.de/datencenter/europa-league/2026-2027/spieltag/tsg-hoffenheim-sturm-graz-2429807" />
+<r724:quelle url="https://sport.sky.de/fussball/hoffenheim-vs-sturm-graz/spielbericht/577818" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Verbraucherzentrale verklagt OpenAI: ChatGPT-Abos sollen zu schwer kündbar sein</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-3</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Die Verbraucherzentrale Brandenburg reicht Verbandsklage gegen OpenAI Ireland ein: moniert werden eine fehlende Kündigungsfunktion und eine Klausel zu einseitigen Preiserhöhungen.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.verbraucherzentrale-brandenburg.de/pressemitteilungen/verbraucherzentrale-brandenburg-verklagt-chatgptanbieter-openai-127517" />
+<r724:quelle url="https://www.computerbase.de/news/wirtschaft/verbraucherzentrale-klagt-chatgpt-abo-schnell-abgeschlossen-aber-schwer-gekuendigt.100530/" />
+<r724:quelle url="https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Nach globalem IT-Ausfall: Microsoft ruft intern die höchste Alarmstufe aus</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-4</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Nach dem rund 24-stündigen Ausfall von Outlook, Teams und Copilot Mitte November löst Microsoft intern Code Red aus und will Störungen künftig schneller beheben.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://pro.t3n.de/ki-news/" />
+<r724:quelle url="https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Selenskyj warnt vor neuem russischen Großangriff — Trump fordert Putin zum Rückzug auf</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-5</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Selenskyj warnt vor einem in den kommenden Tagen vorbereiteten russischen Massenangriff; Trump sagt, er habe Putin zum Rückzug der militärischen Aggression in Europa gedrängt.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back" />
+<r724:quelle url="https://www.kyivpost.com/thread/91343" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Bosnien: Dodik hebt seinen Sohn auf den Regierungschefsessel der Republika Srpska</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-6</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Milorad Dodik, 2025 unter internationalem Druck zurückgetreten, lässt seinen Sohn Darling Regierungschef der serbischen Teilrepublik werden — Beobachter warnen vor dynastischen Strukturen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html" />
+<r724:quelle url="https://www.ansa.it/nuova_europa/en/news/sections/politics/2026/11/23/in-bosnia-dodiks-son-elected-prime-minister-of-the-republika-srpska_44b9fe85-787f-45b6-bd9e-a83a4dd24aa5.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>WM-Aus nach verpassten Dopingtests: Laura Freigang bis Oktober 2027 gesperrt</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-7</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Eintracht-Stürmerin Laura Freigang wird wegen Verstößen gegen Meldepflichten 16 Monate gesperrt und verpasst damit die Frauen-WM 2027 im eigenen Land; ein positives Dopingtest-Ergebnis steckt nicht dahinter.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.tagesschau.de/inland/regional/hessen/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-102.html" />
+<r724:quelle url="https://www.zdfheute.de/sport/fussball-dfb-frauen-wada-sperrt-laura-freigang-100.html" />
+<r724:quelle url="https://www.kicker.at/verpasste-dopingtests-freigang-bis-oktober-2027-gesperrt-1273991/artikel" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Ebola-Ausbruch in der DR Kongo überschreitet 12.000 bestätigte Fälle — ECDC sieht Risiko für Europa als sehr gering</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-8</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-8</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Bis 24. November zählt die DR Kongo 12.021 bestätigte Ebola-Fälle und 5.904 Todesfälle; acht Provinzen sind betroffen. Für Europa bleibt das Infektionsrisiko laut ECDC sehr gering.</description>
+<category>Gesundheit &amp; Medizin</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-26" />
+<r724:quelle url="https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>IAEA warnt: Lage im Atomkraftwerk Saporischschja bleibt prekär</title>
+<link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-9</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-morgens.html#artikel-9</guid>
+<pubDate>Fri, 27 Nov 2026 06:08:00 +0100</pubDate>
+<description>Die IAEO mahnt in ihrer Lageerklärung die Sicherheit des größten europäischen Atomkraftwerks an; das Werk hängt weiter an fragilen externen Stromleitungen.</description>
+<category>Gesundheit &amp; Medizin</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+<r724:quelle url="https://reliefweb.int/report/ukraine/update-377-iaea-director-general-statement-situation-ukraine" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Update: EU-Sondergipfel zum Haushalt vorzeitig beendet — Merz sieht keine Chance auf ein Ergebnis am Abend</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-1</link>
@@ -526,115 +637,6 @@
 <category>Kultur &amp; Medien</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.journal-frankfurt.de/journal_news/kultur-161/Festival-in-Frankfurt-Alte-Oper-zeigt-Met-Kunstwerke-zu-Live-Musik-46613.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>USA kündigen Sonderzölle gegen EU und China an — 15 Prozent für Europa, 20 für Peking</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-1</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Nach einer achtmonatigen Untersuchung kündigt das Büro von US-Handelsbeauftragtem Greer Sonderzölle gegen die EU und 13 weitere Partner an: 15 Prozent für EU-Produkte, 20 Prozent auf chinesische Waren. In Kraft treten könnten die Abgaben frühestens im Januar; die EU-Kommission wies die Begründung zurück.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html" />
-<r724:quelle url="https://de.finance.yahoo.com/nachrichten/usa-k%C3%BCndigen-neue-z%C3%B6lle-gegen-134723953.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Tagesrückblick: DAX schließt am Mittwoch 1,14 Prozent tiefer bei 24.733 Punkten</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-2</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Zum Xetra-Schluss fiel der DAX um 1,14 Prozent auf 24.733,22 Punkte, nachdem er morgens noch im Plus gelegen hatte. Händler nannten den Abgabedruck auf Technologiewerte und die amerikanischen Zollpläne als Belastungsfaktoren.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.finanzen.at/nachrichten/aktien/mittwochshandel-in-frankfurt-dax-beendet-die-mittwochssitzung-mit-verlusten-1036800462" />
-<r724:quelle url="https://www.finanzen.ch/nachrichten/aktien/verluste-in-frankfurt-dax-verliert-letztendlich-1036800448" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Heiße Inflation und neue Zölle: Wall Street fällt zum Handelsmittag deutlich zurück</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-3</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Der Kern-Inflationsindikator PCE stieg stärker als erwartet auf 3,3 Prozent, der Nasdaq gab zum Handelsmittag rund 2,6 Prozent nach. Nvidias Aktie verlor rund acht Prozent; am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html" />
-<r724:quelle url="https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-25-090900237.html" />
-<r724:quelle url="https://centrinocapital.com/insights/market-news-2026-11-25" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Luftraum-Verletzungen: Polen plant Flugverbotszone an seiner Ostgrenze</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-4</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Vizeverteidigungsminister Tomczyk kündigte eine Sperrzone einige bis mehrere Dutzend Kilometer hinter der Ostgrenze an; die Verordnung soll Ende Dezember oder Anfang Januar in Kraft treten. Zuvor hatte Polen bereits ein Verfahren zur positiven Identifizierung von Flugobjekten eingeführt.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://de.euronews.com/2026/11/25/polen-plant-flugverbotszone-osten" />
-<r724:quelle url="https://www.marketscreener.com/news/polish-defence-official-calls-for-regional-border-no-fly-zones-ce7851d8d88df724" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Generalstab bestätigt ukrainische Angriffe auf zwei Raffinerien im Gebiet Samara</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-5</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Drohnen trafen die Werke in Samara und Sysran, rund 800 Kilometer von der Grenze entfernt; es brachen Brände aus. Der Generalstab sprach von einer Koordination mit der Widerstandsbewegung „Tschernaja Iskra“ — unabhängig überprüfen lassen sich die Angaben nicht.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/" />
-<r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/ukraine-ticker-ukraine-versenkt-russisches-kriegsschiff,VbnccDe" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>WHO: Lebenserwartung in Kuba erstmals seit Aufzeichnungsbeginn 1950 gesunken</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-6</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Zwischen 2020 und 2025 sank die Lebenserwartung von 78,8 auf 74,4 Jahre; die Säuglingssterblichkeit stieg auf 9,9 Fälle je 1.000 Geburten. WHO-Chef Tedros forderte in Havanna das sofortige Ende der US-Treibstoffblockade.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html" />
-<r724:quelle url="https://www.upi.com/Top_News/World-News/2026/11/25/latam-cuba-life-expectancy/4791795617663/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Dell verdoppelt Umsatz auf 54,9 Milliarden Dollar — KI-Auftragsbuch wächst auf 132,3 Milliarden</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-7</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Dell meldete für das dritte Quartal einen Rekordumsatz von 54,9 Milliarden Dollar nach 60,2 Milliarden Dollar an neuen KI-Server-Aufträgen; das Auftragsbuch erreichte 132,3 Milliarden Dollar. Für das Gesamtjahr erwartet der Konzern 202 Milliarden Dollar Umsatz.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000050/exhibit991earnings8kq3fy27.htm" />
-<r724:quelle url="https://aiweekly.co/ai-news-today/edition/2026-11-25" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Huawei und Partner verketten erstmals chinesische EDA-Werkzeuge im laufenden Chip-Projekt</title>
-<link>https://radar724.de/posts/2026-11-25-abends.html#artikel-8</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-abends.html#artikel-8</guid>
-<pubDate>Wed, 25 Nov 2026 19:34:43 +0100</pubDate>
-<description>Beim Huawei-Innovationsforum in Peking wurde die erste Verkettung einer vollständig chinesischen EDA-Werkzeugkette vorgestellt, erprobt an einem laufenden Chip-Projekt. EDA-Software gilt als Grundlage der Chip-Entwicklung und wird bislang von US-Anbietern dominiert.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.ithome.com/1/031/982.htm" />
-<r724:quelle url="https://k.sina.com.cn/article_1826017320_6cd6d02804001zw26.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Drohnen greifen Kiew an: Trümmer treffen Hochhaus im Zentrum — drei Verletzte</title>
-<link>https://radar724.de/posts/2026-11-25-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-25-mittags.html#artikel-1</guid>
-<pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
-<description>Drohnen-Trümmer trafen in der Nacht zum Mittwoch im Bezirk Schewtschenkiwskyj ein Wohnhochhaus und einen Kindergarten; mindestens drei Menschen wurden verletzt. Der Angriff reiht sich in die nächtliche Angriffsserie der vergangenen Wochen ein.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.n-tv.de/politik/12-54-ntv-Reporterin-Sharma-berichtet-von-einer-bedrohlichen-Nacht-mit-Explosionen-id30859357.html" />
-<r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/25/8064550/" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>
