@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #286 — Freitag, 27.11.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #286</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; Übersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">Über diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Freitag, 27. November 2026 &middot; Nachtausgabe &middot; erstellt um 23:35 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung</p>
+<h1 class="post-title">Spaniens Wahlkampf endet im Streit — Bundestag beschließt Haushalt 2027 mit Zuckersteuer — BepiColombo erreicht trotz Software-Panne die Merkur-Umlaufbahn</h1>
+
+<!-- ============================================================
+     1. TOP NEWS — stärkste Meldung der Ausgabe, NUR hier (erscheint
+     nicht zusätzlich in einer Rubrik), mit Rubrik-Label (rubrik-ref).
+     Blink/Quellenzeilen-Regeln wie bei jedem Beitrag.
+     ============================================================ -->
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item" id="artikel-1">
+<span class="rubrik-ref">Rubrik: Weltgeschehen</span>
+<h3>Vor der Schicksalswahl: Spaniens Spitzenkandidaten beenden den Wahlkampf mit Großkundgebungen — Sánchez hält einen Sieg für sicher</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://elpais.com/espana/elecciones-generales/2026-11-27/cierre-de-campana-de-las-elecciones-generales-del-29-n-en-directo.html" rel="noopener">Original lesen</a> — El País, Live-Blog zum Abschluss des Wahlkampfs (27.11.2026).</span>
+<p>Am Freitag endete in Spanien der offizielle Wahlkampf vor der vorgezogenen Parlamentswahl am Sonntag. Ministerpräsident Pedro Sánchez rief auf seiner Schlusskundgebung in der Madrider Caja Roja zur Mobilisierung der linken Wählerschaft auf — nach einem Auftritt vor Zehntausenden in Valencia am Vortag. Im Staatsradio SER hatte er am Morgen erklärt, er könne sich eine Niederlage am Sonntag schlicht nicht vorstellen; interne Hochrechnungen seiner Sozialisten zeigten ihm zufolge ein Linksbündnis knapp vorn. Sein Herausforderer Alberto Núñez Feijóo von der konservativen Volkspartei PP beendete den Wahlkampf in Sevilla und warb um Stimmen der Mitte; Vox-Chef Santiago Abascal trat in Valencia auf und rief die Wähler auf, mit der Angst vor weiteren Jahren der Linken zu wählen.</p>
+<p>Fast alle veröffentlichten Umfragen — das Verbot neuer Umfragen gilt seit fünf Tagen vor der Wahl — sahen zuletzt ein Bündnis aus PP und Vox vor der PSOE. Sánchez strebt eine dritte Amtszeit in Folge an, die rechte Opposition will ihn nach acht Jahren in der Moncloa ablösen. Der Samstag ist in Spanien als día de reflexión ein Besinnungstag, an dem keine Kundgebungen mehr erlaubt sind. In der Fernsehdebatte am Donnerstag hatten die Kandidaten vor allem über Gaza, Immigration und Außenpolitik gestritten; Sánchez nannte die Ehrung der israelischen Regierung durch die Madrider Regionalregierung schändlich. Die Wahl am Sonntag gilt vielen Beobachtern als Auftakt eines europäischen Wahlzyklus. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls" rel="noopener">Al Jazeera</a> — <a href="https://www.lavanguardia.com/local/valencia/20261127/11695376/abascal-pide-votar-miedo-reconstruir-espana-echar-sanchez-moncloa.html" rel="noopener">La Vanguardia</a>.</span>
+</div>
+
+<!-- Support-Zeile (Pflicht): GENAU EINMAL, fest an Position 2 — direkt nach der Top News -->
+<p class="support-slim">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>frostige Nacht mit Tiefstwerten um &minus;4 °C; Samstag heiter bei &minus;4 bis 3 °C, Ostwind mit Böen bis 24 km/h — amtliche Glättewarnung bis 11:00 Uhr.</li>
+<li><b>Sonne</b>auf 07:58, unter 16:27 Uhr — 8 Stunden 29 Minuten Tageslicht.</li>
+<li><b>DAX</b>25.441,24 Punkte <span class="pos">+0,90 %</span> — Xetra-Schluss vom Freitag; die Börsen bleiben bis Montag geschlossen.</li>
+<li><b>S&amp;P 500</b>7.297,49 Punkte <span class="pos">+1,60 %</span> — halbtägiger Freitagsschluss; beste Woche seit April 2025 (+5,6 %).</li>
+<li><b>Öl (Brent)</b>rund 90,3 USD/Barrel <span class="neg">&minus;1,4 %</span> — Freitagsschluss; der Markt ruht am Wochenende.</li>
+<li><b>EUR / USD</b>1,0935 <span class="neg">&minus;0,4 %</span> — der Euro bleibt knapp unter der 1,10-Marke (EZB-Referenz 1,0957).</li>
+<li><b>Gold</b>rund 3.655 USD/Unze <span class="pos">+2,4 %</span> — Erholung zum Wochenschluss nach schwachem November.</li>
+<li><b>Bitcoin</b>rund 54.570 EUR (6h <span class="neg">&minus;0,4 %</span> &middot; 24h <span class="neg">&minus;1,2 %</span>) — Referenzkette: Abendausgabe #285 54.770 EUR, Nachtausgabe #282 55.240 EUR.</li>
+<li><b>Heute ist ...</b>Samstag, 28. November 2026 — 332. Tag des Jahres, Kalenderwoche 48; morgen ist 1. Advent und Parlamentswahl in Spanien.</li>
+</ul>
+<span class="glance-src">Datenstand 27.11.2026, ca. 23:35 Uhr · Wetter: daswetter.com · Kurse: finanzen.ch (DAX), AP/Yahoo (S&amp;P 500), wallstreet-online.de (Gold, Brent, EUR/USD), bitcoin-kurs.at (Bitcoin) · Bitcoin-Deltas aus RADAR-Ausgaben #285 und #282 · Heute ist .../Sonne: welcher-tag-ist-heute.org</span>
+</div>
+
+<!-- ============================================================
+     5. DIE RUBRIKEN — die Top-News-Meldung erscheint hier NICHT erneut.
+     Pro Rubrik ein section-Block; je Rubrik 2–4 Items (siehe themen.md)
+     ============================================================ -->
+<h2 class="section">Weltgeschehen</h2>
+<div class="item" id="artikel-2">
+<h3>IAEA warnt nach 28. Totalausfall der Stromleitungen im AKW Saporischschja — Grossi fordert Einstellung der Kämpfe für Reparaturen</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.br.de/nachrichten/meldung/iaea-warnt-vor-prekaerer-lage-bei-akw-saporischschja,30082b363" rel="noopener">Original lesen</a> — BR24, Meldung (27.11.2026).</span>
+<p>Erneut ist im ukrainischen Atomkraftwerk Saporischschja der gesamte externe Stromanschluss ausgefallen. Nach Angaben der Internationalen Atomenergie-Organisation IAEA ist es bereits der 28. Totalausfall der externen Stromversorgung seit Beginn der russischen Invasion. IAEA-Chef Rafael Grossi rief beide Kriegsparteien auf, die militärischen Aktivitäten in der Region einzustellen, damit die beschädigten Leitungen endlich repariert werden können — solange sie immer wieder reißen, sei die Lage in Europas größtem AKW äußerst prekär. Die Anlage am Dnepr steht seit März 2022 unter russischer Besatzung; ihre sechs Reaktorblöcke sind heruntergefahren, doch für Kühlung und Notfall-Systeme bleibt eine stabile externe Stromversorgung überlebenswichtig. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.tt.com/artikel/30947842/iaea-warnung-nach-28-stromausfall-im-akw-saporischschja" rel="noopener">Tiroler Tageszeitung</a>.</span>
+</div>
+<div class="item" id="artikel-3">
+<h3>Bundestag beschließt Haushaltsbegleitgesetz: Stromsteuer sinkt 2027, Zuckersteuer kommt ab 2028</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html" rel="noopener">Original lesen</a> — tagesschau.de, Bericht (27.11.2026, Stand 17:09 Uhr).</span>
+<p>Mit dem Beschluss des Haushaltsbegleitgesetzes zum Rekordhaushalt 2027 hat der Bundestag am Freitag zwei Maßnahmen beschlossen, die Millionen Haushalte betreffen: Die Stromsteuer sinkt im kommenden Jahr für ein Jahr um rund 2,3 Cent pro Kilowattstunde — ein Haushalt mit 1500 Kilowattstunden Jahresverbrauch spart damit etwa 34,50 Euro. Der Bund verzichtet dafür auf rund fünf Milliarden Euro Einnahmen, finanziert aus EEG-Mitteln, die in den nächsten Jahren voraussichtlich ohnehin nicht abgerufen werden. Weder Union noch SPD wollen die Steuer danach wieder anheben.</p>
+<p>Neu ist außerdem eine Zuckersteuer: Ab 2028 werden zuckergesüßte Getränke ab fünf Gramm Zucker je 100 Milliliter dreistufig mit 25, 30 oder 35 Cent pro Liter belegt. Ausgenommen bleiben zuckerfreie Getränke, ungesüßte Säfte und alkoholische Getränke; kleine Hersteller erhalten eine Härtefall-Regelung. Die Alkoholsteuer auf hochprozentige Spirituosen steigt um 20 Prozent — die geplante Erhöhung für Sekt hatte die Regierung nach Kritik zurückgenommen. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary">Auch berichtet durch: <a href="https://www.mdr.de/nachrichten/deutschland/politik/Bundesetat-Schulden-Grundsicherung-Kritik-Opposition,rekordhaushalt-100.html" rel="noopener">MDR</a>.</span>
+</div>
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item" id="artikel-4">
+<h3>Polen stattet seine Armee mit Palantir-KI aus: Fünf-Jahres-Vertrag über rund 300 Millionen Dollar unterzeichnet</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.polskieradio.pl/395/7784/Artykul/3757898,poland-signs-300m-deal-with-palantir-over-5-years-vows-army-keeps-the-keys" rel="noopener">Original lesen</a> — Polskie Radio, Bericht zur Vertragsunterzeichnung in Warschau (27.11.2026).</span>
+<p>Polen hat am Freitag in Warschau einen fünfjährigen Vertrag mit dem US-Analytics- und KI-Konzern Palantir über rund 300 Millionen Dollar unterzeichnet — nach Angaben des Konzerns, dessen Chef Alex Karp die Unterschrift gemeinsam mit Verteidigungsminister Władysław Kosiniak-Kamysz vollzog, der größte derartige Deal eines europäischen Landes. Die KI-Software Maven soll Entscheidungsprozesse von Kommandeuren unterstützen und in alle Teilstreitkräfte sowie die wichtigsten Kommandostäbe eingeführt werden. Kosiniak-Kamysz sprach von einem Wasserscheide-Moment und stellte den Vertrag in eine Reihe mit den milliardenschweren Waffenkäufen von F-35-Jets und Apache-Hubschraubern.</p>
+<p>Sein Ministerium betonte, alle Schlüssel-Server und Informationen blieben exklusives Eigentum der polnischen Armee — eine Reaktion auf Sicherheitsbedenken gegen die Datennutzung durch US-Firmen. Kosiniak-Kamysz begründete die Entscheidung mit den Lehren aus dem Ukraine-Krieg, den sein Land nach eigener Einschätzung ohne Palantir-Technologie nicht überstanden hätte; die Letztentscheidung bleibe in allen Fällen beim Menschen. Generalstabschef General Wiesław Kukuła nannte KI die oberste Priorität der Modernisierung angesichts der Bedrohungslage am östlichen NATO-Flügel. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.channelnewsasia.com/business/poland-signs-contract-palantir-worth-300-million-over-5-years-6587816" rel="noopener">Channel NewsAsia</a> — <a href="https://qz.com/poland-palantir-maven-military-ai-deal-112726" rel="noopener">Quartz</a>.</span>
+</div>
+<div class="item" id="artikel-5">
+<h3>OpenAI räumt Abrechnungsfehler ein: GPT-6.2-Kunden stoßen künftig früher an ihre Limits</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.heise.de/en/news/OpenAI-corrects-billing-error-GPT-6-2-limits-arrive-sooner-11539518.html" rel="noopener">Original lesen</a> — heise online, Meldung (27.11.2026).</span>
+<p>Nach dem Start der Modelle GPT-6.2 Astra und GPT-6.2 Sol am 17. November hatte OpenAI die Nutzung vieler Kunden falsch gezählt. Das Unternehmen räumte am Donnerstag ein, dass ChatGPT die Nutzung für die meisten Nutzer zu niedrig erfasste. Nach der Korrektur erreichen Kunden der Stufe Astra ihre Nutzungslimits nun rund 40 Prozent früher, bei Sol rund 25 Prozent früher als zuvor. Rückwirkende Abbuchungen wird es nicht geben; als Ausgleich erhalten Kunden ein einmaliges Banked Reset ihres Nutzungskontingents.</p>
+<p>Was genau den Fehler verursachte und wie viele Konten betroffen sind, teilte das Unternehmen nicht mit; die Details hatte Produktchef Joachim Sottiaux zuerst auf X öffentlich gemacht. Im Dezember will OpenAI die bisher getrennten Kontingente von ChatGPT und Codex außerdem zu einem gemeinsamen, tokenbasierten Budget zusammenführen. Für Nutzer bedeutet die Korrektur: Das gleiche Geld kauft künftig weniger Rechenzeit bei den neuen Modellen als in den ersten zwei Wochen. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html" rel="noopener">Computerworld</a> — <a href="https://www.makeuseof.com/hatgpt-gpt-6-2-limits-faster-billing-fix-reset/" rel="noopener">MakeUseOf</a>.</span>
+</div>
+<h2 class="section">Space &amp; Forschung</h2>
+<div class="item" id="artikel-6">
+<h3>Trotz Software-Panne sicher im Orbit: BepiColombo-Manöver um den Merkur gehen planmäßig weiter</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.esa.int/de/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge" rel="noopener">Original lesen</a> — ESA, Missions-Update der Flugleitung (Absolute Primärquelle, veröffentlicht 23.11.2026).</span>
+<p>Die europäisch-japanische Merkur-Sonde BepiColombo hat die kritische Phase ihrer Ankunft sicher überstanden — wenn auch nicht wie geplant. Beim Einschwenken in die Merkur-Umlaufbahn am 21. November um 18:24 UTC, in nur 635 Kilometern Höhe über der Planetenoberfläche, brach das auf 37 Minuten angelegte Bremsmanöver autonom vorzeitig ab; die Sonde schaltete in einen Sicherheitsmodus und erreichte nur rund 77 Prozent der geplanten Geschwindigkeitsänderung. Wie die ESA mitteilte, lag die Ursache in einem Softwarefehler — dennoch hat BepiColombo eine stabile Umlaufbahn um den Merkur erreicht, und die Mission ist nicht gefährdet.</p>
+<p>Das Manöver war die erste Weak Stability Capture der Raumfahrtgeschichte: Die Sonde näherte sich ihrem Zielplaneten langsamer an als je eine Raumsonde zuvor. Das Team am Kontrollzentrum ESOC in Darmstadt arbeite mit den Partnern Airbus und der japanischen Weltraumagentur JAXA rund um die Uhr an den nächsten Schritten: Am 9. und 10. Dezember sollen sich die beiden wissenschaftlichen Orbiter vom Antriebmodul trennen, danach wird die Umlaufbahn schrittweise abgesenkt. BepiColombo ist nach achtjähriger Reise die erste europäische Mission zum innersten Planeten des Sonnensystems. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.mps.mpg.de/ankunft-am-planeten-der-extreme" rel="noopener">Max-Planck-Institut für Sonnensystemforschung</a>.</span>
+</div>
+<div class="item" id="artikel-7">
+<h3>101. Electron-Start: Rocket Lab bringt Synspectives 14. StriX-Satelliten in den Orbit</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://rocketlabcorp.com/updates/mission-success-rocket-lab-launches-101st-electron-mission/" rel="noopener">Original lesen</a> — Rocket Lab, Unternehmensmitteilung (Absolute Primärquelle, 27.11.2026).</span>
+<p>Von der neuseeländischen Küste ist in der Nacht zum Freitag die 101. Mission der Kleinrakete Electron gestartet. Die Mission Night Owls Never Sleep brachte den 14. StriX-Satelliten des japanischen Betreibers Synspective in eine 569 Kilometer hohe Erdumlaufbahn — nach Unternehmensangaben der 22. Electron-Start dieses Jahres und der 14. erfolgreiche Flug für Synspective in Serie. Electron ist damit laut Rocket Lab die weltweit am häufigsten gestartete Klein-Trägerrakete.</p>
+<p>Die Satelliten der StriX-Flotte tragen Radarsensoren zur Erdbeobachtung, die unabhängig von Wetter und Tageszeit hochaufgelöste Bilder liefern — ein wachsender Markt für Infrastruktur- und Katastrophenmonitoring. Grundlage ist ein Vertrag über 20 Starts, den Rocket Lab im September mit Synspective geschlossen hatte und den das Unternehmen als größten Einzelauftrag für Electron bezeichnet. Insgesamt sind inzwischen 47 Synspective-Missionen gebucht, 33 davon sollen bis 2031 fliegen. (Datenstand: Freitag, 27.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Geprüft: mindestens zwei unabhängige Zweitquellen oder Absolute Primärquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Geprüfte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.synspective.com/news/14th_launch/" rel="noopener">Synspective</a>.</span>
+</div>
+
+<!-- Abschlussnote (Pflicht): kurze Fassung, exakt dieser Wortlaut, nach dem letzten Beitrag -->
+<p class="note">&#9749; Gefällt Dir RADAR 724? Du kannst den Blog unkompliziert unterstützen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #286 &middot; <a href="../index.html">Übersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">Über diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

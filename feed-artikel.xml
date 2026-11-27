@@ -6,7 +6,94 @@
 <atom:link href="https://radar724.de/feed-artikel.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierte Einzelartikel von RADAR 724. Automatisch recherchiert. Früh, mittags, abends — für alle.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 27 Nov 2026 18:11:05 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 23:35:17 +0100</lastBuildDate>
+<item>
+<title>Vor der Schicksalswahl: Spaniens Spitzenkandidaten beenden den Wahlkampf mit Großkundgebungen — Sánchez hält einen Sieg für sicher</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-1</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-1</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Am Freitag endete der Wahlkampf vor der spanischen Parlamentswahl am Sonntag. Sánchez, Feijóo und Abascal warben bei letzten Großkundgebungen um Stimmen; die letzten Umfragen sahen ein Bündnis aus PP und Vox vorn.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://elpais.com/espana/elecciones-generales/2026-11-27/cierre-de-campana-de-las-elecciones-generales-del-29-n-en-directo.html" />
+  <r724:quelle url="https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls" />
+  <r724:quelle url="https://www.lavanguardia.com/local/valencia/20261127/11695376/abascal-pide-votar-miedo-reconstruir-espana-echar-sanchez-moncloa.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>IAEA warnt nach 28. Totalausfall der Stromleitungen im AKW Saporischschja — Grossi fordert Einstellung der Kämpfe für Reparaturen</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-2</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-2</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Nach dem 28. Totalausfall der externen Stromversorgung warnt die IAEA vor der prekären Lage im russisch besetzten AKW Saporischschja. Grossi fordert beide Kriegsparteien auf, die Kämpfe einzustellen, damit die Leitungen repariert werden können.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://www.br.de/nachrichten/meldung/iaea-warnt-vor-prekaerer-lage-bei-akw-saporischschja,30082b363" />
+  <r724:quelle url="https://www.tt.com/artikel/30947842/iaea-warnung-nach-28-stromausfall-im-akw-saporischschja" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Bundestag beschließt Haushaltsbegleitgesetz: Stromsteuer sinkt 2027, Zuckersteuer kommt ab 2028</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-3</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-3</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Das Haushaltsbegleitgesetz senkt 2027 die Stromsteuer für ein Jahr um rund 2,3 Cent pro Kilowattstunde und führt ab 2028 eine dreistufige Zuckersteuer auf gesüßte Getränke ein. Zero-Getränke, Säfte und kleine Hersteller sind ausgenommen.</description>
+<category>Weltgeschehen</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html" />
+  <r724:quelle url="https://www.mdr.de/nachrichten/deutschland/politik/Bundesetat-Schulden-Grundsicherung-Kritik-Opposition,rekordhaushalt-100.html" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Polen stattet seine Armee mit Palantir-KI aus: Fünf-Jahres-Vertrag über rund 300 Millionen Dollar unterzeichnet</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-4</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-4</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Polen hat einen fünfjährigen Vertrag mit Palantir über rund 300 Millionen Dollar unterzeichnet. Die KI-Software Maven soll in alle Teilstreitkräfte eingeführt werden; alle Schlüssel-Server bleiben Eigentum der polnischen Armee.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://www.polskieradio.pl/395/7784/Artykul/3757898,poland-signs-300m-deal-with-palantir-over-5-years-vows-army-keeps-the-keys" />
+  <r724:quelle url="https://www.channelnewsasia.com/business/poland-signs-contract-palantir-worth-300-million-over-5-years-6587816" />
+  <r724:quelle url="https://qz.com/poland-palantir-maven-military-ai-deal-112726" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>OpenAI räumt Abrechnungsfehler ein: GPT-6.2-Kunden stoßen künftig früher an ihre Limits</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-5</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-5</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>OpenAI hat einen Abrechnungsfehler bei den neuen Modellen GPT-6.2 Astra und Sol eingeräumt: Nutzer erreichen ihre Limits künftig 25 bis 40 Prozent früher. Es gibt ein einmaliges Reset, keine rückwirkenden Kosten.</description>
+<category>Tech &amp; KI</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://www.heise.de/en/news/OpenAI-corrects-billing-error-GPT-6-2-limits-arrive-sooner-11539518.html" />
+  <r724:quelle url="https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html" />
+  <r724:quelle url="https://www.makeuseof.com/hatgpt-gpt-6-2-limits-faster-billing-fix-reset/" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>Trotz Software-Panne sicher im Orbit: BepiColombo-Manöver um den Merkur gehen planmäßig weiter</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-6</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-6</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Trotz eines Softwarefehlers beim Bremsmanöver hat BepiColombo eine stabile Umlaufbahn um den Merkur erreicht. Im Dezember sollen sich die beiden Orbiter trennen; die Mission ist nach ESA-Angaben nicht gefährdet.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://www.esa.int/de/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge" />
+  <r724:quelle url="https://www.mps.mpg.de/ankunft-am-planeten-der-extreme" />
+<r724:ki>true</r724:ki>
+</item>
+<item>
+<title>101. Electron-Start: Rocket Lab bringt Synspectives 14. StriX-Satelliten in den Orbit</title>
+<link>https://radar724.de/posts/2026-11-27-nachts.html#artikel-7</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-27-nachts.html#artikel-7</guid>
+<pubDate>Fri, 27 Nov 2026 23:35:17 +0100</pubDate>
+<description>Mit der Mission Night Owls Never Sleep hat Rocket Lab seine 101. Electron-Mission absolviert und den 14. StriX-Satelliten von Synspective in eine 569 Kilometer hohe Umlaufbahn gebracht.</description>
+<category>Space &amp; Forschung</category>
+<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+  <r724:quelle url="https://rocketlabcorp.com/updates/mission-success-rocket-lab-launches-101st-electron-mission/" />
+  <r724:quelle url="https://www.synspective.com/news/14th_launch/" />
+<r724:ki>true</r724:ki>
+</item>
 <item>
 <title>Spanien vor historischer Entscheidung: Umfragen sehen PP und Vox vorn — Sánchez setzt auf eine Überraschung am Sonntag</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-1</link>
@@ -20,6 +107,7 @@
   <r724:quelle url="https://spanienpress.com/wahlen-am-29-november-wer-wem-seine-stimme-gibt/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Tagesrückblick: DAX schließt 0,90 Prozent höher bei 25.441 Punkten — KI-Erholung trägt die Woche</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-2</link>
@@ -33,6 +121,7 @@
   <r724:quelle url="https://www.tagesschau.de/wirtschaft/boersenkurse/de0008467440-57588/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Halbtags-Handel nach Thanksgiving: S&amp;P 500 legt im Black-Friday-Geschäft rund 1,4 Prozent zu</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-3</link>
@@ -46,6 +135,7 @@
   <r724:quelle url="https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Update: Kiew schlägt Waffenruhe im Schwarzen Meer vor — Moskau will Öl-Transporte einbeziehen</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-4</link>
@@ -58,6 +148,7 @@
   <r724:quelle url="https://www.n-tv.de/politik/16-27-Bericht-ueber-Explosion-in-grossem-russischen-Kohlelager-vier-Tote-id30859357.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Neuseeland nach dem Endergebnis: Regierungskoalition verliert ihre Mehrheit — Zentrumspartei Opportunity wird Königsmacherin</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-5</link>
@@ -71,6 +162,7 @@
   <r724:quelle url="https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Haftbeschwerde scheitert: Ex-BND-Chef August Hanning bleibt in Untersuchungshaft</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-6</link>
@@ -84,6 +176,7 @@
   <r724:quelle url="https://www.br.de/nachrichten/deutschland-welt/ex-bnd-chef-hanning-bleibt-in-u-haft,VcAtbT6" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>„This is not a close case“: US-Richter stoppt vorzeitige Lizenz-Überprüfung der ABC-Sender</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-7</link>
@@ -97,6 +190,7 @@
   <r724:quelle url="https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>„Dein ist mein ganzes Herz“: Heinz Rudolf Kunze wird am Montag 70 Jahre alt</title>
 <link>https://radar724.de/posts/2026-11-27-abends.html#artikel-8</link>
@@ -110,6 +204,7 @@
   <r724:quelle url="https://www.ardsounds.de/episode/urn:ard:episode:cfb494f4c693105e/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Update: EU-Sondergipfel endet ohne Haushalts-Einigung — Costas 1,78-Billionen-Kompromiss scheitert am Widerstand fast aller Lager</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-1</link>
@@ -123,6 +218,7 @@
 <r724:quelle url="https://de.euronews.com/2026/11/26/eu-gipfel-streit-um-45-milliarden-kredit-fur-ukraine" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Black Friday: Handel peilt Rekordumsatz von 6,2 Milliarden Euro an — Skepsis der Kunden bleibt groß</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-2</link>
@@ -136,6 +232,7 @@
 <r724:quelle url="https://www.pwc.de/de/pressemitteilungen/2026/black-friday-2026-unternehmen-ruesten-sich-fuer-schnaeppchenjaeger.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Arbeitsmarkt kommt nicht in Schwung: 2,936 Millionen Arbeitslose im November, Quote bei 6,2 Prozent</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-3</link>
@@ -149,6 +246,7 @@
 <r724:quelle url="https://www.n-tv.de/wirtschaft/Arbeitsmarkt-bleibt-schwach-51-000-Arbeitslose-mehr-als-vor-einem-Jahr-id31584340.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>DAX baut Wochen-Erholung aus: Tech-Werte führen, Rheinmetall nach Kapitalmarkttag stark gefragt</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-4</link>
@@ -161,6 +259,7 @@
 <r724:quelle url="https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170222332" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>BSI warnt vor „Lawine“ automatisierter Cyberangriffe: Agentische KI senkt die Einstiegshürde für Kriminelle</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-5</link>
@@ -174,6 +273,7 @@
 <r724:quelle url="https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Google schreibt KI-Agenten den Weg zu Gmail und Drive vor: Ab Februar 2027 nur noch über MCP-Server</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-6</link>
@@ -186,6 +286,7 @@
 <r724:quelle url="https://www.i-scoop.eu/google-workspace-mcp-ai-agents/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Update: Russischer Großangriff trifft die Ukraine in der Nacht — 155 Drohnen im Einsatz, Saporischschja erneut ohne externen Strom</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-7</link>
@@ -199,6 +300,7 @@
 <r724:quelle url="https://de.qz.com/zelenskyy-says-russia-preparing-new-strike-ukraine-energy-112726" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Nach Drohnen-Alarm: Polen richtet Flugverbotszone an der Grenze zur Ukraine ein</title>
 <link>https://radar724.de/posts/2026-11-27-mittags.html#artikel-8</link>
@@ -212,6 +314,7 @@
 <r724:quelle url="https://www.aero.de/news-54264/Polen-steckt-Flugverbotszone-an-Grenze-zur-Ukraine-ab.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Nvidia stoppt Lieferungen von KI-Servern nach Malaysia, Singapur, Thailand und Indonesien</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-1</link>
@@ -225,6 +328,7 @@
 <r724:quelle url="https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Europa League: Hoffenheim und Leverkusen gewinnen, auch Freiburg feiert einen Sieg</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-2</link>
@@ -238,6 +342,7 @@
 <r724:quelle url="https://sport.sky.de/fussball/hoffenheim-vs-sturm-graz/spielbericht/577818" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Verbraucherzentrale verklagt OpenAI: ChatGPT-Abos sollen zu schwer kündbar sein</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-3</link>
@@ -251,6 +356,7 @@
 <r724:quelle url="https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Nach globalem IT-Ausfall: Microsoft ruft intern die höchste Alarmstufe aus</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-4</link>
@@ -263,6 +369,7 @@
 <r724:quelle url="https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Selenskyj warnt vor neuem russischen Großangriff — Trump fordert Putin zum Rückzug auf</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-5</link>
@@ -275,6 +382,7 @@
 <r724:quelle url="https://www.kyivpost.com/thread/91343" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Bosnien: Dodik hebt seinen Sohn auf den Regierungschefsessel der Republika Srpska</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-6</link>
@@ -287,6 +395,7 @@
 <r724:quelle url="https://www.ansa.it/nuova_europa/en/news/sections/politics/2026/11/23/in-bosnia-dodiks-son-elected-prime-minister-of-the-republika-srpska_44b9fe85-787f-45b6-bd9e-a83a4dd24aa5.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>WM-Aus nach verpassten Dopingtests: Laura Freigang bis Oktober 2027 gesperrt</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-7</link>
@@ -300,6 +409,7 @@
 <r724:quelle url="https://www.kicker.at/verpasste-dopingtests-freigang-bis-oktober-2027-gesperrt-1273991/artikel" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Ebola-Ausbruch in der DR Kongo überschreitet 12.000 bestätigte Fälle — ECDC sieht Risiko für Europa als sehr gering</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-8</link>
@@ -312,6 +422,7 @@
 <r724:quelle url="https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>IAEA warnt: Lage im Atomkraftwerk Saporischschja bleibt prekär</title>
 <link>https://radar724.de/posts/2026-11-27-morgens.html#artikel-9</link>
@@ -323,6 +434,7 @@
 <r724:quelle url="https://reliefweb.int/report/ukraine/update-377-iaea-director-general-statement-situation-ukraine" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Update: EU-Sondergipfel zum Haushalt vorzeitig beendet — Merz sieht keine Chance auf ein Ergebnis am Abend</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-1</link>
@@ -336,6 +448,7 @@
 <r724:quelle url="https://www.zdfheute.de/newsticker/schlagzeilen-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Massive russische Angriffe auf Kiew — Tote bei ukrainischem Drohnenangriff im besetzten Saporischschja</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-2</link>
@@ -348,6 +461,7 @@
 <r724:quelle url="search-result://news-r0ahg7d1" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Angriff auf Saudi-Aramco-Raffinerie in Jazan: Ein Toter, Betrieb teilweise stillgelegt</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-3</link>
@@ -361,6 +475,7 @@
 <r724:quelle url="https://www.nbcnews.com/world/saudi-arabia/attack-saudi-aramcos-jazan-refinery-kills-worker-halts-operations-rcna611484" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Davis Cup: Deutsches Team scheitert im Viertelfinale an Großbritannien — Entscheidung im Doppel</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-4</link>
@@ -374,6 +489,7 @@
 <r724:quelle url="https://sport.sky.de/tennis/artikel/davis-cup-zverev-gleicht-aus-deutsches-team-muss-im-doppel-zittern/13616805/34130" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Laura Dahlmeier posthum in Hall of Fame des deutschen Sports aufgenommen — Vater nimmt Ehrung entgegen</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-5</link>
@@ -386,6 +502,7 @@
 <r724:quelle url="https://www.nn.de/sport/schaffen-viele-nicht-dahlmeier-vater-erinnert-an-laura-1.15370072" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>EZB-Spitze geklärt: Spanier Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-6</link>
@@ -399,6 +516,7 @@
 <r724:quelle url="search-result://news-MuP1sdfb" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Zum Tagesende: Gold gibt nach, Öl leicht rückläufig — Amerika feiert, die Kurse ruhen</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-7</link>
@@ -412,6 +530,7 @@
 <r724:quelle url="https://www.wallstreet-online.de/nachricht/21753559-rohstoffpreise-ueberblick-goldpreis-silberpreis-oelpreis-aktuell-rohstoffe-26-11-2026" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Dieseltanker „Med Emre“ vor Ibiza gekentert: Ein Toter — spanische Behörden aktivieren Notfallplan</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-8</link>
@@ -425,6 +544,7 @@
 <r724:quelle url="search-result://news-Z3TFZucD" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Dauerfrost und Glätte: DWD-Warnungen in Hessen — Schneechaos auf Süddeutschlands Straßen</title>
 <link>https://radar724.de/posts/2026-11-26-nachts.html#artikel-9</link>
@@ -437,6 +557,7 @@
 <r724:quelle url="https://www.zdfheute.de/newsticker/schlagzeilen-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Tarifabschluss in der Metall- und Elektroindustrie: mehr Geld und Investitionsschutz nach Marathon-Runde</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-1</link>
@@ -450,6 +571,7 @@
 <r724:quelle url="https://www.swr.de/swraktuell/baden-wuerttemberg/tarifverhandlungen-ig-metall-ergebnisse-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Tagesrückblick: DAX schließt 2,14 Prozent höher bei 25.231 Punkten</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-2</link>
@@ -462,6 +584,7 @@
 <r724:quelle url="https://de.marketscreener.com/kurs/index/DAX-7395/kurse/" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Gold gibt leicht nach, Öl bleibt fest: Brent notiert um 91,3 Dollar</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-3</link>
@@ -475,6 +598,7 @@
 <r724:quelle url="https://centrinocapital.com/insights/market-news-2026-11-26" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Hohe Kosten belasten Weihnachtsmärkte: Kommunen fordern mehr Unterstützung der Länder</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-4</link>
@@ -488,6 +612,7 @@
 <r724:quelle url="https://kommunal.de/weihnachtsmarkt-wegen-finanznot-abgesagt-kommunen" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Update: EU-Sondergipfel geht in den zweiten Tag — Costa drängt auf Haushaltsabschluss bis Ende des Jahres</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-5</link>
@@ -501,6 +626,7 @@
 <r724:quelle url="https://www.bundesregierung.de/breg-de/aktuelles/doorstep-bk-bruessel-2462854" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Generalbundesanwalt: Zwei mutmaßliche Iraker festgenommen — geplanter Anschlag auf Kölner Synagoge</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-6</link>
@@ -514,6 +640,7 @@
 <r724:quelle url="https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Rekord-Schmerzensgeld: Erzbistum Köln muss Missbrauchsopfer 550.000 Euro zahlen</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-7</link>
@@ -527,6 +654,7 @@
 <r724:quelle url="https://www.zeit.de/news/2026-11/26/gericht-will-rekordsumme-fuer-missbrauchsopfer-verkuenden" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>International Emmy für „Der talentierte Mr. F.“: ARD-Koproduktion gewinnt in New York</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-8</link>
@@ -539,6 +667,7 @@
 <r724:quelle url="https://www.mdr.de/presse/mdr-koproduktion-der-talentierte-mr-f-gewinnt-emmy-award-100.html" />
 <r724:ki>true</r724:ki>
 </item>
+
 <item>
 <title>Parkway Drive bringt Konzertfilm „Home“ in die Kinos — Livealbum folgt Anfang Dezember</title>
 <link>https://radar724.de/posts/2026-11-26-abends.html#artikel-9</link>
@@ -548,95 +677,6 @@
 <category>Kultur &amp; Medien</category>
 <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
 <r724:quelle url="https://www.pressure-magazine.de/news/parkway-drive-home-konzertfilm-kino-premiere-282161/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>EU-Sondergipfel in Brüssel: Merz meldet keine Grundlage für einen Haushaltsabschluss an</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-1</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-1</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Die EU-Staats- und Regierungschefs beraten über den mehrjährigen Haushalt 2028 bis 2034 mit rund 1,781 Billionen Euro Volumen. Bundeskanzler Merz sieht „keine Grundlage für einen Abschluss“; Streitpunkt ist vor allem die Ukraine-Finanzierung, die mehrere Nettozahler an eine Waffenruhe koppeln wollen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.zdfheute.de/politik/eu-sondergipfel-finanzen-budget-haushalt-100.html" />
-<r724:quelle url="https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html" />
-<r724:quelle url="https://www.consilium.europa.eu/de/meetings/european-council/2026/11/26-27/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>DAX erholt sich kräftig: KI-Profiteure nach Tech-Turbulenzen wieder gefragt</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-2</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-2</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Nach den Verlusttagen dreht der DAX deutlich ins Plus: Zur Mittagszeit notiert er 1,91 Prozent höher bei 25.173 Punkten, zwischenzeitlich stand er sogar 2,2 Prozent im Plus. Anleger greifen nach Analysteneinschätzung wieder zu, KI-Profiteure leisten die Erholung.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.onvista.de/news/2026/11-26-dax-erholt-sich-kraeftig-ki-profiteure-wieder-gefragt-0-19-26580721" />
-<r724:quelle url="https://ms-aktuell.de/welt/dax-erholung-25000-26-11-2026/" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Statistisches Bundesamt korrigiert deutsches Wachstum nach unten: Nur 0,1 Prozent im dritten Quartal</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-3</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-3</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Das BIP wuchs im dritten Quartal nur um 0,1 Prozent statt der zunächst geschätzten 0,2 Prozent. Exporte und Ausrüstungsinvestitionen bremsen; die Stimmungsindikatoren zeichnen unterdessen ein deutlich besseres Bild.</description>
-<category>Wirtschaft &amp; Finanzen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_409_811.html" />
-<r724:quelle url="https://www.n-tv.de/wirtschaft/Statistiker-korrigieren-Wirtschaftswachstum-nach-unten-id31574489.html" />
-<r724:quelle url="https://www.zeit.de/wirtschaft/2026-11/bip-3-quartal-2026-deutsche-wirtschaft-exporte-einzelhandel-gxe" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Update: Bundestag rückt mit Haushalt 2027 ins Ziel — Rekordausgaben, aber noch 34-Milliarden-Lücke</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-4</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-4</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Nach der Generaldebatte berät der Bundestag über die Einzelpläne des Rekord-Etats mit 560,9 Milliarden Euro Ausgaben und rund 123 Milliarden Euro Nettokreditaufnahme. Der Beschluss soll am Freitag fallen; noch ist eine Lücke von rund 34 Milliarden Euro offen.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html" />
-<r724:quelle url="https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-wirtschaft-1232494" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Meduza und Mediazona zählen mehr als 700.000 gefallene russische Soldaten bis Ende September</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-5</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-5</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Grundlage der neuen Schätzung ist ein Datenleck aus dem russischen Statistikdienst Rosstat, das belarussische Hackergruppen den Medien zuspielten. Registriert sind rund 490.000 Todesfälle; inklusive Vermisster liegt die Schätzung über 700.000 Gefallene.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate" />
-<r724:quelle url="https://www.srf.ch/news/international/ukraine/statistikbehoerde-gehackt-720-000-gefallene-russlands-gewaltiger-blutzoll-im-ukraine-krieg" />
-<r724:quelle url="https://www.rferl.org/a/russia-ukraine-war-casualty-estimate-killed/33904373.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach Drohnenangriff auf russische Korvette in Bengasi: Zwei libysche Marineoffiziere erliegen Verletzungen</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-6</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-6</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Bei dem mutmaßlich mit ukrainischen Seedrohnen ausgeführten Angriff auf den Hafen von Bengasi wurde die russische Korvette „Merkury“ schwer beschädigt. Zwei libysche Marineoffiziere erlagen nun ihren Verletzungen; ein Bekennerschreiben gibt es nicht.</description>
-<category>Weltgeschehen</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/" />
-<r724:quelle url="https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya" />
-<r724:quelle url="https://www.zdfheute.de/politik/ausland/libyen-explosion-kriegsschiff-ukraine-krieg-russland-100.html" />
-<r724:ki>true</r724:ki>
-</item>
-<item>
-<title>Nach der Spionageaffäre: Jensen Huang führt Nvidia wieder als Chef — und entschuldigt sich bei den Mitarbeitern</title>
-<link>https://radar724.de/posts/2026-11-26-mittags.html#artikel-7</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-26-mittags.html#artikel-7</guid>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
-<description>Der Verwaltungsrat hat Huangs Rückkehr einstimmig bestätigt; eine interne Prüfung sah kein Risiko für die nationale Sicherheit. Huang entschuldigt sich bei seinen Mitarbeitern und kündigt tägliche therapeutische Begleitung an.</description>
-<category>Tech &amp; KI</category>
-<dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
-<r724:quelle url="https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html" />
-<r724:quelle url="https://de.finance.yahoo.com/nachrichten/nvidia-huang-entschuldigt-mitarbeitern-geht-072037617.html" />
-<r724:quelle url="https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump" />
 <r724:ki>true</r724:ki>
 </item>
   </channel>
