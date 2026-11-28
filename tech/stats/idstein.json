@@ -1,13 +1,13 @@
 {
   "key": "idstein",
   "job": "Idstein Kuratierung — Morgenausgabe Idsteiner Hexenpost",
-  "runs_total": 61,
+  "runs_total": 62,
   "runs_beweisbar_seit": "2026-09-27",
   "beweis": "Ausgabe #1 (idstein/posts/2026-09-27-morgens.html), LIVE-START",
-  "instanzen": 61,
+  "instanzen": 62,
   "instanzen_seit": "2026-09-27 (RK-Inventar-Start)",
-  "laufzeit_gesamt_min": 255,
+  "laufzeit_gesamt_min": 262,
   "laufzeit_erfasst_seit": "2026-09-27",
-  "last_run": "2026-11-27T06:01:00+01:00",
-  "updated": "2026-11-27T06:01:00+01:00"
+  "last_run": "2026-11-28T06:37:25.984+01:00",
+  "updated": "2026-11-28T06:37:25.984+01:00"
 }
