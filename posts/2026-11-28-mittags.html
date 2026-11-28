@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ausgabe #288 — Samstag, 28.11.2026 — RADAR 724</title>
+<link rel="stylesheet" href="../styles/v2.css">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon-dark.svg">
+<style>
+/* Ausgaben-Standard (23.09.2026, Design_R3): Support-Zeile + Änderungs-Einzeiler */
+.support-slim{margin:14px 0 4px;padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);font-size:14.5px;line-height:1.5;color:inherit}
+.support-slim a{color:var(--accent)}
+.change-notice{color:var(--accent);font-size:10.5px}
+.change-notice a{color:var(--accent);text-decoration:underline}
+/* KI-Banner (27.09.2026, Betreiber-Vorgabe, Design_R3): WZG-Stil (nüchtern-dunkel #2c3440), kompakt, ZENTRIERT im Header zwischen Kicker und Menü */
+.ki-banner{display:block;width:fit-content;margin:0 auto 4px auto;padding:2px 8px;background:#2c3440;color:#e8ebee;font-size:11px;letter-spacing:1px;border-radius:2px;font-weight:600;text-align:center}
+/* Quellen-Design (24.09.2026, Betreiber-Entscheidung): Primärquelle unter der Überschrift, Zweitquellen unten */
+.source.credit{display:block;margin:2px 0 8px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75}
+.source.credit a{font-weight:700}
+.source.secondary{display:block;margin-top:6px;font-size:11px;letter-spacing:.04em;color:inherit;opacity:.75;border-top:1px dotted var(--line);padding-top:4px}
+.source.secondary a{font-weight:700}
+/* Grüner Blink (24.09.2026, Betreiber-Vorgabe Roadmap P.60, Design_R3): statisches
+   Signal-Symbol (eigenes SVG, kein Emoji — font/plattform-unabhängig), 10px,
+   inline DIREKT VOR der "Auch berichtet durch:"-Zeile; Tooltip erklärt A/B. */
+.blink{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:baseline;line-height:0}
+.blink svg{display:block}
+/* Ausgaben-Struktur (24.09.2026, Freigabe Björn_0; Design_R3, Testansicht ausgabe34_test.html):
+   1. TOP NEWS (stärkste Meldung, nur oben, Rubrik-Label)
+   2. BuyMeACoffee (GENAU EINMAL, feste Position)
+   3. GOOD NEWS (optional, positiv, Rubrik-Label)
+   4. INFOBOX "AUF EINEN BLICK" — einspaltige Liste, 9 Themen. "Heute ist ...":
+      Tages-Namen OHNE Link (Quelle welcher-tag-ist-heute.org nur in der
+      Quellenzeile unten genannt). ZEITUMSTELLUNG: Hinweis erst ab 7 Tagen
+      vor dem Termin als Zusatz in dieser Zeile.
+   5. Die drei Rubriken */
+.rubrik-ref{display:inline-block;margin:0 0 4px;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);opacity:.85}
+#topnews .item h3{margin-top:2px}
+#goodnews .item h3{margin-top:2px}
+#goodnews{border-left:3px solid var(--accent);padding-left:14px;margin-left:-17px}
+#goodnews h2{color:var(--accent)}
+/* Infobox "Auf einen Blick" — EINSPALTIGE LISTE (Betreiber-Vorgabe 24.09.):
+   je Thema EINE ZEILE mit Label, Wert (+/-Veränderung) und kurzer Begründung;
+   auf Mobil bricht die Zeile um, max. 3 Zeilen je Thema durch kurze Texte. */
+.glance{margin:18px 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--bg-raised);padding:12px 16px 10px}
+.glance h2{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.glance ul{list-style:none;margin:0;padding:0}
+.glance li{font-size:13px;line-height:1.45;padding:4px 0;border-top:1px dotted var(--line)}
+.glance li:first-child{border-top:none}
+.glance li b{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:11px;margin-right:6px}
+.glance .pos{color:#2f9e44;font-weight:700}
+.glance .neg{color:#c92a2a;font-weight:700}
+.glance-src{display:block;margin-top:8px;font-size:10px;opacity:.6}
+</style>
+</head>
+
+<body>
+<div class="wrap">
+<header class="site-header">
+<p class="kicker">RADAR 724 &middot; Ausgabe #288</p>
+<span class="ki-banner">KI-GENERIERT</span>
+<nav>
+<a href="../index.html">&laquo; &Uuml;bersicht</a>
+<a href="../archive.html">Archiv</a>
+<a href="../about.html">&Uuml;ber diese Seite</a>
+</nav>
+</header>
+<main>
+<p class="meta">Samstag, 28. November 2026 &middot; Mittagsausgabe &middot; erstellt um 12:54 Uhr (Europe/Berlin)</p>
+<p class="meta">Rubriken: Weltgeschehen / Tech &amp; KI / Space &amp; Forschung</p>
+<h1 class="post-title">OpenAI kontert Apple mit Gegenklage &mdash; US-Milit&auml;r stoppt Frachter im Golf von Oman &mdash; ESA-Sonde Hera zeigt Asteroiden-Krater</h1>
+
+<h2 class="section" id="topnews">TOP NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Tech &amp; KI</span>
+<h3 id="artikel-1">OpenAI reicht Gegenklage gegen Apple ein</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung" rel="noopener">Original lesen</a> — ZEIT ONLINE, 28.11.2026.</span>
+<p>Der KI-Konzern OpenAI hat vor einem Bundesgericht in San Jose eine Gegenklage gegen Apple eingereicht. OpenAI wirft dem iPhone-Hersteller vor, Gesch&auml;ftsgeheimnisse gestohlen und Zulieferer unter Druck gesetzt zu haben, damit diese keine Mitarbeiter an OpenAI verlieren. Apple hatte seinerseits im Juli gegen OpenAI geklagt. Ein erstes OpenAI-Ger&auml;t k&ouml;nnte nach bisheriger Planung fr&uuml;hestens Ende Februar 2027 erscheinen, eine Anh&ouml;rung im Streit ist f&uuml;r Ende Juni 2027 angesetzt. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://taz.de/Rechtsstreit-mit-Apple/!6234025/" rel="noopener">taz</a> — <a href="https://www.derstandard.at/story/3000000351467/" rel="noopener">Der Standard</a>.</span>
+</div>
+
+<p class="support-slim">&#9749; Gef&auml;llt Dir RADAR 724? Du kannst den Blog unkompliziert unterst&uuml;tzen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+
+<h2 class="section" id="goodnews">GOOD NEWS</h2>
+<div class="item">
+<span class="rubrik-ref">Rubrik: Weltgeschehen</span>
+<h3 id="artikel-2">Deutsche Basketballer l&ouml;sen das Ticket zur WM 2027 in Katar</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballer-machen-wm-endrunde-perfekt,wm-qualifikation-lettland-dbb-100.html" rel="noopener">Original lesen</a> — Sportschau, 28.11.2026.</span>
+<p>Die deutschen Basketball-Nationalspieler haben sich vorzeitig die Teilnahme an der Weltmeisterschaft 2027 in Katar gesichert. Titelverteidiger Deutschland gewann das Qualifikationsspiel in Lettland und macht damit das WM-Ticket perfekt. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.n-tv.de/sport/basketball/DBB-Team-loest-das-Ticket-zur-Basketball-WM-in-Katar-id31587427.html" rel="noopener">n-tv</a> — <a href="https://sport.sky.de/basketball/artikel/obst-fuehrt-weltmeister-zur-wm-deutschland-loest-ticket-fuer-katar/13617339/34130" rel="noopener">Sky Sport</a>.</span>
+</div>
+
+<div class="glance" id="aufeinenblick">
+<h2>Auf einen Blick</h2>
+<ul>
+<li><b>WETTER FRANKFURT</b>trocken und frostig, im Tagesverlauf Sonne und Hochnebel &mdash; Tiefstwerte um &minus;1 bis &minus;4 &deg;C.</li>
+<li><b>Sonne</b>auf 07:58, unter 16:28 Uhr &mdash; kurzer Wintertag bei Hochnebel-Tendenz.</li>
+<li><b>DAX</b>25.441,24 <span class="pos">+0,90 %</span> &mdash; freundlicher Freitagsschluss zum Wochenausblick.</li>
+<li><b>S&amp;P 500</b>7.297,49 <span class="pos">+1,60 %</span> &mdash; verk&uuml;rzter Freitagshandel nach Thanksgiving.</li>
+<li><b>&Ouml;l (Brent)</b>90,3 USD <span class="neg">&minus;1,4 %</span> &mdash; Entspannung bei Versorgungsfragen.</li>
+<li><b>EUR / USD</b>1,0935 &mdash; knapp unter der 1,10-Dollar-Marke.</li>
+<li><b>Gold</b>3.654 USD/Unze <span class="pos">+2,4 %</span> &mdash; weitere Kursgewinne zum Wochenschluss.</li>
+<li><b>Bitcoin</b>54.050 EUR (6h <span class="neg">&minus;1,1 %</span> &middot; 24h <span class="neg">&minus;3,7 %</span>) &mdash; Kursgabe unterhalb der Wochentagsniveaus.</li>
+<li><b>Heute ist ...</b>Samstag, 332. Tag, 48. Kalenderwoche &mdash; morgen 1. Advent und Parlamentswahl in Spanien.</li>
+</ul>
+<span class="glance-src">Datenstand 28.11.2026, ca. 12:54 Uhr &middot; Wetter: wetterdienst.de, meteoatlas.de, proplanta.de &middot; Kurse: Freitagsschluss laut Finanzpresse-Recherche; Gold und Bitcoin: gold.de &middot; Heute ist .../Sonne: welcher-tag-ist-heute.org</span>
+</div>
+
+<h2 class="section">Weltgeschehen</h2>
+<div class="item">
+<h3 id="artikel-3">US-Milit&auml;r macht Blockade-brechenden Frachter im Golf von Oman man&ouml;vrierunf&auml;hig</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html" rel="noopener">Original lesen</a> — tagesschau.de, 28.11.2026.</span>
+<p>Das US-Milit&auml;r hat nach eigenen Angaben ein Handelsschiff unter Palau-Flagge attackiert, das eine Seeblockade durchbrechen wollte. Der Frachter wurde im Golf von Oman man&ouml;vrierunf&auml;hig gemacht; die Crew blieb nach US-Angaben unverletzt. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://apnews.com/article/iran-naval-blockade-us-military-disabled-ship-800620518a351282f098faa9381b3375" rel="noopener">AP</a> — <a href="https://www.derstandard.at/story/3000000351462/us-milit228r-haben-handelsschiff-im-golf-von-oman-angegriffen" rel="noopener">Der Standard</a>.</span>
+</div>
+<div class="item">
+<h3 id="artikel-4">Bootsungl&uuml;ck vor den Kanaren: Mindestens 14 Tote</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.zeit.de/gesellschaft/2026-11/el-hierro-kanarische-inseln-migranten-boot-gxe" rel="noopener">Original lesen</a> — ZEIT ONLINE, 28.11.2026.</span>
+<p>Vor der Kanareninsel El Hierro ist ein Boot mit Migranten umgekommen: Mindestens 14 Menschen starben, 84 &Uuml;berlebende wurden geborgen. Das Boot hatte Berichten zufolge tagelang rund 72 Kilometer s&uuml;dlich der Insel getrieben. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://orf.at/stories/3449509/" rel="noopener">ORF</a> — <a href="https://www.rte.ie/news/europe/2026/1128/1600975-canary-islands-migrants/" rel="noopener">RT&Eacute;</a>.</span>
+</div>
+<div class="item">
+<h3 id="artikel-5">Kanadas H&ouml;chstgericht best&auml;tigt Quebecs Verbot religi&ouml;ser Symbole weitgehend</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban" rel="noopener">Original lesen</a> — Al Jazeera, 27.11.2026.</span>
+<p>Der Supreme Court hat das umstrittene Gesetz der Provinz Quebec, das Bediensteten im &ouml;ffentlichen Dienst das Tragen religi&ouml;ser Symbole verbietet, weitgehend best&auml;tigt. Das Gericht lie&szlig; eine Ausnahmeklausel der Provinzregierung gelten, mit der das Gesetz trotz Bedenken an der kanadischen Charta der Rechte weiterbesteht. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.cbc.ca/lite/story/9.7434446" rel="noopener">CBC</a> — <a href="https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants" rel="noopener">PBS NewsHour</a>.</span>
+</div>
+
+<h2 class="section">Tech &amp; KI</h2>
+<div class="item">
+<h3 id="artikel-6">Polen r&uuml;stet Armee mit Palantir-KI aus</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://polskieradio.pl/395/7784/Artykul/3757898" rel="noopener">Original lesen</a> — Polskie Radio, 27.11.2026.</span>
+<p>Polens Verteidigungsressort schlie&szlig;t Berichten zufolge ein Abkommen mit dem US-Analytics-Unternehmen Palantir &uuml;ber den Einsatz von KI-Software in der Armee. Das Paket soll rund 300 Millionen US-Dollar &uuml;ber f&uuml;nf Jahre kosten und Systeme wie Maven und Saturn umfassen. Verteidigungsminister W&lstrok;adys&lstrok;aw Kosiniak-Kamysz betonte, Schl&uuml;ssel und Server blieben unter polnischer Kontrolle; der Deal wurde mit der Beschaffung von F-35-Kampfjets verglichen. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://qz.com/poland-palantir-maven-military-ai-deal-112726" rel="noopener">Quartz</a> — <a href="https://thenextweb.com/news/poland-palantir-ai-software-contract" rel="noopener">The Next Web</a>.</span>
+</div>
+<div class="item">
+<h3 id="artikel-7">Tidal l&ouml;scht komplett KI-generierte Musik</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.heise.de/news/Tidal-Vollstaendig-KI-generierte-Musik-fliegt-raus-11537113.html" rel="noopener">Original lesen</a> — heise online, 25.11.2026.</span>
+<p>Der Streamingdienst Tidal will ab dem 9. Dezember 2026 vollst&auml;ndig KI-generierte Musik von der Plattform entfernen. Betroffen sind Medienberichten zufolge rund 27 Millionen Tracks. Der Dienst begr&uuml;ndet den Schritt mit Fairness gegen&uuml;ber menschlichen K&uuml;nstlern und H&ouml;rerinnen. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://de.euronews.com/2026/11/24/musikdienst-tidal-verbannt-ki-songs-plattform-will-fairness-starken" rel="noopener">Euronews</a> — <a href="https://www.forbes.com/sites/gabrielalinzainescu/2026/11/25/tidal-will-delete-27-million-ai-generated-tracks-starting-december-9/" rel="noopener">Forbes</a>.</span>
+</div>
+
+<h2 class="section">Space &amp; Forschung</h2>
+<div class="item">
+<h3 id="artikel-8">ESA-Sonde Hera zeigt Einschlagskrater auf dem Asteroiden Dimorphos</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact" rel="noopener">Original lesen</a> — ESA (Absolute Prim&auml;rquelle).</span>
+<p>Die ESA-Sonde Hera hat erstmals den Einschlagskrater gezeigt, den die NASA-Sonde DART 2022 auf dem Asteroiden Dimorphos hinterlassen hat. Den Aufnahmen zufolge ist der staubbedeckte Krater etwa stadiongro&szlig;; im Kraterinneren entdeckten die Forschenden unter anderem l&auml;ngliche, zigarrenf&ouml;rmige Objekte. Die Daten sollen helfen, k&uuml;nftig gef&auml;hrliche Asteroiden gezielt abzuwehren. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://www.dlr.de/de/aktuelles/nachrichten/2026/gefaehrliche-asteroiden-abwehren-raumsonde-hera-erreicht-ihr-ziel" rel="noopener">DLR</a> — <a href="https://www.spektrum.de/news/spuren-des-einschlags-hera-entdeckt-riesigen-krater-auf-dimorphos/2356073" rel="noopener">Spektrum der Wissenschaft</a>.</span>
+</div>
+<div class="item">
+<h3 id="artikel-9">Photonische Chips: Rechnen mit Licht gegen den KI-Stromhunger</h3>
+<span class="source credit">Grundlage dieses Beitrags: <a href="https://www.swr.de/swraktuell/baden-wuerttemberg/startup-quant-stuttgart-ditzingen-ki-energieverbrauch-computerchips-100.html" rel="noopener">Original lesen</a> — SWR aktuell, 28.11.2026.</span>
+<p>Das Unternehmen Q.ANT aus Ditzingen bei Stuttgart zeigt einen photonischen Prozessor der zweiten Generation, der mit Licht statt mit Elektronen rechnet. Die Technik soll den enormen Stromverbrauch von KI-Rechenzentren senken, weil Lichtsignale weniger Energie ben&ouml;tigen als herk&ouml;mmliche Transistoren. (Datenstand: Samstag, 28.11.2026.)</p>
+<span class="source secondary"><span class="blink" title="Gepr&uuml;ft: mindestens zwei unabh&auml;ngige Zweitquellen oder Absolute Prim&auml;rquelle"><svg width="10" height="10" viewBox="0 0 10 10" role="img" aria-label="Gepr&uuml;fte Quelle"><circle cx="5" cy="5" r="4.4" fill="#2f9e44" stroke="#1e6b2e" stroke-width="1"/></svg></span>Auch berichtet durch: <a href="https://qant.com/de/pressemitteilung/q-ant-praesentiert-photonischen-prozessor-der-zweiten-generation-zur-beschleunigung-von-ki-und-hochleistungsrechnen/" rel="noopener">Q.ANT</a> — <a href="https://www.tagesschau.de/wissen/technologie/photonische-chips-100.html" rel="noopener">tagesschau.de</a>.</span>
+</div>
+
+<p class="note">&#9749; Gef&auml;llt Dir RADAR 724? Du kannst den Blog unkompliziert unterst&uuml;tzen: <a href="https://buymeacoffee.com/radar724" rel="noopener">buymeacoffee.com/radar724</a></p>
+</main>
+<footer class="site-footer">
+<p>RADAR 724 &middot; Ausgabe #288 &middot; <a href="../index.html">&Uuml;bersicht</a> &middot; <a href="../archive.html">Archiv</a> &middot; <a href="../about.html">&Uuml;ber diese Seite</a></p>
+</footer>
+</div>
+
+<script data-goatcounter="https://bfi-ai-vibe.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
