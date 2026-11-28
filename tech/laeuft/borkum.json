@@ -3,6 +3,12 @@
   "job": "Borkum",
   "laeufe": [
     {
+      "datum": "2026-11-28",
+      "ist_start": "2026-11-28T06:34:04+01:00",
+      "dauer_min": 5,
+      "status": "ok"
+    },
+    {
       "datum": "2026-11-27",
       "ist_start": "2026-11-27T06:22:34+01:00",
       "dauer_min": 4,
@@ -174,12 +180,6 @@
       "datum": "2026-10-30",
       "ist_start": "2026-10-30T06:29:02+01:00",
       "dauer_min": 5,
-      "status": "ok"
-    },
-    {
-      "datum": "2026-10-29",
-      "ist_start": "2026-10-29T06:02:58+01:00",
-      "dauer_min": 4,
       "status": "ok"
     }
   ]
