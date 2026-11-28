@@ -6,7 +6,14 @@
 <atom:link href="https://radar724.de/feed.xml" rel="self" type="application/rss+xml" />
 <description>KI-generierter News-Blog. Automatisch recherchiert. Früh, mittags, abends — für alle. RSS-Feed der neuesten Ausgaben.</description>
 <language>de-de</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:35:17 +0100</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 06:31:43 +0100</lastBuildDate>
+<item>
+<title>Belgien stoppt Google-Rechenzentrum — Ruhetag vor Spaniens Schicksalswahl — SAP bestätigt Cyberangriff mit KI-Spur</title>
+<link>https://radar724.de/posts/2026-11-28-morgens.html</link>
+<guid isPermaLink="true">https://radar724.de/posts/2026-11-28-morgens.html</guid>
+<pubDate>Sat, 28 Nov 2026 06:31:43 +0100</pubDate>
+<description>Samstag, 28. November 2026 · Morgenausgabe · Rubriken: Weltgeschehen / Tech &amp; KI / Wirtschaft &amp; Finanzen · erstellt um 06:31 Uhr (Europe/Berlin)</description>
+</item>
 <item>
 <title>Spaniens Wahlkampf endet im Streit — Bundestag beschließt Haushalt 2027 mit Zuckersteuer — BepiColombo erreicht trotz Software-Panne die Merkur-Umlaufbahn</title>
 <link>https://radar724.de/posts/2026-11-27-nachts.html</link>
@@ -118,11 +125,5 @@
 <description>Dienstag, 24. November 2026 · Abendausgabe · Rubriken: Wirtschaft &amp; Finanzen / Weltgeschehen / Space &amp; Forschung · erstellt um 21:48 Uhr (Europe/Berlin)</description>
 </item>
 
-<item><title>Ausgabe #272 — Update: Trump beansprucht Einfluss auf Huangs Nvidia-Comeback — Merz nennt Berichte über russische Atom-Pläne im All „schockierend“ — VW-Tarifrunde startet heute in Emden</title>
-<link>https://radar724.de/posts/2026-11-24-morgens.html</link>
-<guid isPermaLink="true">https://radar724.de/posts/2026-11-24-morgens.html</guid>
-<pubDate>Tue, 24 Nov 2026 06:28:15 +0100</pubDate>
-<description>Dienstag, 24. November 2026 · Morgenausgabe · Rubriken: Tech &amp; KI / Weltgeschehen / Wirtschaft &amp; Finanzen · erstellt um 06:28 Uhr (Europe/Berlin)</description>
-</item>
   </channel>
 </rss>
