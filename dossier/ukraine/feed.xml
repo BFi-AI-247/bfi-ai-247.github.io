@@ -6,8 +6,82 @@
     <atom:link href="https://radar724.de/dossier/ukraine/feed.xml" rel="self" type="application/rss+xml" />
     <description>KI-generierte Dossier-Beiträge zum Ukraine-Krieg (RADAR 724).</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:57:00 +0100</lastBuildDate>
-        <item>
+    <lastBuildDate>Sat, 28 Nov 2026 05:53:00 +0100</lastBuildDate>
+            <item>
+      <title>Rheinmetall nahe an Absage: Munitionsfabrik in der Ukraine vor dem Aus</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-1</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-1</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Der deutsche Rüstungskonzern prüft Berichten zufolge, den Bau einer Fabrik für Artillerie-Munition in der Ukraine fallen zu lassen. Hintergrund sind russische Drohnenangriffe auf Rüstungs- und Logistikziele im Hinterland. Eine endgültige Entscheidung ist nicht gefallen, der Vorgang ist nicht unabhängig bestätigt.</description>
+      <category>Front</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/27/8065017/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://english.nv.ua/nation/rheinmetall-may-scrap-ukraine-ammunition-plant-project-50663286.html">The New Voice of Ukraine</r724:quelle>
+      <r724:quelle url="https://newsukraine.rbc.ua/news/rheinmetall-could-abandon-plans-to-build-1795815257.html">RBC-Ukraine</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Ukraine meldet Treffer in Raketentreibstoff-Werk in Tula — nicht unabhängig bestätigt</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-2</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-2</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Nach Angaben des ukrainischen Militärs haben Drohnen eine Anlage in der Oblast Tula getroffen, die Treibstoffkomponenten für Iskander-Raketen produziert. Partei-Darstellung der ukrainischen Seite; ein unabhängiger OSINT-Nachweis lag im Datenfenster nicht vor. Selenskyj hatte zudem Angriffe auf elf russische Regionen in der vergangenen Woche erklärt.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4189367-general-staff-confirms-strike-on-tula-factory-producing-fuel-for-iskander-missiles.html">Ukrinform</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/27/8064887/">Ukrainska Pravda</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Russischer Drohnenangriff auf Kremenchuk: Vier Verletzte, drei Kinder darunter</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-3</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-3</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Ein russischer Drohnenangriff hat laut ukrainischen Angaben in Kremenchuk vier Menschen verletzt, darunter drei Kinder. Beschädigt wurden unter anderem zwei Bildungseinrichtungen. Die Opferzahlen sind vorläufig, Angaben stammen von ukrainischen Stellen.</description>
+      <category>Luftangriffe</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.ukrinform.net/rubric-ato/4189423-russian-drone-attack-damages-two-educational-facilities-in-kremenchuk-injuring-two-children.html">Ukrinform</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Bundestag billigt knapp 12 Milliarden Euro Ukraine-Hilfe für 2027</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-4</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-4</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Der Bundestag hat die Ukraine-Unterstützung für 2027 auf rund zwölf Milliarden Euro beschlossen, trotz wachsender Kritik in Koalition und Opposition knapp angenommen. Der Haushalt sieht zudem Rekord-Verteidigungsausgaben vor. Die Entscheidung gibt der Ukraine Planungssicherheit für das kommende Jahr.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/germany-votes-through-nearly-12-billion-euros-in-ukraine-support-for-2027/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/27/8065010/">Ukrainska Pravda</r724:quelle>
+      <r724:quelle url="https://newsukraine.rbc.ua/news/germany-approves-nearly-12-billion-in-aid-1795811442.html">RBC-Ukraine</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Bulgarien blockiert 22. EU-Sanktionspaket und fordert Zugeständnisse</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-5</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-5</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Bulgarien verweigert die Zustimmung zum 22. EU-Sanktionspaket gegen Russland und fordert dafür Erleichterungen bei EU-Importbeschränkungen. Ohne Einstimmigkeit kann das Paket nicht in Kraft treten. Auch POLITICO Europe und SETimes berichten über den Streit.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://kyivindependent.com/bulgaria-holding-eus-22nd-russia-sanctions-package-hostage-in-bid-to-extract-concessions/">Kyiv Independent</r724:quelle>
+      <r724:quelle url="https://setimes.com/politics/bulgaria-and-italy-raise-objections-to-eu-sanctions-package/">SETimes</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+    <item>
+      <title>Meduza-Russland-Liste: Weitere Organisation als „nicht wünschenswert“ eingestuft</title>
+      <link>https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-6</link>
+      <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-28.html#artikel-6</guid>
+      <pubDate>Sat, 28 Nov 2026 05:53:00 +0100</pubDate>
+      <description>Laut Meduza wurde die Bildungs-Organisation RIMA in Russland als „nicht wünschenswert“ eingestuft; das Kriegstagesbuch erreicht Tag 1737. Die Liste dokumentiert die fortgesetzte innenpolitische Verschärfung im Kriegsland.</description>
+      <category>Politik</category>
+      <dc:creator>RADAR 724 Redaktion – KI-generiert</dc:creator>
+      <r724:quelle url="https://meduza.io/">Meduza</r724:quelle>
+      <r724:ki>true</r724:ki>
+    </item>
+<item>
       <title>Ukrainische Luftstreitkräfte treffen russischen Sammelpunkt im Zentrum von Huljaipole</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-1</link>
       <guid isPermaLink="true">https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-1</guid>
@@ -18,6 +92,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064829/">Ukrainska Pravda</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Kommandowechsel auf beiden Seiten: Selenskyj ernennt neuen Befehlshaber der Unterstützungsstreitkräfte</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-2</link>
@@ -30,6 +105,7 @@
       <r724:quelle url="https://militaryland.net/news/new-commander-appointed-to-lead-17th-army-corps/">MilitaryLand</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Russischer Angriff auf Odessa: 70-Jähriger getötet — zwei Getreidehaffer beschädigt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-3</link>
@@ -41,6 +117,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064800/">Ukrainska Pravda</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Saporischschja, Dnipropetrowsk, Chmelnyzkyj: Angriffsserie im Landesinneren</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-4</link>
@@ -54,6 +131,7 @@
       <r724:quelle url="https://www.pravda.com.ua/eng/news/2026/11/26/8064869/">Ukrainska Pravda</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Ukraine meldet Treffer auf zwei Öl-Anlagen und ein Flugfeld in der Oblast Wolgograd</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-5</link>
@@ -65,6 +143,7 @@
       <r724:quelle url="https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Blackout im besetzten Krim: Sewastopol ohne Strom</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-6</link>
@@ -77,6 +156,7 @@
       <r724:quelle url="https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Trump ergänzt die Ukraine in die Kriegs-Warnung — Abweichung vom gemeinsamen NATO-Statement</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-7</link>
@@ -89,6 +169,7 @@
       <r724:quelle url="https://kyivindependent.com/trump-adds-ukraine-to-warning-against-expanding-war-diverging-from-joint-nato-statement/">Kyiv Independent</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Selenskyj warnt vor großem russischen Angriff auf die Energie-Infrastruktur</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-8</link>
@@ -101,6 +182,7 @@
       <r724:quelle url="https://www.bbc.co.uk/news/articles/c820q9wgrpyyo">BBC News</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Libyen-Angriffe: Kiew versichert Nicht-Ausweitung — Rom und Berlin mahnen Grenzen der Eskalation</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-9</link>
@@ -114,6 +196,7 @@
       <r724:quelle url="https://www.deutschlandfunk.de/ukrainischer-aussenminister-sybiha-wollen-krieg-nicht-auf-libyen-ausweiten-100.html">Deutschlandfunk</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Nordkorea setzt Militärhilfe für Russland aus — laut ukrainischem Geheimdienst</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-10</link>
@@ -126,6 +209,7 @@
       <r724:quelle url="https://www.n-tv.de/politik/Ukraine-Nordkorea-hat-Militaerhilfe-fuer-Russland-ausgesetzt-id31582707.html">n-tv</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>EU-Gipfel ohne Ergebnis: 45-Milliarden-Kredit für die Ukraine auf Dezember vertagt</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-11</link>
@@ -139,6 +223,7 @@
       <r724:quelle url="https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html">tagesschau</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Russland: Strafdrohung bis fünf Jahre für Veröffentlichung von Angriffs-Fotos und -Videos</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-12</link>
@@ -150,6 +235,7 @@
       <r724:quelle url="https://meduza.io/news/2026/11/26/v-gosdumu-vnesli-zakonoproekt-o-nakazanii-za-publikatsiyu-foto-i-video-posledstviy-atak-dronov-i-teraktov-maksimalnyy-srok-pyat-let">Meduza</r724:quelle>
       <r724:ki>true</r724:ki>
     </item>
+
     <item>
       <title>Kriegskosten und Militärjustiz: 18,6 Billionen Rubel unproduktive Ausgaben — VKS-General festgenommen</title>
       <link>https://radar724.de/dossier/ukraine/posts/2026-11-27.html#artikel-13</link>
